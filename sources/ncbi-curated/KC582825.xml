@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<GBSeq>
+
+    <GBSeq_locus>KC582825</GBSeq_locus>
+    <GBSeq_length>253</GBSeq_length>
+    <GBSeq_strandedness>double</GBSeq_strandedness>
+    <GBSeq_moltype>DNA</GBSeq_moltype>
+    <GBSeq_topology>linear</GBSeq_topology>
+    <GBSeq_division>VRL</GBSeq_division>
+    <GBSeq_update-date>28-JUN-2013</GBSeq_update-date>
+    <GBSeq_create-date>15-MAY-2013</GBSeq_create-date>
+    <GBSeq_definition>UNVERIFIED: Hepatitis B virus isolate EI08107 genomic sequence</GBSeq_definition>
+    <GBSeq_primary-accession>KC582825</GBSeq_primary-accession>
+    <GBSeq_accession-version>KC582825.1</GBSeq_accession-version>
+    <GBSeq_other-seqids>
+      <GBSeqid>gb|KC582825.1|</GBSeqid>
+      <GBSeqid>gi|496297136</GBSeqid>
+    </GBSeq_other-seqids>
+    <GBSeq_keywords>
+      <GBKeyword>UNVERIFIED</GBKeyword>
+    </GBSeq_keywords>
+    <GBSeq_source>Hepatitis B virus</GBSeq_source>
+    <GBSeq_organism>Hepatitis B virus</GBSeq_organism>
+    <GBSeq_taxonomy>Viruses; Retro-transcribing viruses; Hepadnaviridae; Orthohepadnavirus</GBSeq_taxonomy>
+    <GBSeq_references>
+      <GBReference>
+        <GBReference_reference>1</GBReference_reference>
+        <GBReference_position>1..253</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Biswas,A.</GBAuthor>
+          <GBAuthor>Panigrahi,R.</GBAuthor>
+          <GBAuthor>Pal,M.</GBAuthor>
+          <GBAuthor>Chakraborty,S.</GBAuthor>
+          <GBAuthor>Bhattacharya,P.</GBAuthor>
+          <GBAuthor>Chakrabarti,S.</GBAuthor>
+          <GBAuthor>Chakravarty,R.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>Shift in the hepatitis B virus genotype distribution in the last decade among the HBV carriers from eastern India: Possible effects on the disease status and hbv epidemiology</GBReference_title>
+        <GBReference_journal>J. Med. Virol. 85 (8), 1340-1347 (2013)</GBReference_journal>
+        <GBReference_xref>
+          <GBXref>
+            <GBXref_dbname>doi</GBXref_dbname>
+            <GBXref_id>10.1002/jmv.23628</GBXref_id>
+          </GBXref>
+        </GBReference_xref>
+        <GBReference_pubmed>23765773</GBReference_pubmed>
+      </GBReference>
+      <GBReference>
+        <GBReference_reference>2</GBReference_reference>
+        <GBReference_position>1..253</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Biswas,A.</GBAuthor>
+          <GBAuthor>Panigrahi,R.</GBAuthor>
+          <GBAuthor>Pal,M.</GBAuthor>
+          <GBAuthor>Chakraborty,S.</GBAuthor>
+          <GBAuthor>Bhattacharya,P.</GBAuthor>
+          <GBAuthor>Chakrabarti,S.</GBAuthor>
+          <GBAuthor>Chakravarty,R.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>Direct Submission</GBReference_title>
+        <GBReference_journal>Submitted (05-FEB-2013) Virology, Indian Council of Medical Research Virus Unit, Kolkata, ID and BG Hospital Campus, GB 4, 1st Floor, 57 Dr. Suresh Chandra Banerjee Road, Kolkata, West Bengal 700010, India</GBReference_journal>
+      </GBReference>
+    </GBSeq_references>
+    <GBSeq_comment>GenBank staff is unable to verify sequence and/or annotation provided by the submitter.; ; ##Assembly-Data-START## ; Assembly Method :: BioEdit v. 7.1.3.0 ; Sequencing Technology :: Sanger dideoxy sequencing ; ##Assembly-Data-END##</GBSeq_comment>
+    <GBSeq_feature-table>
+      <GBFeature>
+        <GBFeature_key>source</GBFeature_key>
+        <GBFeature_location>1..253</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>253</GBInterval_to>
+            <GBInterval_accession>KC582825.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>organism</GBQualifier_name>
+            <GBQualifier_value>Hepatitis B virus</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>mol_type</GBQualifier_name>
+            <GBQualifier_value>genomic DNA</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>isolate</GBQualifier_name>
+            <GBQualifier_value>EI08107</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>isolation_source</GBQualifier_name>
+            <GBQualifier_value>blood</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>host</GBQualifier_name>
+            <GBQualifier_value>Homo sapiens</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>db_xref</GBQualifier_name>
+            <GBQualifier_value>taxon:10407</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>country</GBQualifier_name>
+            <GBQualifier_value>India</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+    </GBSeq_feature-table>
+    <GBSeq_sequence>gactgtgtgtttaatgactgggaggagttgggggaggagattaggttaatgatttttgtattaggaggctgtaggcataaattggtctgcgcaccatcaccatgcaactttttcacctctgcctaatcatctcttgttcagttcatgtcccacttttcaagcctccaagctgtgccttgggtggctttgggacatggaccttgacacttataaagaatttggagctactgtggagttactctcttttttgcca</GBSeq_sequence>
+  </GBSeq>

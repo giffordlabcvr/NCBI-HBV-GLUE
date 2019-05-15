@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<GBSeq>
+
+    <GBSeq_locus>LF947177</GBSeq_locus>
+    <GBSeq_length>4396</GBSeq_length>
+    <GBSeq_strandedness>double</GBSeq_strandedness>
+    <GBSeq_moltype>DNA</GBSeq_moltype>
+    <GBSeq_topology>linear</GBSeq_topology>
+    <GBSeq_division>PAT</GBSeq_division>
+    <GBSeq_update-date>30-MAR-2017</GBSeq_update-date>
+    <GBSeq_create-date>30-MAR-2017</GBSeq_create-date>
+    <GBSeq_definition>JP 2016198057-A/1: Cells producing high-titre hepatitis B virus and a method of producing the cells</GBSeq_definition>
+    <GBSeq_primary-accession>LF947177</GBSeq_primary-accession>
+    <GBSeq_accession-version>LF947177.1</GBSeq_accession-version>
+    <GBSeq_other-seqids>
+      <GBSeqid>dbj|LF947177.1|</GBSeqid>
+      <GBSeqid>pat|JP|2016198057|1</GBSeqid>
+      <GBSeqid>gi|1171512715</GBSeqid>
+    </GBSeq_other-seqids>
+    <GBSeq_keywords>
+      <GBKeyword>JP 2016198057-A/1</GBKeyword>
+    </GBSeq_keywords>
+    <GBSeq_source>Hepatitis B virus</GBSeq_source>
+    <GBSeq_organism>Hepatitis B virus</GBSeq_organism>
+    <GBSeq_taxonomy>Viruses; Retro-transcribing viruses; Hepadnaviridae; Orthohepadnavirus</GBSeq_taxonomy>
+    <GBSeq_references>
+      <GBReference>
+        <GBReference_reference>1</GBReference_reference>
+        <GBReference_position>1..4396</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Chayama,K.</GBAuthor>
+          <GBAuthor>Tsuge,M.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>Cells producing high-titre hepatitis B virus and a method of producing the cells</GBReference_title>
+        <GBReference_journal>JP2016198057-A 1 01-DEC-2016 Hiroshima University</GBReference_journal>
+      </GBReference>
+    </GBSeq_references>
+    <GBSeq_comment>OS Hepatitis B virus~PN JP 2016198057-A/1~PD 01-DEC-2016~PF 10-APR-2015 JP 2015081135~PR~PA Hiroshima University~PI kazuaki chayama,masataka tsuge~PT 'Cells producing high-titre hepatitis B virus and a method of~PT producing the~PT cells.'~PS N1~CC~FH Key Location/Qualifiers.</GBSeq_comment>
+    <GBSeq_feature-table>
+      <GBFeature>
+        <GBFeature_key>source</GBFeature_key>
+        <GBFeature_location>1..4396</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>4396</GBInterval_to>
+            <GBInterval_accession>LF947177.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>organism</GBQualifier_name>
+            <GBQualifier_value>Hepatitis B virus</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>mol_type</GBQualifier_name>
+            <GBQualifier_value>unassigned DNA</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>db_xref</GBQualifier_name>
+            <GBQualifier_value>taxon:10407</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+    </GBSeq_feature-table>
+    <GBSeq_sequence>cctttgtctacgtcccgtcggcgctgaatcccgcggacgacccgtctcggggccgtttgggcctctaccgtccccttcttcatctgccgttccggccgaccacggggcgcacctctctttacgcggtctccccgtctgtgccttctcatctgccggaccgtgtgcacttcgcttcacctctgcacgtcgcatggagaccaccgtgaacgcccaccaggtcttgcccaaggtcttacataagaggactcttggactctcagcaatgtcaacgaccgaccttgaggcatacttcaaagactgtttgtttaaagactgggaggagttgggggaggagattaggttaatgatctttgtactaggaggctgtaggcataaattggtctgttcaccagcaccatgcaactttttcacctctgcctaatcatctcatgttcatgccctactgttcaagcctccaagctgtgccttgggtggctttggggcatggacattgacccgtataaagaatttggagcttctgtggagttactctcttttttgccttctgacttctttccttctattcgagatctcctcgataccgcatctgctctgtatcgggaggccttagagtctccggaacattgttcacctcaccatacagcactcaggcaagctattctgtgttggggtgagttgatgaatctggccacctgggtgggaagtaatttggaagacccagcatccagggaattagtagtcagctatgtcaatgttaatatgggcctaaaaatcagacaactattgtggtttcacatttcctgtcttacttttggaagagaaactgttcttgagtatttggtgtcttttggagtgtggattcgcactcctcccgcttacagaccaccaaatgcccctatcttatcaacacttccggaaactactgttgttagacgacgaggcaggtcccctagaagaagaactccctcgcctcgcagacgaaggtctcaatcgccgcgtcgcagaagatctcaatctcgggaatctcaatgttagtatcccttggactcataaggtgggaaactttactgggctttattcttctactgtacctgtctttaaccctgagtggcaaactccctcctttcctaacattcatttacaggaggacattattaataggtgtcaacaatatgtgggccctcttacagttaatgaaaaaaggagattaaaattaattatgcctgctaggttttatcctaaccttaccaaatatttgcccttggataaaggcattaaaccttattatcctgaacatgcagttaatcattacttcaaaactaggcattatttacatactctgtggaaggctggcattctatataagagagaaactacacgcagcgcttcattttgtgggtcaccatattcttgggaacaagagctacagcatgggaggttggtcttccaaacctcgacaaggcatggggacgaatctttctgttcccaatcctctgggattctttcccgatcaccagttggaccctgcgttcggagccaactcaaacaatccagattgggacttcaaccccaacaaggatcactggccagaggcaaatcaggtaggagcgggagcattcgggccagggttcaccccaccacacggcggtcttttggggtggagccctcaggctcagggcatattgacaacagtgccagcagcgcctcctcctgcctccaccaatcggcagtcaggaagacagcctactcccatctctccacctctaagagacagtcatcctcaggccatgcaatggaactccaccacattccaccaagctctgctagatcccagagtgaggggcctatattttcctgctggtggctccagttccggaacagtaaaccctgttccgactactgcctcacccacatcgtcaatcttctcgaggattggggaccctgcaccgaacatggagaacacaacatcaggattcctaggacccctgctcgtgttacaggcggggtttttcttgttgacaagaatcctcacaataccacagagtctagactcgtggtggacttctctcaattttctagggggagcacccacgtgtcctggccaaaattcgcagtccccaacctccaatcactcaccaacctcttgtcctccaatttgtcctggctatcgctggatgtgtctgcggcgttttatcatattcctcttcatcctgctgctatgcctcatcttcttgttggttcttctggactaccaaggtatgttgcccgtttgtcctctacttccaggaacatcaactaccagcacgggaccatgcaagacctgcacgattcctgctcaaggaacctctatgtttccctcttgttgctgtacaaaaccttcggacggaaactgcacttgtattcccatcccatcatcctgggctttcgcaagattcctatgggagtgggcctcagtccgtttctcctgggtcagtttactagtgccatttgttcagtggttcgtagggctttcccccactgtttggctttcagttatatggatgatgtggtattgggggccaagtctgtacaacatcttgagtccctttttacctctattaccaattttcttttgtctttgggtatacatttgaaccctaataaaaccaaacgttggggctactcccttaacttcatgggatatgtaattggaagttggggtactttaccacaggaacatattgtactaaaactcaagcaatgttttcggaaactgcctgtaaatagacctattgattggaaagtatgtcaaagaattgtgggtcttttgggctttgctgccccttttacacaatgtggctatcctgccttgatgcctttatatgcatgtatacaagctaagcaggctttcactttttcgccaacttacaaggcctttctgtgtcaacaatatctgcacctttaccccgttggccggcaacggtcaggtctctgccaagtgtttgctgacgcaacccccactggatggggcttggccataggccatcggcgcatgcgtggaacctttgtggctcctctgccgatccatactgcggaactcctagcagcttgttttgctcgcagccggtctggagcaaaacttatcgggactgacaactctgttgtcctctctcggaaatacacctccttcccatggctgctcgggtgtgctgccaactggatcctgcgcgggacgtcctttgtctacgtcccgtcggcgctgaatcccgcggacgacccgtctcggggccgtttgggcctctaccgtccccttcttcatctgccgttccggccgaccacggggcgcacctctctttacgcggtctccccgtctgtgccttctcatctgccggaccgtgtgcacttcgcttcacctctgcacgtcgcatggagaccaccgtgaacgcccaccaggtcttgcccaaggtcttacataagaggactcttggactctcagcaatgtcaacgaccgaccttgaggcatacttcaaagactgtttgtttaaagactgggaggagttgggggaggagattaggttaatgatctttgtactaggaggctgtaggcataaattggtctgttcaccagcaccatgcaactttttcacctctgcctaatcatctcatgttcatgccctactgttcaagcctccaagctgtgccttgggtggctttggggcatggacattgacccgtataaagaatttggagcttctgtggagttactctcttttttgccttctgacttctttccttctattcgagatctcctcgataccgcatctgctctgtatcgggaggccttagagtctccggaacattgttcacctcaccatacagcactcaggcaagctattctgtgttggggtgagttgatgaatctggccacctgggtgggaagtaatttggaagacccagcatccagggaattagtagtcagctatgtcaatgttaatatgggcctaaaaatcagacaactattgtggtttcacatttcctgtcttacttttggaagagaaactgttcttgagtatttggtgtcttttggagtgtggattcgcactcctcccgcttacagaccaccaaatgcccctatcttatcaacacttccggaaactactgttgttagacgacgaggcaggtccctagaagaagaactccctcgcctcgcagacgaaggtctcaatcgccgcgtcgcagaagatctcaatctcgggaatctcaatgttagtatcccttggactcataaggtgggaaactttactgggctttattcttctactgtacctgtctttaaccctgagtggcaaactccctcctttcctaacattcatttacaggaggacattattaataggtgtcaacaatatgtgggccc</GBSeq_sequence>
+  </GBSeq>

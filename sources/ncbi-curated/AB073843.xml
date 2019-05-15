@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<GBSeq>
+
+    <GBSeq_locus>AB073843</GBSeq_locus>
+    <GBSeq_length>3215</GBSeq_length>
+    <GBSeq_strandedness>double</GBSeq_strandedness>
+    <GBSeq_moltype>DNA</GBSeq_moltype>
+    <GBSeq_topology>circular</GBSeq_topology>
+    <GBSeq_division>VRL</GBSeq_division>
+    <GBSeq_update-date>04-JUN-2002</GBSeq_update-date>
+    <GBSeq_create-date>31-MAY-2002</GBSeq_create-date>
+    <GBSeq_definition>Hepatitis B virus DNA, complete genome, isolate:HBV-Iw27</GBSeq_definition>
+    <GBSeq_primary-accession>AB073843</GBSeq_primary-accession>
+    <GBSeq_accession-version>AB073843.1</GBSeq_accession-version>
+    <GBSeq_other-seqids>
+      <GBSeqid>dbj|AB073843.1|</GBSeqid>
+      <GBSeqid>gi|21280271</GBSeqid>
+    </GBSeq_other-seqids>
+    <GBSeq_source>Hepatitis B virus</GBSeq_source>
+    <GBSeq_organism>Hepatitis B virus</GBSeq_organism>
+    <GBSeq_taxonomy>Viruses; Retro-transcribing viruses; Hepadnaviridae; Orthohepadnavirus</GBSeq_taxonomy>
+    <GBSeq_references>
+      <GBReference>
+        <GBReference_reference>1</GBReference_reference>
+        <GBReference_position>1..3215</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Sugauchi,F.</GBAuthor>
+          <GBAuthor>Orito,E.</GBAuthor>
+          <GBAuthor>Ichida,T.</GBAuthor>
+          <GBAuthor>Kato,H.</GBAuthor>
+          <GBAuthor>Sakugawa,H.</GBAuthor>
+          <GBAuthor>Kakumu,S.</GBAuthor>
+          <GBAuthor>Ishida,T.</GBAuthor>
+          <GBAuthor>Chutaputti,A.</GBAuthor>
+          <GBAuthor>Lai,C.L.</GBAuthor>
+          <GBAuthor>Ueda,R.</GBAuthor>
+          <GBAuthor>Miyakawa,Y.</GBAuthor>
+          <GBAuthor>Mizokami,M.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>Hepatitis B virus of genotype B with or without recombination with genotype C over the precore region plus the core gene</GBReference_title>
+        <GBReference_journal>J. Virol. 76 (12), 5985-5992 (2002)</GBReference_journal>
+        <GBReference_pubmed>12021331</GBReference_pubmed>
+      </GBReference>
+      <GBReference>
+        <GBReference_reference>2</GBReference_reference>
+        <GBReference_position>1..3215</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Sugauchi,F.</GBAuthor>
+          <GBAuthor>Orito,E.</GBAuthor>
+          <GBAuthor>Kato,H.</GBAuthor>
+          <GBAuthor>Ueda,R.</GBAuthor>
+          <GBAuthor>Mizokami,M.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>Direct Submission</GBReference_title>
+        <GBReference_journal>Submitted (01-NOV-2001) Fuminaka Sugauchi, Nagoya City University Medical School Graduate School of Science, Department of Internal Medicine and Molecular Science; Mizuho, Nagoya, Aichi 467-8601, Japan (E-mail:suga@med.nagoya-cu.ac.jp, Tel:81-52-853-8216, Fax:81-52-842-0021)</GBReference_journal>
+      </GBReference>
+    </GBSeq_references>
+    <GBSeq_feature-table>
+      <GBFeature>
+        <GBFeature_key>source</GBFeature_key>
+        <GBFeature_location>1..3215</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>3215</GBInterval_to>
+            <GBInterval_accession>AB073843.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>organism</GBQualifier_name>
+            <GBQualifier_value>Hepatitis B virus</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>mol_type</GBQualifier_name>
+            <GBQualifier_value>genomic DNA</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>isolate</GBQualifier_name>
+            <GBQualifier_value>HBV-Iw27</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>db_xref</GBQualifier_name>
+            <GBQualifier_value>taxon:10407</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>gene</GBFeature_key>
+        <GBFeature_location>155..835</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>155</GBInterval_from>
+            <GBInterval_to>835</GBInterval_to>
+            <GBInterval_accession>AB073843.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>gene</GBQualifier_name>
+            <GBQualifier_value>S</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>CDS</GBFeature_key>
+        <GBFeature_location>155..835</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>155</GBInterval_from>
+            <GBInterval_to>835</GBInterval_to>
+            <GBInterval_accession>AB073843.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>gene</GBQualifier_name>
+            <GBQualifier_value>S</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>codon_start</GBQualifier_name>
+            <GBQualifier_value>1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>transl_table</GBQualifier_name>
+            <GBQualifier_value>1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>product</GBQualifier_name>
+            <GBQualifier_value>surface antigen</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>protein_id</GBQualifier_name>
+            <GBQualifier_value>BAB96785.1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>translation</GBQualifier_name>
+            <GBQualifier_value>MENIASGLLGPLLVLQAGFFLLTKILTIPQSLDLWWTSLNFLGETPVCLGQNSQSQISSHSLTCCPPICPGYRWMCLRRFIIFLCILLLCLIFLLVLLDYQGMLPVCPLIPGSSTTSTGPCKTCTTPAQGTSMFPSCCCTKPTDGNCTCIPIPSSWAFAKYLWEWASVRFSWLSLLVPFVQWFVGLSPTVWLSVIWMMWYWGPXLYNILSPFMPLLPIFFCLWVYI</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+    </GBSeq_feature-table>
+    <GBSeq_sequence>ttccacaactttccaccaaactcttcaagatcccagagtcagggctctgtactttcctgctggtggctccagttcaggaacagcaagccctgctcagaatactgtctcagccatatcgtcaatcttatcgaagactggggaccctgtgccgaacatggagaacatcgcatcaggactcctaggacccctgctcgtgttacaggcggggtttttcttgttgacaaaaatcctcacaataccacagagtctagacttgtggtggacttctctcaattttctaggggaaacacccgtgtgtcttggccaaaattcgcagtcccaaatctccagtcactcactaacctgttgtcctccaatttgtcctggttatcgctggatgtgtctgcggcgttttatcatcttcctctgcatcctgctgctatgcctcatcttcttgttggttcttctggactatcaaggtatgttgcccgtttgtcctctaattccaggatcatcaaccaccagcacgggaccatgcaagacctgcaccactcctgctcaaggaacctctatgtttccctcatgttgctgtacaaaacctacggacggaaactgcacctgtattcccatcccatcatcttgggctttcgcaaaatacctatgggagtgggcctcagtccgtttctcttggctcagtttactagtgccatttgttcagtggttcgtagggctttcccccactgtctggctttcagttatatggatgatgtggtattgggggccaartctgtacaacatcttgagtccctttatgccgctgttaccaattttcttttgtctttgggtatacatttaaaccctcacaaaacaaaaagatggggatattcccttaatttcatgggatatgtaattgggagttggggcacattgccacaggaacatattatacaaaaaatcaaagtatgttttaggaaacttcctgtaaacaggcctattgattggaaagtatgtcaacgaattgtgggtcttttggggtttgctgccccttttacgcaatgtggatatcctgctttgatgcctttatatgcatgtatacaagcaaaacaggcttttactttctcgccaacttacaaggcctttctaagtaaacagtatctgaacctttaccccgttgctcggcaacggcctggtctgtgccaagtgtttgctgacgcaacccccactggttggggcttggccataggccatcagcgcatgcgtggaacctttgtgtctcctctgccgatccatactgcggaactcctagccgcttgttttgctcgcagcaggtctggagcgaaactcatcgggactgacaattctgtagtgctctcccgcaagtatacatcatttccatggctgctaggctgtgctgccaactggatcctgcgcgggacgtcctttgtttacgtcccgtcggcgctgaatcccgcggacgacccctcccggggccgtttggggctctaccgcccgcttctccgcctgccgtaccgaccgaccacggggcgcacctctctttacgcggactccccgtctgtgccttctcatctgccggaccgtgtgcacttcgcttcacctctgcacgtcgcatggaaaccaccgtgaacgcccaccggaacctgcccaaggtcttgyataagaggactcttggacttttagcaatgtcaacgaccgaccttgaggcatacttcaaagactgtgtgtttactgagtgggaggagctgggggaggagatgaggttaaaggtctttgtactaggaggctgtaggcataaattggtctgttcaccagcaccatgcaactttttcacctctgcctagtcatctcttgttcatgtcctactgttcaagcctccaagctgtgccttgggtggctttaggacatggacattgacccttataaagaatttggagcttctgtggagttactctcttttttgccttctgacttctttccgtcggtgcgagacctcctagataccgctgctgctctgtatcgggaagccttagaatctcctgaacattgctcacatcaccacacagcactcaggcaagctattctgtgctggggggaattaacgactctaggtacctgggtgggtaataatttacaagatccagcgtccagggatctagtagtcaattatgttaacactaacatgggcctaaagatcaggcaattattgtggtttcacatttcctgtcttacttttggaagagaaactgttcttgaatatttggtgtcttttggagtgtggattcgcactcctcctgcctacagaccaccaaatgcccctatcttatcaacacttccggaaactactgttgttagacgacgaggcaggtcccctagaagaagaactccctcgcctcgcagacgaaggtctcaatcaccgcgtcgcagaagatctcaatctcgggaaccccaatgttagtatcccttggactcataaggtgggaaactttacggggctctattcttctacagtacctgtctttaatcctgaatggcaaactccttcttttccagacattcatttacaggaggacattgttgatagatgtaagcaatttgtgggacccctcacagtaaatgaaaacaggagactaaaattaataatgcctgctagattttatcctaatgttaccaaatatttgcccttagataaagggatcaaaccttattatccagataatgtagttaatcattacttccagacgagacattatttgcatactctttggaaggcgggtatcttatataaaagagagtcaacacatagcgcctcattttgcgggtcaccatattcttgggaacaagatctacagcatgggaggttggtcttccaaacctcgaaaaggcatggggacaaatctttctgtccccaatcccctgggattcttccccgaccatcagttggaccctgcattcaaagccaactcagaaaatccagattgggacctcaacccacacaaggacaactggccggacgcccacaaggtgggagtgggagcattcgggccagggttcacccctccccatgggggactgttggggtggagccctcaggctcagggcatactcacatctgtgccagcagctcctcctcctgcctccaccaatcggcagtcaggaaggcagcctactcccttgtctccacctctaagggacactcatcctcaggccatgcagtggaa</GBSeq_sequence>
+  </GBSeq>

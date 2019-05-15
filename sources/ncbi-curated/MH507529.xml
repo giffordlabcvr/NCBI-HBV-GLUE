@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<GBSeq>
+
+    <GBSeq_locus>MH507529</GBSeq_locus>
+    <GBSeq_length>978</GBSeq_length>
+    <GBSeq_strandedness>double</GBSeq_strandedness>
+    <GBSeq_moltype>DNA</GBSeq_moltype>
+    <GBSeq_topology>linear</GBSeq_topology>
+    <GBSeq_division>VRL</GBSeq_division>
+    <GBSeq_update-date>02-DEC-2018</GBSeq_update-date>
+    <GBSeq_create-date>02-DEC-2018</GBSeq_create-date>
+    <GBSeq_definition>Hepatitis B virus isolate REP_102-5_T1 large surface protein, middle surface protein, and small surface protein genes, partial cds</GBSeq_definition>
+    <GBSeq_primary-accession>MH507529</GBSeq_primary-accession>
+    <GBSeq_accession-version>MH507529.1</GBSeq_accession-version>
+    <GBSeq_other-seqids>
+      <GBSeqid>gb|MH507529.1|</GBSeqid>
+      <GBSeqid>gi|1523709695</GBSeqid>
+    </GBSeq_other-seqids>
+    <GBSeq_source>Hepatitis B virus</GBSeq_source>
+    <GBSeq_organism>Hepatitis B virus</GBSeq_organism>
+    <GBSeq_taxonomy>Viruses; Retro-transcribing viruses; Hepadnaviridae; Orthohepadnavirus</GBSeq_taxonomy>
+    <GBSeq_references>
+      <GBReference>
+        <GBReference_reference>1</GBReference_reference>
+        <GBReference_position>1..978</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Mijocevic,H.</GBAuthor>
+          <GBAuthor>Karimzadeh,H.</GBAuthor>
+          <GBAuthor>Seebach,J.</GBAuthor>
+          <GBAuthor>Usman,Z.</GBAuthor>
+          <GBAuthor>Mamun,A.M.</GBAuthor>
+          <GBAuthor>Bazinet,M.</GBAuthor>
+          <GBAuthor>Vaillant,A.</GBAuthor>
+          <GBAuthor>Roggendorf,M.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>Variants of hepatitis B virus surface antigen observed during therapy with nucleic acid polymer REP 2139-Ca have no influence on treatment outcome and its detection by diagnostic assays</GBReference_title>
+        <GBReference_journal>J. Viral Hepat. (2018) In press</GBReference_journal>
+        <GBReference_xref>
+          <GBXref>
+            <GBXref_dbname>doi</GBXref_dbname>
+            <GBXref_id>10.1111/jvh.13044</GBXref_id>
+          </GBXref>
+        </GBReference_xref>
+        <GBReference_pubmed>30450662</GBReference_pubmed>
+        <GBReference_remark>Publication Status: Available-Online prior to print</GBReference_remark>
+      </GBReference>
+      <GBReference>
+        <GBReference_reference>2</GBReference_reference>
+        <GBReference_position>1..978</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Mijocevic,H.</GBAuthor>
+          <GBAuthor>Karimzadeh,H.</GBAuthor>
+          <GBAuthor>Seebach,J.</GBAuthor>
+          <GBAuthor>Usman,Z.</GBAuthor>
+          <GBAuthor>Al-Mahtab,M.</GBAuthor>
+          <GBAuthor>Bazinet,M.</GBAuthor>
+          <GBAuthor>Vaillant,A.</GBAuthor>
+          <GBAuthor>Roggendorf,M.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>Direct Submission</GBReference_title>
+        <GBReference_journal>Submitted (20-JUN-2018) Institute of Virology, Technische Universitaet Muenchen, Trogerstrasse 30, Munich 81675, Germany</GBReference_journal>
+      </GBReference>
+    </GBSeq_references>
+    <GBSeq_feature-table>
+      <GBFeature>
+        <GBFeature_key>source</GBFeature_key>
+        <GBFeature_location>1..978</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>978</GBInterval_to>
+            <GBInterval_accession>MH507529.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>organism</GBQualifier_name>
+            <GBQualifier_value>Hepatitis B virus</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>mol_type</GBQualifier_name>
+            <GBQualifier_value>genomic DNA</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>isolate</GBQualifier_name>
+            <GBQualifier_value>REP_102-5_T1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>isolation_source</GBQualifier_name>
+            <GBQualifier_value>human serum</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>host</GBQualifier_name>
+            <GBQualifier_value>Homo sapiens</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>db_xref</GBQualifier_name>
+            <GBQualifier_value>taxon:10407</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>country</GBQualifier_name>
+            <GBQualifier_value>Bangladesh</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>note</GBQualifier_name>
+            <GBQualifier_value>REP 102 study, patient 5, time point 1;
+genotype: D</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>CDS</GBFeature_key>
+        <GBFeature_location>1..&gt;978</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>978</GBInterval_to>
+            <GBInterval_accession>MH507529.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_partial3 value="true"/>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>codon_start</GBQualifier_name>
+            <GBQualifier_value>1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>transl_table</GBQualifier_name>
+            <GBQualifier_value>1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>product</GBQualifier_name>
+            <GBQualifier_value>large surface protein</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>protein_id</GBQualifier_name>
+            <GBQualifier_value>AZB51019.1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>translation</GBQualifier_name>
+            <GBQualifier_value>MGQNLSTSNPLGFFPDHQLDPAFRANTANPDWDFNPNKDTWPDANKAMQWNSTTFHQTLQDPRVRGLYFPAGGSSSGTVNPVPTTASPISSIFSRIGDXALNMENITSGFLGPLLVLQAGFFLLTRILTIPQSLDSWWTSLNFLGGTTVCLGQNSQSPTSNHSPTSCPPTXPGYRWMCLRRFIIFLFILXLCLIFLLVLLDYQGMLPVCPLIPGSSTTSVGPCRTCTTTVQGTSMYPSCCCTKPSDGNCTCIPIPSSWAFGKFLWEWASARFSWLSLLVPFVQWFVGLSPTVWLSVIWMMWYWGPSLYSILSPFLPLLPIFFCLWV</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>CDS</GBFeature_key>
+        <GBFeature_location>142..&gt;978</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>142</GBInterval_from>
+            <GBInterval_to>978</GBInterval_to>
+            <GBInterval_accession>MH507529.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_partial3 value="true"/>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>codon_start</GBQualifier_name>
+            <GBQualifier_value>1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>transl_table</GBQualifier_name>
+            <GBQualifier_value>1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>product</GBQualifier_name>
+            <GBQualifier_value>middle surface protein</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>protein_id</GBQualifier_name>
+            <GBQualifier_value>AZB51020.1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>translation</GBQualifier_name>
+            <GBQualifier_value>MQWNSTTFHQTLQDPRVRGLYFPAGGSSSGTVNPVPTTASPISSIFSRIGDXALNMENITSGFLGPLLVLQAGFFLLTRILTIPQSLDSWWTSLNFLGGTTVCLGQNSQSPTSNHSPTSCPPTXPGYRWMCLRRFIIFLFILXLCLIFLLVLLDYQGMLPVCPLIPGSSTTSVGPCRTCTTTVQGTSMYPSCCCTKPSDGNCTCIPIPSSWAFGKFLWEWASARFSWLSLLVPFVQWFVGLSPTVWLSVIWMMWYWGPSLYSILSPFLPLLPIFFCLWV</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>CDS</GBFeature_key>
+        <GBFeature_location>307..&gt;978</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>307</GBInterval_from>
+            <GBInterval_to>978</GBInterval_to>
+            <GBInterval_accession>MH507529.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_partial3 value="true"/>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>codon_start</GBQualifier_name>
+            <GBQualifier_value>1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>transl_table</GBQualifier_name>
+            <GBQualifier_value>1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>product</GBQualifier_name>
+            <GBQualifier_value>small surface protein</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>protein_id</GBQualifier_name>
+            <GBQualifier_value>AZB51021.1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>translation</GBQualifier_name>
+            <GBQualifier_value>MENITSGFLGPLLVLQAGFFLLTRILTIPQSLDSWWTSLNFLGGTTVCLGQNSQSPTSNHSPTSCPPTXPGYRWMCLRRFIIFLFILXLCLIFLLVLLDYQGMLPVCPLIPGSSTTSVGPCRTCTTTVQGTSMYPSCCCTKPSDGNCTCIPIPSSWAFGKFLWEWASARFSWLSLLVPFVQWFVGLSPTVWLSVIWMMWYWGPSLYSILSPFLPLLPIFFCLWV</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+    </GBSeq_feature-table>
+    <GBSeq_sequence>atggggcagaatctttccaccagcaatcctctgggattctttcccgaccaccagttggatccagccttcagagcaaacaccgcaaatccagattgggacttcaatcccaacaaggacacctggccagacgccaacaaggccatgcagtggaactccacaaccttccaccaaactctgcaagatcccagggtgagaggcctgtattttcctgctggtggctccagttcaggaacagtaaaccctgttccgactactgcctctcccatatcgtcaatcttctcgaggattggggaccytgcgctgaacatggagaacatcacatcaggattcctaggacccctgctcgtgttacaggcggggtttttcttgttgacaagaatcctcacaataccgcagagtctagactcgtggtggacttctctcaattttctaggggggaccaccgtgtgtcttggccaaaattcgcagtccccaacctccaatcactcaccaacctcctgtcctccaacttgwcctggttatcgctggatgtgtctgcggcgttttatcatcttcctcttcatcctgcygctatgcctcatcttcttgttggttcttctggactatcaaggtatgttgcccgtttgtcctctaattccaggatcttcaaccaccagcgtgggaccatgcagaacatgcacgactactgttcaaggaacctctatgtatccctcctgttgctgtaccaaaccttcggacggaaattgcacctgtattcccatcccatcatcctgggctttcggaaaattcctatgggagtgggcctcagcccgtttctcctggctcagtttactagtgccatttgttcagtggttcgtagggctttcccccactgtttggctttcagttatatggatgatgtggtattgggggccaagtctgtacagcatcttgagtccctttttaccgctgttaccaattttcttttgtctttgggta</GBSeq_sequence>
+  </GBSeq>

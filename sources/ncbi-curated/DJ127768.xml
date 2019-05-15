@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<GBSeq>
+
+    <GBSeq_locus>DJ127768</GBSeq_locus>
+    <GBSeq_length>560</GBSeq_length>
+    <GBSeq_strandedness>double</GBSeq_strandedness>
+    <GBSeq_moltype>DNA</GBSeq_moltype>
+    <GBSeq_topology>linear</GBSeq_topology>
+    <GBSeq_division>PAT</GBSeq_division>
+    <GBSeq_update-date>25-MAR-2008</GBSeq_update-date>
+    <GBSeq_create-date>25-MAR-2008</GBSeq_create-date>
+    <GBSeq_definition>A stabilization method and a preservation method for a reagent for nucleic acid amplification or detection reaction</GBSeq_definition>
+    <GBSeq_primary-accession>DJ127768</GBSeq_primary-accession>
+    <GBSeq_accession-version>DJ127768.1</GBSeq_accession-version>
+    <GBSeq_other-seqids>
+      <GBSeqid>dbj|DJ127768.1|</GBSeqid>
+      <GBSeqid>pat|JP|2007228977|70</GBSeqid>
+      <GBSeqid>gi|170955979</GBSeqid>
+    </GBSeq_other-seqids>
+    <GBSeq_keywords>
+      <GBKeyword>JP 2007228977-A/70</GBKeyword>
+    </GBSeq_keywords>
+    <GBSeq_source>Hepatitis B virus</GBSeq_source>
+    <GBSeq_organism>Hepatitis B virus</GBSeq_organism>
+    <GBSeq_taxonomy>Viruses; Retro-transcribing viruses; Hepadnaviridae; Orthohepadnavirus</GBSeq_taxonomy>
+    <GBSeq_references>
+      <GBReference>
+        <GBReference_reference>1</GBReference_reference>
+        <GBReference_position>1..560</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Kobayashi,E.</GBAuthor>
+          <GBAuthor>Asada,K.</GBAuthor>
+          <GBAuthor>Mukai,H.</GBAuthor>
+          <GBAuthor>Yamamoto,J.</GBAuthor>
+          <GBAuthor>Tomono,J.</GBAuthor>
+          <GBAuthor>Uemori,T.</GBAuthor>
+          <GBAuthor>Enoki,T.</GBAuthor>
+          <GBAuthor>Kato,I.</GBAuthor>
+          <GBAuthor>Sagawa,H.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>A stabilization method and a preservation method for a reagent for nucleic acid amplification or detection reaction</GBReference_title>
+        <GBReference_journal>JP2007228977-A 70 13-SEP-2007 TAKARA BIO INC</GBReference_journal>
+      </GBReference>
+    </GBSeq_references>
+    <GBSeq_comment>OS Hepatitis B virus~PN JP 2007228977-A/70~PD 13-SEP-2007~PF 15-JUN-2007 JP 2007158395~PI eiji kobayashi,kiyozo asada,hiroyuki mukai,junko yamamoto,jun PI tomono,~PI takashi uemori,tatsuji enoki,ikunoshin kato,hiroaki sagawa CC~FH Key Location/Qualifiers.</GBSeq_comment>
+    <GBSeq_feature-table>
+      <GBFeature>
+        <GBFeature_key>source</GBFeature_key>
+        <GBFeature_location>1..560</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>560</GBInterval_to>
+            <GBInterval_accession>DJ127768.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>organism</GBQualifier_name>
+            <GBQualifier_value>Hepatitis B virus</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>mol_type</GBQualifier_name>
+            <GBQualifier_value>unassigned DNA</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>db_xref</GBQualifier_name>
+            <GBQualifier_value>taxon:10407</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+    </GBSeq_feature-table>
+    <GBSeq_sequence>ccttcccatggctgctcgggtgtgctgccaactggatcctgcgcgggacgtcctttgtctacgtcccgtcggcgctgaatcccgcggacgacccgtctcggggccgtttgggcctctaccgtcccttgctttctctgccgttccagccgaccacggggcgcacctctctttacgcggtctccccgtctgtgccttctcatctgccggaccgtgtgcacttcgcttcacctctgcacgtcgcatggagaccaccgtgaacggccaccaggtcttgcccaagctcttacataagaggactcttggactctcagcaatgtcaacaaccgaccttgaggcatacttcaaagactgtgtgtttaaagactgggaggagttgggggaggagattaggttaaaggtctttgtactaggaggctgtaggcataaattggtctgttcaccagcaccatgcaactttttcacctctgcctaatcatctcatgttcatgtcctactgttcaagcctccaagctgtgccttgggtggctttggggcatggacattgacccgtataaagaatt</GBSeq_sequence>
+  </GBSeq>

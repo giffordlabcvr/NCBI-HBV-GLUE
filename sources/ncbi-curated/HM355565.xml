@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<GBSeq>
+
+    <GBSeq_locus>HM355565</GBSeq_locus>
+    <GBSeq_length>422</GBSeq_length>
+    <GBSeq_strandedness>double</GBSeq_strandedness>
+    <GBSeq_moltype>DNA</GBSeq_moltype>
+    <GBSeq_topology>linear</GBSeq_topology>
+    <GBSeq_division>VRL</GBSeq_division>
+    <GBSeq_update-date>25-JUL-2016</GBSeq_update-date>
+    <GBSeq_create-date>31-DEC-2010</GBSeq_create-date>
+    <GBSeq_definition>Hepatitis B virus isolate PYG51 nonfunctional S protein gene, partial sequence</GBSeq_definition>
+    <GBSeq_primary-accession>HM355565</GBSeq_primary-accession>
+    <GBSeq_accession-version>HM355565.1</GBSeq_accession-version>
+    <GBSeq_other-seqids>
+      <GBSeqid>gb|HM355565.1|</GBSeqid>
+      <GBSeqid>gi|315259400</GBSeqid>
+    </GBSeq_other-seqids>
+    <GBSeq_source>Hepatitis B virus</GBSeq_source>
+    <GBSeq_organism>Hepatitis B virus</GBSeq_organism>
+    <GBSeq_taxonomy>Viruses; Retro-transcribing viruses; Hepadnaviridae; Orthohepadnavirus</GBSeq_taxonomy>
+    <GBSeq_references>
+      <GBReference>
+        <GBReference_reference>1</GBReference_reference>
+        <GBReference_position>1..422</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Foupouapouognigni,Y.</GBAuthor>
+          <GBAuthor>Sadeuh Mba,S.A.</GBAuthor>
+          <GBAuthor>A Betsem,E.B.</GBAuthor>
+          <GBAuthor>Rousset,D.</GBAuthor>
+          <GBAuthor>Froment,A.</GBAuthor>
+          <GBAuthor>Gessain,A.</GBAuthor>
+          <GBAuthor>Njouom,R.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>Hepatitis B and C virus infections in the three pygmy groups in cameroon</GBReference_title>
+        <GBReference_journal>J. Clin. Microbiol. 49 (2), 737-740 (2011)</GBReference_journal>
+        <GBReference_xref>
+          <GBXref>
+            <GBXref_dbname>doi</GBXref_dbname>
+            <GBXref_id>10.1128/JCM.01475-10</GBXref_id>
+          </GBXref>
+        </GBReference_xref>
+        <GBReference_pubmed>21106785</GBReference_pubmed>
+      </GBReference>
+      <GBReference>
+        <GBReference_reference>2</GBReference_reference>
+        <GBReference_position>1..422</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Foupouapouognigni,Y.</GBAuthor>
+          <GBAuthor>Sadeuh Mba,S.A.</GBAuthor>
+          <GBAuthor>Betsem a Betsem,E.</GBAuthor>
+          <GBAuthor>Rousset,D.</GBAuthor>
+          <GBAuthor>Froment,A.</GBAuthor>
+          <GBAuthor>Gessain,A.</GBAuthor>
+          <GBAuthor>Njouom,R.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>Direct Submission</GBReference_title>
+        <GBReference_journal>Submitted (22-MAY-2010) Laboratory of Virology, Centre Pasteur du Cameroun, P.O. Box 1274, Yaounde, Centre 1274, Cameroon</GBReference_journal>
+      </GBReference>
+    </GBSeq_references>
+    <GBSeq_feature-table>
+      <GBFeature>
+        <GBFeature_key>source</GBFeature_key>
+        <GBFeature_location>1..422</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>422</GBInterval_to>
+            <GBInterval_accession>HM355565.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>organism</GBQualifier_name>
+            <GBQualifier_value>Hepatitis B virus</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>proviral</GBQualifier_name>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>mol_type</GBQualifier_name>
+            <GBQualifier_value>genomic DNA</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>isolate</GBQualifier_name>
+            <GBQualifier_value>PYG51</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>isolation_source</GBQualifier_name>
+            <GBQualifier_value>plasma</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>host</GBQualifier_name>
+            <GBQualifier_value>Homo sapiens</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>db_xref</GBQualifier_name>
+            <GBQualifier_value>taxon:10407</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>country</GBQualifier_name>
+            <GBQualifier_value>Cameroon</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>collection_date</GBQualifier_name>
+            <GBQualifier_value>2008</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>PCR_primers</GBQualifier_name>
+            <GBQualifier_value>fwd_name: HBVS3, fwd_seq: cgtgttacaggcggkgtktttcttgt, rev_name: HBV23, rev_seq: acggrctraggcccactcccatag</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>misc_feature</GBFeature_key>
+        <GBFeature_location>&lt;1..&gt;422</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>422</GBInterval_to>
+            <GBInterval_accession>HM355565.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_partial5 value="true"/>
+        <GBFeature_partial3 value="true"/>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>note</GBQualifier_name>
+            <GBQualifier_value>nonfunctional S protein due to mutation</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+    </GBSeq_feature-table>
+    <GBSeq_sequence>ccgcagagctagactcgtggtggacttctctcaattttctagggggagcacccgtgtgtcttggccaaaattcgcagtccccaacctccaatcactcaccaacctcctgtcctccaatttgtcctggttatcgctggatgtgtctgcggcgttttatcatattcctcttcatcctgctgctatgcctcatcttcttattggttcttctggattgtcaaggtatgttgcccgtttgtcctctaattccaggatccacaaccaccagtacgggaccctgcagaacctgcacgactcctgctcaaggcaactctatgtttccctcatgttgttgtacaaaacctacggacggaaattgcacctgtattcccatcccatcatcctgggctttcgcaaaatacctatgggagtgggccttagtccga</GBSeq_sequence>
+  </GBSeq>

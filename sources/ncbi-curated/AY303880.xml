@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<GBSeq>
+
+    <GBSeq_locus>AY303880</GBSeq_locus>
+    <GBSeq_length>683</GBSeq_length>
+    <GBSeq_strandedness>double</GBSeq_strandedness>
+    <GBSeq_moltype>DNA</GBSeq_moltype>
+    <GBSeq_topology>linear</GBSeq_topology>
+    <GBSeq_division>VRL</GBSeq_division>
+    <GBSeq_update-date>15-AUG-2008</GBSeq_update-date>
+    <GBSeq_create-date>11-AUG-2003</GBSeq_create-date>
+    <GBSeq_definition>Hepatitis B virus isolate FS2038BTI nonfunctional small S protein (S) gene, complete sequence</GBSeq_definition>
+    <GBSeq_primary-accession>AY303880</GBSeq_primary-accession>
+    <GBSeq_accession-version>AY303880.1</GBSeq_accession-version>
+    <GBSeq_other-seqids>
+      <GBSeqid>gb|AY303880.1|</GBSeqid>
+      <GBSeqid>gi|33465466</GBSeqid>
+    </GBSeq_other-seqids>
+    <GBSeq_source>Hepatitis B virus</GBSeq_source>
+    <GBSeq_organism>Hepatitis B virus</GBSeq_organism>
+    <GBSeq_taxonomy>Viruses; Retro-transcribing viruses; Hepadnaviridae; Orthohepadnavirus</GBSeq_taxonomy>
+    <GBSeq_references>
+      <GBReference>
+        <GBReference_reference>1</GBReference_reference>
+        <GBReference_position>1..683</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Mendy,M.</GBAuthor>
+          <GBAuthor>D'Mello,F.</GBAuthor>
+          <GBAuthor>Kanellos,T.</GBAuthor>
+          <GBAuthor>Oliver,S.</GBAuthor>
+          <GBAuthor>Whittle,H.</GBAuthor>
+          <GBAuthor>Howard,C.R.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>Envelope protein variability among HBV-Infected asymptomatic carriers and immunized children with breakthrough infections</GBReference_title>
+        <GBReference_journal>J. Med. Virol. 80 (9), 1537-1546 (2008)</GBReference_journal>
+        <GBReference_xref>
+          <GBXref>
+            <GBXref_dbname>doi</GBXref_dbname>
+            <GBXref_id>10.1002/jmv.21221</GBXref_id>
+          </GBXref>
+        </GBReference_xref>
+        <GBReference_pubmed>18649345</GBReference_pubmed>
+      </GBReference>
+      <GBReference>
+        <GBReference_reference>2</GBReference_reference>
+        <GBReference_position>1..683</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Mendy,M.E.</GBAuthor>
+          <GBAuthor>Kanellos,T.</GBAuthor>
+          <GBAuthor>D'Mello,F.</GBAuthor>
+          <GBAuthor>Kirk,G.D.</GBAuthor>
+          <GBAuthor>Whittle,H.C.</GBAuthor>
+          <GBAuthor>Howard,C.R.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>HBV surface gene mutations in vaccinated and unvaccinated Gambians</GBReference_title>
+        <GBReference_journal>Unpublished</GBReference_journal>
+      </GBReference>
+      <GBReference>
+        <GBReference_reference>3</GBReference_reference>
+        <GBReference_position>1..683</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Mendy,M.E.</GBAuthor>
+          <GBAuthor>Kanellos,T.</GBAuthor>
+          <GBAuthor>D'Mello,F.</GBAuthor>
+          <GBAuthor>Kirk,G.D.</GBAuthor>
+          <GBAuthor>Whittle,H.C.</GBAuthor>
+          <GBAuthor>Howard,C.R.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>Direct Submission</GBReference_title>
+        <GBReference_journal>Submitted (21-MAY-2003) Virology Section, Medical Research Council Laboratories (MRC), Atlantic Road, Fajara PO Box 273, Banjul, Fajara, The Gambia</GBReference_journal>
+      </GBReference>
+    </GBSeq_references>
+    <GBSeq_feature-table>
+      <GBFeature>
+        <GBFeature_key>source</GBFeature_key>
+        <GBFeature_location>1..683</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>683</GBInterval_to>
+            <GBInterval_accession>AY303880.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>organism</GBQualifier_name>
+            <GBQualifier_value>Hepatitis B virus</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>mol_type</GBQualifier_name>
+            <GBQualifier_value>genomic DNA</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>isolate</GBQualifier_name>
+            <GBQualifier_value>FS2038BTI</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>isolation_source</GBQualifier_name>
+            <GBQualifier_value>serum of HBsAg-positive vaccinated child with breakthrough infection</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>db_xref</GBQualifier_name>
+            <GBQualifier_value>taxon:10407</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>country</GBQualifier_name>
+            <GBQualifier_value>Gambia</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>note</GBQualifier_name>
+            <GBQualifier_value>subtype: ayw4; genotype: E</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>gene</GBFeature_key>
+        <GBFeature_location>1..681</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>681</GBInterval_to>
+            <GBInterval_accession>AY303880.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>gene</GBQualifier_name>
+            <GBQualifier_value>S</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>misc_feature</GBFeature_key>
+        <GBFeature_location>1..681</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>681</GBInterval_to>
+            <GBInterval_accession>AY303880.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>gene</GBQualifier_name>
+            <GBQualifier_value>S</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>note</GBQualifier_name>
+            <GBQualifier_value>nonfunctional small S protein due to mutation</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+    </GBSeq_feature-table>
+    <GBSeq_sequence>atggaaagcatcacatcaggattcctaggacccctgctcgtgttacaggcggggtttttcttgttgacaaaaatcctcacaataccgcagagtctagactcgtggtggacttctctcaattttctagggggagctcccgtgtgtcgtggccaaaattcgcagtccccaacctccaatcactcaccaacctcttgtcctccaatttgtcctggctatcgctggatgtgtctgcggcgttttatcatcttcctcttcatcctgctgctatgcctcatcttcttgttggttcttctggactatcaaggtatgttgcccgtttgtcctctaattccaggatcatcaaccaccagtacgggaccctgccgaacctgcacgactcttgctcaaggaacctctatgtttccctcatgttgctgtacaaaaccttcggacggaaattgcacttgtattcccatcccatcatcatgggctttcggaaaattcctatgggagtgggcctcagcccgtttctcctggctcagtttactagcgccatttgttcagtggttcgccgggttttcccccactgtctgcttttcagttatatggatgatgtggtattgggggccaagtctgtgcaacatcttgagtccctttatacctctgtaaccaattttcttttgtctctgggtataccatttaaa</GBSeq_sequence>
+  </GBSeq>

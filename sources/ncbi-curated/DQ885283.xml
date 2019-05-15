@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<GBSeq>
+
+    <GBSeq_locus>DQ885283</GBSeq_locus>
+    <GBSeq_length>410</GBSeq_length>
+    <GBSeq_strandedness>double</GBSeq_strandedness>
+    <GBSeq_moltype>DNA</GBSeq_moltype>
+    <GBSeq_topology>linear</GBSeq_topology>
+    <GBSeq_division>VRL</GBSeq_division>
+    <GBSeq_update-date>13-SEP-2006</GBSeq_update-date>
+    <GBSeq_create-date>13-SEP-2006</GBSeq_create-date>
+    <GBSeq_definition>Hepatitis B virus isolate R2006 surface envelope protein, partial sequence</GBSeq_definition>
+    <GBSeq_primary-accession>DQ885283</GBSeq_primary-accession>
+    <GBSeq_accession-version>DQ885283.1</GBSeq_accession-version>
+    <GBSeq_other-seqids>
+      <GBSeqid>gb|DQ885283.1|</GBSeqid>
+      <GBSeqid>gi|114187441</GBSeqid>
+    </GBSeq_other-seqids>
+    <GBSeq_source>Hepatitis B virus</GBSeq_source>
+    <GBSeq_organism>Hepatitis B virus</GBSeq_organism>
+    <GBSeq_taxonomy>Viruses; Retro-transcribing viruses; Hepadnaviridae; Orthohepadnavirus</GBSeq_taxonomy>
+    <GBSeq_references>
+      <GBReference>
+        <GBReference_reference>1</GBReference_reference>
+        <GBReference_position>1..410</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Chattopadhyay,S.</GBAuthor>
+          <GBAuthor>Kar,P.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>HBV Genotypes in CLDB patients from New Delhi, India</GBReference_title>
+        <GBReference_journal>Unpublished</GBReference_journal>
+      </GBReference>
+      <GBReference>
+        <GBReference_reference>2</GBReference_reference>
+        <GBReference_position>1..410</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Chattopadhyay,S.</GBAuthor>
+          <GBAuthor>Kar,P.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>Direct Submission</GBReference_title>
+        <GBReference_journal>Submitted (03-AUG-2006) Medicine, Maulana Azad Medical College, Bahadur Shah Zafar Marg, New Delhi, New Delhi 110002, India</GBReference_journal>
+      </GBReference>
+    </GBSeq_references>
+    <GBSeq_feature-table>
+      <GBFeature>
+        <GBFeature_key>source</GBFeature_key>
+        <GBFeature_location>1..410</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>410</GBInterval_to>
+            <GBInterval_accession>DQ885283.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>organism</GBQualifier_name>
+            <GBQualifier_value>Hepatitis B virus</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>mol_type</GBQualifier_name>
+            <GBQualifier_value>genomic DNA</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>isolate</GBQualifier_name>
+            <GBQualifier_value>R2006</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>db_xref</GBQualifier_name>
+            <GBQualifier_value>taxon:10407</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>country</GBQualifier_name>
+            <GBQualifier_value>India</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>PCR_primers</GBQualifier_name>
+            <GBQualifier_value>fwd_seq: gtctagactcgtggtggacttctctc, rev_seq: aagccanacartgggggaaagc</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>misc_feature</GBFeature_key>
+        <GBFeature_location>&lt;1..&gt;410</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>410</GBInterval_to>
+            <GBInterval_accession>DQ885283.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_partial5 value="true"/>
+        <GBFeature_partial3 value="true"/>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>note</GBQualifier_name>
+            <GBQualifier_value>surface envelope protein; coding region not determined</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+    </GBSeq_feature-table>
+    <GBSeq_sequence>aaattcgccgtccccaacctccaatcactcaccaacctcctgtcctccaacttgtcctggttatcgctggatgtgtctgcggcgttttatcatcttcctcttcatcctgctgctatgcctcatcttcttgttggttcttctggactatcaaggtatgttgcccgtttgtcctctaattccaggatcttcaacccccagcacgggaccatgcagaacctgcacgactcctgctcaaggaacctctatgtatccctccttttgctgtaccaaaccttcggacggaacttgcacctgtattcccatcccatcatcctgggctttcggaaaattcctatgggagtgggcctcagcccgtttctcctggctcactttactagtgccatttgtttagtggttcgtttgtattccca</GBSeq_sequence>
+  </GBSeq>

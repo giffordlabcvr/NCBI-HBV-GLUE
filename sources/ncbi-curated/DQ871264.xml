@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<GBSeq>
+
+    <GBSeq_locus>DQ871264</GBSeq_locus>
+    <GBSeq_length>899</GBSeq_length>
+    <GBSeq_strandedness>double</GBSeq_strandedness>
+    <GBSeq_moltype>DNA</GBSeq_moltype>
+    <GBSeq_topology>linear</GBSeq_topology>
+    <GBSeq_division>VRL</GBSeq_division>
+    <GBSeq_update-date>14-JUL-2016</GBSeq_update-date>
+    <GBSeq_create-date>30-AUG-2006</GBSeq_create-date>
+    <GBSeq_definition>Hepatitis B virus isolate VIY-07-21-2003 polymerase (pol) gene, partial cds</GBSeq_definition>
+    <GBSeq_primary-accession>DQ871264</GBSeq_primary-accession>
+    <GBSeq_accession-version>DQ871264.1</GBSeq_accession-version>
+    <GBSeq_other-seqids>
+      <GBSeqid>gb|DQ871264.1|</GBSeqid>
+      <GBSeqid>gi|113204791</GBSeqid>
+    </GBSeq_other-seqids>
+    <GBSeq_source>Hepatitis B virus</GBSeq_source>
+    <GBSeq_organism>Hepatitis B virus</GBSeq_organism>
+    <GBSeq_taxonomy>Viruses; Retro-transcribing viruses; Hepadnaviridae; Orthohepadnavirus</GBSeq_taxonomy>
+    <GBSeq_references>
+      <GBReference>
+        <GBReference_reference>1</GBReference_reference>
+        <GBReference_position>1..899</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Gerolami,R.</GBAuthor>
+          <GBAuthor>Bourliere,M.</GBAuthor>
+          <GBAuthor>Colson,P.</GBAuthor>
+          <GBAuthor>Halfon,P.</GBAuthor>
+          <GBAuthor>Borentain,P.</GBAuthor>
+          <GBAuthor>Henry,M.</GBAuthor>
+          <GBAuthor>Botta,D.</GBAuthor>
+          <GBAuthor>Thibault,V.</GBAuthor>
+          <GBAuthor>Khiri,H.</GBAuthor>
+          <GBAuthor>Tamalet,C.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>Unusual selection of rtA181V HBV mutants cross-resistant to adefovir following prolonged lamivudine monotherapy: report of two cases</GBReference_title>
+        <GBReference_journal>Antivir. Ther. (Lond.) 11 (8), 1103-1106 (2006)</GBReference_journal>
+        <GBReference_pubmed>17302381</GBReference_pubmed>
+      </GBReference>
+      <GBReference>
+        <GBReference_reference>2</GBReference_reference>
+        <GBReference_position>1..899</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Gerolami,R.</GBAuthor>
+          <GBAuthor>Bourliere,M.</GBAuthor>
+          <GBAuthor>Colson,P.</GBAuthor>
+          <GBAuthor>Halfon,P.</GBAuthor>
+          <GBAuthor>Borentain,P.</GBAuthor>
+          <GBAuthor>Henry,M.</GBAuthor>
+          <GBAuthor>Botta,D.</GBAuthor>
+          <GBAuthor>Thibault,V.</GBAuthor>
+          <GBAuthor>Khiri,H.</GBAuthor>
+          <GBAuthor>Tamalet,C.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>Direct Submission</GBReference_title>
+        <GBReference_journal>Submitted (28-JUL-2006) Service d'hepato-gastroenterologie, Centre Hospitalier Universitaire Conception, 147 Boulevard Baille, Marseille 13005, France</GBReference_journal>
+      </GBReference>
+    </GBSeq_references>
+    <GBSeq_feature-table>
+      <GBFeature>
+        <GBFeature_key>source</GBFeature_key>
+        <GBFeature_location>1..899</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>899</GBInterval_to>
+            <GBInterval_accession>DQ871264.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>organism</GBQualifier_name>
+            <GBQualifier_value>Hepatitis B virus</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>mol_type</GBQualifier_name>
+            <GBQualifier_value>genomic DNA</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>isolate</GBQualifier_name>
+            <GBQualifier_value>VIY-07-21-2003</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>db_xref</GBQualifier_name>
+            <GBQualifier_value>taxon:10407</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>country</GBQualifier_name>
+            <GBQualifier_value>France: Marseille</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>gene</GBFeature_key>
+        <GBFeature_location>&lt;1..&gt;899</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>899</GBInterval_to>
+            <GBInterval_accession>DQ871264.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_partial5 value="true"/>
+        <GBFeature_partial3 value="true"/>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>gene</GBQualifier_name>
+            <GBQualifier_value>pol</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>CDS</GBFeature_key>
+        <GBFeature_location>&lt;1..&gt;899</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>899</GBInterval_to>
+            <GBInterval_accession>DQ871264.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_partial5 value="true"/>
+        <GBFeature_partial3 value="true"/>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>gene</GBQualifier_name>
+            <GBQualifier_value>pol</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>codon_start</GBQualifier_name>
+            <GBQualifier_value>3</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>transl_table</GBQualifier_name>
+            <GBQualifier_value>1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>product</GBQualifier_name>
+            <GBQualifier_value>polymerase</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>protein_id</GBQualifier_name>
+            <GBQualifier_value>ABI34129.1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>translation</GBQualifier_name>
+            <GBQualifier_value>LVVDFSQFSRGNHRVSWPKFAVPNLQSLTNLLSSDLSWLSLDVSAAFYHIPLHPAAMPHLLVGSSGLSRYVARLSSNSRILNHQHGTMPNLHDYCSRNLYVSLLLLYQTFGRKLHLYSHPIILGFRKIPMGVGLSPFLXXQFTSAICSVVRRAFPHCLAFSYXDDVVLGAKSVSHLESLFTAVTNFLXSLGIHLNPBKTKRWGYSLNFMGYVIGSYGSLPQEHITQKIKECFRKLPTNRPIDWKVCQRIVGLLGFAAPFTQCGYPALMPLYACIQSKQAFTFSPTYKAFLYKQYLNLYP</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+    </GBSeq_feature-table>
+    <GBSeq_sequence>gactcgtggtggacttctctcagttttctagggggaaccaccgtgtgtcttggccaaaattcgcagtccccaacctccaatcactcaccaacctcctgtcctccgacttgtcctggttatcgctggatgtgtctgcggcgttttatcatattcctcttcatcctgctgctatgcctcatcttcttgttggttcttctggactatcaaggtatgttgcccgtttgtcctctaattccaggatcctcaaccaccagcacgggaccatgccgaacctgcatgactactgctcaaggaacctctatgtatccctcctgttgctgtaccaaaccttcggacggaaattgcacctgtattcccatcccatcatcctgggctttcggaaaattcctatgggagtgggcctcagcccgtttctcmtggytcagtttactagtgccatttgttcagtggttcgtagggctttcccccactgtttggctttcagttatrtggatgatgtggtattgggggccaagtctgtatcgcatcttgagtccctttttaccgctgttaccaattttcttktgtctttgggtatacatttaaaccctracaaaacaaagagatggggttactctctaaattttatgggttatgtcattggaagttatgggtccttgccacaagaacacatcacacaaaaaatcaaagaatgttttagaaaacttcctactaacaggcctattgattggaaagtatgtcaacgaatwgtgggtcttttaggttttgctgcccctttyacacaatgtggttatcctgctttaatgccaytgtatgcctgtattcaatctaagcaggctttcactttctcgccaacttacaaggcctttctgtataaacaatacctgaacctttacccc</GBSeq_sequence>
+  </GBSeq>

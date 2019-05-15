@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<GBSeq>
+
+    <GBSeq_locus>DD291600</GBSeq_locus>
+    <GBSeq_length>594</GBSeq_length>
+    <GBSeq_strandedness>double</GBSeq_strandedness>
+    <GBSeq_moltype>DNA</GBSeq_moltype>
+    <GBSeq_topology>linear</GBSeq_topology>
+    <GBSeq_division>PAT</GBSeq_division>
+    <GBSeq_update-date>16-AUG-2006</GBSeq_update-date>
+    <GBSeq_create-date>16-AUG-2006</GBSeq_create-date>
+    <GBSeq_definition>Packaged virus-like particles for use as adjuvants: method of preparation and use</GBSeq_definition>
+    <GBSeq_primary-accession>DD291600</GBSeq_primary-accession>
+    <GBSeq_accession-version>DD291600.1</GBSeq_accession-version>
+    <GBSeq_other-seqids>
+      <GBSeqid>dbj|DD291600.1|</GBSeqid>
+      <GBSeqid>pat|JP|2006502979|2</GBSeqid>
+      <GBSeqid>gi|112711299</GBSeqid>
+    </GBSeq_other-seqids>
+    <GBSeq_keywords>
+      <GBKeyword>JP 2006502979-A/2</GBKeyword>
+    </GBSeq_keywords>
+    <GBSeq_source>Hepatitis B virus</GBSeq_source>
+    <GBSeq_organism>Hepatitis B virus</GBSeq_organism>
+    <GBSeq_taxonomy>Viruses; Retro-transcribing viruses; Hepadnaviridae; Orthohepadnavirus</GBSeq_taxonomy>
+    <GBSeq_references>
+      <GBReference>
+        <GBReference_reference>1</GBReference_reference>
+        <GBReference_position>1..594</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Renner,W.A.</GBAuthor>
+          <GBAuthor>Bachmann,M.F.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>Packaged virus-like particles for use as adjuvants: method of preparation and use</GBReference_title>
+        <GBReference_journal>JP2006502979-A 2 26-JAN-2006 Cytos Biotechnology AG,MARTIN F BACHMANN,WOLFGANG A RENNER</GBReference_journal>
+      </GBReference>
+    </GBSeq_references>
+    <GBSeq_comment>OS Hepatitis B virus~PN JP 2006502979-A/2~PD 26-JAN-2006~PF 20-JUN-2003 JP 2004514823~PR 20-JUN-2002 US 60/389898~PI wolfgang a renner,martin f bachmann~CC~FH Key Location/Qualifiers~FT CDS (1)..(594).</GBSeq_comment>
+    <GBSeq_feature-table>
+      <GBFeature>
+        <GBFeature_key>source</GBFeature_key>
+        <GBFeature_location>1..594</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>594</GBInterval_to>
+            <GBInterval_accession>DD291600.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>organism</GBQualifier_name>
+            <GBQualifier_value>Hepatitis B virus</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>mol_type</GBQualifier_name>
+            <GBQualifier_value>unassigned DNA</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>db_xref</GBQualifier_name>
+            <GBQualifier_value>taxon:10407</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+    </GBSeq_feature-table>
+    <GBSeq_sequence>atggacattgacccttataaagaatttggagctactgtggagttactctcgtttttgccttctgacttctttccttccgtcagagatctcctagacaccgcctcagctctgtatcgagaagccttagagtctcctgagcattgctcacctcaccatactgcactcaggcaagccattctctgctggggggaattgatgactctagctacctgggtgggtaataatttggaagatccagcatccagggatctagtagtcaattatgttaatactaacatgggtttaaagatcaggcaactattgtggtttcatatatcttgccttacttttggaagagagactgtacttgaatatttggtctctttcggagtgtggattcgcactcctccagcctatagaccaccaaatgcccctatcttatcaacacttccggaaactactgttgttagacgacgggaccgaggcaggtcccctagaagaagaactccctcgcctcgcagacgcagatctcaatcgccgcgtcgcagaagatctcaatctcgggaatctcaatgtcttctccttaaagctgtttacaacttcgctaccatgtaa</GBSeq_sequence>
+  </GBSeq>

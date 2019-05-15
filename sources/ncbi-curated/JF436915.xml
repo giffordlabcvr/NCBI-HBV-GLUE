@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<GBSeq>
+
+    <GBSeq_locus>JF436915</GBSeq_locus>
+    <GBSeq_length>294</GBSeq_length>
+    <GBSeq_strandedness>double</GBSeq_strandedness>
+    <GBSeq_moltype>DNA</GBSeq_moltype>
+    <GBSeq_topology>linear</GBSeq_topology>
+    <GBSeq_division>VRL</GBSeq_division>
+    <GBSeq_update-date>25-JUL-2016</GBSeq_update-date>
+    <GBSeq_create-date>09-APR-2011</GBSeq_create-date>
+    <GBSeq_definition>Hepatitis B virus isolate SZ92 BCP regulatory element genomic sequence; and precore/core protein gene, partial cds</GBSeq_definition>
+    <GBSeq_primary-accession>JF436915</GBSeq_primary-accession>
+    <GBSeq_accession-version>JF436915.1</GBSeq_accession-version>
+    <GBSeq_other-seqids>
+      <GBSeqid>gb|JF436915.1|</GBSeqid>
+      <GBSeqid>gi|327466067</GBSeqid>
+    </GBSeq_other-seqids>
+    <GBSeq_source>Hepatitis B virus</GBSeq_source>
+    <GBSeq_organism>Hepatitis B virus</GBSeq_organism>
+    <GBSeq_taxonomy>Viruses; Retro-transcribing viruses; Hepadnaviridae; Orthohepadnavirus</GBSeq_taxonomy>
+    <GBSeq_references>
+      <GBReference>
+        <GBReference_reference>1</GBReference_reference>
+        <GBReference_position>1..294</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Zheng,X.</GBAuthor>
+          <GBAuthor>Ye,X.</GBAuthor>
+          <GBAuthor>Zhang,L.</GBAuthor>
+          <GBAuthor>Wang,W.</GBAuthor>
+          <GBAuthor>Shuai,L.</GBAuthor>
+          <GBAuthor>Wang,A.</GBAuthor>
+          <GBAuthor>Zeng,J.</GBAuthor>
+          <GBAuthor>Candotti,D.</GBAuthor>
+          <GBAuthor>Allain,J.P.</GBAuthor>
+          <GBAuthor>Li,C.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>Characterization of Occult Hepatitis B virus Infection from Blood Donors in China</GBReference_title>
+        <GBReference_journal>J. Clin. Microbiol. (2011) In press</GBReference_journal>
+        <GBReference_xref>
+          <GBXref>
+            <GBXref_dbname>doi</GBXref_dbname>
+            <GBXref_id>10.1128/JCM.00145-11</GBXref_id>
+          </GBXref>
+        </GBReference_xref>
+        <GBReference_pubmed>21411575</GBReference_pubmed>
+        <GBReference_remark>Publication Status: Available-Online prior to print</GBReference_remark>
+      </GBReference>
+      <GBReference>
+        <GBReference_reference>2</GBReference_reference>
+        <GBReference_position>1..294</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Zheng,X.</GBAuthor>
+          <GBAuthor>Ye,X.</GBAuthor>
+          <GBAuthor>Zhang,L.</GBAuthor>
+          <GBAuthor>Wang,W.</GBAuthor>
+          <GBAuthor>Shuai,L.</GBAuthor>
+          <GBAuthor>Wang,A.</GBAuthor>
+          <GBAuthor>Zeng,J.</GBAuthor>
+          <GBAuthor>Candotti,D.</GBAuthor>
+          <GBAuthor>Allain,J.-P.</GBAuthor>
+          <GBAuthor>Li,C.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>Direct Submission</GBReference_title>
+        <GBReference_journal>Submitted (01-MAR-2011) Department of Transfusion Medicine, Southern Medical University, Guangzhou, Guangdong, China</GBReference_journal>
+      </GBReference>
+    </GBSeq_references>
+    <GBSeq_feature-table>
+      <GBFeature>
+        <GBFeature_key>source</GBFeature_key>
+        <GBFeature_location>1..294</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>294</GBInterval_to>
+            <GBInterval_accession>JF436915.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>organism</GBQualifier_name>
+            <GBQualifier_value>Hepatitis B virus</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>mol_type</GBQualifier_name>
+            <GBQualifier_value>genomic DNA</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>isolate</GBQualifier_name>
+            <GBQualifier_value>SZ92</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>host</GBQualifier_name>
+            <GBQualifier_value>Homo sapiens</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>db_xref</GBQualifier_name>
+            <GBQualifier_value>taxon:10407</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>country</GBQualifier_name>
+            <GBQualifier_value>China</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>collection_date</GBQualifier_name>
+            <GBQualifier_value>Jun-2009</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>misc_feature</GBFeature_key>
+        <GBFeature_location>47..203</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>47</GBInterval_from>
+            <GBInterval_to>203</GBInterval_to>
+            <GBInterval_accession>JF436915.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>note</GBQualifier_name>
+            <GBQualifier_value>BCP regulatory element</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>CDS</GBFeature_key>
+        <GBFeature_location>135..&gt;294</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>135</GBInterval_from>
+            <GBInterval_to>294</GBInterval_to>
+            <GBInterval_accession>JF436915.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_partial3 value="true"/>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>codon_start</GBQualifier_name>
+            <GBQualifier_value>1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>transl_table</GBQualifier_name>
+            <GBQualifier_value>1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>product</GBQualifier_name>
+            <GBQualifier_value>precore/core protein</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>protein_id</GBQualifier_name>
+            <GBQualifier_value>AEA76673.1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>translation</GBQualifier_name>
+            <GBQualifier_value>MQLFHLCLIISCSCPTVQASKLCLGWLWGMDIDPYKEFGASVELLSFLPSDFF</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+    </GBSeq_feature-table>
+    <GBSeq_sequence>aatgtcaacgccgaccttgaggcatacttcaaagactgtgtgtttaatgagtgggaggagttgggggaggagattaggttaaaggtctttgtactaggaggctgtaggcataaattggtgtgttcaccagcaccatgcaactttttcacctctgcctaatcatctcatgttcatgtcctactgttcaagcctccaagctgtgccttgggtggctttggggcatggacattgacccgtataaagaatttggagcttctgtggagttactctcttttttgccttctgacttctttc</GBSeq_sequence>
+  </GBSeq>

@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<GBSeq>
+
+    <GBSeq_locus>AB039742</GBSeq_locus>
+    <GBSeq_length>681</GBSeq_length>
+    <GBSeq_strandedness>double</GBSeq_strandedness>
+    <GBSeq_moltype>DNA</GBSeq_moltype>
+    <GBSeq_topology>linear</GBSeq_topology>
+    <GBSeq_division>VRL</GBSeq_division>
+    <GBSeq_update-date>25-MAY-2002</GBSeq_update-date>
+    <GBSeq_create-date>09-MAR-2000</GBSeq_create-date>
+    <GBSeq_definition>Hepatitis B virus S gene for HBs antigen, complete cds, clone:HBV12NC</GBSeq_definition>
+    <GBSeq_primary-accession>AB039742</GBSeq_primary-accession>
+    <GBSeq_accession-version>AB039742.1</GBSeq_accession-version>
+    <GBSeq_other-seqids>
+      <GBSeqid>dbj|AB039742.1|</GBSeqid>
+      <GBSeqid>gi|7212783</GBSeqid>
+    </GBSeq_other-seqids>
+    <GBSeq_keywords>
+      <GBKeyword>S</GBKeyword>
+      <GBKeyword>HBs antigen</GBKeyword>
+    </GBSeq_keywords>
+    <GBSeq_source>Hepatitis B virus</GBSeq_source>
+    <GBSeq_organism>Hepatitis B virus</GBSeq_organism>
+    <GBSeq_taxonomy>Viruses; Retro-transcribing viruses; Hepadnaviridae; Orthohepadnavirus</GBSeq_taxonomy>
+    <GBSeq_references>
+      <GBReference>
+        <GBReference_reference>1</GBReference_reference>
+        <GBReference_position>1..681</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Yotsuyanagi,H.</GBAuthor>
+          <GBAuthor>Shintani,Y.</GBAuthor>
+          <GBAuthor>Moriya,K.</GBAuthor>
+          <GBAuthor>Fujie,H.</GBAuthor>
+          <GBAuthor>Tsutsumi,T.</GBAuthor>
+          <GBAuthor>Kato,T.</GBAuthor>
+          <GBAuthor>Nishioka,K.</GBAuthor>
+          <GBAuthor>Takayama,T.</GBAuthor>
+          <GBAuthor>Makuuchi,M.</GBAuthor>
+          <GBAuthor>Iino,S.</GBAuthor>
+          <GBAuthor>Kimura,S.</GBAuthor>
+          <GBAuthor>Koike,K.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>Virologic analysis of non-B, non-C hepatocellular carcinoma in Japan: frequent involvement of hepatitis B virus</GBReference_title>
+        <GBReference_journal>J. Infect. Dis. 181 (6), 1920-1928 (2000)</GBReference_journal>
+        <GBReference_pubmed>10837171</GBReference_pubmed>
+      </GBReference>
+      <GBReference>
+        <GBReference_reference>2</GBReference_reference>
+        <GBReference_position>1..681</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Koike,K.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>Direct Submission</GBReference_title>
+        <GBReference_journal>Submitted (01-MAR-2000) Kazuhiko Koike, University of Tokyo, Graduate School of Medicine, Department of Infectious Diseases, Internal Medicine; 7-3-1 Hongo, Bunkyo-ku, Tokyo 113-8655, Japan (E-mail:kkoike-tky@umin.ac.jp, Tel:81-3-5800-8801, Fax:81-3-5800-8807)</GBReference_journal>
+      </GBReference>
+    </GBSeq_references>
+    <GBSeq_feature-table>
+      <GBFeature>
+        <GBFeature_key>source</GBFeature_key>
+        <GBFeature_location>1..681</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>681</GBInterval_to>
+            <GBInterval_accession>AB039742.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>organism</GBQualifier_name>
+            <GBQualifier_value>Hepatitis B virus</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>mol_type</GBQualifier_name>
+            <GBQualifier_value>genomic DNA</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>db_xref</GBQualifier_name>
+            <GBQualifier_value>taxon:10407</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>clone</GBQualifier_name>
+            <GBQualifier_value>HBV12NC</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>gene</GBFeature_key>
+        <GBFeature_location>1..681</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>681</GBInterval_to>
+            <GBInterval_accession>AB039742.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>gene</GBQualifier_name>
+            <GBQualifier_value>S</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>CDS</GBFeature_key>
+        <GBFeature_location>1..681</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>681</GBInterval_to>
+            <GBInterval_accession>AB039742.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>gene</GBQualifier_name>
+            <GBQualifier_value>S</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>codon_start</GBQualifier_name>
+            <GBQualifier_value>1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>transl_table</GBQualifier_name>
+            <GBQualifier_value>1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>product</GBQualifier_name>
+            <GBQualifier_value>HBs antigen</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>protein_id</GBQualifier_name>
+            <GBQualifier_value>BAA92371.1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>translation</GBQualifier_name>
+            <GBQualifier_value>MENTTSGFLGPLLVLQAGFFLLTRILTIPQSLDSWWTSLNFLGGAHTCPGQNSQSPSSNHSPTSCPPICPGYRWMYLRRFIIFLFILLLCLIFLLVLLDYQGMLPVCPLLPGTSTTSTGPCKTCTIPAQGTSMFPSCCCTKPSDGNCTCIPIPSSWAFARFLWEWASVRFSWLSLLVPFVQWFVGLSPTVWLSVIWMMWYWGPSLYNILSPFLPLLPIFFCLWVYV</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+    </GBSeq_feature-table>
+    <GBSeq_sequence>atggagaacacaacatcaggattcctaggacccctgctcgtgttacaggcggggtttttcttgttgacaagaatcctcacaataccacagagtctagactcgtggtggacttctctcaattttctagggggagcacacacgtgtcctggccaaaattcgcagtccccaagctccaatcactcaccaacctcttgtcctcccatttgtcctggctatcgctggatgtatcttcggcgttttatcatattcctcttcatcctgctgctatgcctcatcttcttgttggttcttctggactaccaaggtatgttgcccgtttgtcctctacttccaggaacatcaaccaccagcacggggccatgcaagacctgcacgattcctgctcaaggaacctctatgtttccctcttgttgctgtacaaaaccttcggacggtaactgcacttgtattcccatcccatcatcctgggctttcgcaagattcctatgggagtgggcctcagtccgtttctcctggctcagtttactagtgccatttgttcagtggttcgtagggctttcccccactgtttggctttcagttatatggatgatgtggtattgggggccaagtctgtacaacatcttgagtccctttttacctctattaccaattttcttttgtctttgggtatacgtttaa</GBSeq_sequence>
+  </GBSeq>

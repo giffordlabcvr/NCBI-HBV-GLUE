@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<GBSeq>
+
+    <GBSeq_locus>HW507252</GBSeq_locus>
+    <GBSeq_length>556</GBSeq_length>
+    <GBSeq_strandedness>double</GBSeq_strandedness>
+    <GBSeq_moltype>DNA</GBSeq_moltype>
+    <GBSeq_topology>linear</GBSeq_topology>
+    <GBSeq_division>PAT</GBSeq_division>
+    <GBSeq_update-date>30-JUL-2014</GBSeq_update-date>
+    <GBSeq_create-date>30-JUL-2014</GBSeq_create-date>
+    <GBSeq_definition>JP 2014060968-A/1: DNA vaccine comprising specific epitope in apolipoprotein (a)</GBSeq_definition>
+    <GBSeq_primary-accession>HW507252</GBSeq_primary-accession>
+    <GBSeq_accession-version>HW507252.1</GBSeq_accession-version>
+    <GBSeq_other-seqids>
+      <GBSeqid>dbj|HW507252.1|</GBSeqid>
+      <GBSeqid>pat|JP|2014060968|1</GBSeqid>
+      <GBSeqid>gi|669234401</GBSeqid>
+    </GBSeq_other-seqids>
+    <GBSeq_keywords>
+      <GBKeyword>JP 2014060968-A/1</GBKeyword>
+    </GBSeq_keywords>
+    <GBSeq_source>Hepatitis B virus</GBSeq_source>
+    <GBSeq_organism>Hepatitis B virus</GBSeq_organism>
+    <GBSeq_taxonomy>Viruses; Retro-transcribing viruses; Hepadnaviridae; Orthohepadnavirus</GBSeq_taxonomy>
+    <GBSeq_references>
+      <GBReference>
+        <GBReference_reference>1</GBReference_reference>
+        <GBReference_position>1..556</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Kyutoku,M.</GBAuthor>
+          <GBAuthor>Nakagami,H.</GBAuthor>
+          <GBAuthor>Koriyama,H.</GBAuthor>
+          <GBAuthor>Nakagami,F.</GBAuthor>
+          <GBAuthor>Morishita,R.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>DNA vaccine comprising specific epitope in apolipoprotein (a)</GBReference_title>
+        <GBReference_journal>JP2014060968-A 1 10-APR-2014 AnGes MG Inc</GBReference_journal>
+      </GBReference>
+    </GBSeq_references>
+    <GBSeq_comment>OS Hepatitis B virus~PN JP 2014060968-A/1~PD 10-APR-2014~PF 21-SEP-2012 JP 2012208796~PR~PA AnGes MG Inc~PI mariko kyutoku,hironori nakagami,hiroshi koriyama,futoshi~PI nakagami,~PI ryuichi morishita~PT 'DNA vaccine comprising specific epitope in apolipoprotein (a)'~PS N3~CC~FH Key Location/Qualifiers~FT CDS (2)..(553).</GBSeq_comment>
+    <GBSeq_feature-table>
+      <GBFeature>
+        <GBFeature_key>source</GBFeature_key>
+        <GBFeature_location>1..556</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>556</GBInterval_to>
+            <GBInterval_accession>HW507252.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>organism</GBQualifier_name>
+            <GBQualifier_value>Hepatitis B virus</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>mol_type</GBQualifier_name>
+            <GBQualifier_value>unassigned DNA</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>db_xref</GBQualifier_name>
+            <GBQualifier_value>taxon:10407</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+    </GBSeq_feature-table>
+    <GBSeq_sequence>catggatatcgatccttataaagaattcggagctactgtggagttactctcgtttctcccgagtgacttctttccttcagtacgagatcttctggataccgccagcgcgctgtatcgggaagccttggagtctcctgagcactgcagccctcaccatactgccctcaggcaagcaattctttgctggggggagctcatgactctggccacgtgggtgggtgttaacttggaagatccagctagcagggacctggtagtcagttatgtcaacactaatatgggtttaaagttcaggcaactcttgtggtttcacattagctgcctcactttcggccgagaaacagttctagaatatttggtgtctttcggagtgtggatccgcactcctccagcttataggcctccgaatgcccctatcctgtcgacactcccggagactactgttgttagacgtcgaggcaggtcacctagaagaagaactccttcgcctcgcaggcgaaggtctcaatcgccgcggcgccgaagatctcaatctcgggaatctcaatgttagtga</GBSeq_sequence>
+  </GBSeq>

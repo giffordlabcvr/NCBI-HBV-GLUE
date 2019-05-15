@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<GBSeq>
+
+    <GBSeq_locus>AB289692</GBSeq_locus>
+    <GBSeq_length>681</GBSeq_length>
+    <GBSeq_strandedness>double</GBSeq_strandedness>
+    <GBSeq_moltype>DNA</GBSeq_moltype>
+    <GBSeq_topology>linear</GBSeq_topology>
+    <GBSeq_division>VRL</GBSeq_division>
+    <GBSeq_update-date>13-JAN-2007</GBSeq_update-date>
+    <GBSeq_create-date>13-JAN-2007</GBSeq_create-date>
+    <GBSeq_definition>Hepatitis B virus HBsAg gene for surface antigen, partial cds, isolate: patient 1</GBSeq_definition>
+    <GBSeq_primary-accession>AB289692</GBSeq_primary-accession>
+    <GBSeq_accession-version>AB289692.1</GBSeq_accession-version>
+    <GBSeq_other-seqids>
+      <GBSeqid>dbj|AB289692.1|</GBSeqid>
+      <GBSeqid>gi|122086139</GBSeqid>
+    </GBSeq_other-seqids>
+    <GBSeq_source>Hepatitis B virus</GBSeq_source>
+    <GBSeq_organism>Hepatitis B virus</GBSeq_organism>
+    <GBSeq_taxonomy>Viruses; Retro-transcribing viruses; Hepadnaviridae; Orthohepadnavirus</GBSeq_taxonomy>
+    <GBSeq_references>
+      <GBReference>
+        <GBReference_reference>1</GBReference_reference>
+        <GBReference_position>1..681</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Aono,J.</GBAuthor>
+          <GBAuthor>Yotsuyanagi,H.</GBAuthor>
+          <GBAuthor>Miyoshi,H.</GBAuthor>
+          <GBAuthor>Tsutsumi,T.</GBAuthor>
+          <GBAuthor>Fujie,H.</GBAuthor>
+          <GBAuthor>Shintani,Y.</GBAuthor>
+          <GBAuthor>Moriya,K.</GBAuthor>
+          <GBAuthor>Okuse,C.</GBAuthor>
+          <GBAuthor>Suzuki,M.</GBAuthor>
+          <GBAuthor>Yasuda,K.</GBAuthor>
+          <GBAuthor>Iino,S.</GBAuthor>
+          <GBAuthor>Koike,K.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>Amino acid substitutions in S region of hepatitis B virus</GBReference_title>
+        <GBReference_journal>Unpublished</GBReference_journal>
+      </GBReference>
+      <GBReference>
+        <GBReference_reference>2</GBReference_reference>
+        <GBReference_position>1..681</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Yotsuyanagi,H.</GBAuthor>
+          <GBAuthor>Aono,J.</GBAuthor>
+          <GBAuthor>Moriya,K.</GBAuthor>
+          <GBAuthor>Koike,K.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>Direct Submission</GBReference_title>
+        <GBReference_journal>Submitted (08-JAN-2007) Hiroshi Yotsuyanagi, University of Tokyo, Department of Infectious Diseases, Internal Medicine; 7-3-1 Hongo, Bunkyo, Tokyo 113-8655, Japan (E-mail:hyotsu-tky@umin.ac.jp, Tel:81-3-5800-8720(ex.35335), Fax:81-3-5800-8796)</GBReference_journal>
+      </GBReference>
+    </GBSeq_references>
+    <GBSeq_feature-table>
+      <GBFeature>
+        <GBFeature_key>source</GBFeature_key>
+        <GBFeature_location>1..681</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>681</GBInterval_to>
+            <GBInterval_accession>AB289692.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>organism</GBQualifier_name>
+            <GBQualifier_value>Hepatitis B virus</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>mol_type</GBQualifier_name>
+            <GBQualifier_value>genomic DNA</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>isolate</GBQualifier_name>
+            <GBQualifier_value>patient 1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>db_xref</GBQualifier_name>
+            <GBQualifier_value>taxon:10407</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>gene</GBFeature_key>
+        <GBFeature_location>1..681</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>681</GBInterval_to>
+            <GBInterval_accession>AB289692.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>gene</GBQualifier_name>
+            <GBQualifier_value>HBsAg</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>CDS</GBFeature_key>
+        <GBFeature_location>1..681</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>681</GBInterval_to>
+            <GBInterval_accession>AB289692.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>gene</GBQualifier_name>
+            <GBQualifier_value>HBsAg</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>codon_start</GBQualifier_name>
+            <GBQualifier_value>1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>transl_table</GBQualifier_name>
+            <GBQualifier_value>1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>product</GBQualifier_name>
+            <GBQualifier_value>surface antigen</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>protein_id</GBQualifier_name>
+            <GBQualifier_value>BAF44867.1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>translation</GBQualifier_name>
+            <GBQualifier_value>MENITSGFLGPLLVLQAGFFLLTRILTIPQSLDSWWTSLNFLGGSPVCLGQNSQSPTSNHSPTSCPPICPGYRWMCLRRFIIFLFILLLCLIFLLVLLDYQGMLPVCPLIPGSTTTSTGPCKTCTTPAQGNSMFPSCCCTKPTDGNCTCIPIPSSWAFAKYLWEWASVRFSWLSLLVPFVQWFVGLSPTVWLSAIWMMWYWGPSLYSIVSPFIPLLPIFFCLWVYI</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+    </GBSeq_feature-table>
+    <GBSeq_sequence>atggagaacatcacatcaggattcctaggacccctgctcgtgttacaggcggggtttttcttgttgacaagaatcctcacaataccgcagagtctagactcgtggtggacttctctcaattttctagggggatcacccgtgtgtcttggccaaaattcgcagtccccaacctccaatcactcaccaacctcctgtcctccaatttgtcctggttatcgctggatgtgtctgcggcgttttatcatattcctcttcatcctgctgctatgcctcatcttcttattggttcttctggattatcaaggtatgttgcccgtttgtcctctaattccaggatcaacaacaaccagtacgggaccatgcaaaacctgcacaactcctgctcaaggcaactctatgtttccctcatgttgctgtacaaaacctacggatggaaattgcacctgtattcccatcccatcgtcctgggctttcgcaaaatacctatgggagtgggcctcagtccgtttctcttggctcagtttactagtgccatttgttcagtggttcgtagggctttcccccactgtttggctttcagctatatggatgatgtggtattgggggccaagtctgtacagcatcgtgagtccctttataccgctgttaccaattttcttttgtctctgggtatacatttaa</GBSeq_sequence>
+  </GBSeq>

@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<GBSeq>
+
+    <GBSeq_locus>HW085422</GBSeq_locus>
+    <GBSeq_length>3221</GBSeq_length>
+    <GBSeq_strandedness>double</GBSeq_strandedness>
+    <GBSeq_moltype>DNA</GBSeq_moltype>
+    <GBSeq_topology>linear</GBSeq_topology>
+    <GBSeq_division>PAT</GBSeq_division>
+    <GBSeq_update-date>28-MAY-2013</GBSeq_update-date>
+    <GBSeq_create-date>28-MAY-2013</GBSeq_create-date>
+    <GBSeq_definition>JP 2013028608-A/74: Molecular Antigen Array</GBSeq_definition>
+    <GBSeq_primary-accession>HW085422</GBSeq_primary-accession>
+    <GBSeq_accession-version>HW085422.1</GBSeq_accession-version>
+    <GBSeq_other-seqids>
+      <GBSeqid>dbj|HW085422.1|</GBSeqid>
+      <GBSeqid>pat|JP|2013028608|74</GBSeqid>
+      <GBSeqid>gi|507453578</GBSeqid>
+    </GBSeq_other-seqids>
+    <GBSeq_keywords>
+      <GBKeyword>JP 2013028608-A/74</GBKeyword>
+    </GBSeq_keywords>
+    <GBSeq_source>Hepatitis B virus</GBSeq_source>
+    <GBSeq_organism>Hepatitis B virus</GBSeq_organism>
+    <GBSeq_taxonomy>Viruses; Retro-transcribing viruses; Hepadnaviridae; Orthohepadnavirus</GBSeq_taxonomy>
+    <GBSeq_references>
+      <GBReference>
+        <GBReference_reference>1</GBReference_reference>
+        <GBReference_position>1..3221</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Piossek,C.</GBAuthor>
+          <GBAuthor>Lechner,F.</GBAuthor>
+          <GBAuthor>Maurer,P.</GBAuthor>
+          <GBAuthor>Tissot,A.</GBAuthor>
+          <GBAuthor>Bachmann,M.</GBAuthor>
+          <GBAuthor>Renner,W.A.</GBAuthor>
+          <GBAuthor>Sebbel,P.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>Molecular Antigen Array</GBReference_title>
+        <GBReference_journal>JP2013028608-A 74 07-FEB-2013 Cytos Biotechnology AG,Wolfgang A Renner,Martin Bachmann,Alain Tissot, Patrick Maurer,Franziska Lechner,Peter Sebbel,Christine Piossek</GBReference_journal>
+      </GBReference>
+    </GBSeq_references>
+    <GBSeq_comment>OS Hepatitis B virus~PN JP 2013028608-A/74~PD 07-FEB-2013~PF 13-AUG-2012 JP 2012179555~PR 07-NOV-2001 US 60/331045 ,05-OCT-2001 US 60/326998 PR ,~PR 19-JAN-2001 US 60/262379 ,04-MAY-2001 US 60/288549 PA Cytos Biotechnology AG,Wolfgang A Renner,Martin Bachmann,Alain PA Tissot,~PA Patrick Maurer,Franziska Lechner,Peter Sebbel,Christine Piossek PI christine piossek,franziska lechner,patrick maurer,alain PI tissot,~PI martin bachmann,wolfgang a renner,peter sebbel PT 'Molecular Antigen Array'~PS N133~CC~FH Key Location/Qualifiers~FT CDS (1901)..(2458).</GBSeq_comment>
+    <GBSeq_feature-table>
+      <GBFeature>
+        <GBFeature_key>source</GBFeature_key>
+        <GBFeature_location>1..3221</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>3221</GBInterval_to>
+            <GBInterval_accession>HW085422.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>organism</GBQualifier_name>
+            <GBQualifier_value>Hepatitis B virus</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>mol_type</GBQualifier_name>
+            <GBQualifier_value>unassigned DNA</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>db_xref</GBQualifier_name>
+            <GBQualifier_value>taxon:10407</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+    </GBSeq_feature-table>
+    <GBSeq_sequence>ttccactgccttccaccaagctctgcaggaccccagagtcaggggtctgtattttcctgctggtggctccagttcaggaacagtaaaccctgctccgaatattgcctctcacatctcgtcaatctccgcgaggactggggaccctgtgacgaacatggagaacatcacatcaggattcctaggacccctgctcgtgttacaggcggggtttttattgttgacaagaatcctcacaataccgcagagtctagactcgtggtggacttctctcaattttatagggggatcacccgtgtgtcttggccaaaattcgcagtccccaacctccaatcactcaccaacctcctgtcctccaatttgtcctggttatcgctggatgtgtctgcggcgttttatcatattcctcttcatcctgctgctatgcctcatcttcttattggttcttctggattatcaaggtatgttgcccgtttgtcctctaattccaggatcaacaacaaccagtacgggaccatgcaaaacctgcacgactcctgctcaaggcaactctatgtttccctcatgttgctgtacaaaacctacggttggaaattgcacctgtattcccatcccatcgtcctgggctttcgcaaaatacctatgggagtgggcctcagtccgtttctcttggctcagtttactagtgccatttgttcagtggttcgtagggctttcccccactgtttggctttcagctatatggatgatgtggtattgggggccaagtctgtacagcatcgtgagtccctttataccgctgttaccaattttcttttgtctctgggtatacatttaaaccctaacaaaacaaaaagatggggttattccctaaacttcatgggttacataattggaagttggggaacattgccacaggatcatattgtacaaaagatcaaacactgttttagaaaacttcctgttaacaggcctattgattggaaagtatgtcaaagaattgtgggtcttttgggctttgctgctccatttacacaatgtggatatcctgccttaatgcctttgtatgcatgtatacaggctaaacaggctttcactttctcgccaacttacaaggcctttctaagtaaacagtacatgaacctttaccccgttgctcggcaacggcctggtctgtgccaagtgtttgctgacgcaacccccactggttggggcttggccataggccatcagcgcatgagtggaacctttgtggctcctctgccgatccatactgcggaactcctagccgcttgtattgctcgcagccggtctggagcaaagctcatcggaactgacaattctgtcgtcctctcgcggaaatatacatcgtttccatggctgctaggctgtactgccaactggatccttcgcgggacgtcctttgtttacgtcccgtcggcgctgaatcccgcggacgacccctctcggggccgcttgggactctatcgtccccttctccgtctgccgttccagccgaccacggggcgcacctctctttacgcggtctccccgtctgtgccttctcatctgccggtccgtgtgcacttcgcttcacctctgcacgttgcatggagaccaccgtgaacgcccatcagatcctgcccaaggtcttacataagaggactcttggactcccagcaatgtcaacgaccgaccttgaggcctacttcaaagactgtgtgtttaaggactgggaggagctgggggaggagattaggttaaaggtctttgtattaggaggctgtaggcataaattggtctgcgcaccagcaccatgcaactttttcacctctgcctaatcatctcttgtacatgtcccactgttcaagcctccaagctgtgccttgggtggctttggggcatggacattgacccttataaagaatttggagctactgtggagttactctcgtttttgccttctgacttctttccttccgtcagagatctcctagacaccgcctcagctctgtatcgagaagccttagagtctcctgagcattgctcacctcaccatactgcactcaggcaagccattctctgctggggggaattgatgactctagctacctgggtgggtaataatttggaagatccagcatccagggatctagtagtcaattatgttaatactaacatgggtttaaagatcaggcaactattgtggtttcatatatcttgccttacttttggaagagagactgtacttgaatatttggtctctttcggagtgtggattcgcactcctccagcctatagaccaccaaatgcccctatcttatcaacacttccggaaactactgttgttagacgacgggaccgaggcaggtcccctagaagaagaactccctcgcctcgcagacgcagatctcaatcgccgcgtcgcagaagatctcaatctcgggaatctcaatgttagtattccttggactcataaggtgggaaactttactgggctttattcctctacagtacctatctttaatcctgaatggcaaactccttcctttcctaagattcatttacaagaggacattattgataggtgtcaacaatttgtgggccctctcactgtaaatgaaaagagaagattgaaattaattatgcctgctagattctatcctacccacactaaatatttgcccttagacaaaggaattaaaccttattatccagatcaggtagttaatcattacttccaaaccagacattatttacatactctttggaaggctggtattctatataagagggaaaccacacgtagcgcatcattttgcgggtcaccatattcttgggaacaagagctacagcatgggaggttggtcattaaaacctcgcaaaggcatggggacgaatctttctgttcccaaccctctgggattctttcccgatcatcagttggaccctgcattcggagccaactcaaacaatccagattgggacttcaaccccatcaaggaccactggccagcagccaaccaggtaggagtgggagcattcgggccagggctcacccctccacacggcggtattttggggtggagccctcaggctcagggcatattgaccacagtgtcaacaattcctcctcctgcctccaccaatcggcagtcaggaaggcagcctactcccatctctccacctctaagagacagtcatcctcaggccatgcagtggaa</GBSeq_sequence>
+  </GBSeq>

@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<GBSeq>
+
+    <GBSeq_locus>JQ408719</GBSeq_locus>
+    <GBSeq_length>350</GBSeq_length>
+    <GBSeq_strandedness>double</GBSeq_strandedness>
+    <GBSeq_moltype>DNA</GBSeq_moltype>
+    <GBSeq_topology>linear</GBSeq_topology>
+    <GBSeq_division>SYN</GBSeq_division>
+    <GBSeq_update-date>10-JUN-2012</GBSeq_update-date>
+    <GBSeq_create-date>10-JUN-2012</GBSeq_create-date>
+    <GBSeq_definition>Mutant Hepatitis B virus strain HB056m polymerase (P) and X protein (X) genes, partial sequence</GBSeq_definition>
+    <GBSeq_primary-accession>JQ408719</GBSeq_primary-accession>
+    <GBSeq_accession-version>JQ408719.1</GBSeq_accession-version>
+    <GBSeq_other-seqids>
+      <GBSeqid>gb|JQ408719.1|</GBSeqid>
+      <GBSeqid>gi|389889207</GBSeqid>
+    </GBSeq_other-seqids>
+    <GBSeq_source>Hepatitis B virus</GBSeq_source>
+    <GBSeq_organism>Hepatitis B virus</GBSeq_organism>
+    <GBSeq_taxonomy>Viruses; Retro-transcribing viruses; Hepadnaviridae; Orthohepadnavirus</GBSeq_taxonomy>
+    <GBSeq_references>
+      <GBReference>
+        <GBReference_reference>1</GBReference_reference>
+        <GBReference_position>1..350</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Ho,K.Y.</GBAuthor>
+          <GBAuthor>Ngeow,Y.F.</GBAuthor>
+          <GBAuthor>Chook,J.B.</GBAuthor>
+          <GBAuthor>Tan,T.C.</GBAuthor>
+          <GBAuthor>Mohamed,R.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>Detection of Methylated Hepatitis B Virus (HBV) cccDNA in the Serum of Hepatocellular Carcinoma Patients</GBReference_title>
+        <GBReference_journal>Unpublished</GBReference_journal>
+      </GBReference>
+      <GBReference>
+        <GBReference_reference>2</GBReference_reference>
+        <GBReference_position>1..350</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Ho,K.Y.</GBAuthor>
+          <GBAuthor>Ngeow,Y.F.</GBAuthor>
+          <GBAuthor>Chook,J.B.</GBAuthor>
+          <GBAuthor>Tan,T.C.</GBAuthor>
+          <GBAuthor>Mohamed,R.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>Direct Submission</GBReference_title>
+        <GBReference_journal>Submitted (12-JAN-2012) Department of Medicine, Faculty of Medicine, University of Malaya, Jalan Lembah Pantai, Kuala Lumpur, Wilayah Persekutuan 50603, Malaysia</GBReference_journal>
+      </GBReference>
+    </GBSeq_references>
+    <GBSeq_feature-table>
+      <GBFeature>
+        <GBFeature_key>source</GBFeature_key>
+        <GBFeature_location>1..350</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>350</GBInterval_to>
+            <GBInterval_accession>JQ408719.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>organism</GBQualifier_name>
+            <GBQualifier_value>Hepatitis B virus</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>mol_type</GBQualifier_name>
+            <GBQualifier_value>genomic DNA</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>strain</GBQualifier_name>
+            <GBQualifier_value>HB056m</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>isolation_source</GBQualifier_name>
+            <GBQualifier_value>serum</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>host</GBQualifier_name>
+            <GBQualifier_value>Homo sapiens</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>db_xref</GBQualifier_name>
+            <GBQualifier_value>taxon:10407</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>country</GBQualifier_name>
+            <GBQualifier_value>Malaysia</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>collection_date</GBQualifier_name>
+            <GBQualifier_value>13-Nov-2007</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>note</GBQualifier_name>
+            <GBQualifier_value>bisulfite treated; converts unmethylated cytosines to thymines;
+group: non-HCC</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>gene</GBFeature_key>
+        <GBFeature_location>&lt;1..259</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>259</GBInterval_to>
+            <GBInterval_accession>JQ408719.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_partial5 value="true"/>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>gene</GBQualifier_name>
+            <GBQualifier_value>P</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>note</GBQualifier_name>
+            <GBQualifier_value>polymerase</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>gene</GBFeature_key>
+        <GBFeature_location>10..&gt;350</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>10</GBInterval_from>
+            <GBInterval_to>350</GBInterval_to>
+            <GBInterval_accession>JQ408719.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_partial3 value="true"/>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>gene</GBQualifier_name>
+            <GBQualifier_value>X</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>note</GBQualifier_name>
+            <GBQualifier_value>X protein</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+    </GBSeq_feature-table>
+    <GBSeq_sequence>tttttttttatggttgttagggtgtgttgttaattggattttgtgtgggatgttttttgtttatgttttgttggtgttgaattttgtggatgatttgttttggggttgtttgggtttttattgtttttttttttatttgttgttttggttgattatggggtgtatttttttttatgtggtttttttgtttgtgtttttttatttgttggattgtgtgtattttgttttatttttgtatgttgtatggaaattattgtgaatgtttattaggttttgtttaaggttttatataagaggatttttggatttttagtaatgttaatgattgattttgaggtatattttaaaga</GBSeq_sequence>
+  </GBSeq>

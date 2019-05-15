@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<GBSeq>
+
+    <GBSeq_locus>AY967461</GBSeq_locus>
+    <GBSeq_length>488</GBSeq_length>
+    <GBSeq_strandedness>double</GBSeq_strandedness>
+    <GBSeq_moltype>DNA</GBSeq_moltype>
+    <GBSeq_topology>linear</GBSeq_topology>
+    <GBSeq_division>VRL</GBSeq_division>
+    <GBSeq_update-date>26-JUL-2016</GBSeq_update-date>
+    <GBSeq_create-date>07-MAY-2005</GBSeq_create-date>
+    <GBSeq_definition>Hepatitis B virus isolate EI0219 core antigen precursor, gene, partial cds</GBSeq_definition>
+    <GBSeq_primary-accession>AY967461</GBSeq_primary-accession>
+    <GBSeq_accession-version>AY967461.1</GBSeq_accession-version>
+    <GBSeq_other-seqids>
+      <GBSeqid>gb|AY967461.1|</GBSeqid>
+      <GBSeqid>gi|62996486</GBSeqid>
+    </GBSeq_other-seqids>
+    <GBSeq_source>Hepatitis B virus</GBSeq_source>
+    <GBSeq_organism>Hepatitis B virus</GBSeq_organism>
+    <GBSeq_taxonomy>Viruses; Retro-transcribing viruses; Hepadnaviridae; Orthohepadnavirus</GBSeq_taxonomy>
+    <GBSeq_references>
+      <GBReference>
+        <GBReference_reference>1</GBReference_reference>
+        <GBReference_position>1..488</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Chandra,P.K.</GBAuthor>
+          <GBAuthor>Banerjee,A.</GBAuthor>
+          <GBAuthor>Datta,S.</GBAuthor>
+          <GBAuthor>Chakravarty,R.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>G1862T mutation among hepatitis B virus-infected individuals: association with viral genotypes and disease outcome in Kolkata, Eastern India</GBReference_title>
+        <GBReference_journal>Intervirology 50 (3), 173-180 (2007)</GBReference_journal>
+        <GBReference_xref>
+          <GBXref>
+            <GBXref_dbname>doi</GBXref_dbname>
+            <GBXref_id>10.1159/000098960</GBXref_id>
+          </GBXref>
+        </GBReference_xref>
+        <GBReference_pubmed>17259736</GBReference_pubmed>
+      </GBReference>
+      <GBReference>
+        <GBReference_reference>2</GBReference_reference>
+        <GBReference_position>1..488</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Chakravarty,R.</GBAuthor>
+          <GBAuthor>Datta,S.</GBAuthor>
+          <GBAuthor>Chandra,P.K.</GBAuthor>
+          <GBAuthor>Banerjee,A.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>HBV precore and core mutants in Indian patients</GBReference_title>
+        <GBReference_journal>Unpublished</GBReference_journal>
+      </GBReference>
+      <GBReference>
+        <GBReference_reference>3</GBReference_reference>
+        <GBReference_position>1..488</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Chakravarty,R.</GBAuthor>
+          <GBAuthor>Datta,S.</GBAuthor>
+          <GBAuthor>Chandra,P.K.</GBAuthor>
+          <GBAuthor>Banerjee,A.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>Direct Submission</GBReference_title>
+        <GBReference_journal>Submitted (17-MAR-2005) ICMR Virus Unit, Kolkata, 57 Dr S C Banerjee Road, Kolkata 700010, India</GBReference_journal>
+      </GBReference>
+    </GBSeq_references>
+    <GBSeq_feature-table>
+      <GBFeature>
+        <GBFeature_key>source</GBFeature_key>
+        <GBFeature_location>1..488</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>488</GBInterval_to>
+            <GBInterval_accession>AY967461.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>organism</GBQualifier_name>
+            <GBQualifier_value>Hepatitis B virus</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>mol_type</GBQualifier_name>
+            <GBQualifier_value>genomic DNA</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>isolate</GBQualifier_name>
+            <GBQualifier_value>EI0219</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>host</GBQualifier_name>
+            <GBQualifier_value>Homo sapiens</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>db_xref</GBQualifier_name>
+            <GBQualifier_value>taxon:10407</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>country</GBQualifier_name>
+            <GBQualifier_value>India</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>CDS</GBFeature_key>
+        <GBFeature_location>1..&gt;488</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>488</GBInterval_to>
+            <GBInterval_accession>AY967461.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_partial3 value="true"/>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>codon_start</GBQualifier_name>
+            <GBQualifier_value>1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>transl_table</GBQualifier_name>
+            <GBQualifier_value>1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>product</GBQualifier_name>
+            <GBQualifier_value>core antigen precursor</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>protein_id</GBQualifier_name>
+            <GBQualifier_value>AAY24366.1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>translation</GBQualifier_name>
+            <GBQualifier_value>MRLFHLCLIISCSCPTVQASKLCLGWLWGMDIDPYKEFGASVELLSFLPSDFFPSIGDLLDTASALYREALESPEHCSPHHTALRQAILCWGELMNLATWVGSNLEDPASRELVVSYVNVNMGLKIRQLLWFHISCLTFGRQTVLEYLVSFGVWIRTPPAYRP</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>mat_peptide</GBFeature_key>
+        <GBFeature_location>187..&gt;488</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>187</GBInterval_from>
+            <GBInterval_to>488</GBInterval_to>
+            <GBInterval_accession>AY967461.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_partial3 value="true"/>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>product</GBQualifier_name>
+            <GBQualifier_value>core antigen</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>peptide</GBQualifier_name>
+            <GBQualifier_value>ASALYREALESPEHCSPHHTALRQAILCWGELMNLATWVGSNLEDPASRELVVSYVNVNMGLKIRQLLWFHISCLTFGRQTVLEYLVSFGVWIRTPPAYRP</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+    </GBSeq_feature-table>
+    <GBSeq_sequence>atgcgactttttcacctctgcctaatcatctcatgttcatgtcctactgttcaagcctccaagctgtgccttgggtggctttggggcatggacattgacccgtataaagaatttggagcttctgtggagttactctcttttttgccttctgacttctttccgtctattggggatctcctcgacaccgcctctgctttgtatcgggaggccttagagtctccggaacattgttcacctcaccatacagcactaaggcaagctattctgtgttggggtgagttgatgaatctggccacctgggtgggaagtaatttggaagacccagcatccagggaattagtagtaagctatgtcaatgttaacatgggcctaaaaatcagacaactattgtggtttcacatttcctgtcttacttttggaagacaaactgttctagaatatttggtgtcttttggagtgtggattcgcactcctcccgcttacagacc</GBSeq_sequence>
+  </GBSeq>

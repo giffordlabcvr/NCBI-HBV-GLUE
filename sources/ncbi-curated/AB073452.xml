@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<GBSeq>
+
+    <GBSeq_locus>AB073452</GBSeq_locus>
+    <GBSeq_length>543</GBSeq_length>
+    <GBSeq_strandedness>double</GBSeq_strandedness>
+    <GBSeq_moltype>DNA</GBSeq_moltype>
+    <GBSeq_topology>linear</GBSeq_topology>
+    <GBSeq_division>VRL</GBSeq_division>
+    <GBSeq_update-date>26-JUL-2016</GBSeq_update-date>
+    <GBSeq_create-date>25-APR-2002</GBSeq_create-date>
+    <GBSeq_definition>Hepatitis B virus gene for X protein, partial cds, clone:SF3-b3</GBSeq_definition>
+    <GBSeq_primary-accession>AB073452</GBSeq_primary-accession>
+    <GBSeq_accession-version>AB073452.1</GBSeq_accession-version>
+    <GBSeq_other-seqids>
+      <GBSeqid>dbj|AB073452.1|</GBSeqid>
+      <GBSeqid>gi|20302528</GBSeqid>
+    </GBSeq_other-seqids>
+    <GBSeq_source>Hepatitis B virus</GBSeq_source>
+    <GBSeq_organism>Hepatitis B virus</GBSeq_organism>
+    <GBSeq_taxonomy>Viruses; Retro-transcribing viruses; Hepadnaviridae; Orthohepadnavirus</GBSeq_taxonomy>
+    <GBSeq_references>
+      <GBReference>
+        <GBReference_reference>1</GBReference_reference>
+        <GBReference_position>1..543</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Kato,H.</GBAuthor>
+          <GBAuthor>Orito,E.</GBAuthor>
+          <GBAuthor>Gish,R.G.</GBAuthor>
+          <GBAuthor>Bzowej,N.</GBAuthor>
+          <GBAuthor>Newsom,M.</GBAuthor>
+          <GBAuthor>Sugauchi,F.</GBAuthor>
+          <GBAuthor>Suzuki,S.</GBAuthor>
+          <GBAuthor>Ueda,R.</GBAuthor>
+          <GBAuthor>Miyakawa,Y.</GBAuthor>
+          <GBAuthor>Mizokami,M.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>Hepatitis B e antigen in sera from individuals infected with hepatitis B virus of genotype G</GBReference_title>
+        <GBReference_journal>Hepatology 35 (4), 922-929 (2002)</GBReference_journal>
+        <GBReference_xref>
+          <GBXref>
+            <GBXref_dbname>doi</GBXref_dbname>
+            <GBXref_id>10.1053/jhep.2002.32096</GBXref_id>
+          </GBXref>
+        </GBReference_xref>
+        <GBReference_pubmed>11915040</GBReference_pubmed>
+      </GBReference>
+      <GBReference>
+        <GBReference_reference>2</GBReference_reference>
+        <GBReference_position>1..543</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Kato,H.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>Direct Submission</GBReference_title>
+        <GBReference_journal>Submitted (24-OCT-2001) Hideaki Kato, Nagoya City University Medical School, 2nd Department of Medicine; Kawasumi1, Mizuho-cho, Mizuho-ku, Nagoya, Aichi 467-0001, Japan (E-mail:hideakik@k6.dion.ne.jp, Tel:81-52-853-8216, Fax:81-52-852-0849)</GBReference_journal>
+      </GBReference>
+    </GBSeq_references>
+    <GBSeq_feature-table>
+      <GBFeature>
+        <GBFeature_key>source</GBFeature_key>
+        <GBFeature_location>1..543</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>543</GBInterval_to>
+            <GBInterval_accession>AB073452.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>organism</GBQualifier_name>
+            <GBQualifier_value>Hepatitis B virus</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>mol_type</GBQualifier_name>
+            <GBQualifier_value>genomic DNA</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>db_xref</GBQualifier_name>
+            <GBQualifier_value>taxon:10407</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>clone</GBQualifier_name>
+            <GBQualifier_value>SF3-b3</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>note</GBQualifier_name>
+            <GBQualifier_value>genotype G</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>gene</GBFeature_key>
+        <GBFeature_location>&lt;1..391</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>391</GBInterval_to>
+            <GBInterval_accession>AB073452.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_partial5 value="true"/>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>gene</GBQualifier_name>
+            <GBQualifier_value>X</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>CDS</GBFeature_key>
+        <GBFeature_location>&lt;1..391</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>391</GBInterval_to>
+            <GBInterval_accession>AB073452.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_partial5 value="true"/>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>gene</GBQualifier_name>
+            <GBQualifier_value>X</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>codon_start</GBQualifier_name>
+            <GBQualifier_value>2</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>transl_table</GBQualifier_name>
+            <GBQualifier_value>1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>product</GBQualifier_name>
+            <GBQualifier_value>X protein</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>protein_id</GBQualifier_name>
+            <GBQualifier_value>BAB91103.1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>translation</GBQualifier_name>
+            <GBQualifier_value>SGRPLPGPFGALSPPSPSAVPADHGAHLSLRGLPVCAFSSAGPCALRFTSARYMETAMNTSHHLPRQLYKRTLGLFVMSTTGVEKYFKDCVFKEWEELGNESRLMTFVLGGCRHKLVCAPAPCNFFTSA</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+    </GBSeq_feature-table>
+    <GBSeq_sequence>cagcggacgacccctcccggggccgtttggggctctgtcgcccccttctccgtctgccgttcctgccgaccacggggcgcacctctctttacgcggtctccccgtctgtgccttctcatctgccggaccgtgtgcacttcgcttcacctctgcacgttacatggaaaccgccatgaacacctctcatcatctgccaaggcagttatataagaggactcttggactgtttgttatgtcaacaaccggggtggagaaatacttcaaggactgtgtttttaaggagtgggaagaattaggcaatgagtccaggttaatgacctttgtattaggaggctgtaggcataaattggtctgcgcaccagcaccatgtaactttttcacctctgcctaatcatctcttgttcatgtcctactgttcaagcctccaagccgtgccttgggtggctttagggcatggatagaacaactttgccatatggcctttttggcttagacattgacccttataaagaatttggagctactgtggagttactctcgttt</GBSeq_sequence>
+  </GBSeq>

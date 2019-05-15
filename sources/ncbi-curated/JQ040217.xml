@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<GBSeq>
+
+    <GBSeq_locus>JQ040217</GBSeq_locus>
+    <GBSeq_length>510</GBSeq_length>
+    <GBSeq_strandedness>double</GBSeq_strandedness>
+    <GBSeq_moltype>DNA</GBSeq_moltype>
+    <GBSeq_topology>linear</GBSeq_topology>
+    <GBSeq_division>VRL</GBSeq_division>
+    <GBSeq_update-date>03-JAN-2013</GBSeq_update-date>
+    <GBSeq_create-date>30-NOV-2012</GBSeq_create-date>
+    <GBSeq_definition>Hepatitis B virus isolate 1824(0302) PreS protein (S) gene, partial cds</GBSeq_definition>
+    <GBSeq_primary-accession>JQ040217</GBSeq_primary-accession>
+    <GBSeq_accession-version>JQ040217.1</GBSeq_accession-version>
+    <GBSeq_other-seqids>
+      <GBSeqid>gb|JQ040217.1|</GBSeqid>
+      <GBSeqid>gi|407079653</GBSeqid>
+    </GBSeq_other-seqids>
+    <GBSeq_source>Hepatitis B virus</GBSeq_source>
+    <GBSeq_organism>Hepatitis B virus</GBSeq_organism>
+    <GBSeq_taxonomy>Viruses; Retro-transcribing viruses; Hepadnaviridae; Orthohepadnavirus</GBSeq_taxonomy>
+    <GBSeq_references>
+      <GBReference>
+        <GBReference_reference>1</GBReference_reference>
+        <GBReference_position>1..510</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Zhang,D.</GBAuthor>
+          <GBAuthor>Dong,P.</GBAuthor>
+          <GBAuthor>Zhang,K.</GBAuthor>
+          <GBAuthor>Deng,L.</GBAuthor>
+          <GBAuthor>Bach,C.</GBAuthor>
+          <GBAuthor>Chen,W.</GBAuthor>
+          <GBAuthor>Li,F.</GBAuthor>
+          <GBAuthor>Protzer,U.</GBAuthor>
+          <GBAuthor>Ding,H.</GBAuthor>
+          <GBAuthor>Zeng,C.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>Whole genome HBV deletion profiles and the accumulation of preS deletion mutant during antiviral treatment</GBReference_title>
+        <GBReference_journal>BMC Microbiol. 12 (1), 307 (2012)</GBReference_journal>
+        <GBReference_xref>
+          <GBXref>
+            <GBXref_dbname>doi</GBXref_dbname>
+            <GBXref_id>10.1186/1471-2180-12-307</GBXref_id>
+          </GBXref>
+        </GBReference_xref>
+        <GBReference_pubmed>23272650</GBReference_pubmed>
+        <GBReference_remark>Publication Status: Online-Only</GBReference_remark>
+      </GBReference>
+      <GBReference>
+        <GBReference_reference>2</GBReference_reference>
+        <GBReference_position>1..510</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Zhang,D.</GBAuthor>
+          <GBAuthor>Dong,P.</GBAuthor>
+          <GBAuthor>Ding,H.</GBAuthor>
+          <GBAuthor>Zeng,C.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>Direct Submission</GBReference_title>
+        <GBReference_journal>Submitted (15-NOV-2011) Laboratory of Disease Genomics and Individualized Medicine, Beijing Institute of Genomics, Chinese Academy of Sciences, No. 7 Beitucheng West Road, Chaoyang District, Beijing 100029, China</GBReference_journal>
+      </GBReference>
+    </GBSeq_references>
+    <GBSeq_comment>##Assembly-Data-START## ; Assembly Method :: SeqMan v. 5 ; Sequencing Technology :: Sanger dideoxy sequencing ; ##Assembly-Data-END##</GBSeq_comment>
+    <GBSeq_feature-table>
+      <GBFeature>
+        <GBFeature_key>source</GBFeature_key>
+        <GBFeature_location>1..510</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>510</GBInterval_to>
+            <GBInterval_accession>JQ040217.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>organism</GBQualifier_name>
+            <GBQualifier_value>Hepatitis B virus</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>mol_type</GBQualifier_name>
+            <GBQualifier_value>genomic DNA</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>isolate</GBQualifier_name>
+            <GBQualifier_value>1824(0302)</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>host</GBQualifier_name>
+            <GBQualifier_value>Homo sapiens</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>db_xref</GBQualifier_name>
+            <GBQualifier_value>taxon:10407</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>country</GBQualifier_name>
+            <GBQualifier_value>China</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>collection_date</GBQualifier_name>
+            <GBQualifier_value>2005</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>gene</GBFeature_key>
+        <GBFeature_location>1..&gt;510</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>510</GBInterval_to>
+            <GBInterval_accession>JQ040217.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_partial3 value="true"/>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>gene</GBQualifier_name>
+            <GBQualifier_value>S</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>CDS</GBFeature_key>
+        <GBFeature_location>1..&gt;510</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>510</GBInterval_to>
+            <GBInterval_accession>JQ040217.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_partial3 value="true"/>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>gene</GBQualifier_name>
+            <GBQualifier_value>S</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>codon_start</GBQualifier_name>
+            <GBQualifier_value>1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>transl_table</GBQualifier_name>
+            <GBQualifier_value>1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>product</GBQualifier_name>
+            <GBQualifier_value>PreS protein</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>protein_id</GBQualifier_name>
+            <GBQualifier_value>AFS89466.1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>translation</GBQualifier_name>
+            <GBQualifier_value>MGGWSSKPRQGMGTNLSVPNPLGFFPDHQLDTAFGANSNNPDWDFNPNKDHWPEANQVGAGAFGPGFTPPHGGLLGWSPQAQGILTTVQVAPPPASTNRQSGRQPTPISPPLRDSHPQAMQWNSTTLHQALIDPRVSPAGGSSSGTVNPVPTTASPISSILSRTGDPAPN</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+    </GBSeq_feature-table>
+    <GBSeq_sequence>atgggaggttggtcttccaaacctcgacaaggcatggggacaaatctttctgttccaaatcctctgggattctttcccgatcaccagttggacacggcgttcggagccaactcaaacaatccagattgggacttcaaccccaacaaggatcactggccagaggcaaatcaggtaggagcgggagcattcgggccagggttcaccccaccacacggcggtcttttggggtggagccctcaggctcagggcatattgacaacagtgcaagtagcacctcctcctgcctccaccaatcggcagtcaggaagacagcctactcccatctctccacctctaagagacagtcatcctcaggccatgcaatggaattccacaactttacaccaagctctgatagaccccagagtgagtcctgctggtggctccagttccggaacagtaaaccctgttccgactactgcctctcccatatcgtcaatcttatcgaggactggggaccctgcaccgaac</GBSeq_sequence>
+  </GBSeq>

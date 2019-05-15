@@ -1,0 +1,20 @@
+# this file expects the core HBV project to be in place, and 
+# all NCBI data including placements to be on disk.
+# it builds the NCBI extension project from disk
+
+run file glue/deleteNcbiExtension.glue
+
+project hbv
+
+  # import curated NCBI sequences from files
+  # import source --batchSize 1000 sources/ncbi-curated 
+
+  exit
+
+run file glue/ncbiHbvProject.glue
+
+project hbv
+
+  multi-set field sequence -w "source.name = 'ncbi-curated'" ncbi_incoming false
+
+  exit

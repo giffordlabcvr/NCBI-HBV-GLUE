@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<GBSeq>
+
+    <GBSeq_locus>MG776594</GBSeq_locus>
+    <GBSeq_length>465</GBSeq_length>
+    <GBSeq_strandedness>double</GBSeq_strandedness>
+    <GBSeq_moltype>DNA</GBSeq_moltype>
+    <GBSeq_topology>linear</GBSeq_topology>
+    <GBSeq_division>VRL</GBSeq_division>
+    <GBSeq_update-date>19-FEB-2018</GBSeq_update-date>
+    <GBSeq_create-date>19-FEB-2018</GBSeq_create-date>
+    <GBSeq_definition>Hepatitis B virus isolate SA-573 X protein (X) gene, complete cds</GBSeq_definition>
+    <GBSeq_primary-accession>MG776594</GBSeq_primary-accession>
+    <GBSeq_accession-version>MG776594.1</GBSeq_accession-version>
+    <GBSeq_other-seqids>
+      <GBSeqid>gb|MG776594.1|</GBSeqid>
+      <GBSeqid>gi|1343344166</GBSeqid>
+    </GBSeq_other-seqids>
+    <GBSeq_source>Hepatitis B virus</GBSeq_source>
+    <GBSeq_organism>Hepatitis B virus</GBSeq_organism>
+    <GBSeq_taxonomy>Viruses; Retro-transcribing viruses; Hepadnaviridae; Orthohepadnavirus</GBSeq_taxonomy>
+    <GBSeq_references>
+      <GBReference>
+        <GBReference_reference>1</GBReference_reference>
+        <GBReference_position>1..465</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Al-Qahtani,A.A.</GBAuthor>
+          <GBAuthor>Al-Anazi,M.R.</GBAuthor>
+          <GBAuthor>Nazir,N.</GBAuthor>
+          <GBAuthor>Ghai,R.</GBAuthor>
+          <GBAuthor>Abdo,A.A.</GBAuthor>
+          <GBAuthor>Sanai,F.M.</GBAuthor>
+          <GBAuthor>Al-Hamoudi,W.K.</GBAuthor>
+          <GBAuthor>Alswat,K.A.</GBAuthor>
+          <GBAuthor>Al-Ashgar,H.I.</GBAuthor>
+          <GBAuthor>Khan,M.Q.</GBAuthor>
+          <GBAuthor>Albenmousa,A.</GBAuthor>
+          <GBAuthor>Cruz,D.D.</GBAuthor>
+          <GBAuthor>Bohol,M.F.F.</GBAuthor>
+          <GBAuthor>Al-Ahdal,M.N.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>Hepatitis B virus (HBV) X gene mutations and their association with liver disease progression in HBV-infected patients</GBReference_title>
+        <GBReference_journal>Oncotarget 8 (62), 105115-105125 (2017)</GBReference_journal>
+        <GBReference_xref>
+          <GBXref>
+            <GBXref_dbname>doi</GBXref_dbname>
+            <GBXref_id>10.18632/oncotarget.22428</GBXref_id>
+          </GBXref>
+        </GBReference_xref>
+        <GBReference_pubmed>29285238</GBReference_pubmed>
+        <GBReference_remark>Publication Status: Online-Only</GBReference_remark>
+      </GBReference>
+      <GBReference>
+        <GBReference_reference>2</GBReference_reference>
+        <GBReference_position>1..465</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Al-Qahtani,A.A.</GBAuthor>
+          <GBAuthor>Al-Anazi,M.R.</GBAuthor>
+          <GBAuthor>Nazir,N.</GBAuthor>
+          <GBAuthor>Ghai,R.</GBAuthor>
+          <GBAuthor>Abdo,A.A.</GBAuthor>
+          <GBAuthor>Sanai,F.M.</GBAuthor>
+          <GBAuthor>Al-Hamoudi,W.K.</GBAuthor>
+          <GBAuthor>Alswat,K.A.</GBAuthor>
+          <GBAuthor>Al-Ashgar,H.I.</GBAuthor>
+          <GBAuthor>Khan,M.Q.</GBAuthor>
+          <GBAuthor>Albenmousa,A.</GBAuthor>
+          <GBAuthor>Dela Cruz,D.M.</GBAuthor>
+          <GBAuthor>Bohol,M.F.F.</GBAuthor>
+          <GBAuthor>Al-Ahdal,M.N.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>Direct Submission</GBReference_title>
+        <GBReference_journal>Submitted (09-JAN-2018) Department of Infection and Immunity, Research Center/ King Faisal Specialist Hospital &amp; Research Centre, Takhassusi Road P.O. Box 3354 (MBC-03), Riyadh 11211, Saudi Arabia</GBReference_journal>
+      </GBReference>
+    </GBSeq_references>
+    <GBSeq_comment>##Assembly-Data-START## ; Sequencing Technology :: Sanger dideoxy sequencing ; ##Assembly-Data-END##</GBSeq_comment>
+    <GBSeq_feature-table>
+      <GBFeature>
+        <GBFeature_key>source</GBFeature_key>
+        <GBFeature_location>1..465</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>465</GBInterval_to>
+            <GBInterval_accession>MG776594.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>organism</GBQualifier_name>
+            <GBQualifier_value>Hepatitis B virus</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>mol_type</GBQualifier_name>
+            <GBQualifier_value>genomic DNA</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>serotype</GBQualifier_name>
+            <GBQualifier_value>ayw2</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>isolate</GBQualifier_name>
+            <GBQualifier_value>SA-573</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>isolation_source</GBQualifier_name>
+            <GBQualifier_value>blood serum</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>host</GBQualifier_name>
+            <GBQualifier_value>Homo sapiens</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>db_xref</GBQualifier_name>
+            <GBQualifier_value>taxon:10407</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>country</GBQualifier_name>
+            <GBQualifier_value>Saudi Arabia</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>collection_date</GBQualifier_name>
+            <GBQualifier_value>14-May-2008</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>note</GBQualifier_name>
+            <GBQualifier_value>genotype: D</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>gene</GBFeature_key>
+        <GBFeature_location>1..465</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>465</GBInterval_to>
+            <GBInterval_accession>MG776594.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>gene</GBQualifier_name>
+            <GBQualifier_value>X</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>CDS</GBFeature_key>
+        <GBFeature_location>1..465</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>465</GBInterval_to>
+            <GBInterval_accession>MG776594.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>gene</GBQualifier_name>
+            <GBQualifier_value>X</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>codon_start</GBQualifier_name>
+            <GBQualifier_value>1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>transl_table</GBQualifier_name>
+            <GBQualifier_value>1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>product</GBQualifier_name>
+            <GBQualifier_value>X protein</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>protein_id</GBQualifier_name>
+            <GBQualifier_value>AVD69853.1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>translation</GBQualifier_name>
+            <GBQualifier_value>MAARLCCQLDPARDVLCLRPVGAESRGRPFSGPLGAFSSPSPSAVPTDHGAHLSLRGLPVCAFSSAGPCALRFTSARRMETTVNAHQFLPKVLHKRTLGLSVMSTTDLEAYFKDCLFKDWEELGEENRLMIFVLGGCRHKLVCVPAPCNFFTSA</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+    </GBSeq_feature-table>
+    <GBSeq_sequence>atggctgctaggctgtgctgccaactggatcctgcgcgggacgtcctttgtttacgtcccgtcggcgctgaatcccgcggacgacccttctcggggccgcttggggctttctcgtccccttctccgtctgccgttccgaccgaccacggggcgcacctctctttacgcggactccccgtctgtgccttctcatctgccggaccgtgtgcacttcgcttcacctctgcacgtcgcatggagaccaccgtgaacgcccaccaattcttgcccaaggtcttacataagaggactcttggactctctgtaatgtcaacgaccgaccttgaggcatacttcaaagactgtttgtttaaagactgggaggagttgggggaggagaataggttaatgatctttgtactgggaggctgtaggcataaattggtctgcgtaccagcaccatgcaactttttcacctctgcctaa</GBSeq_sequence>
+  </GBSeq>

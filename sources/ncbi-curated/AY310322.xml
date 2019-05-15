@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<GBSeq>
+
+    <GBSeq_locus>AY310322</GBSeq_locus>
+    <GBSeq_length>465</GBSeq_length>
+    <GBSeq_strandedness>double</GBSeq_strandedness>
+    <GBSeq_moltype>DNA</GBSeq_moltype>
+    <GBSeq_topology>linear</GBSeq_topology>
+    <GBSeq_division>VRL</GBSeq_division>
+    <GBSeq_update-date>28-MAR-2005</GBSeq_update-date>
+    <GBSeq_create-date>25-JUN-2003</GBSeq_create-date>
+    <GBSeq_definition>Hepatitis B virus non-structural viral protein HBx (X) gene, complete cds</GBSeq_definition>
+    <GBSeq_primary-accession>AY310322</GBSeq_primary-accession>
+    <GBSeq_accession-version>AY310322.2</GBSeq_accession-version>
+    <GBSeq_other-seqids>
+      <GBSeqid>gb|AY310322.2|</GBSeqid>
+      <GBSeqid>gi|48374146</GBSeqid>
+    </GBSeq_other-seqids>
+    <GBSeq_source>Hepatitis B virus</GBSeq_source>
+    <GBSeq_organism>Hepatitis B virus</GBSeq_organism>
+    <GBSeq_taxonomy>Viruses; Retro-transcribing viruses; Hepadnaviridae; Orthohepadnavirus</GBSeq_taxonomy>
+    <GBSeq_references>
+      <GBReference>
+        <GBReference_reference>1</GBReference_reference>
+        <GBReference_position>1..465</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Zhang,J.L.</GBAuthor>
+          <GBAuthor>Zhao,W.G.</GBAuthor>
+          <GBAuthor>Wu,K.L.</GBAuthor>
+          <GBAuthor>Wang,K.</GBAuthor>
+          <GBAuthor>Zhang,X.</GBAuthor>
+          <GBAuthor>Gu,C.F.</GBAuthor>
+          <GBAuthor>Li,Y.</GBAuthor>
+          <GBAuthor>Zhu,Y.</GBAuthor>
+          <GBAuthor>Wu,J.G.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>Human hepatitis B virus X protein promotes cell proliferation and inhibits cell apoptosis through interacting with a serine protease Hepsin</GBReference_title>
+        <GBReference_journal>Arch. Virol. 150 (4), 721-741 (2005)</GBReference_journal>
+        <GBReference_xref>
+          <GBXref>
+            <GBXref_dbname>doi</GBXref_dbname>
+            <GBXref_id>10.1007/s00705-004-0446-0</GBXref_id>
+          </GBXref>
+        </GBReference_xref>
+        <GBReference_pubmed>15614436</GBReference_pubmed>
+      </GBReference>
+      <GBReference>
+        <GBReference_reference>2</GBReference_reference>
+        <GBReference_position>1..465</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Zhang,J.</GBAuthor>
+          <GBAuthor>Zhao,W.</GBAuthor>
+          <GBAuthor>Zhu,Y.</GBAuthor>
+          <GBAuthor>Li,Y.</GBAuthor>
+          <GBAuthor>Cheng,M.</GBAuthor>
+          <GBAuthor>Wu,J.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>Direct Submission</GBReference_title>
+        <GBReference_journal>Submitted (30-MAY-2003) College of the Life Sciences, Institution of Virology, Wuhan University, Wuhan, Hubei 430072, China</GBReference_journal>
+      </GBReference>
+      <GBReference>
+        <GBReference_reference>3</GBReference_reference>
+        <GBReference_position>1..465</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Zhang,J.</GBAuthor>
+          <GBAuthor>Zhao,W.</GBAuthor>
+          <GBAuthor>Zhu,Y.</GBAuthor>
+          <GBAuthor>Li,Y.</GBAuthor>
+          <GBAuthor>Cheng,M.</GBAuthor>
+          <GBAuthor>Wu,J.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>Direct Submission</GBReference_title>
+        <GBReference_journal>Submitted (07-JUN-2004) College of the Life Sciences, Institution of Virology, Wuhan University, Wuhan, Hubei 430072, China</GBReference_journal>
+        <GBReference_remark>Sequence update by submitter</GBReference_remark>
+      </GBReference>
+    </GBSeq_references>
+    <GBSeq_comment>On Jun 7, 2004 this sequence version replaced AY310322.1.</GBSeq_comment>
+    <GBSeq_feature-table>
+      <GBFeature>
+        <GBFeature_key>source</GBFeature_key>
+        <GBFeature_location>1..465</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>465</GBInterval_to>
+            <GBInterval_accession>AY310322.2</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>organism</GBQualifier_name>
+            <GBQualifier_value>Hepatitis B virus</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>mol_type</GBQualifier_name>
+            <GBQualifier_value>genomic DNA</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>isolation_source</GBQualifier_name>
+            <GBQualifier_value>serum from patient with HCC</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>host</GBQualifier_name>
+            <GBQualifier_value>Homo sapiens</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>db_xref</GBQualifier_name>
+            <GBQualifier_value>taxon:10407</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>gene</GBFeature_key>
+        <GBFeature_location>1..465</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>465</GBInterval_to>
+            <GBInterval_accession>AY310322.2</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>gene</GBQualifier_name>
+            <GBQualifier_value>X</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>CDS</GBFeature_key>
+        <GBFeature_location>1..465</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>465</GBInterval_to>
+            <GBInterval_accession>AY310322.2</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>gene</GBQualifier_name>
+            <GBQualifier_value>X</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>codon_start</GBQualifier_name>
+            <GBQualifier_value>1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>transl_table</GBQualifier_name>
+            <GBQualifier_value>1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>product</GBQualifier_name>
+            <GBQualifier_value>non-structural viral protein HBx</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>protein_id</GBQualifier_name>
+            <GBQualifier_value>AAP74547.2</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>translation</GBQualifier_name>
+            <GBQualifier_value>MAARLCCQLDPARDVLCLRPVGAESRGRPLPGPLGALPPASPPVVPTDHGAHLSLRGLPVCAFSSAGPCALRFTSARRMETTVNAHRNLPKVLHKRTLGLSAMSTTDLEAYFKDCVFTEWEELGEEVRLKVFVLGGCRHKLVCSPAPCNFFTSA</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+    </GBSeq_feature-table>
+    <GBSeq_sequence>atggctgctaggctgtgctgccaactggatcctgcgcgggacgtcctttgtttacgtcccgtcggcgctgaatcccgcggacgacccctcccggggccgcttggggctctaccgcccgcttctccgcctgttgtaccgaccgaccacggggcgcacctctctttacgcggactccccgtctgtgccttttcatctgccggaccgtgtgcacttcgcttcacctctgcacgtcgcatggagaccaccgtgaacgcccacaggaacctgcccaaggtcttgcataagaggactcttggactttcagcaatgtcaacgaccgaccttgaggcatacttcaaagactgtgtgtttactgagtgggaggagttgggggaggaggttaggttaaaggtctttgtactaggaggctgtaggcataaattggtgtgttcaccagcaccatgcaactttttcacctctgcctaa</GBSeq_sequence>
+  </GBSeq>

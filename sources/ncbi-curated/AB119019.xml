@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<GBSeq>
+
+    <GBSeq_locus>AB119019</GBSeq_locus>
+    <GBSeq_length>396</GBSeq_length>
+    <GBSeq_strandedness>double</GBSeq_strandedness>
+    <GBSeq_moltype>DNA</GBSeq_moltype>
+    <GBSeq_topology>linear</GBSeq_topology>
+    <GBSeq_division>VRL</GBSeq_division>
+    <GBSeq_update-date>26-JUL-2016</GBSeq_update-date>
+    <GBSeq_create-date>16-MAR-2004</GBSeq_create-date>
+    <GBSeq_definition>Hepatitis B virus gene for surface antigen, partial cds, isolate: MNB151</GBSeq_definition>
+    <GBSeq_primary-accession>AB119019</GBSeq_primary-accession>
+    <GBSeq_accession-version>AB119019.1</GBSeq_accession-version>
+    <GBSeq_other-seqids>
+      <GBSeqid>dbj|AB119019.1|</GBSeqid>
+      <GBSeqid>gi|45476329</GBSeqid>
+    </GBSeq_other-seqids>
+    <GBSeq_source>Hepatitis B virus</GBSeq_source>
+    <GBSeq_organism>Hepatitis B virus</GBSeq_organism>
+    <GBSeq_taxonomy>Viruses; Retro-transcribing viruses; Hepadnaviridae; Orthohepadnavirus</GBSeq_taxonomy>
+    <GBSeq_references>
+      <GBReference>
+        <GBReference_reference>1</GBReference_reference>
+        <GBReference_position>1..396</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Takahashi,M.</GBAuthor>
+          <GBAuthor>Nishizawa,T.</GBAuthor>
+          <GBAuthor>Gotanda,Y.</GBAuthor>
+          <GBAuthor>Tsuda,F.</GBAuthor>
+          <GBAuthor>Komatsu,F.</GBAuthor>
+          <GBAuthor>Kawabata,T.</GBAuthor>
+          <GBAuthor>Hasegawa,K.</GBAuthor>
+          <GBAuthor>Altankhuu,M.</GBAuthor>
+          <GBAuthor>Chimedregzen,U.</GBAuthor>
+          <GBAuthor>Narantuya,L.</GBAuthor>
+          <GBAuthor>Hoshino,H.</GBAuthor>
+          <GBAuthor>Hino,K.</GBAuthor>
+          <GBAuthor>Kagawa,Y.</GBAuthor>
+          <GBAuthor>Okamoto,H.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>High prevalence of antibodies to hepatitis A and E viruses and viremia of hepatitis B, C, and D viruses among apparently healthy populations in Mongolia</GBReference_title>
+        <GBReference_journal>Clin. Diagn. Lab. Immunol. 11 (2), 392-398 (2004)</GBReference_journal>
+        <GBReference_pubmed>15013993</GBReference_pubmed>
+      </GBReference>
+      <GBReference>
+        <GBReference_reference>2</GBReference_reference>
+        <GBReference_position>1..396</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Okamoto,H.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>Direct Submission</GBReference_title>
+        <GBReference_journal>Submitted (28-AUG-2003) Contact:Hiroaki Okamoto Jichi Medical School, Division of Virology, Department of Infection and Immunity; 3311-1 Yakushiji, Minamikawachi-Machi, Kawachi-Gun, Tochigi 329-0498, Japan</GBReference_journal>
+      </GBReference>
+    </GBSeq_references>
+    <GBSeq_feature-table>
+      <GBFeature>
+        <GBFeature_key>source</GBFeature_key>
+        <GBFeature_location>1..396</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>396</GBInterval_to>
+            <GBInterval_accession>AB119019.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>organism</GBQualifier_name>
+            <GBQualifier_value>Hepatitis B virus</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>mol_type</GBQualifier_name>
+            <GBQualifier_value>genomic DNA</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>isolate</GBQualifier_name>
+            <GBQualifier_value>MNB151</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>isolation_source</GBQualifier_name>
+            <GBQualifier_value>serum</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>host</GBQualifier_name>
+            <GBQualifier_value>Homo sapiens</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>db_xref</GBQualifier_name>
+            <GBQualifier_value>taxon:10407</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>country</GBQualifier_name>
+            <GBQualifier_value>Mongolia</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>gene</GBFeature_key>
+        <GBFeature_location>&lt;1..&gt;396</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>396</GBInterval_to>
+            <GBInterval_accession>AB119019.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_partial5 value="true"/>
+        <GBFeature_partial3 value="true"/>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>gene</GBQualifier_name>
+            <GBQualifier_value>S</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>CDS</GBFeature_key>
+        <GBFeature_location>&lt;1..&gt;396</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>396</GBInterval_to>
+            <GBInterval_accession>AB119019.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_partial5 value="true"/>
+        <GBFeature_partial3 value="true"/>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>gene</GBQualifier_name>
+            <GBQualifier_value>S</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>codon_start</GBQualifier_name>
+            <GBQualifier_value>1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>transl_table</GBQualifier_name>
+            <GBQualifier_value>1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>product</GBQualifier_name>
+            <GBQualifier_value>surface antigen</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>protein_id</GBQualifier_name>
+            <GBQualifier_value>BAD12504.1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>translation</GBQualifier_name>
+            <GBQualifier_value>NXLGGTTVCXGQNSQSPTSNHSPTSCPPTCPGYRWMCLRRFIIFLFILLLCLIFLLXLXDYQGMLPVCPXIPGSSTTSTGPCRTCTTPAQGTSMYPSCCCTKPSDGNCTCIPIPSSWAFGKFLWEWASARFS</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+    </GBSeq_feature-table>
+    <GBSeq_sequence>aatwttctagggggaactaccgtgtgtcytggccaaaattcgcagtccccaacctccaatcactcaccaacctcctgtcctccaacttgtcctggttatcgctggatgtgtctgcggcgttttatcatattcctcttcatcctgctgctatgcctcatcttcttgttggytcttstggactatcaaggtatgttgcccgtttgtcctcwaattccaggatcttcaaccaccagcacgggaccatgcaggacctgcacgacgcctgctcaaggaacctctatgtatccctcctgttgctgtaccaaaccttcggacggaaattgcacctgtattcccatcccatcatcttgggctttcggaaaattcctatgggagtgggcctcagcccgtttctcc</GBSeq_sequence>
+  </GBSeq>

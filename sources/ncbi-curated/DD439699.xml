@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<GBSeq>
+
+    <GBSeq_locus>DD439699</GBSeq_locus>
+    <GBSeq_length>1203</GBSeq_length>
+    <GBSeq_strandedness>double</GBSeq_strandedness>
+    <GBSeq_moltype>DNA</GBSeq_moltype>
+    <GBSeq_topology>linear</GBSeq_topology>
+    <GBSeq_division>PAT</GBSeq_division>
+    <GBSeq_update-date>02-JUL-2007</GBSeq_update-date>
+    <GBSeq_create-date>02-JUL-2007</GBSeq_create-date>
+    <GBSeq_definition>ERYTHROPOIETIN: REMODELING AND GLYCOCONJUGATION OF ERYTHROPOIETIN</GBSeq_definition>
+    <GBSeq_primary-accession>DD439699</GBSeq_primary-accession>
+    <GBSeq_accession-version>DD439699.1</GBSeq_accession-version>
+    <GBSeq_other-seqids>
+      <GBSeqid>dbj|DD439699.1|</GBSeqid>
+      <GBSeqid>pat|JP|2006522738|21</GBSeqid>
+      <GBSeqid>gi|150440381</GBSeqid>
+    </GBSeq_other-seqids>
+    <GBSeq_keywords>
+      <GBKeyword>JP 2006522738-A/21</GBKeyword>
+    </GBSeq_keywords>
+    <GBSeq_source>Hepatitis B virus</GBSeq_source>
+    <GBSeq_organism>Hepatitis B virus</GBSeq_organism>
+    <GBSeq_taxonomy>Viruses; Retro-transcribing viruses; Hepadnaviridae; Orthohepadnavirus</GBSeq_taxonomy>
+    <GBSeq_references>
+      <GBReference>
+        <GBReference_reference>1</GBReference_reference>
+        <GBReference_position>1..1203</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Defrees,S.</GBAuthor>
+          <GBAuthor>Bayer,R.</GBAuthor>
+          <GBAuthor>Hakes,D.</GBAuthor>
+          <GBAuthor>Chen,X.</GBAuthor>
+          <GBAuthor>Bowe,C.</GBAuthor>
+          <GBAuthor>Zopf,D.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>ERYTHROPOIETIN: REMODELING AND GLYCOCONJUGATION OF ERYTHROPOIETIN</GBReference_title>
+        <GBReference_journal>JP2006522738-A 21 05-OCT-2006 Neose Technologies Inc,Shawn DeFrees,David Zopf,Robert Bayer, David Hakes, Xi Chen,Caryne Bowe</GBReference_journal>
+      </GBReference>
+    </GBSeq_references>
+    <GBSeq_comment>OS Hepatitis B virus~PN JP 2006522738-A/21~PD 05-OCT-2006~PF 08-OCT-2003 JP 2005501139~PR 09-OCT-2002 US T/US02/32263,05-NOV-2002 US 10/287994, PR 06-JAN-2003 US 10/360770,19-FEB-2003 US 10/360779, PR 09-APR-2003 US 10/410945~PI shawn defrees,robert bayer,david hakes,xi chen,caryne bowe, PI david zopf~CC~FH Key Location/Qualifiers.</GBSeq_comment>
+    <GBSeq_feature-table>
+      <GBFeature>
+        <GBFeature_key>source</GBFeature_key>
+        <GBFeature_location>1..1203</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>1203</GBInterval_to>
+            <GBInterval_accession>DD439699.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>organism</GBQualifier_name>
+            <GBQualifier_value>Hepatitis B virus</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>mol_type</GBQualifier_name>
+            <GBQualifier_value>unassigned DNA</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>db_xref</GBQualifier_name>
+            <GBQualifier_value>taxon:10407</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+    </GBSeq_feature-table>
+    <GBSeq_sequence>atgggaggttggtcttccaaacctcgacaaggcatggggacgaatctttctgttcccaatcctctgggattctttcccgatcaccagttggaccctgcgttcggagccaactcaaacaatccagattgggacttcaaccccaacaaggatcactggccagaggcaatcaaggtaggagcgggagacttcgggccagggttcaccccaccacacggcggtcttttggggtggagccctcaggctcagggcatattgacaacagtgccagcagcgcctcctcctgtttccaccaatcggcagtcaggaagacagcctactcccatctctccacctctaagagacagtcatcctcaggccatgcagtggaactccacaacattccaccaagctctgctagatcccagagtgaggggcctatattttcctgctggtggctccagttccggaacagtaaaccctgttccgactactgtctcacccatatcgtcaatcttctcgaggactggggaccctgcaccgaacatggagagcacaacatcaggattcctaggacccctgctcgtgttacaggcggggtttttcttgttgacaagaatcctcacaataccacagagtctagactcgtggtggacttctctcaattttctagggggagcacccacgtgtcctggccaaaattcgcagtccccaacctccaatcactcaccaacctcttgtcctccaatttgtcctggttatcgctggatgtgtctgcggcgttttatcatattcctcttcatcctgctgctatgcctcatcttcttgttggttcttctggactaccaaggtatgttgcccgtttgtcctctacttccaggaacatcaactaccagcacgggaccatgcaagacctgcacgattcctgctcaaggaacctctatgtttccctcttgttgctgtacaaaaccttcggacggaaactgcacttgtattcccatcccatcatcctgggctttcgcaagattcctatgggagtgggcctcagtccgtttctcctggctcagtttactagtgccatttgttcagtggttcgcagggctttcccccactgtttggctttcagttatatggatgatgtggtattgggggccaagtctgtacaacatcttgagtccctttttacctctattaccaattttcttttgtctttgggtatacatttga</GBSeq_sequence>
+  </GBSeq>

@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<GBSeq>
+
+    <GBSeq_locus>KP191643</GBSeq_locus>
+    <GBSeq_length>1169</GBSeq_length>
+    <GBSeq_strandedness>double</GBSeq_strandedness>
+    <GBSeq_moltype>DNA</GBSeq_moltype>
+    <GBSeq_topology>linear</GBSeq_topology>
+    <GBSeq_division>VRL</GBSeq_division>
+    <GBSeq_update-date>30-DEC-2015</GBSeq_update-date>
+    <GBSeq_create-date>30-DEC-2015</GBSeq_create-date>
+    <GBSeq_definition>Hepatitis B virus isolate S118S nonfunctional large S protein gene, complete sequence; and middle S protein and S protein genes, complete cds</GBSeq_definition>
+    <GBSeq_primary-accession>KP191643</GBSeq_primary-accession>
+    <GBSeq_accession-version>KP191643.1</GBSeq_accession-version>
+    <GBSeq_other-seqids>
+      <GBSeqid>gb|KP191643.1|</GBSeqid>
+      <GBSeqid>gi|747156377</GBSeqid>
+    </GBSeq_other-seqids>
+    <GBSeq_source>Hepatitis B virus</GBSeq_source>
+    <GBSeq_organism>Hepatitis B virus</GBSeq_organism>
+    <GBSeq_taxonomy>Viruses; Retro-transcribing viruses; Hepadnaviridae; Orthohepadnavirus</GBSeq_taxonomy>
+    <GBSeq_references>
+      <GBReference>
+        <GBReference_reference>1</GBReference_reference>
+        <GBReference_position>1..1169</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>El Hadad,S.R.</GBAuthor>
+          <GBAuthor>Alakilli,S.</GBAuthor>
+          <GBAuthor>Rabah,S.O.</GBAuthor>
+          <GBAuthor>Saber,G.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>Identification of D1 and novel D11 subgenotypes as a common Hepatitis B surface antigen in Jeddah province, Saudi Arabia</GBReference_title>
+        <GBReference_journal>Unpublished</GBReference_journal>
+      </GBReference>
+      <GBReference>
+        <GBReference_reference>2</GBReference_reference>
+        <GBReference_position>1..1169</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>El Hadad,S.R.</GBAuthor>
+          <GBAuthor>Alakilli,S.</GBAuthor>
+          <GBAuthor>Rabah,S.O.</GBAuthor>
+          <GBAuthor>Saber,G.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>Direct Submission</GBReference_title>
+        <GBReference_journal>Submitted (21-NOV-2014) King Abdualziz University, Old Airport St., Jeddah 12554, Saudi Arabia</GBReference_journal>
+      </GBReference>
+    </GBSeq_references>
+    <GBSeq_comment>##Assembly-Data-START## ; Sequencing Technology :: Sanger dideoxy sequencing ; ##Assembly-Data-END##</GBSeq_comment>
+    <GBSeq_feature-table>
+      <GBFeature>
+        <GBFeature_key>source</GBFeature_key>
+        <GBFeature_location>1..1169</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>1169</GBInterval_to>
+            <GBInterval_accession>KP191643.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>organism</GBQualifier_name>
+            <GBQualifier_value>Hepatitis B virus</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>mol_type</GBQualifier_name>
+            <GBQualifier_value>genomic DNA</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>isolate</GBQualifier_name>
+            <GBQualifier_value>S118S</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>isolation_source</GBQualifier_name>
+            <GBQualifier_value>serum</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>host</GBQualifier_name>
+            <GBQualifier_value>Homo sapiens</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>db_xref</GBQualifier_name>
+            <GBQualifier_value>taxon:10407</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>country</GBQualifier_name>
+            <GBQualifier_value>Saudi Arabia: Jeddah</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>collection_date</GBQualifier_name>
+            <GBQualifier_value>30-Dec-2013</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>note</GBQualifier_name>
+            <GBQualifier_value>genotype: D11</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>misc_feature</GBFeature_key>
+        <GBFeature_location>1..1169</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>1169</GBInterval_to>
+            <GBInterval_accession>KP191643.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>note</GBQualifier_name>
+            <GBQualifier_value>nonfunctional large S protein due to mutation; large surface protein; pre-S1/pre-S2/S</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>CDS</GBFeature_key>
+        <GBFeature_location>324..1169</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>324</GBInterval_from>
+            <GBInterval_to>1169</GBInterval_to>
+            <GBInterval_accession>KP191643.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>note</GBQualifier_name>
+            <GBQualifier_value>pre-S2/S</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>codon_start</GBQualifier_name>
+            <GBQualifier_value>1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>transl_table</GBQualifier_name>
+            <GBQualifier_value>1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>product</GBQualifier_name>
+            <GBQualifier_value>middle S protein</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>protein_id</GBQualifier_name>
+            <GBQualifier_value>AJE24340.1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>translation</GBQualifier_name>
+            <GBQualifier_value>MQWISTTFHQALQDPRVRGLYFPAGGSTSGTVNPVPTTASHILSIFSKIGDPGLNMENITSGILGPLLVLQAGFFLLTSILTIPQSLEAWWTSLNFLGGTTVCLGQNSQSPTSNHSPTSCPPTCPGYRWSCLRRFIIFLFILLLCLIFLLCLLDYQGMLPVCPLIPGSSTTSTGPCRTCTTPAQGTSMYPSCCCTKPSDGNCTCIPIPSSWAFGKFLWEWASARFSWLSLLVPFVQWFVEVSPTVWLSVIWMRWYWGPSLYSILIAFLLLLPTFFCLWVYI</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>CDS</GBFeature_key>
+        <GBFeature_location>489..1169</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>489</GBInterval_from>
+            <GBInterval_to>1169</GBInterval_to>
+            <GBInterval_accession>KP191643.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>note</GBQualifier_name>
+            <GBQualifier_value>HBsAg</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>codon_start</GBQualifier_name>
+            <GBQualifier_value>1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>transl_table</GBQualifier_name>
+            <GBQualifier_value>1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>product</GBQualifier_name>
+            <GBQualifier_value>S protein</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>protein_id</GBQualifier_name>
+            <GBQualifier_value>AJE24341.1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>translation</GBQualifier_name>
+            <GBQualifier_value>MENITSGILGPLLVLQAGFFLLTSILTIPQSLEAWWTSLNFLGGTTVCLGQNSQSPTSNHSPTSCPPTCPGYRWSCLRRFIIFLFILLLCLIFLLCLLDYQGMLPVCPLIPGSSTTSTGPCRTCTTPAQGTSMYPSCCCTKPSDGNCTCIPIPSSWAFGKFLWEWASARFSWLSLLVPFVQWFVEVSPTVWLSVIWMRWYWGPSLYSILIAFLLLLPTFFCLWVYI</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+    </GBSeq_feature-table>
+    <GBSeq_sequence>atggggcagaatctttccacagcaatcctctgggattctttcccgaccaccagttggatccagccttcagagcaaacaccgcaaatccagattgggacttcaatcccaacaaggacacctggccggacgccaacaaggtaggagctggagcattcgggctgggattcaccccaccgcacggaggtcttttggggtggagccctcaagctcagggcatactaccaaccttgccagctaatgcgcctcctgcagctactaatcgcaagtctggcaggcagcctaccccactgtctccacctttgagagacactcatcctcaggccatgcagtggatctccacaaccttccaccaagctctgcaagatcccagagtgcgaggcctgtatttccctgctggtggctcaacttccgggacagtaaaccctgttccgactactgcctctcacatattgtcaatcttctcgaagattggggaccctgggctgaacatggagaacatcacctcagggatcctaggacccctgctcgtgttacaggcggggtttttcttgttgacaagtatcctcacaataccgcagagtctagaagcgtggtggacttctctcaattttctagggggaactaccgtgtgtcttggccaaaattcgcagtccccaacctccaatcactcaccaacctcctgtcctccaacttgtcctggttatcgttggtcgtgtctgcggcgttttatcatattcctcttcatcctgctgctatgcctcatcttcttgttgtgcctgttggactatcaaggtatgttgcccgtttgtcctctaattccaggatcttcaaccaccagcacgggaccatgcagaacctgcacgactcctgctcaaggaacctctatgtatccctcctgctgctgtaccaaaccttcggacggaaattgcacctgtattcccatcccatcatcctgggctttcggaaaattcctatgggagtgggcctcagcccgtttctcctggctcagtttactagtgccatttgttcagtggttcgtagaggtttcccccactgtttggctttcagttatatggatgaggtggtattgggggccaagtctgtacagcatcttgattgcgtttttactgctgttaccaactttcttttgtctttgggtatacatttaa</GBSeq_sequence>
+  </GBSeq>

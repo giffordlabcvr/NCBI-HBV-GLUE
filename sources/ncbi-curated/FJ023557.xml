@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<GBSeq>
+
+    <GBSeq_locus>FJ023557</GBSeq_locus>
+    <GBSeq_length>990</GBSeq_length>
+    <GBSeq_strandedness>double</GBSeq_strandedness>
+    <GBSeq_moltype>DNA</GBSeq_moltype>
+    <GBSeq_topology>linear</GBSeq_topology>
+    <GBSeq_division>VRL</GBSeq_division>
+    <GBSeq_update-date>26-JUL-2016</GBSeq_update-date>
+    <GBSeq_create-date>03-NOV-2008</GBSeq_create-date>
+    <GBSeq_definition>Hepatitis B virus isolate M04-3692 clone 5 X protein (X) gene, partial cds</GBSeq_definition>
+    <GBSeq_primary-accession>FJ023557</GBSeq_primary-accession>
+    <GBSeq_accession-version>FJ023557.1</GBSeq_accession-version>
+    <GBSeq_other-seqids>
+      <GBSeqid>gb|FJ023557.1|</GBSeqid>
+      <GBSeqid>gi|209484258</GBSeqid>
+    </GBSeq_other-seqids>
+    <GBSeq_source>Hepatitis B virus</GBSeq_source>
+    <GBSeq_organism>Hepatitis B virus</GBSeq_organism>
+    <GBSeq_taxonomy>Viruses; Retro-transcribing viruses; Hepadnaviridae; Orthohepadnavirus</GBSeq_taxonomy>
+    <GBSeq_references>
+      <GBReference>
+        <GBReference_reference>1</GBReference_reference>
+        <GBReference_position>1..990</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Olinger,C.M.</GBAuthor>
+          <GBAuthor>Jutavijittum,P.</GBAuthor>
+          <GBAuthor>Hubschen,J.M.</GBAuthor>
+          <GBAuthor>Yousukh,A.</GBAuthor>
+          <GBAuthor>Samountry,B.</GBAuthor>
+          <GBAuthor>Thammavong,T.</GBAuthor>
+          <GBAuthor>Toriyama,K.</GBAuthor>
+          <GBAuthor>Muller,C.P.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>Possible New Hepatitis B Virus Genotype, Southeast Asia</GBReference_title>
+        <GBReference_journal>Emerging Infect. Dis. 14 (11), 1777-1780 (2008)</GBReference_journal>
+        <GBReference_pubmed>18976569</GBReference_pubmed>
+      </GBReference>
+      <GBReference>
+        <GBReference_reference>2</GBReference_reference>
+        <GBReference_position>1..990</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Olinger,C.M.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>Direct Submission</GBReference_title>
+        <GBReference_journal>Submitted (30-JUL-2008) Immunology, National Public Health Laboratory, 20A, rue Auguste-Lumiere 1950, Luxembourg</GBReference_journal>
+      </GBReference>
+    </GBSeq_references>
+    <GBSeq_feature-table>
+      <GBFeature>
+        <GBFeature_key>source</GBFeature_key>
+        <GBFeature_location>1..990</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>990</GBInterval_to>
+            <GBInterval_accession>FJ023557.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>organism</GBQualifier_name>
+            <GBQualifier_value>Hepatitis B virus</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>mol_type</GBQualifier_name>
+            <GBQualifier_value>genomic DNA</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>isolate</GBQualifier_name>
+            <GBQualifier_value>M04-3692</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>db_xref</GBQualifier_name>
+            <GBQualifier_value>taxon:10407</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>clone</GBQualifier_name>
+            <GBQualifier_value>5</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>country</GBQualifier_name>
+            <GBQualifier_value>Laos</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>gene</GBFeature_key>
+        <GBFeature_location>1..990</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>990</GBInterval_to>
+            <GBInterval_accession>FJ023557.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>gene</GBQualifier_name>
+            <GBQualifier_value>X</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>CDS</GBFeature_key>
+        <GBFeature_location>564..&gt;990</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>564</GBInterval_from>
+            <GBInterval_to>990</GBInterval_to>
+            <GBInterval_accession>FJ023557.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_partial3 value="true"/>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>gene</GBQualifier_name>
+            <GBQualifier_value>X</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>codon_start</GBQualifier_name>
+            <GBQualifier_value>1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>transl_table</GBQualifier_name>
+            <GBQualifier_value>1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>product</GBQualifier_name>
+            <GBQualifier_value>X protein</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>protein_id</GBQualifier_name>
+            <GBQualifier_value>ACI47606.1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>translation</GBQualifier_name>
+            <GBQualifier_value>MAARLCCQLDPARDVLYLRPVGAESCGRPLSGPLGDLPSSSSSAVPTDHGAHLSLRGLPVCAFSSAGPCALRFTSARRMETTVNAHMILPKVLHKRTLGLSAMSTTDLEAYFKDCVFKDWEELGEEIRLKVFVLGGCRHKLV</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+    </GBSeq_feature-table>
+    <GBSeq_sequence>cttttgtctttgggtatacatctaaaccctaacaaaactaagcgatggggttattccttaaacttcatggggtatgtaattggaagttggggtaccttgccacaagatcatattatacagaaaatcaaacaatgttttagaaaactccctgttaacagacccattgattggaaagtatgtcaaagaatttcaggactcttgggctttgctgctccattcacacaatgtggttaccctgcgttaatgcctttgtatgcatgtatacaagccaaacaggctttcactttctcgccaacttacaaggcctttctgtgtaaacaatatatgaacctttaccccgttgcccggcaacggcccggtctgtgccaagtgtttgctgacgcaacccccactggctggggcttggccataggccatcagcgcatgcgtggaacctttgtggctcctctgccgatccatactgcggaactgctagccgcctgttttgctcgcagccggtctggagcaaaacttatcgggactgataattctgtcgtcctttcgcggaaatatacatcatttccatggctgctaggctgtgctgccaactggatcctgcgcgggacgtcctttatctacgtcccgtcggcgctgaatcctgcggacgacccctctcggggccgcttggggatctaccgtcctcttcttcatctgccgtaccgaccgaccacggggcgcacctctctttacgcggtctccccgtttgtgccttctcgtctgccggaccgtgtgcacttcgcttcacctctgcacgtcgcatggagaccaccgtgaacgcccacatgatcttgcccaaggtattgcataagcggactcttggactctcagcaatgtcaacgaccgaccttgaggcatacttcaaagactgtgtgtttaaagactgggaggagttgggggaggagattaggttaaaggtctttgtactaggaggctgtaggcataaattggtct</GBSeq_sequence>
+  </GBSeq>

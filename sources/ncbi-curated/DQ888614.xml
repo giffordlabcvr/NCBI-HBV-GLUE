@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<GBSeq>
+
+    <GBSeq_locus>DQ888614</GBSeq_locus>
+    <GBSeq_length>1025</GBSeq_length>
+    <GBSeq_strandedness>double</GBSeq_strandedness>
+    <GBSeq_moltype>DNA</GBSeq_moltype>
+    <GBSeq_topology>linear</GBSeq_topology>
+    <GBSeq_division>VRL</GBSeq_division>
+    <GBSeq_update-date>14-JUL-2016</GBSeq_update-date>
+    <GBSeq_create-date>26-SEP-2006</GBSeq_create-date>
+    <GBSeq_definition>Hepatitis B virus clone Ce1 preS/S antigen gene, partial cds</GBSeq_definition>
+    <GBSeq_primary-accession>DQ888614</GBSeq_primary-accession>
+    <GBSeq_accession-version>DQ888614.1</GBSeq_accession-version>
+    <GBSeq_other-seqids>
+      <GBSeqid>gb|DQ888614.1|</GBSeqid>
+      <GBSeqid>gi|115279571</GBSeqid>
+    </GBSeq_other-seqids>
+    <GBSeq_source>Hepatitis B virus</GBSeq_source>
+    <GBSeq_organism>Hepatitis B virus</GBSeq_organism>
+    <GBSeq_taxonomy>Viruses; Retro-transcribing viruses; Hepadnaviridae; Orthohepadnavirus</GBSeq_taxonomy>
+    <GBSeq_references>
+      <GBReference>
+        <GBReference_reference>1</GBReference_reference>
+        <GBReference_position>1..1025</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Chen,J.</GBAuthor>
+          <GBAuthor>Yin,J.</GBAuthor>
+          <GBAuthor>Tan,X.</GBAuthor>
+          <GBAuthor>Zhang,H.</GBAuthor>
+          <GBAuthor>Zhang,H.</GBAuthor>
+          <GBAuthor>Chen,B.</GBAuthor>
+          <GBAuthor>Chang,W.</GBAuthor>
+          <GBAuthor>Schaefer,S.</GBAuthor>
+          <GBAuthor>Cao,G.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>Improved multiplex-PCR to identify hepatitis B virus genotypes A-F and subgenotypes B1, B2, C1 and C2</GBReference_title>
+        <GBReference_journal>J. Clin. Virol. 38 (3), 238-243 (2007)</GBReference_journal>
+        <GBReference_xref>
+          <GBXref>
+            <GBXref_dbname>doi</GBXref_dbname>
+            <GBXref_id>10.1016/j.jcv.2006.12.007</GBXref_id>
+          </GBXref>
+        </GBReference_xref>
+        <GBReference_pubmed>17224304</GBReference_pubmed>
+      </GBReference>
+      <GBReference>
+        <GBReference_reference>2</GBReference_reference>
+        <GBReference_position>1..1025</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Chen,J.S.</GBAuthor>
+          <GBAuthor>Yin,J.H.</GBAuthor>
+          <GBAuthor>Cao,G.W.</GBAuthor>
+          <GBAuthor>Tan,X.J.</GBAuthor>
+          <GBAuthor>Zhang,H.Q.</GBAuthor>
+          <GBAuthor>Schaefer,S.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>Development of low-costing multiplex-PCRs to identify HBV genotypes A-F and main subgenotypes Ba, Bj, Ce and Cs</GBReference_title>
+        <GBReference_journal>Unpublished</GBReference_journal>
+      </GBReference>
+      <GBReference>
+        <GBReference_reference>3</GBReference_reference>
+        <GBReference_position>1..1025</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Cao,G.W.</GBAuthor>
+          <GBAuthor>Chen,J.S.</GBAuthor>
+          <GBAuthor>Yin,J.H.</GBAuthor>
+          <GBAuthor>Tan,X.J.</GBAuthor>
+          <GBAuthor>Liu,S.J.</GBAuthor>
+          <GBAuthor>Zhang,H.W.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>Direct Submission</GBReference_title>
+        <GBReference_journal>Submitted (06-AUG-2006) Department of Epidemiology, Second Military Medical University, 800 Xiang-Yin Road, Shanghai 200433, China</GBReference_journal>
+      </GBReference>
+    </GBSeq_references>
+    <GBSeq_feature-table>
+      <GBFeature>
+        <GBFeature_key>source</GBFeature_key>
+        <GBFeature_location>1..1025</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>1025</GBInterval_to>
+            <GBInterval_accession>DQ888614.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>organism</GBQualifier_name>
+            <GBQualifier_value>Hepatitis B virus</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>mol_type</GBQualifier_name>
+            <GBQualifier_value>genomic DNA</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>serotype</GBQualifier_name>
+            <GBQualifier_value>HBeAg positive</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>isolation_source</GBQualifier_name>
+            <GBQualifier_value>serum of patient with hepatocellular carcinoma</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>db_xref</GBQualifier_name>
+            <GBQualifier_value>taxon:10407</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>clone</GBQualifier_name>
+            <GBQualifier_value>Ce1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>country</GBQualifier_name>
+            <GBQualifier_value>China</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>collection_date</GBQualifier_name>
+            <GBQualifier_value>Jan-2006</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>PCR_primers</GBQualifier_name>
+            <GBQualifier_value>fwd_seq: tttgcgggtcaccatattcttgg, rev_seq: cgaaccactgaacaaatggcactag</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>note</GBQualifier_name>
+            <GBQualifier_value>genotype: Ce</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>CDS</GBFeature_key>
+        <GBFeature_location>3..&gt;1025</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>3</GBInterval_from>
+            <GBInterval_to>1025</GBInterval_to>
+            <GBInterval_accession>DQ888614.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_partial3 value="true"/>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>codon_start</GBQualifier_name>
+            <GBQualifier_value>1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>transl_table</GBQualifier_name>
+            <GBQualifier_value>1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>product</GBQualifier_name>
+            <GBQualifier_value>preS/S antigen</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>protein_id</GBQualifier_name>
+            <GBQualifier_value>ABI85271.1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>translation</GBQualifier_name>
+            <GBQualifier_value>MGGWSSKPRQGMGTNLSVPNPLGFFPDHQLDPAFGANSNNPDWDFNPNKDQWPEAHQVGAGAFGPGFTPPHGGLLGWSPQAQGISTTVPVAPPPASTNRQSGRQPTPISPPLRDSHPQAIQWNSTTFHQALLDPRVRGLYFPAGGSSSGTVNPVPTTASPISSIFSRTGDPAPNMENTTSGFLGPLLVLQAGFFLLTRILTIPQSLDSWWTSLNFLGGAPTCPGQNSQSPTSNHSPTSCPPICPGYRWMCLRRFIIFLCILLLCLIFLLVLLDYQGMLPVCPLLPGTSTTSTGPCKTCTIPAQNTSMFPSCCCSKPSDGNCTCIPIPSSWAFARFLWEWAS</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+    </GBSeq_feature-table>
+    <GBSeq_sequence>gcatgggaggttggtcttccaaacctcgtcaaggcatggggacgaatctttctgttcccaatcctctgggattctttcccgatcaccagttggacccggcgttcggagccaactcaaacaatccagattgggacttcaaccccaacaaggatcaatggccagaggcacatcaggtaggagcgggagcattcgggccagggttcaccccaccacacggcggtcttttggggtggagccctcaggctcagggcatatcgacaacagtgccagtagcacctcctcctgcctccaccaatcggcagtcaggaagacagcctactcccatctctccacctctaagagacagtcatcctcaggccattcagtggaactccacaacattccaccaagctctgctagaccccagagtgaggggcctatactttcctgctggtggctccagttccggaacagtaaaccctgttccgactactgcctcacccatatcgtcaatcttctcgaggactggggaccctgcaccgaacatggagaacacaacatcaggattcctaggacccctgctcgtgttacaggcggggtttttcttgttgacaagaatcctcacaataccacagagtctagactcgtggtggacttctctcaattttctagggggagcacccacgtgtcctggccaaaattcgcagtccccaacctccaatcactcaccaacctcttgtcctccaatctgtcctggctatcgctggatgtgtctgcggcgttttatcatattcctctgcatcctgctgctatgcctcatcttcttgttggttcttctggactaccaaggtatgttgcccgtttgtcctctacttccaggaacatcaactaccagcacgggaccatgcaagacctgcacgattcctgctcaaaacacctctatgtttccctcttgttgctgttcaaaaccttcggacggaaactgcacttgtattcccatcccatcatcttgggctttcgcaagattcctatgggagtgggcctca</GBSeq_sequence>
+  </GBSeq>

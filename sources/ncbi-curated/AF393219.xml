@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<GBSeq>
+
+    <GBSeq_locus>AF393219</GBSeq_locus>
+    <GBSeq_length>216</GBSeq_length>
+    <GBSeq_strandedness>double</GBSeq_strandedness>
+    <GBSeq_moltype>DNA</GBSeq_moltype>
+    <GBSeq_topology>linear</GBSeq_topology>
+    <GBSeq_division>VRL</GBSeq_division>
+    <GBSeq_update-date>23-JUL-2016</GBSeq_update-date>
+    <GBSeq_create-date>09-AUG-2001</GBSeq_create-date>
+    <GBSeq_definition>Hepatitis B virus isolate 142A8 pre-S2 protein gene, partial cds</GBSeq_definition>
+    <GBSeq_primary-accession>AF393219</GBSeq_primary-accession>
+    <GBSeq_accession-version>AF393219.1</GBSeq_accession-version>
+    <GBSeq_other-seqids>
+      <GBSeqid>gb|AF393219.1|</GBSeqid>
+      <GBSeqid>gi|15128033</GBSeqid>
+    </GBSeq_other-seqids>
+    <GBSeq_source>Hepatitis B virus</GBSeq_source>
+    <GBSeq_organism>Hepatitis B virus</GBSeq_organism>
+    <GBSeq_taxonomy>Viruses; Retro-transcribing viruses; Hepadnaviridae; Orthohepadnavirus</GBSeq_taxonomy>
+    <GBSeq_references>
+      <GBReference>
+        <GBReference_reference>1</GBReference_reference>
+        <GBReference_position>1..216</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Huangfu,J.</GBAuthor>
+          <GBAuthor>Dong,J.</GBAuthor>
+          <GBAuthor>Deng,H.</GBAuthor>
+          <GBAuthor>Cheng,J.</GBAuthor>
+          <GBAuthor>Shi,S.</GBAuthor>
+          <GBAuthor>Hong,Y.</GBAuthor>
+          <GBAuthor>Ren,X.</GBAuthor>
+          <GBAuthor>Li,L.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>[A preliminary study on the heterogeneity of preS2 region in hepatitis B virus]</GBReference_title>
+        <GBReference_journal>Zhonghua Nei Ke Za Zhi 41 (4), 233-236 (2002)</GBReference_journal>
+        <GBReference_pubmed>12133433</GBReference_pubmed>
+      </GBReference>
+      <GBReference>
+        <GBReference_reference>2</GBReference_reference>
+        <GBReference_position>1..216</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Huangfu,J.K.</GBAuthor>
+          <GBAuthor>Dong,J.</GBAuthor>
+          <GBAuthor>Deng,H.</GBAuthor>
+          <GBAuthor>Cheng,J.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>Direct Submission</GBReference_title>
+        <GBReference_journal>Submitted (20-JUN-2001) Gene Therapy Research Center, Institute of Infectious Diseases of PLA, 26 Fentai Road, Beijing 100039, China</GBReference_journal>
+      </GBReference>
+    </GBSeq_references>
+    <GBSeq_feature-table>
+      <GBFeature>
+        <GBFeature_key>source</GBFeature_key>
+        <GBFeature_location>1..216</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>216</GBInterval_to>
+            <GBInterval_accession>AF393219.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>organism</GBQualifier_name>
+            <GBQualifier_value>Hepatitis B virus</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>mol_type</GBQualifier_name>
+            <GBQualifier_value>genomic DNA</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>isolate</GBQualifier_name>
+            <GBQualifier_value>142A8</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>db_xref</GBQualifier_name>
+            <GBQualifier_value>taxon:10407</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>CDS</GBFeature_key>
+        <GBFeature_location>1..&gt;216</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>216</GBInterval_to>
+            <GBInterval_accession>AF393219.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_partial3 value="true"/>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>codon_start</GBQualifier_name>
+            <GBQualifier_value>1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>transl_table</GBQualifier_name>
+            <GBQualifier_value>1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>product</GBQualifier_name>
+            <GBQualifier_value>pre-S2 protein</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>protein_id</GBQualifier_name>
+            <GBQualifier_value>AAK84358.1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>translation</GBQualifier_name>
+            <GBQualifier_value>MQWNSTTFHQALLDPRVRGLYFPAGGSSSGTVNPVPTTASPISSIFSRTGDPAPHMENTTSGFLGTLHRTWR</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+    </GBSeq_feature-table>
+    <GBSeq_sequence>atgcagtggaattccacaacattccaccaagctctgctagaccccagagtgaggggcctatactttcctgctggtggctccagttccggaacagtaaaccctgttccgactactgcctcacccatatcgtcaatcttctcgaggactggggaccctgcaccgcacatggagaacacaacatcaggattcctagggaccctgcaccgaacatggaga</GBSeq_sequence>
+  </GBSeq>

@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<GBSeq>
+
+    <GBSeq_locus>KP243354</GBSeq_locus>
+    <GBSeq_length>655</GBSeq_length>
+    <GBSeq_strandedness>double</GBSeq_strandedness>
+    <GBSeq_moltype>DNA</GBSeq_moltype>
+    <GBSeq_topology>linear</GBSeq_topology>
+    <GBSeq_division>VRL</GBSeq_division>
+    <GBSeq_update-date>17-MAR-2015</GBSeq_update-date>
+    <GBSeq_create-date>17-MAR-2015</GBSeq_create-date>
+    <GBSeq_definition>Hepatitis B virus isolate 833803_NL_2009 core protein (C) gene, partial cds</GBSeq_definition>
+    <GBSeq_primary-accession>KP243354</GBSeq_primary-accession>
+    <GBSeq_accession-version>KP243354.1</GBSeq_accession-version>
+    <GBSeq_other-seqids>
+      <GBSeqid>gb|KP243354.1|</GBSeqid>
+      <GBSeqid>gi|767860184</GBSeqid>
+    </GBSeq_other-seqids>
+    <GBSeq_source>Hepatitis B virus</GBSeq_source>
+    <GBSeq_organism>Hepatitis B virus</GBSeq_organism>
+    <GBSeq_taxonomy>Viruses; Retro-transcribing viruses; Hepadnaviridae; Orthohepadnavirus</GBSeq_taxonomy>
+    <GBSeq_references>
+      <GBReference>
+        <GBReference_reference>1</GBReference_reference>
+        <GBReference_position>1..655</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Soetens,L.C.</GBAuthor>
+          <GBAuthor>van Benthem,B.H.</GBAuthor>
+          <GBAuthor>Urbanus,A.</GBAuthor>
+          <GBAuthor>Cremer,J.</GBAuthor>
+          <GBAuthor>Benschop,K.S.</GBAuthor>
+          <GBAuthor>Rietveld,A.</GBAuthor>
+          <GBAuthor>van Dijk,E.I.</GBAuthor>
+          <GBAuthor>Hahne,S.J.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>Ongoing transmission of hepatitis B virus in rural parts of the Netherlands, 2009-2013</GBReference_title>
+        <GBReference_journal>PLoS ONE 10 (2), E0117703 (2015)</GBReference_journal>
+        <GBReference_xref>
+          <GBXref>
+            <GBXref_dbname>doi</GBXref_dbname>
+            <GBXref_id>10.1371/journal.pone.0117703</GBXref_id>
+          </GBXref>
+        </GBReference_xref>
+        <GBReference_pubmed>25706759</GBReference_pubmed>
+        <GBReference_remark>Publication Status: Online-Only</GBReference_remark>
+      </GBReference>
+      <GBReference>
+        <GBReference_reference>2</GBReference_reference>
+        <GBReference_position>1..655</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Cremer,J.</GBAuthor>
+          <GBAuthor>Soetens,L.</GBAuthor>
+          <GBAuthor>van Benthem,B.</GBAuthor>
+          <GBAuthor>Urbanus,A.</GBAuthor>
+          <GBAuthor>Rietveld,A.</GBAuthor>
+          <GBAuthor>van Dijk,E.</GBAuthor>
+          <GBAuthor>Hahne,S.</GBAuthor>
+          <GBAuthor>Benschop,K.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>Direct Submission</GBReference_title>
+        <GBReference_journal>Submitted (04-DEC-2014) Centre for Infectious Disease Research, Diagnostics and Screening, National Institute for Public Health and the Environment, Antonie van Leeuwenhoeklaan 9, Bilthoven, UT 3721 MA, The Netherlands</GBReference_journal>
+      </GBReference>
+    </GBSeq_references>
+    <GBSeq_comment>##Assembly-Data-START## ; Sequencing Technology :: Sanger dideoxy sequencing ; ##Assembly-Data-END##</GBSeq_comment>
+    <GBSeq_feature-table>
+      <GBFeature>
+        <GBFeature_key>source</GBFeature_key>
+        <GBFeature_location>1..655</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>655</GBInterval_to>
+            <GBInterval_accession>KP243354.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>organism</GBQualifier_name>
+            <GBQualifier_value>Hepatitis B virus</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>mol_type</GBQualifier_name>
+            <GBQualifier_value>genomic DNA</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>serotype</GBQualifier_name>
+            <GBQualifier_value>gA</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>isolate</GBQualifier_name>
+            <GBQualifier_value>833803_NL_2009</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>host</GBQualifier_name>
+            <GBQualifier_value>Homo sapiens</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>db_xref</GBQualifier_name>
+            <GBQualifier_value>taxon:10407</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>country</GBQualifier_name>
+            <GBQualifier_value>Netherlands</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>collection_date</GBQualifier_name>
+            <GBQualifier_value>2009</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>gene</GBFeature_key>
+        <GBFeature_location>205..&gt;655</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>205</GBInterval_from>
+            <GBInterval_to>655</GBInterval_to>
+            <GBInterval_accession>KP243354.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_partial3 value="true"/>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>gene</GBQualifier_name>
+            <GBQualifier_value>C</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>CDS</GBFeature_key>
+        <GBFeature_location>205..&gt;655</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>205</GBInterval_from>
+            <GBInterval_to>655</GBInterval_to>
+            <GBInterval_accession>KP243354.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_partial3 value="true"/>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>gene</GBQualifier_name>
+            <GBQualifier_value>C</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>codon_start</GBQualifier_name>
+            <GBQualifier_value>1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>transl_table</GBQualifier_name>
+            <GBQualifier_value>1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>product</GBQualifier_name>
+            <GBQualifier_value>core protein</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>protein_id</GBQualifier_name>
+            <GBQualifier_value>AJT58740.1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>translation</GBQualifier_name>
+            <GBQualifier_value>MDIDPYKEFGATVELLSFLPSDFFPSVRDLLDTASALYREALESPEHCSPHHTALRQAILCWGELMTLATWVGNNLEDPASRDLVVNYVNTNMGLKIRQLLWFHISCLTFGRETVLEYLVSFGVWIRTPPAYRPPNAPILSTLPETTVVR</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+    </GBSeq_feature-table>
+    <GBSeq_sequence>tgaggcctacttcaaagactgtgtgtttaaggactgggaggagctgggggaggagattaggttaaaggtctttgtattaggaggctgtaggcataaattggtctgcgcaccagcaccatgcaactttttcacctctgcctaatcatctcttgtacatgtcccactgttcaagcctccaagctgtgccttgggtggctttggggcatggacattgacccttataaagaatttggagctactgtggagttactctcgtttttgccttctgacttctttccttccgtcagagatctcctagacaccgcctcagctctgtatcgagaagccttagaatctcctgagcattgctcacctcaccatactgcactcaggcaagccattctctgctggggggaattgatgactctagctacctgggtgggtaataatttggaagatccagcatccagggatctagtagtcaattatgttaatactaacatgggtttaaagatcaggcaactattgtggtttcatatatcttgccttacttttggaagagagactgtacttgaatatttggtctctttcggagtgtggattcgcactcctccagcctatagaccaccaaatgcccctatcttatcaacacttccggaaactactgttgttagac</GBSeq_sequence>
+  </GBSeq>

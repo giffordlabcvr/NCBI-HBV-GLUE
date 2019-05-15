@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<GBSeq>
+
+    <GBSeq_locus>HV348271</GBSeq_locus>
+    <GBSeq_length>681</GBSeq_length>
+    <GBSeq_strandedness>double</GBSeq_strandedness>
+    <GBSeq_moltype>DNA</GBSeq_moltype>
+    <GBSeq_topology>linear</GBSeq_topology>
+    <GBSeq_division>PAT</GBSeq_division>
+    <GBSeq_update-date>27-SEP-2011</GBSeq_update-date>
+    <GBSeq_create-date>27-SEP-2011</GBSeq_create-date>
+    <GBSeq_definition>JP 2011115042-A/1: HBs peptide fusions</GBSeq_definition>
+    <GBSeq_primary-accession>HV348271</GBSeq_primary-accession>
+    <GBSeq_accession-version>HV348271.1</GBSeq_accession-version>
+    <GBSeq_other-seqids>
+      <GBSeqid>dbj|HV348271.1|</GBSeqid>
+      <GBSeqid>pat|JP|2011115042|1</GBSeqid>
+      <GBSeqid>gi|347905833</GBSeqid>
+    </GBSeq_other-seqids>
+    <GBSeq_keywords>
+      <GBKeyword>JP 2011115042-A/1</GBKeyword>
+    </GBSeq_keywords>
+    <GBSeq_source>Hepatitis B virus adr4</GBSeq_source>
+    <GBSeq_organism>Hepatitis B virus adr4</GBSeq_organism>
+    <GBSeq_taxonomy>Viruses; Retro-transcribing viruses; Hepadnaviridae; Orthohepadnavirus</GBSeq_taxonomy>
+    <GBSeq_references>
+      <GBReference>
+        <GBReference_reference>1</GBReference_reference>
+        <GBReference_position>1..681</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Ueda,K.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>HBs peptide fusions</GBReference_title>
+        <GBReference_journal>JP2011115042-A 1 16-JUN-2011 Hamamatsu University School of Medicine</GBReference_journal>
+      </GBReference>
+    </GBSeq_references>
+    <GBSeq_comment>OS hepatitis B virus adr4~PN JP 2011115042-A/1~PD 16-JUN-2011~PF 13-MAR-2008 JP 2008063642~PI keiji ueda~CC~FH Key Location/Qualifiers.</GBSeq_comment>
+    <GBSeq_feature-table>
+      <GBFeature>
+        <GBFeature_key>source</GBFeature_key>
+        <GBFeature_location>1..681</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>681</GBInterval_to>
+            <GBInterval_accession>HV348271.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>organism</GBQualifier_name>
+            <GBQualifier_value>Hepatitis B virus adr4</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>mol_type</GBQualifier_name>
+            <GBQualifier_value>unassigned DNA</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>db_xref</GBQualifier_name>
+            <GBQualifier_value>taxon:10409</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+    </GBSeq_feature-table>
+    <GBSeq_sequence>atggagaacacaacatcaggattcctaggacccctgctcgtgttacaggcggggtttttcttgttgacaagaatcctcacaataccacagagtctagactcgtggtggacttctctcaattttctagggggagcacccacgtgtcctggccaaaattcgcagtccccaacctccaatcactcaccaacctcttgtcctccaatttgtcctggctatcgctggatgtgtctgcggcgttttatcatattcctcttcatcctgctgctatgcctcatcttcttgttggttcttctggactaccaaggtatgttgcccgtttgtcctctacttccaggaacatcaactaccagcacgggaccatgcaagacctgcacgattcctgctcaaggaacctctatgtttccctcttgttgctgtacaaaaccttcggacggaaactgcacttgtattcccatcccatcatcctgggctttcgcaagattcctatgggagggggcctcagtccgtttctcctggctcagtttactagtgccatttgttcagtggttcgtagggctttcccccactgtttggctttcagttatatggatgatgtggtattgggggccaagtctgtacaacatcttgagtccctttttacctctattaccaattttcttttgtctttgggtatacatttaa</GBSeq_sequence>
+  </GBSeq>

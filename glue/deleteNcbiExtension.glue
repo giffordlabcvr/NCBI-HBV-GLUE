@@ -1,0 +1,13 @@
+schema-project hbv
+  table sequence
+    delete field ncbi_incoming
+    exit
+  exit
+
+project hbv
+  delete source ncbi-curated
+  delete module -w "name like 'ncbiHbv%'"
+  exit
+  
+  
+  

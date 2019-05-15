@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<GBSeq>
+
+    <GBSeq_locus>HV961272</GBSeq_locus>
+    <GBSeq_length>556</GBSeq_length>
+    <GBSeq_strandedness>double</GBSeq_strandedness>
+    <GBSeq_moltype>DNA</GBSeq_moltype>
+    <GBSeq_topology>linear</GBSeq_topology>
+    <GBSeq_division>PAT</GBSeq_division>
+    <GBSeq_update-date>29-JAN-2013</GBSeq_update-date>
+    <GBSeq_create-date>29-JAN-2013</GBSeq_create-date>
+    <GBSeq_definition>WO 2012141280-A/1: DNA vaccine</GBSeq_definition>
+    <GBSeq_primary-accession>HV961272</GBSeq_primary-accession>
+    <GBSeq_accession-version>HV961272.1</GBSeq_accession-version>
+    <GBSeq_other-seqids>
+      <GBSeqid>dbj|HV961272.1|</GBSeqid>
+      <GBSeqid>pat|WO|2012141280|1</GBSeqid>
+      <GBSeqid>gi|444188724</GBSeqid>
+    </GBSeq_other-seqids>
+    <GBSeq_keywords>
+      <GBKeyword>WO 2012141280-A/1</GBKeyword>
+    </GBSeq_keywords>
+    <GBSeq_source>Hepatitis B virus</GBSeq_source>
+    <GBSeq_organism>Hepatitis B virus</GBSeq_organism>
+    <GBSeq_taxonomy>Viruses; Retro-transcribing viruses; Hepadnaviridae; Orthohepadnavirus</GBSeq_taxonomy>
+    <GBSeq_references>
+      <GBReference>
+        <GBReference_reference>1</GBReference_reference>
+        <GBReference_position>1..556</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Morishita,R.</GBAuthor>
+          <GBAuthor>Nakagami,H.</GBAuthor>
+          <GBAuthor>Nakagami,H.</GBAuthor>
+          <GBAuthor>Koriyama,H.</GBAuthor>
+          <GBAuthor>Yoshida,N.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>DNA vaccine</GBReference_title>
+        <GBReference_journal>WO2012141280-A 1 18-OCT-2012 ANGES MG INC,OSAKA UNIVERSITY</GBReference_journal>
+      </GBReference>
+    </GBSeq_references>
+    <GBSeq_comment>OS Hepatitis B virus~PN WO 2012141280-A/1~PD 18-OCT-2012~PF 13-APR-2012 WO 2012JP060099~PR 14-OCT-2011 JP 2011-227320 ,15-APR-2011 JP 2011-091493 PA ANGES MG INC,OSAKA UNIVERSITY~PI ryuichi morishita,hironori nakagami,hiroshi nakagami,hiroshi PI koriyama,~PI natsuki yoshida~PT 'DNA vaccine'~PS N1~CC~FH Key Location/Qualifiers~FT CDS (2)..(553).</GBSeq_comment>
+    <GBSeq_feature-table>
+      <GBFeature>
+        <GBFeature_key>source</GBFeature_key>
+        <GBFeature_location>1..556</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>556</GBInterval_to>
+            <GBInterval_accession>HV961272.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>organism</GBQualifier_name>
+            <GBQualifier_value>Hepatitis B virus</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>mol_type</GBQualifier_name>
+            <GBQualifier_value>unassigned DNA</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>db_xref</GBQualifier_name>
+            <GBQualifier_value>taxon:10407</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+    </GBSeq_feature-table>
+    <GBSeq_sequence>catggatatcgatccttataaagaattcggagctactgtggagttactctcgtttctcccgagtgacttctttccttcagtacgagatcttctggataccgccagcgcgctgtatcgggaagccttggagtctcctgagcactgcagccctcaccatactgccctcaggcaagcaattctttgctggggggagctcatgactctggccacgtgggtgggtgttaacttggaagatccagctagcagggacctggtagtcagttatgtcaacactaatatgggtttaaagttcaggcaactcttgtggtttcacattagctgcctcactttcggccgagaaacagttctagaatatttggtgtctttcggagtgtggatccgcactcctccagcttataggcctccgaatgcccctatcctgtcgacactcccggagactactgttgttagacgtcgaggcaggtcacctagaagaagaactccttcgcctcgcaggcgaaggtctcaatcgccgcggcgccgaagatctcaatctcgggaatctcaatgttagtga</GBSeq_sequence>
+  </GBSeq>

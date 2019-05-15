@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<GBSeq>
+
+    <GBSeq_locus>HPBDNASEQF</GBSeq_locus>
+    <GBSeq_length>250</GBSeq_length>
+    <GBSeq_strandedness>double</GBSeq_strandedness>
+    <GBSeq_moltype>DNA</GBSeq_moltype>
+    <GBSeq_topology>linear</GBSeq_topology>
+    <GBSeq_division>VRL</GBSeq_division>
+    <GBSeq_update-date>19-JUL-1994</GBSeq_update-date>
+    <GBSeq_create-date>08-FEB-1994</GBSeq_create-date>
+    <GBSeq_definition>Hepatitis B virus DNA sequence, stem loop</GBSeq_definition>
+    <GBSeq_primary-accession>L28722</GBSeq_primary-accession>
+    <GBSeq_accession-version>L28722.1</GBSeq_accession-version>
+    <GBSeq_other-seqids>
+      <GBSeqid>gb|L28722.1|HPBDNASEQF</GBSeqid>
+      <GBSeqid>gi|453535</GBSeqid>
+    </GBSeq_other-seqids>
+    <GBSeq_source>Hepatitis B virus</GBSeq_source>
+    <GBSeq_organism>Hepatitis B virus</GBSeq_organism>
+    <GBSeq_taxonomy>Viruses; Retro-transcribing viruses; Hepadnaviridae; Orthohepadnavirus</GBSeq_taxonomy>
+    <GBSeq_references>
+      <GBReference>
+        <GBReference_reference>1</GBReference_reference>
+        <GBReference_position>1..250</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Laskus,T.</GBAuthor>
+          <GBAuthor>Rakela,J.</GBAuthor>
+          <GBAuthor>Persing,D.H.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>The stem-loop structure of the cis-encapsidation signal is highly conserved in naturally occurring hepatitis B virus variants</GBReference_title>
+        <GBReference_journal>Virology 200 (2), 809-812 (1994)</GBReference_journal>
+        <GBReference_pubmed>8178463</GBReference_pubmed>
+      </GBReference>
+    </GBSeq_references>
+    <GBSeq_comment>Original source text: Hepatitis B virus (individual_isolate Patient 3) DNA.</GBSeq_comment>
+    <GBSeq_feature-table>
+      <GBFeature>
+        <GBFeature_key>source</GBFeature_key>
+        <GBFeature_location>1..250</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>250</GBInterval_to>
+            <GBInterval_accession>L28722.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>organism</GBQualifier_name>
+            <GBQualifier_value>Hepatitis B virus</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>mol_type</GBQualifier_name>
+            <GBQualifier_value>genomic DNA</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>isolate</GBQualifier_name>
+            <GBQualifier_value>Patient 3</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>db_xref</GBQualifier_name>
+            <GBQualifier_value>taxon:10407</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>stem_loop</GBFeature_key>
+        <GBFeature_location>116..176</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>116</GBInterval_from>
+            <GBInterval_to>176</GBInterval_to>
+            <GBInterval_accession>L28722.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+      </GBFeature>
+    </GBSeq_feature-table>
+    <GBSeq_sequence>gggaggagttgggggaggagattaggttaatgatctttgtattaggaggctgtaggcataaattggtgtgcgcaccaccatcatgcaactttttcacctctgcctaatcatctcttgtacatgtcccacttttcaagcctccaagctgtgccttggatggctttggggcatggacattgacccttataaagaatttggagcttctgtggagttactctcgtttttgccttctgacttctttccttccgta</GBSeq_sequence>
+  </GBSeq>

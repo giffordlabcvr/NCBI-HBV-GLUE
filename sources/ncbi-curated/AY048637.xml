@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<GBSeq>
+
+    <GBSeq_locus>AY048637</GBSeq_locus>
+    <GBSeq_length>250</GBSeq_length>
+    <GBSeq_strandedness>double</GBSeq_strandedness>
+    <GBSeq_moltype>DNA</GBSeq_moltype>
+    <GBSeq_topology>linear</GBSeq_topology>
+    <GBSeq_division>VRL</GBSeq_division>
+    <GBSeq_update-date>26-JUL-2016</GBSeq_update-date>
+    <GBSeq_create-date>26-SEP-2001</GBSeq_create-date>
+    <GBSeq_definition>Hepatitis B virus isolate 95S0048.27 surface antigen gene, partial cds</GBSeq_definition>
+    <GBSeq_primary-accession>AY048637</GBSeq_primary-accession>
+    <GBSeq_accession-version>AY048637.1</GBSeq_accession-version>
+    <GBSeq_other-seqids>
+      <GBSeqid>gb|AY048637.1|</GBSeqid>
+      <GBSeqid>gi|15787573</GBSeqid>
+    </GBSeq_other-seqids>
+    <GBSeq_source>Hepatitis B virus</GBSeq_source>
+    <GBSeq_organism>Hepatitis B virus</GBSeq_organism>
+    <GBSeq_taxonomy>Viruses; Retro-transcribing viruses; Hepadnaviridae; Orthohepadnavirus</GBSeq_taxonomy>
+    <GBSeq_references>
+      <GBReference>
+        <GBReference_reference>1</GBReference_reference>
+        <GBReference_position>1..250</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>van Steenbergen,J.E.</GBAuthor>
+          <GBAuthor>Niesters,H.G.</GBAuthor>
+          <GBAuthor>Op de Coul,E.L.</GBAuthor>
+          <GBAuthor>van Doornum,G.J.</GBAuthor>
+          <GBAuthor>Osterhaus,A.D.</GBAuthor>
+          <GBAuthor>Leentvaar-Kuijpers,A.</GBAuthor>
+          <GBAuthor>Coutinho,R.A.</GBAuthor>
+          <GBAuthor>van den Hoek,J.A.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>Molecular epidemiology of hepatitis B virus in Amsterdam 1992-1997</GBReference_title>
+        <GBReference_journal>J. Med. Virol. 66 (2), 159-165 (2002)</GBReference_journal>
+        <GBReference_pubmed>11782923</GBReference_pubmed>
+      </GBReference>
+      <GBReference>
+        <GBReference_reference>2</GBReference_reference>
+        <GBReference_position>1..250</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>van Steenbergen,J.E.</GBAuthor>
+          <GBAuthor>Niesters,H.G.M.</GBAuthor>
+          <GBAuthor>Op de Coul,E.L.M.</GBAuthor>
+          <GBAuthor>van Doornum,G.J.J.</GBAuthor>
+          <GBAuthor>Leentvaart-Kuijpers,A.</GBAuthor>
+          <GBAuthor>Osterhaus,A.D.M.E.</GBAuthor>
+          <GBAuthor>Coutinho,R.A.</GBAuthor>
+          <GBAuthor>van den Hoek,J.A.R.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>Direct Submission</GBReference_title>
+        <GBReference_journal>Submitted (27-JUL-2001) Virology, University Hospital Rotterdam, Dr Molewaterplein 40, Rotterdam 3015 GD, The Netherlands</GBReference_journal>
+      </GBReference>
+    </GBSeq_references>
+    <GBSeq_feature-table>
+      <GBFeature>
+        <GBFeature_key>source</GBFeature_key>
+        <GBFeature_location>1..250</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>250</GBInterval_to>
+            <GBInterval_accession>AY048637.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>organism</GBQualifier_name>
+            <GBQualifier_value>Hepatitis B virus</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>mol_type</GBQualifier_name>
+            <GBQualifier_value>genomic DNA</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>isolate</GBQualifier_name>
+            <GBQualifier_value>95S0048.27</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>db_xref</GBQualifier_name>
+            <GBQualifier_value>taxon:10407</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>CDS</GBFeature_key>
+        <GBFeature_location>&lt;1..185</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>185</GBInterval_to>
+            <GBInterval_accession>AY048637.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_partial5 value="true"/>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>codon_start</GBQualifier_name>
+            <GBQualifier_value>3</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>transl_table</GBQualifier_name>
+            <GBQualifier_value>1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>product</GBQualifier_name>
+            <GBQualifier_value>surface antigen</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>protein_id</GBQualifier_name>
+            <GBQualifier_value>AAL06218.1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>translation</GBQualifier_name>
+            <GBQualifier_value>TSTGPCRTCMTTAQGTSMYPSVAVPNLRTEIAPVFPSHHPGLSENSYGSGPQPVSPGSVY</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+    </GBSeq_feature-table>
+    <GBSeq_sequence>ccaccagcacgggaccatgccgaacctgcatgactactgctcaaggaacctctatgtatccctccgttgctgtaccaaaccttcggacggaaattgcacctgtattcccatcccatcatcctgggctttcggaaaattcctatgggagtgggcctcagcccgtttctcctggctcagtttactagtgccatttgttcagtggttcgtagggctttcccccatgtttggctttcagttatatggatgatgt</GBSeq_sequence>
+  </GBSeq>

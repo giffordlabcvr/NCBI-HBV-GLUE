@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<GBSeq>
+
+    <GBSeq_locus>LY346218</GBSeq_locus>
+    <GBSeq_length>570</GBSeq_length>
+    <GBSeq_strandedness>double</GBSeq_strandedness>
+    <GBSeq_moltype>DNA</GBSeq_moltype>
+    <GBSeq_topology>linear</GBSeq_topology>
+    <GBSeq_division>PAT</GBSeq_division>
+    <GBSeq_update-date>14-OCT-2017</GBSeq_update-date>
+    <GBSeq_create-date>14-OCT-2017</GBSeq_create-date>
+    <GBSeq_definition>KR 1020160126978-A/17: VACCINE TARGETING IL-17A</GBSeq_definition>
+    <GBSeq_primary-accession>LY346218</GBSeq_primary-accession>
+    <GBSeq_accession-version>LY346218.1</GBSeq_accession-version>
+    <GBSeq_other-seqids>
+      <GBSeqid>dbj|LY346218.1|</GBSeqid>
+      <GBSeqid>pat|KR|1020160126978|17</GBSeqid>
+      <GBSeqid>gi|1257866744</GBSeqid>
+    </GBSeq_other-seqids>
+    <GBSeq_keywords>
+      <GBKeyword>KR 1020160126978-A/17</GBKeyword>
+    </GBSeq_keywords>
+    <GBSeq_source>Hepatitis B virus</GBSeq_source>
+    <GBSeq_organism>Hepatitis B virus</GBSeq_organism>
+    <GBSeq_taxonomy>Viruses; Retro-transcribing viruses; Hepadnaviridae; Orthohepadnavirus</GBSeq_taxonomy>
+    <GBSeq_references>
+      <GBReference>
+        <GBReference_reference>1</GBReference_reference>
+        <GBReference_position>1..570</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Koriyama,H.</GBAuthor>
+          <GBAuthor>Nakagami,H.</GBAuthor>
+          <GBAuthor>Morishita,R.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>VACCINE TARGETING IL-17A</GBReference_title>
+        <GBReference_journal>KR1020160126978-A 17 02-NOV-2016 OSAKA UNIVERSITY</GBReference_journal>
+      </GBReference>
+    </GBSeq_references>
+    <GBSeq_comment>KN KR 1020167020472-A/17~AN KR 1020167020472~AD 2016-07-26~PN KR 1020160126978~PD 2016-11-02~AT VACCINE TARGETING IL-17A~AI Koriyama, Hiroshi|Nakagami, Hironori|Morishita, Ryuichi~AA OSAKA UNIVERSITY~PR JP 2013-273133=2013-12-27~OS Hepatitis B virus~TY DNA~FH Key Location/Qualifiers.</GBSeq_comment>
+    <GBSeq_feature-table>
+      <GBFeature>
+        <GBFeature_key>source</GBFeature_key>
+        <GBFeature_location>1..570</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>570</GBInterval_to>
+            <GBInterval_accession>LY346218.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>organism</GBQualifier_name>
+            <GBQualifier_value>Hepatitis B virus</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>mol_type</GBQualifier_name>
+            <GBQualifier_value>unassigned DNA</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>db_xref</GBQualifier_name>
+            <GBQualifier_value>taxon:10407</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+    </GBSeq_feature-table>
+    <GBSeq_sequence>atggatatcgatccttataaagaattcggagctactgtggagttactctcgtttctcccgagtgacttctttccttcagtacgagaccttctggataccgccagcgcgctgtatcgggaagccttggagtctcctgagcactgcagccctcaccatactgccctcaggcaagcaattctttgctggggggagctcatgactctggccacgtgggtgggtgttaacttggaagatccagctatcactggtgctactagcagggacctggtagtcagttatgtcaacactaatatgggtttaaagttcaggcaactcttgtggtttcacattagctgcctcactttcggccgagaaacagttatagaatatttggtgtctttcggagtgtggatccgcactcctccagcttataggcctccgaatgcccctatcctgtcgacactcccggagactactgttgttagacgtcgaggcaggtcacctagaagaagaactccttcgcctcgcaggcgaaggtctcaatcgccgcggcgccgaagatctcaatctcgggaatctcaatgttagtga</GBSeq_sequence>
+  </GBSeq>

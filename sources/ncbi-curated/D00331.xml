@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<GBSeq>
+
+    <GBSeq_locus>HPBADW3</GBSeq_locus>
+    <GBSeq_length>3215</GBSeq_length>
+    <GBSeq_strandedness>double</GBSeq_strandedness>
+    <GBSeq_moltype>DNA</GBSeq_moltype>
+    <GBSeq_topology>linear</GBSeq_topology>
+    <GBSeq_division>VRL</GBSeq_division>
+    <GBSeq_update-date>20-JUL-2007</GBSeq_update-date>
+    <GBSeq_create-date>29-APR-1993</GBSeq_create-date>
+    <GBSeq_definition>Hepatitis B virus subtype ADW genomic DNA, complete genome, clone: pIDW420</GBSeq_definition>
+    <GBSeq_primary-accession>D00331</GBSeq_primary-accession>
+    <GBSeq_accession-version>D00331.1</GBSeq_accession-version>
+    <GBSeq_other-seqids>
+      <GBSeqid>dbj|D00331.1|HPBADW3</GBSeqid>
+      <GBSeqid>gi|221499</GBSeqid>
+    </GBSeq_other-seqids>
+    <GBSeq_source>Hepatitis B virus subtype adw</GBSeq_source>
+    <GBSeq_organism>Hepatitis B virus subtype adw</GBSeq_organism>
+    <GBSeq_taxonomy>Viruses; Retro-transcribing viruses; Hepadnaviridae; Orthohepadnavirus</GBSeq_taxonomy>
+    <GBSeq_references>
+      <GBReference>
+        <GBReference_reference>1</GBReference_reference>
+        <GBReference_position>1..3215</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Okamoto,H.</GBAuthor>
+          <GBAuthor>Tsuda,F.</GBAuthor>
+          <GBAuthor>Sakugawa,H.</GBAuthor>
+          <GBAuthor>Sastrosoewignjo,R.I.</GBAuthor>
+          <GBAuthor>Imai,M.</GBAuthor>
+          <GBAuthor>Miyakawa,Y.</GBAuthor>
+          <GBAuthor>Mayumi,M.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>Typing hepatitis B virus by homology in nucleotide sequence: comparison of surface antigen subtypes</GBReference_title>
+        <GBReference_journal>J. Gen. Virol. 69 (PT 10), 2575-2583 (1988)</GBReference_journal>
+        <GBReference_pubmed>3171552</GBReference_pubmed>
+      </GBReference>
+    </GBSeq_references>
+    <GBSeq_feature-table>
+      <GBFeature>
+        <GBFeature_key>source</GBFeature_key>
+        <GBFeature_location>1..3215</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>3215</GBInterval_to>
+            <GBInterval_accession>D00331.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>organism</GBQualifier_name>
+            <GBQualifier_value>Hepatitis B virus subtype adw</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>mol_type</GBQualifier_name>
+            <GBQualifier_value>genomic DNA</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>isolation_source</GBQualifier_name>
+            <GBQualifier_value>plasma sample obtained from asymptomatic carrier of HBsAg living in Indonesia</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>db_xref</GBQualifier_name>
+            <GBQualifier_value>taxon:106821</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>clone</GBQualifier_name>
+            <GBQualifier_value>pIDW420</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>country</GBQualifier_name>
+            <GBQualifier_value>Indonesia</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>note</GBQualifier_name>
+            <GBQualifier_value>hypothetical EcoRI site;
+since the clones did not posses an EcoRI site, nucleotides were numbered from a hypothetical EcoRI site as in the HBV DNA clones already reported;
+subtype: adw</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+    </GBSeq_feature-table>
+    <GBSeq_sequence>ctccaccacgttccaccaaactcttcaagatcccagagtcagggctctgtactttcctgctggtggctccagttcaggaacagtaaaccctgttcagaacactgcctcttccatatcgtcaatcttatcgacgactggggaccctgtgccgaacatggagaacatcgcatcaggactcctaggacccctgctcgtgttacaggcggggtttttctcgttgacaaaaatcctcacaatacctctgagtctagactcgtggtggacttctctcaattttctaggggaaacacccgtgtgtcttggccaaaattcgcagtcccaaatctccagtcactcaccaacttgttgtcctccgatttgtcctggttatcgctggatgtgtctgcggcgttttatcatcttcctctgcatcctgctgctatgcctcatcttcttgttggttcttctggactatcaaggtatgttgcccgtttgtcctctaattccaggatcatcaaccaccagcacaggaccatgcaaaacctgcacgactcctgctcaaggaacctctatgtttccctcatgttgctgtacaaaacctacggacggaaactgcacctgtattcccatcccatcatcttgggctttcgcaaaatacctatgggagtgggcctcagtccgtttctcttggctcagtttactagtgccatttgttcagtggttcgtagggctttcccccactgtctggctttcagttatatggatgatgtggttttgggggccaagtctgtacaacatcttgagtccctttatgccgctgttaccaattttcttttgtctttgggtatacatttaaaccctcagaaaacaaaaagatggggctactcccttaacttcatggggtatgtaattggaagttgggggaccttaccccaagaacatattgtgttgaaaatcaaacaatgttttaggaaacttcctgtaaacaggcctattgattggaaagtatgtcaacgaattgtgggtcttttgggatttgctgctcctttcacacaatgtggatatcctgctttaatgcctttatatgcatgtatacaagctaaacaggcttttactttttcgccaacgtataaggcctttctaaacaaacaatatctgaacctttaccccgttgctcggcaacggccaggtctgtgccaagtgtttgctgacgcaacccccactggctggggcttggccataggccatcagcgcatgcgtgggacctttgtgtctcctctgccgatccatactgtggaactcctagcagcttgttttgctcgcagcaggtctggagcaaaacttatcgggactgacaattctgtcgtcctttcccgcaaatatacatcgtttccatggctgctaggctgtgctgccaactggatcctgcgcgggacgtcctttgtctacgtcccgtcggcgctgaatcccgcggacgacccctcccggggccgcttggggctctaccgcccgcttctccgcctgccgtaccgtccgaccacggggcgcacctctctttacgcggactccccgtctgtgccttctcatctgccggaccgtgtgcacttcgcttcacctctgcacgtcgcatggagaccaccgtgaacgcccatcggaacctgcccaaggtcttgcataagaggactcttggactttcagcaatgtcaacgaccgaccttgaggcacacttcaaagactgtgtgtttactgagtgggaggagttgggggaggagatcaggttaaaggtctttgtactaggaggctgtaggcataaattggtctgttcaccagcaccatgcaactttttcacctctgcctaatcatctcatgttcatgtcctactgttcaagcctccaagctgtgccttgggtggctttggggcatggacattgacccgtataaagaatttggagcttctgtggagttactctcttttttgccttctgacttctttccttctattcgagatcttctcgacaccgcctctgctctgtatcgggaggccttagagtctccggaacattgttcacctcaccatacggcactcaggcaagctattctgtgttggggtgagttgatgaatctagccacctgggtgggaagtaatttggaagacccagcctcccgggaattagtagtcagttatgtcaatgttaatatgggcctaaaaatcagacaactattgtggtttcacatttcctgtcttacgtttggaagagaaactgttcttgaatatttggtgtcttttggagtgtggattcgcacacctccagcatatagaccaccaaatgcccctatcttatcaacacttccggaaactactgttgttagacgacgaggcaggtcccctagaagaagaactccctcgcctcgcagacgaaggtctcaatcgccgcgtcgcagaagatctcaatctcgggaatctcaatgttagtattccttggactcataaggtgggaaactttacggggctttattcttctacggtacctagctttaatcctcaatggcaaactccttcatttcctgacattcatttgcaggaggacatcattaataagtgtaaacaatttgtgggaccccttacagtgaatgaaaaaaggagactaaaattgattatgcctgctaggttctatcccaatgttactaaatatttgcccttagataaaggaattaaaccttattatccagagcatgtagttaatcattacttccagacgagacattatttacatactctttggaaggcgggtatcttatataaaagagagacaacacgtagcgcctcattttgcgggtcaccatattcttgggaacaagagctacagcatgggaggttggtcctccaaacctcgacaaggcatggggacaaatctttccgtccccaatcctctgggattctttcccgatcaccagttggaccctgcattcaaagccaactccgacaatcccgattgggacctcaacccacacaaggacaactggccggactccaacaaggtgggagtgggagcattcgggccgggattcactccaccccatgggggactgttggggtggagccctcaagctcagggcatactcacaactgtgccaacagctcctcctcctgcctccaccaatcggcagttaggaaggaagcctactcccctgtctccacctctaagagacactcatcctcaggcaatgcagtggaa</GBSeq_sequence>
+  </GBSeq>

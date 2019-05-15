@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<GBSeq>
+
+    <GBSeq_locus>HUMHPBA</GBSeq_locus>
+    <GBSeq_length>960</GBSeq_length>
+    <GBSeq_strandedness>double</GBSeq_strandedness>
+    <GBSeq_moltype>DNA</GBSeq_moltype>
+    <GBSeq_topology>linear</GBSeq_topology>
+    <GBSeq_division>VRL</GBSeq_division>
+    <GBSeq_update-date>22-JUN-2006</GBSeq_update-date>
+    <GBSeq_create-date>27-APR-1993</GBSeq_create-date>
+    <GBSeq_definition>Hepatitis B virus predicted surface antigen fusion protein gene, complete cds</GBSeq_definition>
+    <GBSeq_primary-accession>M20919</GBSeq_primary-accession>
+    <GBSeq_accession-version>M20919.1</GBSeq_accession-version>
+    <GBSeq_other-seqids>
+      <GBSeqid>gb|M20919.1|HUMHPBA</GBSeqid>
+      <GBSeqid>gi|184331</GBSeqid>
+    </GBSeq_other-seqids>
+    <GBSeq_source>Hepatitis B virus</GBSeq_source>
+    <GBSeq_organism>Hepatitis B virus</GBSeq_organism>
+    <GBSeq_taxonomy>Viruses; Retro-transcribing viruses; Hepadnaviridae; Orthohepadnavirus</GBSeq_taxonomy>
+    <GBSeq_references>
+      <GBReference>
+        <GBReference_reference>1</GBReference_reference>
+        <GBReference_position>1..960</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Rivkina,M.B.</GBAuthor>
+          <GBAuthor>Lunin,V.G.</GBAuthor>
+          <GBAuthor>Mahov,A.M.</GBAuthor>
+          <GBAuthor>Tikchonenko,T.I.</GBAuthor>
+          <GBAuthor>Kukain,R.A.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>Nucleotide sequence of integrated hepatitis B virus DNA and human flanking regions in the genome of the PLC/PRF/5 cell line</GBReference_title>
+        <GBReference_journal>Gene 64 (2), 285-296 (1988)</GBReference_journal>
+        <GBReference_pubmed>2841200</GBReference_pubmed>
+      </GBReference>
+      <GBReference>
+        <GBReference_reference>2</GBReference_reference>
+        <GBReference_position>1..960</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Rivkina,M.B.</GBAuthor>
+          <GBAuthor>Lunin,V.G.</GBAuthor>
+          <GBAuthor>Mahov,A.M.</GBAuthor>
+          <GBAuthor>Tikchonenko,T.I.</GBAuthor>
+          <GBAuthor>Kukain,R.A.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>Direct Submission</GBReference_title>
+        <GBReference_journal>Submitted (27-APR-1993) August Kirchenstein Institute of Microbiology, Latvian SSR Academy of Sciences, Latvia</GBReference_journal>
+      </GBReference>
+    </GBSeq_references>
+    <GBSeq_feature-table>
+      <GBFeature>
+        <GBFeature_key>source</GBFeature_key>
+        <GBFeature_location>233..808</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>233</GBInterval_from>
+            <GBInterval_to>808</GBInterval_to>
+            <GBInterval_accession>M20919.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>organism</GBQualifier_name>
+            <GBQualifier_value>Hepatitis B virus</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>proviral</GBQualifier_name>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>mol_type</GBQualifier_name>
+            <GBQualifier_value>genomic DNA</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>db_xref</GBQualifier_name>
+            <GBQualifier_value>taxon:10407</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>focus</GBQualifier_name>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>source</GBFeature_key>
+        <GBFeature_location>join(1..232,809..960)</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>232</GBInterval_to>
+            <GBInterval_accession>M20919.1</GBInterval_accession>
+          </GBInterval>
+          <GBInterval>
+            <GBInterval_from>809</GBInterval_from>
+            <GBInterval_to>960</GBInterval_to>
+            <GBInterval_accession>M20919.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_operator>join</GBFeature_operator>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>organism</GBQualifier_name>
+            <GBQualifier_value>Homo sapiens</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>mol_type</GBQualifier_name>
+            <GBQualifier_value>genomic DNA</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>db_xref</GBQualifier_name>
+            <GBQualifier_value>taxon:9606</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>clone</GBQualifier_name>
+            <GBQualifier_value>HC217</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>cell_line</GBQualifier_name>
+            <GBQualifier_value>PLC/PRF/5</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>CDS</GBFeature_key>
+        <GBFeature_location>328..921</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>328</GBInterval_from>
+            <GBInterval_to>921</GBInterval_to>
+            <GBInterval_accession>M20919.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>note</GBQualifier_name>
+            <GBQualifier_value>HBsAg fusion with C-terminal human sequence</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>codon_start</GBQualifier_name>
+            <GBQualifier_value>1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>transl_table</GBQualifier_name>
+            <GBQualifier_value>1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>product</GBQualifier_name>
+            <GBQualifier_value>predicted surface antigen fusion protein</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>protein_id</GBQualifier_name>
+            <GBQualifier_value>AAA36008.1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>translation</GBQualifier_name>
+            <GBQualifier_value>MENITSGFLGPLLVLQAGFFLLTRILTIPQSLDSWWTSLNFLGGSPVCLGQNSQSPTSNHSPTSCPPICPGYRWMCLRRFIIFLFILLLCLIFLLVLLDYQGMLPVCPLIPGSTTTSTGPCKTCTTPAQGNSMFPSCCCTKPTDGNCTCIPIPSSWAFAKLLPDATQLNPPGVSPQVRVPHRILATNKIWNSRTLSM</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+    </GBSeq_feature-table>
+    <GBSeq_sequence>ggtatatatatatatatatatatatatatatatatatatatatagttgcagataattctaagaaaaatgttgttttaaaatgcatccataacaaaatggtgaaatatcataggtgactattagaaatgatagtcactgatatttctctattttgttatggctgcattttataataatatgaaatgatagtcatatactatcatattttaataataaaatattataaggaagtctggtggctccagttcaggaacagtacaccctgctcagaatattgcctctcacatctcgtcaatctcctcgaggactggggaccctgcaccgaacatggagaacattacatcaggattcctaggacccctgctcgtgttacaggcggggtttttcttgttgacaagaatcctcacaataccacagagtctagactcgtggtggacttctctcaattttctagggggatcacccgtgtgtcttggccaaaattcgcagtccccaacctccaatcactcaccaacctcctgtcctccaatttgtcctggttatcgctggatgtgtctgcggcgttttatcatattcctcttcatcctgctgctatgcctcatcttcttattggttcttctggactatcaaggtatgttgcccgtttgtcctctaattccaggatccacaacaaccagtacgggaccctgcaaaacctgcacgactcctgctcaaggcaactctatgtttccctcatgttgctgtacaaaacctacggatggaaattgcacctgtattcccatcccatcatcttgggctttcgcaaaattactgccagatgcaactcaattaaacccaccaggtgtctcccctcaggttagagtacctcatagaatccttgctacgaataaaatatggaacagcagaacgctaagtatgtaacgaacccttcatgaagcagttgataggtaggcttaaaca</GBSeq_sequence>
+  </GBSeq>

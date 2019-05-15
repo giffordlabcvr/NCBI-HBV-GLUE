@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<GBSeq>
+
+    <GBSeq_locus>KU522291</GBSeq_locus>
+    <GBSeq_length>1044</GBSeq_length>
+    <GBSeq_strandedness>double</GBSeq_strandedness>
+    <GBSeq_moltype>DNA</GBSeq_moltype>
+    <GBSeq_topology>linear</GBSeq_topology>
+    <GBSeq_division>VRL</GBSeq_division>
+    <GBSeq_update-date>12-JUN-2016</GBSeq_update-date>
+    <GBSeq_create-date>12-JUN-2016</GBSeq_create-date>
+    <GBSeq_definition>Hepatitis B virus isolate PKS034 S protein (S) gene, complete cds</GBSeq_definition>
+    <GBSeq_primary-accession>KU522291</GBSeq_primary-accession>
+    <GBSeq_accession-version>KU522291.1</GBSeq_accession-version>
+    <GBSeq_other-seqids>
+      <GBSeqid>gb|KU522291.1|</GBSeqid>
+      <GBSeqid>gi|1035344098</GBSeqid>
+    </GBSeq_other-seqids>
+    <GBSeq_source>Hepatitis B virus</GBSeq_source>
+    <GBSeq_organism>Hepatitis B virus</GBSeq_organism>
+    <GBSeq_taxonomy>Viruses; Retro-transcribing viruses; Hepadnaviridae; Orthohepadnavirus</GBSeq_taxonomy>
+    <GBSeq_references>
+      <GBReference>
+        <GBReference_reference>1</GBReference_reference>
+        <GBReference_position>1..1044</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Ampah,K.A.</GBAuthor>
+          <GBAuthor>Pinho-Nascimento,C.A.</GBAuthor>
+          <GBAuthor>Kerber,S.</GBAuthor>
+          <GBAuthor>Asare,P.</GBAuthor>
+          <GBAuthor>De-Graft,D.</GBAuthor>
+          <GBAuthor>Adu-Nti,F.</GBAuthor>
+          <GBAuthor>Paixao,I.C.N.P.</GBAuthor>
+          <GBAuthor>Niel,C.</GBAuthor>
+          <GBAuthor>Yeboah-Manu,D.</GBAuthor>
+          <GBAuthor>Pluschke,G.</GBAuthor>
+          <GBAuthor>Roeltgen,K.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>Limited Genetic Diversity of Hepatitis B Virus in the General Population of the Offin River Valley in Ghana</GBReference_title>
+        <GBReference_journal>PLoS ONE 11 (6), E0156864 (2016)</GBReference_journal>
+        <GBReference_xref>
+          <GBXref>
+            <GBXref_dbname>doi</GBXref_dbname>
+            <GBXref_id>10.1371/journal.pone.0156864</GBXref_id>
+          </GBXref>
+        </GBReference_xref>
+        <GBReference_pubmed>27271290</GBReference_pubmed>
+        <GBReference_remark>Publication Status: Online-Only</GBReference_remark>
+      </GBReference>
+      <GBReference>
+        <GBReference_reference>2</GBReference_reference>
+        <GBReference_position>1..1044</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Roeltgen,K.</GBAuthor>
+          <GBAuthor>Ampah,K.A.</GBAuthor>
+          <GBAuthor>Pinho-Nascimento,C.A.</GBAuthor>
+          <GBAuthor>Kerber,S.</GBAuthor>
+          <GBAuthor>Asare,P.</GBAuthor>
+          <GBAuthor>De-Graft,D.</GBAuthor>
+          <GBAuthor>Adu-Nti,F.</GBAuthor>
+          <GBAuthor>Paixao,I.C.N.P.</GBAuthor>
+          <GBAuthor>Niel,C.</GBAuthor>
+          <GBAuthor>Yeboah-Manu,D.</GBAuthor>
+          <GBAuthor>Pluschke,G.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>Direct Submission</GBReference_title>
+        <GBReference_journal>Submitted (09-JAN-2016) Medical Parasitology &amp; Infectious Biology, Swiss Tropical and Public Health Institute, Socinstrasse 57, Basel 4002, Switzerland</GBReference_journal>
+      </GBReference>
+    </GBSeq_references>
+    <GBSeq_feature-table>
+      <GBFeature>
+        <GBFeature_key>source</GBFeature_key>
+        <GBFeature_location>1..1044</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>1044</GBInterval_to>
+            <GBInterval_accession>KU522291.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>organism</GBQualifier_name>
+            <GBQualifier_value>Hepatitis B virus</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>mol_type</GBQualifier_name>
+            <GBQualifier_value>genomic DNA</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>isolate</GBQualifier_name>
+            <GBQualifier_value>PKS034</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>isolation_source</GBQualifier_name>
+            <GBQualifier_value>serum</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>host</GBQualifier_name>
+            <GBQualifier_value>Homo sapiens</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>db_xref</GBQualifier_name>
+            <GBQualifier_value>taxon:10407</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>country</GBQualifier_name>
+            <GBQualifier_value>Ghana</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>collection_date</GBQualifier_name>
+            <GBQualifier_value>Jul-2013</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>note</GBQualifier_name>
+            <GBQualifier_value>genotype: E</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>gene</GBFeature_key>
+        <GBFeature_location>364..1011</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>364</GBInterval_from>
+            <GBInterval_to>1011</GBInterval_to>
+            <GBInterval_accession>KU522291.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>gene</GBQualifier_name>
+            <GBQualifier_value>S</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>CDS</GBFeature_key>
+        <GBFeature_location>364..1011</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>364</GBInterval_from>
+            <GBInterval_to>1011</GBInterval_to>
+            <GBInterval_accession>KU522291.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>gene</GBQualifier_name>
+            <GBQualifier_value>S</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>note</GBQualifier_name>
+            <GBQualifier_value>HBsAg</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>codon_start</GBQualifier_name>
+            <GBQualifier_value>1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>transl_table</GBQualifier_name>
+            <GBQualifier_value>1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>product</GBQualifier_name>
+            <GBQualifier_value>S protein</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>protein_id</GBQualifier_name>
+            <GBQualifier_value>ANJ03252.1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>translation</GBQualifier_name>
+            <GBQualifier_value>MESITSGFLGPLLVLQAGFFLLTKILTIPQSLDSWWTSLNFLGGAPVCLGQNSQSPTSNHSPTSCPPICPGYRWMCLRRFIIFLFILLLCLIFLLVLLDYQGMLPVCPLIPGSSTTSTGPCRTCTTLAQGTSMFPSCCCSKPSDGNCTCIPIPSSWAFAKFLWEWASARFSWLSLLVPFVQWFAGLSPTVWLSVIWMMWYWGPSLYNILRPFIPL</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+    </GBSeq_feature-table>
+    <GBSeq_sequence>atggggctttcttggacggtccctctcgaatgggggaagaatcattccaccaccaatcctctgggattttttcccgaccaccagttggatccagcattcagagcaaacaccagaaatccagattgggaccacaatcccaacaaagaccactggacagacgccaacaaggtaggagtgggagcatttgggccggggttcacgcccccacactaaaaacattgccagcagatccgcctcctgcctccaccaatcggcagtcaggttcctgctggtggctccagttccggaacagtgaaccctgttccgactactgcctcactcatctcgtcaatcttctcgaggattggggaccctgcaccgaacatggaaagcatcacatcaggattcctaggacccctgctcgtgttacaggcggggtttttcttgttgacaaaaatcctcacaataccgcagagtctagactcgtggtggacttctctcaattttctagggggagctcccgtgtgtcttggccaaaattcgcagtccccaacctccaatcactcaccaacctcttgtcctccaatttgtcctggctatcgctggatgtgtctgcggcgttttatcatcttcctcttcatcctgctgctatgcctcatcttcttgttggttcttctggactatcaaggtatgttgcccgtttgtcctctaattccaggatcatcaaccaccagtacgggaccctgccgaacctgcacgactcttgctcaaggaacctctatgtttccctcatgttgctgttcaaaaccttcggacggaaattgcacttgtattcccatcccatcatcatgggctttcgcaaaattcctatgggagtgggcctcagcccgtttctcctggctcagtttactagtgccatttgttcagtggttcgccgggctttcccccactgtctggctttcagttatatggatgatgtggtattgggggccaagtctgtacaacatcttgaggccctttatacctctgtaaccaattttcttttgtctttgggtatacatttaa</GBSeq_sequence>
+  </GBSeq>

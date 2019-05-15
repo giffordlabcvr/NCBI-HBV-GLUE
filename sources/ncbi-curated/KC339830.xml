@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<GBSeq>
+
+    <GBSeq_locus>KC339830</GBSeq_locus>
+    <GBSeq_length>1170</GBSeq_length>
+    <GBSeq_strandedness>double</GBSeq_strandedness>
+    <GBSeq_moltype>DNA</GBSeq_moltype>
+    <GBSeq_topology>linear</GBSeq_topology>
+    <GBSeq_division>VRL</GBSeq_division>
+    <GBSeq_update-date>03-DEC-2013</GBSeq_update-date>
+    <GBSeq_create-date>03-DEC-2013</GBSeq_create-date>
+    <GBSeq_definition>Hepatitis B virus isolate IR-69 large S protein (S) gene, complete cds</GBSeq_definition>
+    <GBSeq_primary-accession>KC339830</GBSeq_primary-accession>
+    <GBSeq_accession-version>KC339830.1</GBSeq_accession-version>
+    <GBSeq_other-seqids>
+      <GBSeqid>gb|KC339830.1|</GBSeqid>
+      <GBSeqid>gi|528774794</GBSeqid>
+    </GBSeq_other-seqids>
+    <GBSeq_source>Hepatitis B virus</GBSeq_source>
+    <GBSeq_organism>Hepatitis B virus</GBSeq_organism>
+    <GBSeq_taxonomy>Viruses; Retro-transcribing viruses; Hepadnaviridae; Orthohepadnavirus</GBSeq_taxonomy>
+    <GBSeq_references>
+      <GBReference>
+        <GBReference_reference>1</GBReference_reference>
+        <GBReference_position>1..1170</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Pourkarim,M.R.</GBAuthor>
+          <GBAuthor>Sharifi,Z.</GBAuthor>
+          <GBAuthor>Soleimani,A.</GBAuthor>
+          <GBAuthor>Amini-Bavil-Olyaee,S.</GBAuthor>
+          <GBAuthor>Elsadek Fakhr,A.</GBAuthor>
+          <GBAuthor>Sijmons,S.</GBAuthor>
+          <GBAuthor>Vercauteren,J.</GBAuthor>
+          <GBAuthor>Karimi,G.</GBAuthor>
+          <GBAuthor>Lemey,P.</GBAuthor>
+          <GBAuthor>Maes,P.</GBAuthor>
+          <GBAuthor>Alavian,S.M.</GBAuthor>
+          <GBAuthor>Van Ranst,M.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>Evolutionary analysis of HBV 'S' antigen genetic diversity in Iranian blood donors: A nationwide study</GBReference_title>
+        <GBReference_journal>J. Med. Virol. 86 (1), 144-155 (2014)</GBReference_journal>
+        <GBReference_xref>
+          <GBXref>
+            <GBXref_dbname>doi</GBXref_dbname>
+            <GBXref_id>10.1002/jmv.23798</GBXref_id>
+          </GBXref>
+        </GBReference_xref>
+        <GBReference_pubmed>24150816</GBReference_pubmed>
+      </GBReference>
+      <GBReference>
+        <GBReference_reference>2</GBReference_reference>
+        <GBReference_position>1..1170</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Pourkarim,M.R.</GBAuthor>
+          <GBAuthor>Sharifi,Z.</GBAuthor>
+          <GBAuthor>Soleimani,A.</GBAuthor>
+          <GBAuthor>Amini-Bavil-Olyaee,S.</GBAuthor>
+          <GBAuthor>Sijmons,S.</GBAuthor>
+          <GBAuthor>Vercauteren,J.</GBAuthor>
+          <GBAuthor>Karimi,G.</GBAuthor>
+          <GBAuthor>Maes,P.</GBAuthor>
+          <GBAuthor>Alavian,S.M.</GBAuthor>
+          <GBAuthor>Van Ranst,M.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>Direct Submission</GBReference_title>
+        <GBReference_journal>Submitted (13-DEC-2012) Microbiology and Immunology, Rega Institute for Medical Research, Minderbroedersstraat 10, Leuven, 3000, Belgium</GBReference_journal>
+      </GBReference>
+    </GBSeq_references>
+    <GBSeq_feature-table>
+      <GBFeature>
+        <GBFeature_key>source</GBFeature_key>
+        <GBFeature_location>1..1170</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>1170</GBInterval_to>
+            <GBInterval_accession>KC339830.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>organism</GBQualifier_name>
+            <GBQualifier_value>Hepatitis B virus</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>mol_type</GBQualifier_name>
+            <GBQualifier_value>genomic DNA</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>isolate</GBQualifier_name>
+            <GBQualifier_value>IR-69</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>isolation_source</GBQualifier_name>
+            <GBQualifier_value>serum</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>host</GBQualifier_name>
+            <GBQualifier_value>Homo sapiens</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>db_xref</GBQualifier_name>
+            <GBQualifier_value>taxon:10407</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>country</GBQualifier_name>
+            <GBQualifier_value>Iran</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>note</GBQualifier_name>
+            <GBQualifier_value>subtype: ayw2; genotype: D</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>gene</GBFeature_key>
+        <GBFeature_location>1..1170</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>1170</GBInterval_to>
+            <GBInterval_accession>KC339830.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>gene</GBQualifier_name>
+            <GBQualifier_value>S</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>CDS</GBFeature_key>
+        <GBFeature_location>1..1170</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>1170</GBInterval_to>
+            <GBInterval_accession>KC339830.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>gene</GBQualifier_name>
+            <GBQualifier_value>S</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>note</GBQualifier_name>
+            <GBQualifier_value>pre-S1/pre-S2/S</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>codon_start</GBQualifier_name>
+            <GBQualifier_value>1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>transl_table</GBQualifier_name>
+            <GBQualifier_value>1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>product</GBQualifier_name>
+            <GBQualifier_value>large S protein</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>protein_id</GBQualifier_name>
+            <GBQualifier_value>AGS44713.1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>translation</GBQualifier_name>
+            <GBQualifier_value>MGQNLSTSNPLGFFPDHQLDPAFRANTANPDWDFNPNKDTWPDANKVGAGAFGLGFTPPHGGLLGWSPQAQGILQTLPTNPPPASTNRQSGRQPTPLSPPLRDTHPQAMQWNSTTFHQTLQDPRVRGLYFPAGGSSSGTVNPVPTSVSHISSIFSRIGDPALNMENITSGFLGPLLVLQAGFFLLTRILTIPQSLDSWWTSLNFLGGTTVCLGQNSQSPTSNHSPTSCPPTCPGYRWMCLRRFIIFLFILLLCLIFLLVLLDYQGMLPVCPLIPGSSTTSTGPCRTCTTPAQGTSMYPSCCCTKPSDGNCTCIPIPSSWAFGKFLWEWASARFSWLSLLVPFVQWFVGLSPTVWLSVIWMMWYWGPSLYSTLSPFIPLLPIFFCLWVYI</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+    </GBSeq_feature-table>
+    <GBSeq_sequence>atggggcagaatctttccaccagcaatcctctgggattctttcccgaccaccagttggatccagccttcagagcaaacaccgcaaatccagattgggacttcaatcccaacaaggacacctggccagacgccaacaaggtaggagctggagcattcgggctgggattcaccccaccgcacggaggccttttggggtggagccctcaggctcaaggcatactacaaaccttgccaacaaatccgcctcctgcctctaccaatcgccagtcaggaaggcagcctacccctctgtctccacctttgagagacactcatcctcaggccatgcagtggaactccacaaccttccatcaaactctgcaagatcccagagtgagaggcctatatttccctgctggtggctccagttcaggaacagtaaaccctgttccgacttctgtctctcacatatcgtcaatcttctcgaggattggggaccctgcgctgaacatggagaacatcacatcaggattcctaggacccctgctcgtgttacaggcggggtttttcttgttgacaagaatcctcacaataccgcagagtctagactcgtggtggacttctctcaattttctagggggaactaccgtgtgtcttggccaaaattcgcagtccccaacctccaatcactcaccaacctcctgtcctccaacttgtcctggttatcgctggatgtgtctgcggcgttttatcatcttcctcttcatcctgctgctatgcctcatcttcttgttggttcttctggactatcaaggtatgttgcccgtttgtcctctaattccaggatcttcaaccaccagcacgggaccatgcagaacctgcacgactcctgctcaaggaacctctatgtatccctcctgttgctgtaccaaaccttcggacggaaattgcacctgtattcccatcccatcatcctgggctttcggaaaattcctatgggagtgggcctcagcccgtttctcctggctcagtttactagtgccctttgttcaatggttcgtagggctttcccccactgtttggctttcagttatatggatgatgtggtattgggggccaagtctgtacagcaccttgagtccctttataccgctgttaccaattttcttttgtctttgggtatacatttaa</GBSeq_sequence>
+  </GBSeq>

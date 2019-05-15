@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<GBSeq>
+
+    <GBSeq_locus>AF325674</GBSeq_locus>
+    <GBSeq_length>522</GBSeq_length>
+    <GBSeq_strandedness>double</GBSeq_strandedness>
+    <GBSeq_moltype>DNA</GBSeq_moltype>
+    <GBSeq_topology>linear</GBSeq_topology>
+    <GBSeq_division>VRL</GBSeq_division>
+    <GBSeq_update-date>14-JUL-2016</GBSeq_update-date>
+    <GBSeq_create-date>07-FEB-2001</GBSeq_create-date>
+    <GBSeq_definition>Hepatitis B virus isolate Hangzhou large surface antigen (S) gene, partial cds</GBSeq_definition>
+    <GBSeq_primary-accession>AF325674</GBSeq_primary-accession>
+    <GBSeq_accession-version>AF325674.1</GBSeq_accession-version>
+    <GBSeq_other-seqids>
+      <GBSeqid>gb|AF325674.1|</GBSeqid>
+      <GBSeqid>gi|12698737</GBSeqid>
+    </GBSeq_other-seqids>
+    <GBSeq_source>Hepatitis B virus</GBSeq_source>
+    <GBSeq_organism>Hepatitis B virus</GBSeq_organism>
+    <GBSeq_taxonomy>Viruses; Retro-transcribing viruses; Hepadnaviridae; Orthohepadnavirus</GBSeq_taxonomy>
+    <GBSeq_references>
+      <GBReference>
+        <GBReference_reference>1</GBReference_reference>
+        <GBReference_position>1..522</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Wang,M.</GBAuthor>
+          <GBAuthor>Jin,Y.F.</GBAuthor>
+          <GBAuthor>Zhang,Y.Z.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>Cloning and sequence analysis of human hepatitis B virus preS gene variants from Hangzhou and Lanzhou China</GBReference_title>
+        <GBReference_journal>Zhongguo Bingduxue (2001) In press</GBReference_journal>
+      </GBReference>
+      <GBReference>
+        <GBReference_reference>2</GBReference_reference>
+        <GBReference_position>1..522</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Wang,M.</GBAuthor>
+          <GBAuthor>Jin,Y.F.</GBAuthor>
+          <GBAuthor>Zhang,Y.Z.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>Direct Submission</GBReference_title>
+        <GBReference_journal>Submitted (01-DEC-2000) Institute of Biochemistry, Zhejiang University, Huajiachi Campus, Hangzhou, Zhejiang 310029, China</GBReference_journal>
+      </GBReference>
+    </GBSeq_references>
+    <GBSeq_feature-table>
+      <GBFeature>
+        <GBFeature_key>source</GBFeature_key>
+        <GBFeature_location>1..522</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>522</GBInterval_to>
+            <GBInterval_accession>AF325674.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>organism</GBQualifier_name>
+            <GBQualifier_value>Hepatitis B virus</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>mol_type</GBQualifier_name>
+            <GBQualifier_value>genomic DNA</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>isolate</GBQualifier_name>
+            <GBQualifier_value>Hangzhou</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>db_xref</GBQualifier_name>
+            <GBQualifier_value>taxon:10407</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>country</GBQualifier_name>
+            <GBQualifier_value>China: Hangzhou</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>gene</GBFeature_key>
+        <GBFeature_location>1..&gt;522</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>522</GBInterval_to>
+            <GBInterval_accession>AF325674.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_partial3 value="true"/>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>gene</GBQualifier_name>
+            <GBQualifier_value>S</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>CDS</GBFeature_key>
+        <GBFeature_location>1..&gt;522</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>522</GBInterval_to>
+            <GBInterval_accession>AF325674.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_partial3 value="true"/>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>gene</GBQualifier_name>
+            <GBQualifier_value>S</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>note</GBQualifier_name>
+            <GBQualifier_value>preS/S</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>codon_start</GBQualifier_name>
+            <GBQualifier_value>1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>transl_table</GBQualifier_name>
+            <GBQualifier_value>1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>product</GBQualifier_name>
+            <GBQualifier_value>large surface antigen</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>protein_id</GBQualifier_name>
+            <GBQualifier_value>AAK01667.1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>translation</GBQualifier_name>
+            <GBQualifier_value>MGGWSSKPRQGMGTNLSVPNPLGFFPGHQLDPAFGANSNNPDWDFNPNKDQWPAANQVGAGAFGPGFTPPHGGLLGWSPQAQGILTTVPAAPPPASTNRQSGRQPTPISPPLRESHPQAMQWNSTTFHQALLDPRVRGLYFPAGGSSSGTLNPVPTTASPTSSIFSRTGDPAPN</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+    </GBSeq_feature-table>
+    <GBSeq_sequence>atgggaggttggtcttccaaacctcgacaaggcatggggacgaatctttctgttcccaatcctctgggattctttcccggtcaccagttggacccggcattcggagccaattcaaacaatccagattgggacttcaaccccaacaaggatcaatggccagcggcaaatcaggtaggagcgggagcattcgggccagggttcaccccaccacacggcggtcttttggggtggagccctcaggctcaaggcatattgacaacagtgccagcagcacctcctcctgcctccaccaatcggcagtcagggagacagcctactcccatctctccacctctaagagaaagtcatcctcaggccatgcagtggaactccacaacattccaccaagctctgctagatcccagagtaaggggcctatattttcctgctggtggctccagttccggaacactaaaccctgttccgactactgcctctcccacatcatcaatcttctcgaggactggggaccctgcaccgaac</GBSeq_sequence>
+  </GBSeq>

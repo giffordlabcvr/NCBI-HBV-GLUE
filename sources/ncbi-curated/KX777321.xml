@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<GBSeq>
+
+    <GBSeq_locus>KX777321</GBSeq_locus>
+    <GBSeq_length>1032</GBSeq_length>
+    <GBSeq_strandedness>double</GBSeq_strandedness>
+    <GBSeq_moltype>DNA</GBSeq_moltype>
+    <GBSeq_topology>linear</GBSeq_topology>
+    <GBSeq_division>VRL</GBSeq_division>
+    <GBSeq_update-date>26-MAR-2017</GBSeq_update-date>
+    <GBSeq_create-date>26-MAR-2017</GBSeq_create-date>
+    <GBSeq_definition>Hepatitis B virus strain SPHC41088 reverse transcriptase gene, partial cds</GBSeq_definition>
+    <GBSeq_primary-accession>KX777321</GBSeq_primary-accession>
+    <GBSeq_accession-version>KX777321.1</GBSeq_accession-version>
+    <GBSeq_other-seqids>
+      <GBSeqid>gb|KX777321.1|</GBSeqid>
+      <GBSeqid>gi|1162509509</GBSeqid>
+    </GBSeq_other-seqids>
+    <GBSeq_source>Hepatitis B virus</GBSeq_source>
+    <GBSeq_organism>Hepatitis B virus</GBSeq_organism>
+    <GBSeq_taxonomy>Viruses; Retro-transcribing viruses; Hepadnaviridae; Orthohepadnavirus</GBSeq_taxonomy>
+    <GBSeq_references>
+      <GBReference>
+        <GBReference_reference>1</GBReference_reference>
+        <GBReference_position>1..1032</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Shan,M.</GBAuthor>
+          <GBAuthor>Shen,Z.</GBAuthor>
+          <GBAuthor>Sun,H.</GBAuthor>
+          <GBAuthor>Zheng,J.</GBAuthor>
+          <GBAuthor>Zhang,M.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>The enrichment of HBV immune-escape mutations during nucleoside/nucleotide analogue therapy</GBReference_title>
+        <GBReference_journal>Antivir. Ther. (Lond.) (2017) In press</GBReference_journal>
+        <GBReference_xref>
+          <GBXref>
+            <GBXref_dbname>doi</GBXref_dbname>
+            <GBXref_id>10.3851/IMP3156</GBXref_id>
+          </GBXref>
+        </GBReference_xref>
+        <GBReference_pubmed>28300730</GBReference_pubmed>
+        <GBReference_remark>Publication Status: Available-Online prior to print</GBReference_remark>
+      </GBReference>
+      <GBReference>
+        <GBReference_reference>2</GBReference_reference>
+        <GBReference_position>1..1032</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Shan,M.</GBAuthor>
+          <GBAuthor>Shen,Z.</GBAuthor>
+          <GBAuthor>Sun,H.</GBAuthor>
+          <GBAuthor>Zhen,J.</GBAuthor>
+          <GBAuthor>Zhang,M.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>Direct Submission</GBReference_title>
+        <GBReference_journal>Submitted (25-AUG-2016) Institute of Antibiotics, Huashan Hospital, Fudan University, 12 M. Wulumuqi Road, Shanghai 200040, China</GBReference_journal>
+      </GBReference>
+    </GBSeq_references>
+    <GBSeq_comment>##Assembly-Data-START## ; Sequencing Technology :: Sanger dideoxy sequencing ; ##Assembly-Data-END##</GBSeq_comment>
+    <GBSeq_feature-table>
+      <GBFeature>
+        <GBFeature_key>source</GBFeature_key>
+        <GBFeature_location>1..1032</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>1032</GBInterval_to>
+            <GBInterval_accession>KX777321.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>organism</GBQualifier_name>
+            <GBQualifier_value>Hepatitis B virus</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>mol_type</GBQualifier_name>
+            <GBQualifier_value>genomic DNA</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>strain</GBQualifier_name>
+            <GBQualifier_value>SPHC41088</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>isolation_source</GBQualifier_name>
+            <GBQualifier_value>serum</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>host</GBQualifier_name>
+            <GBQualifier_value>Homo sapiens</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>db_xref</GBQualifier_name>
+            <GBQualifier_value>taxon:10407</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>country</GBQualifier_name>
+            <GBQualifier_value>China</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>collection_date</GBQualifier_name>
+            <GBQualifier_value>Feb-2014</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>note</GBQualifier_name>
+            <GBQualifier_value>genotype: B2</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>CDS</GBFeature_key>
+        <GBFeature_location>&lt;1..&gt;1032</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>1032</GBInterval_to>
+            <GBInterval_accession>KX777321.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_partial5 value="true"/>
+        <GBFeature_partial3 value="true"/>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>codon_start</GBQualifier_name>
+            <GBQualifier_value>1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>transl_table</GBQualifier_name>
+            <GBQualifier_value>1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>product</GBQualifier_name>
+            <GBQualifier_value>reverse transcriptase</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>protein_id</GBQualifier_name>
+            <GBQualifier_value>AQZ59234.1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>translation</GBQualifier_name>
+            <GBQualifier_value>EDWGPCTEHGEHRIRTPRTPARVTGGVFLVDKNPHNTTESRLVVDFSQFSRGNTRVSWPKFAVPNLQSLTNLLSSNLSWLSLDVSAAFYHLPLHPAAMPHLLVGSSGLPRYVARLSSPSRIINNQHRTMQNLHDSCSRNLYVSLMLLYKTYGRKLHLYSHPIILGFRKIPMGVGLSPFLLAQFSSAICSVVRRAFPHCLAFSYIDDVVLGAKSVQHLESLYTAVTNFLLSLGIHLNPHKTKRWGYSLNFMGYVIGSWGTLPQEHIVQKIKMCFRKLPVNRPIDWKVCQRIVGLLGFAAPFTQCGYPALMPLYACIQAKQAFTFSPTYKAFLSKQYLNLYPVARQ</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+    </GBSeq_feature-table>
+    <GBSeq_sequence>gaagactggggaccctgtaccgaacatggagaacatcgcatcaggactcctaggacccctgctcgtgttacaggcggggtttttcttgttgacaaaaatcctcacaataccacagagtctagactcgtggtggacttctctcaattttctagggggaacacccgtgtgtcttggccaaaattcgcagtcccaaatctccagtcactcaccaacctgttgtcctccaatttgtcctggttatcgctggatgtgtctgcggcgttttatcatcttcctctgcatcctgctgctatgcctcatcttcttgttggttcttctggactaccaaggtatgttgcccgtttgtcctctccttccaggatcatcaacaaccagcaccggaccatgcaaaacctgcacgactcctgctcaaggaacctctatgtttccctcatgttgctgtacaaaacctacggacggaaactgcacctgtattcccatcccatcatcttgggctttcgcaaaatacctatgggagtgggcctcagtccgtttctcttggctcagtttagtagtgccatttgttcagtggttcgtagggctttcccccactgtctggctttcagttatattgatgatgtggttttgggggccaagtctgtacaacatcttgagtccctttataccgctgttaccaattttcttttgtctttgggtatacatttaaaccctcacaaaacaaaaagatggggatattcccttaacttcatgggatatgtaattgggagttggggcacattgccacaggaacatattgtacaaaaaatcaaaatgtgttttaggaaacttcctgtaaaccggcctattgattggaaagtatgtcaacgaattgtgggtcttttggggtttgccgcccctttcacacaatgtggatatcctgctttaatgcctttatatgcatgtatacaagcaaaacaggcttttactttctcgccaacttacaaggcctttctaagtaaacagtatctgaacctttaccccgttgctcggcaa</GBSeq_sequence>
+  </GBSeq>

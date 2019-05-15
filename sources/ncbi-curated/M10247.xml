@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<GBSeq>
+
+    <GBSeq_locus>HPBECOD</GBSeq_locus>
+    <GBSeq_length>2251</GBSeq_length>
+    <GBSeq_strandedness>double</GBSeq_strandedness>
+    <GBSeq_moltype>DNA</GBSeq_moltype>
+    <GBSeq_topology>linear</GBSeq_topology>
+    <GBSeq_division>VRL</GBSeq_division>
+    <GBSeq_update-date>15-MAR-1988</GBSeq_update-date>
+    <GBSeq_create-date>02-AUG-1993</GBSeq_create-date>
+    <GBSeq_definition>Hepatitis B virus EcoD fragment and flanking cellular DNA</GBSeq_definition>
+    <GBSeq_primary-accession>M10247</GBSeq_primary-accession>
+    <GBSeq_accession-version>M10247.1</GBSeq_accession-version>
+    <GBSeq_other-seqids>
+      <GBSeqid>gb|M10247.1|HPBECOD</GBSeqid>
+      <GBSeqid>gi|329654</GBSeqid>
+    </GBSeq_other-seqids>
+    <GBSeq_source>Hepatitis B virus</GBSeq_source>
+    <GBSeq_organism>Hepatitis B virus</GBSeq_organism>
+    <GBSeq_taxonomy>Viruses; Retro-transcribing viruses; Hepadnaviridae; Orthohepadnavirus</GBSeq_taxonomy>
+    <GBSeq_references>
+      <GBReference>
+        <GBReference_reference>1</GBReference_reference>
+        <GBReference_position>1..2251</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Mizusawa,H.</GBAuthor>
+          <GBAuthor>Taira,M.</GBAuthor>
+          <GBAuthor>Yaginuma,K.</GBAuthor>
+          <GBAuthor>Kobayashi,M.</GBAuthor>
+          <GBAuthor>Yoshida,E.</GBAuthor>
+          <GBAuthor>Koike,K.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>Inversely repeating integrated hepatitis B virus DNA and cellular flanking sequences in the human hepatoma-derived cell line huSP</GBReference_title>
+        <GBReference_journal>Proc. Natl. Acad. Sci. U.S.A. 82 (1), 208-212 (1985)</GBReference_journal>
+        <GBReference_pubmed>2982143</GBReference_pubmed>
+      </GBReference>
+    </GBSeq_references>
+    <GBSeq_comment>Original source text: Hepatitis B virus DNA from human hepatoma-derived cell line huSP, clone lambda-hu-489.; The incomplete gene S (3' end, positions 632-1101) and gene X (5' end, positions 1551-1917) were found in the EcoD segment. One base pair change per 100 occurred, compared with the sequence of the HBV DNA. A deletion of 90 bp is found between positions 1180 and 1181, in the region between genes S and X.</GBSeq_comment>
+    <GBSeq_feature-table>
+      <GBFeature>
+        <GBFeature_key>source</GBFeature_key>
+        <GBFeature_location>1..2251</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>2251</GBInterval_to>
+            <GBInterval_accession>M10247.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>organism</GBQualifier_name>
+            <GBQualifier_value>Hepatitis B virus</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>mol_type</GBQualifier_name>
+            <GBQualifier_value>genomic DNA</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>db_xref</GBQualifier_name>
+            <GBQualifier_value>taxon:10407</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>repeat_region</GBFeature_key>
+        <GBFeature_location>1..631</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>631</GBInterval_to>
+            <GBInterval_accession>M10247.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>note</GBQualifier_name>
+            <GBQualifier_value>5' inverted repeat</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>repeat_region</GBFeature_key>
+        <GBFeature_location>1620..2251</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1620</GBInterval_from>
+            <GBInterval_to>2251</GBInterval_to>
+            <GBInterval_accession>M10247.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>note</GBQualifier_name>
+            <GBQualifier_value>3' inverted repeat</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+    </GBSeq_feature-table>
+    <GBSeq_sequence>aattcaagaggtaaaggggacttagagatttctagtccagcagtcccatgctatagatgggaaaacttgaggatcaaagttaggtagcttcatgaaaagggtataaatgtggaaatccaagactccagttctaactgaggcttaatcacagataacgtgtgtgatcttgagctacttgcttagtgtctctgggtctgagttttcctttctagaagatggggaaactaatacgtattctggagtgattagagataaggtgtagaagtagccaagtgtatggcagctggtacaatggatgccatagtaaaggagttggtgccagaatcactgcatcactcctcccagtccttaaacaaacagtctttgaagtatgcctcaaggtcggtcgttgacatcgatgagagtccaagagtcctcctatgtaagaccttgggcaagacctggtgggcgttcacggtggtctccatgcgacgtgcagaggtgaagcgaagtgcacacggtccggcagatgagaaggcacagacggggagaccgcgtaaagagaggtgcgccccgtggtcggccggaacggcgatgaagaaggggacgatagaggcccaaacggccccgagacgggtcgtccgcgggattcgctatcgctggatgtgtctgcggcgttttatcatattcctcttcatcctgctgctatgcctcatcttcttgttggttcttctggactatcaaggtatgttgcccgtttgtcctctacttccaggaacaacaactaccagcacgggaccatgcaagacctgcacgactcctgctcaaggaacctctatgtttccctcttgttgctgtacaaaaccttcggacggaaactgcacttgtattcccatcccatcatcctgggctttcgcaagattcctatgggagtgggcctcagtccgtttctcctggctcagtttactagtgccatttgttcagtggttcgtagggctttcccccactgtttggctttcagttatatggatgatgtggtactgggggccaagtctgtacaacatcttgagtccctttttacctctattaccaattttcttttgtctttgggtatacatttgaatcctaataaaaccaaacgttggggctactcccttaacttcatgggatatgtaattggaagttggggtactttaccactgtcttttgggctttgctgccccttttacacaatgtggctatcctgccttgatgcctttatatgcatgtatacactctgagcaggctttcactttctcgccaacttacaaggcctttctgtgtcaacaatatgtgcacctttagcccgttgcccggcaacggtcaggtctctgccaagtgtatgctgacgcaactcccactggatggggcttggccataggccatcagcgcatgcgtggaacctttgtagctcctctgccgatccatactgcggaactccttgcagcttgttttgttcgcagccggtctggagctaaacttatcgggactgacaactctgttgtcctctctcggaaatatacctccttcccatggctgctcgggtgtgctgccaactggatcctgcgcgggacgtcctttgtctacgtcccgtcggcgctgaatcccgcggacgacccgtctcggggccgtttgggcctctatcgtccccttcttcatctgccgttccggccgaccacggggcgcacctctctttacgcggtctccccgtctgtgccttctcatctgccggaccgtgtgcacttcgcttcacctctgcacgtcgcatggagaccaccgtgaacgcccaccaggtcttgcccaaggtcttacataagaggactcttggactctcatcgatgtcaacgaccgaccttgaggcatacttcaaagactgtttgtttaaggactgggaggagtgatgcagtgattctggcaccaactcctttactatggcatccattgtaccagctgccatacacttggctacttctacaccttatctctaatcactccagaatacgtattagtttccccatcttctagaaaggaaaactcagacccagagacactaagcaagtagctcaagatcacacacgttatctgtgattaagcctcagttagaactggagtcttggatttccacatttatacccttttcatgaagctacctaactttgatcctcaagttttcccatctatagcatgggactgctggactagaaatctctaagtcccctttacctcttgaatt</GBSeq_sequence>
+  </GBSeq>

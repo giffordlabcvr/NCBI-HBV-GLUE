@@ -1,0 +1,286 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<GBSeq>
+
+    <GBSeq_locus>KM998722</GBSeq_locus>
+    <GBSeq_length>1100</GBSeq_length>
+    <GBSeq_strandedness>double</GBSeq_strandedness>
+    <GBSeq_moltype>DNA</GBSeq_moltype>
+    <GBSeq_topology>linear</GBSeq_topology>
+    <GBSeq_division>VRL</GBSeq_division>
+    <GBSeq_update-date>16-OCT-2018</GBSeq_update-date>
+    <GBSeq_create-date>16-FEB-2015</GBSeq_create-date>
+    <GBSeq_definition>Hepatitis B virus strain InDRE1304 polymerase (P) and middle S protein (S) genes, partial cds; and S protein (S) gene, complete cds</GBSeq_definition>
+    <GBSeq_primary-accession>KM998722</GBSeq_primary-accession>
+    <GBSeq_accession-version>KM998722.2</GBSeq_accession-version>
+    <GBSeq_other-seqids>
+      <GBSeqid>gb|KM998722.2|</GBSeqid>
+      <GBSeqid>gi|1131340005</GBSeqid>
+    </GBSeq_other-seqids>
+    <GBSeq_source>Hepatitis B virus</GBSeq_source>
+    <GBSeq_organism>Hepatitis B virus</GBSeq_organism>
+    <GBSeq_taxonomy>Viruses; Retro-transcribing viruses; Hepadnaviridae; Orthohepadnavirus</GBSeq_taxonomy>
+    <GBSeq_references>
+      <GBReference>
+        <GBReference_reference>1</GBReference_reference>
+        <GBReference_position>1..1100</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Fragoso-Fonseca,D.E.</GBAuthor>
+          <GBAuthor>Corona-Valdespino,E.</GBAuthor>
+          <GBAuthor>Lloret y Sanchez,L.T.</GBAuthor>
+          <GBAuthor>Esteban-Valencia,Md.C.</GBAuthor>
+          <GBAuthor>Gonzalez-Villa,M.</GBAuthor>
+          <GBAuthor>Escobar-Escamilla,N.</GBAuthor>
+          <GBAuthor>Lopez-Martinez,I.</GBAuthor>
+          <GBAuthor>Diaz-Quinonez,J.A.</GBAuthor>
+          <GBAuthor>Ramirez-Gonzalez,J.E.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>Molecular characterization of Hepatitis B virus isolates from a Mexican population in a reference laboratory</GBReference_title>
+        <GBReference_journal>Unpublished</GBReference_journal>
+      </GBReference>
+      <GBReference>
+        <GBReference_reference>2</GBReference_reference>
+        <GBReference_position>1..1100</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Fragoso-Fonseca,D.E.</GBAuthor>
+          <GBAuthor>Falcon-Acosta,J.I.</GBAuthor>
+          <GBAuthor>Rodriguez-Maldonado,A.P.</GBAuthor>
+          <GBAuthor>Del Mazo-Lopez,J.C.</GBAuthor>
+          <GBAuthor>Alcantara-Perez,P.A.</GBAuthor>
+          <GBAuthor>Lopez-Martinez,I.</GBAuthor>
+          <GBAuthor>Diaz-Quinonez,J.A.</GBAuthor>
+          <GBAuthor>Ramirez-Gonzalez,J.E.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>Direct Submission</GBReference_title>
+        <GBReference_journal>Submitted (18-OCT-2014) Biologia Molecular y Validacion de Tecnicas, Instituto de Diagnostico y Referencia Epidemiologicos, Francisco de P Miranda 177 Bis, Lomas de Plateros, Alvaro Obregon, Mexico, DF 01480, Mexico</GBReference_journal>
+      </GBReference>
+      <GBReference>
+        <GBReference_reference>3</GBReference_reference>
+        <GBReference_position>1..1100</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Fragoso-Fonseca,D.E.</GBAuthor>
+          <GBAuthor>Falcon-Acosta,J.I.</GBAuthor>
+          <GBAuthor>Rodriguez-Maldonado,A.P.</GBAuthor>
+          <GBAuthor>Del Mazo-Lopez,J.C.</GBAuthor>
+          <GBAuthor>Alcantara-Perez,P.A.</GBAuthor>
+          <GBAuthor>Lopez-Martinez,I.</GBAuthor>
+          <GBAuthor>Diaz-Quinonez,J.A.</GBAuthor>
+          <GBAuthor>Ramirez-Gonzalez,J.E.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>Direct Submission</GBReference_title>
+        <GBReference_journal>Submitted (12-JAN-2017) Biologia Molecular y Validacion de Tecnicas, Instituto de Diagnostico y Referencia Epidemiologicos, Francisco de P Miranda 177 Bis, Lomas de Plateros, Alvaro Obregon, Mexico, DF 01480, Mexico</GBReference_journal>
+        <GBReference_remark>Sequence update by submitter</GBReference_remark>
+      </GBReference>
+    </GBSeq_references>
+    <GBSeq_comment>On Jan 12, 2017 this sequence version replaced KM998722.1.; ; ##Assembly-Data-START## ; Sequencing Technology :: Sanger dideoxy sequencing ; ##Assembly-Data-END##</GBSeq_comment>
+    <GBSeq_feature-table>
+      <GBFeature>
+        <GBFeature_key>source</GBFeature_key>
+        <GBFeature_location>1..1100</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>1100</GBInterval_to>
+            <GBInterval_accession>KM998722.2</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>organism</GBQualifier_name>
+            <GBQualifier_value>Hepatitis B virus</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>mol_type</GBQualifier_name>
+            <GBQualifier_value>genomic DNA</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>strain</GBQualifier_name>
+            <GBQualifier_value>InDRE1304</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>isolation_source</GBQualifier_name>
+            <GBQualifier_value>plasma</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>host</GBQualifier_name>
+            <GBQualifier_value>Homo sapiens; male</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>db_xref</GBQualifier_name>
+            <GBQualifier_value>taxon:10407</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>country</GBQualifier_name>
+            <GBQualifier_value>Mexico</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>collection_date</GBQualifier_name>
+            <GBQualifier_value>2013</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>note</GBQualifier_name>
+            <GBQualifier_value>genotype: H</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>gene</GBFeature_key>
+        <GBFeature_location>&lt;1..&gt;1100</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>1100</GBInterval_to>
+            <GBInterval_accession>KM998722.2</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_partial5 value="true"/>
+        <GBFeature_partial3 value="true"/>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>gene</GBQualifier_name>
+            <GBQualifier_value>P</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>CDS</GBFeature_key>
+        <GBFeature_location>&lt;1..&gt;1100</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>1100</GBInterval_to>
+            <GBInterval_accession>KM998722.2</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_partial5 value="true"/>
+        <GBFeature_partial3 value="true"/>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>gene</GBQualifier_name>
+            <GBQualifier_value>P</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>codon_start</GBQualifier_name>
+            <GBQualifier_value>1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>transl_table</GBQualifier_name>
+            <GBQualifier_value>1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>product</GBQualifier_name>
+            <GBQualifier_value>polymerase</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>protein_id</GBQualifier_name>
+            <GBQualifier_value>APU57721.1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>translation</GBQualifier_name>
+            <GBQualifier_value>KNTEPCSDYCLSHIINLLEDWGPCYEHGEHHIRTPRTPSRVTGGVFLVDKNPHNTTESRLVVDFSQFSRGTTRVSWPKFAVPNLQSLTNLLSSNLSWLSLDVSAAFYHLPLHPAAMPHLLVGSCGLSRYVARVSSTSRIYNHQHGTLQNLHHSCSRNLYVSLMLLYQTFGRKLHLYSHPIILGFRKIPMGVGLSPFLLAQFTSAICSVVRRAFPHCLAFSYMDDLVLGAKSVQHLESLYTAVTNFLLSVGIHLNTAKTKWWGYSLHFMGYIIGSWGTLPQEHIVHKIKDCFRKLPVNRPIDWKVCQRIVGLLGFAAPFTQCGYPALMPLYACITAKQAFVFSPTYKAFLCKQYLNLYPVARQRPGL</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>gene</GBFeature_key>
+        <GBFeature_location>&lt;1..760</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>760</GBInterval_to>
+            <GBInterval_accession>KM998722.2</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_partial5 value="true"/>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>gene</GBQualifier_name>
+            <GBQualifier_value>S</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>CDS</GBFeature_key>
+        <GBFeature_location>&lt;1..760</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>760</GBInterval_to>
+            <GBInterval_accession>KM998722.2</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_partial5 value="true"/>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>gene</GBQualifier_name>
+            <GBQualifier_value>S</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>note</GBQualifier_name>
+            <GBQualifier_value>pre-S2/S</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>codon_start</GBQualifier_name>
+            <GBQualifier_value>2</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>transl_table</GBQualifier_name>
+            <GBQualifier_value>1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>product</GBQualifier_name>
+            <GBQualifier_value>middle S protein</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>protein_id</GBQualifier_name>
+            <GBQualifier_value>AJK93472.2</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>translation</GBQualifier_name>
+            <GBQualifier_value>KTQNPAPTIASLTSSIFSKTGDPAMNMENITSGLLGPLLVLQAVCFLLTKILTIPQSLDSWWTSLNFLGVPPGCPGQNSQSPISNHLPTSCPPTCPGYRWMCLRRFIIFLFILLLCLIFLLVLVDYQGMLPVCPLLPGSTTTSTGPCRTCTTLAQGTSMFPSCCCTKPSEGNCTCIPIPSSWAFGKYLWEWASARFSWLSLLVQFVQWCVGLSPTVWLLVIWMIWYWGPNLCSILSPFIPLLPIFCYLWASI</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>CDS</GBFeature_key>
+        <GBFeature_location>80..760</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>80</GBInterval_from>
+            <GBInterval_to>760</GBInterval_to>
+            <GBInterval_accession>KM998722.2</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>gene</GBQualifier_name>
+            <GBQualifier_value>S</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>note</GBQualifier_name>
+            <GBQualifier_value>HBsAg</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>codon_start</GBQualifier_name>
+            <GBQualifier_value>1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>transl_table</GBQualifier_name>
+            <GBQualifier_value>1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>product</GBQualifier_name>
+            <GBQualifier_value>S protein</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>protein_id</GBQualifier_name>
+            <GBQualifier_value>APU57722.1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>translation</GBQualifier_name>
+            <GBQualifier_value>MENITSGLLGPLLVLQAVCFLLTKILTIPQSLDSWWTSLNFLGVPPGCPGQNSQSPISNHLPTSCPPTCPGYRWMCLRRFIIFLFILLLCLIFLLVLVDYQGMLPVCPLLPGSTTTSTGPCRTCTTLAQGTSMFPSCCCTKPSEGNCTCIPIPSSWAFGKYLWEWASARFSWLSLLVQFVQWCVGLSPTVWLLVIWMIWYWGPNLCSILSPFIPLLPIFCYLWASI</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+    </GBSeq_feature-table>
+    <GBSeq_sequence>aaaaacacagaaccctgctccgactattgcctctctcacatcatcaatcttctcgaagactggggaccctgctatgaacatggagaacatcacatcaggactcctaggaccccttctcgtgttacaggcggtgtgtttcttgttgacaaaaatcctcacaataccacagagtctagactcgtggtggacttctctcaattttctaggggtaccacccgggtgtcctggccaaaattcgcagtccccaatctccaatcacttaccaacctcctgtcctccaacttgtcctggctatcgttggatgtgtctgcggcgttttatcatcttcctcttcatcctgctgctatgcctcatcttcttgttggttcttgtggactatcaaggtatgttgcccgtgtgtcctctacttccaggatctacaaccaccagcacgggaccctgcagaacctgcaccactcttgctcaaggaacctctatgtttccctcatgctgctgtaccaaaccttcggaaggaaattgcacctgtattcccatcccatcatcttgggctttcggaaaatacctatgggagtgggcctcagcccgtttctcttggctcagtttactagtgcaatttgttcagtggtgcgtagggctttcccccactgtctggcttttagttatatggatgatttggtattgggggccaaatctgtgcagcatcttgagtccctttataccgctgttaccaattttttgttatctgtgggcatccatttgaacacagctaaaacaaaatggtggggttattccttacactttatgggttatatcattgggagttgggggacattgcctcaggaacatattgtgcataaaatcaaagattgctttcgcaaacttcccgtgaatagacccattgattggaaggtttgtcaacgaattgtgggtcttttgggctttgcagccccttttactcaatgtggttatcctgctctcatgcccttgtatgcctgtattactgctaagcaggcttttgttttctcgccaacttataaggcctttctctgtaaacaatacctgaacctttaccccgttgctcggcaacggccaggcctttg</GBSeq_sequence>
+  </GBSeq>

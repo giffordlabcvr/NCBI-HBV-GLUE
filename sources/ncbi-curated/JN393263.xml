@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<GBSeq>
+
+    <GBSeq_locus>JN393263</GBSeq_locus>
+    <GBSeq_length>537</GBSeq_length>
+    <GBSeq_strandedness>double</GBSeq_strandedness>
+    <GBSeq_moltype>DNA</GBSeq_moltype>
+    <GBSeq_topology>linear</GBSeq_topology>
+    <GBSeq_division>VRL</GBSeq_division>
+    <GBSeq_update-date>15-OCT-2012</GBSeq_update-date>
+    <GBSeq_create-date>15-OCT-2012</GBSeq_create-date>
+    <GBSeq_definition>Hepatitis B virus isolate BUE17 pre-S1/pre-S2/S protein (S) gene, partial cds</GBSeq_definition>
+    <GBSeq_primary-accession>JN393263</GBSeq_primary-accession>
+    <GBSeq_accession-version>JN393263.1</GBSeq_accession-version>
+    <GBSeq_other-seqids>
+      <GBSeqid>gb|JN393263.1|</GBSeqid>
+      <GBSeqid>gi|393693241</GBSeqid>
+    </GBSeq_other-seqids>
+    <GBSeq_source>Hepatitis B virus</GBSeq_source>
+    <GBSeq_organism>Hepatitis B virus</GBSeq_organism>
+    <GBSeq_taxonomy>Viruses; Retro-transcribing viruses; Hepadnaviridae; Orthohepadnavirus</GBSeq_taxonomy>
+    <GBSeq_references>
+      <GBReference>
+        <GBReference_reference>1</GBReference_reference>
+        <GBReference_position>1..537</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Trinks,J.</GBAuthor>
+          <GBAuthor>Frias,S.</GBAuthor>
+          <GBAuthor>Frider,B.</GBAuthor>
+          <GBAuthor>Alessio,A.</GBAuthor>
+          <GBAuthor>Pozzati,M.</GBAuthor>
+          <GBAuthor>Daleoso,G.</GBAuthor>
+          <GBAuthor>Leon,L.</GBAuthor>
+          <GBAuthor>Batalla,V.M.</GBAuthor>
+          <GBAuthor>Diaz,A.</GBAuthor>
+          <GBAuthor>Ameigeiras,B.</GBAuthor>
+          <GBAuthor>Oubina,J.R.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>Genotypes B and C hepatocellular carcinoma-associated hepatitis B virus pre-S mutants: their detection among F1b and A2 - but not F4 - isolates from Argentina</GBReference_title>
+        <GBReference_journal>J. Viral Hepat. 19 (11), 823-828 (2012)</GBReference_journal>
+        <GBReference_xref>
+          <GBXref>
+            <GBXref_dbname>doi</GBXref_dbname>
+            <GBXref_id>10.1111/j.1365-2893.2012.01620.x</GBXref_id>
+          </GBXref>
+        </GBReference_xref>
+        <GBReference_pubmed>23043389</GBReference_pubmed>
+      </GBReference>
+      <GBReference>
+        <GBReference_reference>2</GBReference_reference>
+        <GBReference_position>1..537</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Trinks,J.</GBAuthor>
+          <GBAuthor>Oubina,J.R.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>Direct Submission</GBReference_title>
+        <GBReference_journal>Submitted (22-JUL-2011) Department of Microbiology, School of Medicine, University of Buenos Aires, Paraguay 2155, Buenos Aires, Buenos Aires 1121, Argentina</GBReference_journal>
+      </GBReference>
+    </GBSeq_references>
+    <GBSeq_feature-table>
+      <GBFeature>
+        <GBFeature_key>source</GBFeature_key>
+        <GBFeature_location>1..537</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>537</GBInterval_to>
+            <GBInterval_accession>JN393263.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>organism</GBQualifier_name>
+            <GBQualifier_value>Hepatitis B virus</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>mol_type</GBQualifier_name>
+            <GBQualifier_value>genomic DNA</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>isolate</GBQualifier_name>
+            <GBQualifier_value>BUE17</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>isolation_source</GBQualifier_name>
+            <GBQualifier_value>CHB patient</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>host</GBQualifier_name>
+            <GBQualifier_value>Homo sapiens</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>db_xref</GBQualifier_name>
+            <GBQualifier_value>taxon:10407</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>country</GBQualifier_name>
+            <GBQualifier_value>Argentina: Buenos Aires</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>gene</GBFeature_key>
+        <GBFeature_location>2..&gt;537</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>2</GBInterval_from>
+            <GBInterval_to>537</GBInterval_to>
+            <GBInterval_accession>JN393263.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_partial3 value="true"/>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>gene</GBQualifier_name>
+            <GBQualifier_value>S</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>CDS</GBFeature_key>
+        <GBFeature_location>2..&gt;537</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>2</GBInterval_from>
+            <GBInterval_to>537</GBInterval_to>
+            <GBInterval_accession>JN393263.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_partial3 value="true"/>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>gene</GBQualifier_name>
+            <GBQualifier_value>S</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>codon_start</GBQualifier_name>
+            <GBQualifier_value>1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>transl_table</GBQualifier_name>
+            <GBQualifier_value>1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>product</GBQualifier_name>
+            <GBQualifier_value>pre-S1/pre-S2/S protein</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>protein_id</GBQualifier_name>
+            <GBQualifier_value>AFN11867.1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>translation</GBQualifier_name>
+            <GBQualifier_value>MGGWSSKPRKGMGTNLSVPNPLGFFPDHQLDPAFGANSNNPDWDFNPIKDHWPAANQVGVGAFGPGXIPPHGGILGWSPQAQGILTTVSTIPPPASTNRQSGRQPTPISPPLRDSHPQAMQWNSTAFXQDLQDPRVRGLYFPAGGSSSGTVNPAPNIASHISSISARTGDPVTNMENIT</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+    </GBSeq_feature-table>
+    <GBSeq_sequence>catgggaggttggtcatcaaaacctcgcaaaggcatggggacgaatctttctgttcccaaccctctgggattctttcccgatcatcagttggatcctgcattcggagccaactcaaacaatccagattgggacttcaaccccatcaaggaccactggccagcagccaaccaggtaggagtgggagcattcgggccagggcwcatccctccacacggcggtattttggggtggagccctcaggctcagggcatattgaccacagtgtcaacaattcctcctcctgcctccaccaatcggcagtcaggaaggcagcctactcccatctctccacctctaagagacagtcatcctcaggccatgcagtggaattccactgccttccamcaagatctgcaggatcccagagtcaggggtctgtattttcctgctggtggctccagttcaggaacagtaaaccctgctccgaatattgcctctcacatctcgtcaatctccgcgaggactggggaccctgtgacgaacatggagaacatcac</GBSeq_sequence>
+  </GBSeq>

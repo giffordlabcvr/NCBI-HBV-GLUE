@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<GBSeq>
+
+    <GBSeq_locus>E02712</GBSeq_locus>
+    <GBSeq_length>264</GBSeq_length>
+    <GBSeq_strandedness>single</GBSeq_strandedness>
+    <GBSeq_moltype>RNA</GBSeq_moltype>
+    <GBSeq_topology>linear</GBSeq_topology>
+    <GBSeq_division>PAT</GBSeq_division>
+    <GBSeq_update-date>04-NOV-2005</GBSeq_update-date>
+    <GBSeq_create-date>06-JUN-1997</GBSeq_create-date>
+    <GBSeq_definition>DNA sequence of MF alpha 1 prepropeptide</GBSeq_definition>
+    <GBSeq_primary-accession>E02712</GBSeq_primary-accession>
+    <GBSeq_accession-version>E02712.1</GBSeq_accession-version>
+    <GBSeq_other-seqids>
+      <GBSeqid>dbj|E02712.1|</GBSeqid>
+      <GBSeqid>pat|JP|1991022983|1</GBSeqid>
+      <GBSeqid>gi|2170940</GBSeqid>
+    </GBSeq_other-seqids>
+    <GBSeq_keywords>
+      <GBKeyword>JP 1991022983-A/1</GBKeyword>
+    </GBSeq_keywords>
+    <GBSeq_source>Hepatitis B virus</GBSeq_source>
+    <GBSeq_organism>Hepatitis B virus</GBSeq_organism>
+    <GBSeq_taxonomy>Viruses; Retro-transcribing viruses; Hepadnaviridae; Orthohepadnavirus</GBSeq_taxonomy>
+    <GBSeq_references>
+      <GBReference>
+        <GBReference_reference>1</GBReference_reference>
+        <GBReference_position>1..264</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Maki,N.</GBAuthor>
+          <GBAuthor>Watanabe,K.</GBAuthor>
+          <GBAuthor>Suzuki,M.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>PRODUCTION OF HUMAN SERUM ALBUMEN A BY YEAST HOST USING MF ALPHA 1 LEADER SEQUENCE</GBReference_title>
+        <GBReference_journal>JP1991022983-A 1 31-JAN-1991 TONEN CORP</GBReference_journal>
+      </GBReference>
+    </GBSeq_references>
+    <GBSeq_comment>PN JP 1991022983-A/1~PD 31-JAN-1991~PF 19-JUN-1989 JP 1989154756~PI MAKI NOBORU, WATANABE KAZUYA, SUZUKI MASANORI PC C12N15/14,C12N1/19,C12N15/62,C12N15/81,C12P21/02,(C12N1/19, PC C12R1:85),~PC (C12P21/02,C12R1:85);~CC strandedness: Single;~CC topology: Linear;~FH Key Location/Qualifiers~FH~FT 5'UTR 1..10~FT mat_peptide 11..&gt;264~FT /product='MF alpha 1 prepropeptide'.</GBSeq_comment>
+    <GBSeq_feature-table>
+      <GBFeature>
+        <GBFeature_key>source</GBFeature_key>
+        <GBFeature_location>1..264</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>264</GBInterval_to>
+            <GBInterval_accession>E02712.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>organism</GBQualifier_name>
+            <GBQualifier_value>Hepatitis B virus</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>mol_type</GBQualifier_name>
+            <GBQualifier_value>unassigned RNA</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>db_xref</GBQualifier_name>
+            <GBQualifier_value>taxon:10407</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+    </GBSeq_feature-table>
+    <GBSeq_sequence>aattctcgagatgagatttccttcaatttttactgcagttttattcgcagcatcctccgcattagctgctccagtcaacactacaacagaagatgaaacggcacaaattccggctgaagctgtcatcggttactcagatttagaaggggatttcgatgttgctgttttgccattttccaacagcacaaataacgggttattgtttataaatactactattgctagcattgctgctaaagaagaaggggtaagcttggataaacg</GBSeq_sequence>
+  </GBSeq>

@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<GBSeq>
+
+    <GBSeq_locus>JN811656</GBSeq_locus>
+    <GBSeq_length>3215</GBSeq_length>
+    <GBSeq_strandedness>double</GBSeq_strandedness>
+    <GBSeq_moltype>DNA</GBSeq_moltype>
+    <GBSeq_topology>circular</GBSeq_topology>
+    <GBSeq_division>VRL</GBSeq_division>
+    <GBSeq_update-date>26-FEB-2012</GBSeq_update-date>
+    <GBSeq_create-date>26-FEB-2012</GBSeq_create-date>
+    <GBSeq_definition>UNVERIFIED: Hepatitis B virus isolate 4Mg, complete genome</GBSeq_definition>
+    <GBSeq_primary-accession>JN811656</GBSeq_primary-accession>
+    <GBSeq_accession-version>JN811656.1</GBSeq_accession-version>
+    <GBSeq_other-seqids>
+      <GBSeqid>gb|JN811656.1|</GBSeqid>
+      <GBSeqid>gi|377551692</GBSeqid>
+    </GBSeq_other-seqids>
+    <GBSeq_keywords>
+      <GBKeyword>UNVERIFIED</GBKeyword>
+    </GBSeq_keywords>
+    <GBSeq_source>Hepatitis B virus</GBSeq_source>
+    <GBSeq_organism>Hepatitis B virus</GBSeq_organism>
+    <GBSeq_taxonomy>Viruses; Retro-transcribing viruses; Hepadnaviridae; Orthohepadnavirus</GBSeq_taxonomy>
+    <GBSeq_references>
+      <GBReference>
+        <GBReference_reference>1</GBReference_reference>
+        <GBReference_position>1..3215</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Delfino,C.M.</GBAuthor>
+          <GBAuthor>Mathet,V.L.</GBAuthor>
+          <GBAuthor>Biglione,M.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>Hepatitis B virus in Amerindians of Argentina</GBReference_title>
+        <GBReference_journal>Unpublished</GBReference_journal>
+      </GBReference>
+      <GBReference>
+        <GBReference_reference>2</GBReference_reference>
+        <GBReference_position>1..3215</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Delfino,C.M.</GBAuthor>
+          <GBAuthor>Mathet,V.L.</GBAuthor>
+          <GBAuthor>Biglione,M.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>Direct Submission</GBReference_title>
+        <GBReference_journal>Submitted (04-OCT-2011) Microbiology, School of Medicine, University of Buenos Aires, Paraguay 2155, Caba C1121ABG, Argentina</GBReference_journal>
+      </GBReference>
+    </GBSeq_references>
+    <GBSeq_comment>GenBank staff is unable to verify sequence and/or annotation provided by the submitter.</GBSeq_comment>
+    <GBSeq_feature-table>
+      <GBFeature>
+        <GBFeature_key>source</GBFeature_key>
+        <GBFeature_location>1..3215</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>3215</GBInterval_to>
+            <GBInterval_accession>JN811656.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>organism</GBQualifier_name>
+            <GBQualifier_value>Hepatitis B virus</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>mol_type</GBQualifier_name>
+            <GBQualifier_value>genomic DNA</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>isolate</GBQualifier_name>
+            <GBQualifier_value>4Mg</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>isolation_source</GBQualifier_name>
+            <GBQualifier_value>serum</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>host</GBQualifier_name>
+            <GBQualifier_value>Homo sapiens</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>db_xref</GBQualifier_name>
+            <GBQualifier_value>taxon:10407</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>country</GBQualifier_name>
+            <GBQualifier_value>Argentina</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>collection_date</GBQualifier_name>
+            <GBQualifier_value>2008</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>note</GBQualifier_name>
+            <GBQualifier_value>genotype: F4</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+    </GBSeq_feature-table>
+    <GBSeq_sequence>ctcaacccagttccaccaggccctgttggatccgagggtaagggctctgtattttcctgctggtggctccagttcagagacacagaaccctgctccgactattgcctctctcacatcatcaatcttctcgaagactgggggccctgctatgaacatggacaacatcacatcaggactcctaggacccctgctcgtgttacaggcggtgtgtttcttgttgacaaaaatcctcacaataccacagagtctagactcgtggtggacttctctcaattttctagggggactacccgggtgtcctggccaaaattcgcagtccccaacctccaatcacttaccaacctcctgtcctccaacttgtcctggctatcgttggatgtgtctgcggcgttttatcatcttcctcttcatcctgctgctatgcctcatcttcttgttggttcttctggactatcaaggtatgttgcccgtttgtcctctaattccaggatctacgaccaccagcacgggaccctgcaaaacctgcacaactcttgctcaaggaacctctatgtttccctcctgttgctgttccaaaccctcggacggaaactgcacctgtattcccatcccatcatcttgggctttaggaaaatacctatgggagtgggcctcagcccgtttctcctggctcagtttactagtgcaatttgttcagtggtgcgtagggctttcccccactgtctggcttttagttatatggatgatctggtattgggggccaaatctgtgcagcatcttgagtccctttataccgctgttaccaattttctgttatctgtgggtatcaatttgaatacctctaaaacaaaaagatggggttacaatttacatttcatgggttatgtcattggcagttggggagcattaccccaagatcatattgtacacaaaatcaaagaatgttttagaaaacttcctgtaaatcgtccaattgactggaaagtttgtcaacgtattgtgggacttatgggctttgctgctccttttacccaatgtggttatcctgctctcatgcctctgtatacctgtatcactgcgaaacaggcttttgtcttttcgccaacttacaaggcctttctctgtaaacagtacatgaacctttaccccgttgctcggcaacggccaggcctgtgccaagtgtttgctgacgcaacccccactggttggggcttggccattggccatcagcgcatgcgtggaacctttgtggctcctctgccgatccatactgcggaactccttgcagcttgtttcgctcgcagccggtctggagcgaatctcatcggcacagacaactctgttgtcctctctaggaagtacacctccttcccatggctgctaggatgtgctgccaactggatcctgcgcgggacgtcctttgtttacgtcccgtcggcgctgaatcccgcggacgacccctcccggggccgcttggggctctaccgccctcttctgcgtctgccgttccagccgaccacgggtcgcacctctctttacgcggactccccgtctgttccttctcatctgccggtccgtgtgcacttcgcttcacctctgcacgtcgcatggagaccaccgtgaacgccccctggagtttgccaacagtcttacataaaaggactattggactttcaggacggtcaatgacctggatagaagaatacatcaaagactgtgtatttaaagactgggaggagttgggggaggagatcaggttaaaggtctttgtactaggaggctgtaggcataaattggtctgttcaccagcaccatgcaactttttcacctctgcctaatcatcttttgttcatgtcctactgttcaagcctccaagctgtgccttgggtggctttggggcatggacattgacccttataaagaatttggagcttctgtggaattgctctcttttttgccttctgatttcttcccgtcggttcgggacctactcgacaccgcttcagccctctacagggatgctttagagtcaccggaacattgcacccccaatcataccgctctcaggcaagctattttgtgttggggtgaattaatgactttggcttcctgggtgggcaataatttggaggaccctgcagccagggatttagtagttaactatgttaacactaacatgggcttaaagattagacaactattgtggtttcacatttcctgccttacttttggaagagaaacagttcttgagtatttggtgtcctttggagtgtggattcgcactcctccagcttatagaccaccaaatgcccctatcctatccacacttccggaaactactgttgttagacgacgaggcaggtcccctagaagaagaactccctcgcctcgcagacgaagatctcaatcgccgcgtcgcagaagatctcaatctccagcttcccaatgttagtattccttggactcataaggtgggaaattttacggggctctactcttctactgtacctgctttcaatcctcactggttaactccttcttttcctgatattcatttgcatcaagacctgatatctaaatgtgaacaatttgtaggcccacttaccaaaaatgaattgagaaggttgaaattggttatgccagccagattctttcctaaacttactaaatattttcctctggagaaaggcattaaaccttattatcctgagcatgcagttaatcattattttaaaaccagacattatttgcatactttatggaaggcgggaattttatataagagagaatccacacgtagcgcctcattttgtgggtcaccatattcctgggaacaagagctacagcatgggagcacctctctcaacgacaagaaggggcatgggacagaatctctctgtgcccaatccactgggattctttccagaccatcagctggatcctcttttcagagcaaattccagcagtcccgattgggacttcaacaaaaacaaggacacttggccaatggcaaacaaggtaggagtgggaggttacggtccagggttcacacccccacacggtggcctgttggggtggagccctcaggcacaaggtgttctaacaaccttgccagcagatccgcctcctgcttccaccaatcggcggtccgggaggaagccaaccccagtctctccacctctaagagacacacatccacaggcaatgcagtggaa</GBSeq_sequence>
+  </GBSeq>

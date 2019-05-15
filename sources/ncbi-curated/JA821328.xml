@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<GBSeq>
+
+    <GBSeq_locus>JA821328</GBSeq_locus>
+    <GBSeq_length>614</GBSeq_length>
+    <GBSeq_strandedness>double</GBSeq_strandedness>
+    <GBSeq_moltype>DNA</GBSeq_moltype>
+    <GBSeq_topology>linear</GBSeq_topology>
+    <GBSeq_division>PAT</GBSeq_division>
+    <GBSeq_update-date>27-NOV-2012</GBSeq_update-date>
+    <GBSeq_create-date>27-NOV-2012</GBSeq_create-date>
+    <GBSeq_definition>Sequence 16 from Patent EP2319917</GBSeq_definition>
+    <GBSeq_primary-accession>JA821328</GBSeq_primary-accession>
+    <GBSeq_accession-version>JA821328.1</GBSeq_accession-version>
+    <GBSeq_other-seqids>
+      <GBSeqid>emb|JA821328.1|</GBSeqid>
+      <GBSeqid>pat|EP|2319917|16</GBSeqid>
+      <GBSeqid>gi|425802558</GBSeqid>
+    </GBSeq_other-seqids>
+    <GBSeq_source>Hepatitis B virus</GBSeq_source>
+    <GBSeq_organism>Hepatitis B virus</GBSeq_organism>
+    <GBSeq_taxonomy>Viruses; Retro-transcribing viruses; Hepadnaviridae; Orthohepadnavirus</GBSeq_taxonomy>
+    <GBSeq_references>
+      <GBReference>
+        <GBReference_reference>1</GBReference_reference>
+        <GBReference_position>1..614</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>BARTHOLOMEUSZ,A.</GBAuthor>
+          <GBAuthor>LOCARNINI,S.</GBAuthor>
+          <GBAuthor>AYRES,A.</GBAuthor>
+          <GBAuthor>ANGUS,P.</GBAuthor>
+          <GBAuthor>SIEVERT,W.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>Viral variants with altered susceptibility to nucleoside analogs and uses thereof</GBReference_title>
+        <GBReference_journal>EP2319917-A2 16 11-MAY-2011 MELBOURNE HEALTH [AU]; AUSTIN HEALTH [AU]; SOUTHERN HEALTH [AU]</GBReference_journal>
+      </GBReference>
+    </GBSeq_references>
+    <GBSeq_feature-table>
+      <GBFeature>
+        <GBFeature_key>source</GBFeature_key>
+        <GBFeature_location>1..614</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>614</GBInterval_to>
+            <GBInterval_accession>JA821328.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>organism</GBQualifier_name>
+            <GBQualifier_value>Hepatitis B virus</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>mol_type</GBQualifier_name>
+            <GBQualifier_value>unassigned DNA</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>db_xref</GBQualifier_name>
+            <GBQualifier_value>taxon:10407</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+    </GBSeq_feature-table>
+    <GBSeq_sequence>gtcctccaacttgtcctggttatcgctggatgtgtctgcggcgttttatcatattcctcttcatcctgctgctatgcctcatcttcttgttggttcttctggactatcaaggtatgttgcccgtctgtcctctaattccaggatcttcaaccaccagcgcgggaccatgcagaacctgcacgactactgctcaaggaacctctatgtatccctcctgttgctgtaccaaaccttcggacggaaattgcacctgtattcccatcccatcatcttgggctttcggaaaattcctatgggagtgggcctcagcccgtttctcatggctcagtttactagtgccatttgttcagtggttcgtagggctttcccccactgtttggctttcagttatgtggatgatgtggtattgggggccaagtctgtacagcaccttgagtccctttttaccgctgttaccaattttcttttgtctttgggtatacatttaaaccctaacaaaactaaaagatggggttattccttaaatttcatgggctatgtcattggatgttatgggtcattgccacaagatcacatcatacagaaaatcaaagaatgttttaggaaacttcctg</GBSeq_sequence>
+  </GBSeq>

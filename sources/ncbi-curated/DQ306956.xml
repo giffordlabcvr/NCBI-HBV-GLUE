@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<GBSeq>
+
+    <GBSeq_locus>DQ306956</GBSeq_locus>
+    <GBSeq_length>358</GBSeq_length>
+    <GBSeq_strandedness>double</GBSeq_strandedness>
+    <GBSeq_moltype>DNA</GBSeq_moltype>
+    <GBSeq_topology>linear</GBSeq_topology>
+    <GBSeq_division>VRL</GBSeq_division>
+    <GBSeq_update-date>26-JUL-2016</GBSeq_update-date>
+    <GBSeq_create-date>02-JAN-2006</GBSeq_create-date>
+    <GBSeq_definition>Hepatitis B virus clone RI97.13 S protein gene, partial cds</GBSeq_definition>
+    <GBSeq_primary-accession>DQ306956</GBSeq_primary-accession>
+    <GBSeq_accession-version>DQ306956.1</GBSeq_accession-version>
+    <GBSeq_other-seqids>
+      <GBSeqid>gb|DQ306956.1|</GBSeqid>
+      <GBSeqid>gi|84040091</GBSeqid>
+    </GBSeq_other-seqids>
+    <GBSeq_source>Hepatitis B virus</GBSeq_source>
+    <GBSeq_organism>Hepatitis B virus</GBSeq_organism>
+    <GBSeq_taxonomy>Viruses; Retro-transcribing viruses; Hepadnaviridae; Orthohepadnavirus</GBSeq_taxonomy>
+    <GBSeq_references>
+      <GBReference>
+        <GBReference_reference>1</GBReference_reference>
+        <GBReference_position>1..358</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Mathet,V.L.</GBAuthor>
+          <GBAuthor>Lopez,J.L.</GBAuthor>
+          <GBAuthor>Ruiz,V.</GBAuthor>
+          <GBAuthor>Sanchez,D.O.</GBAuthor>
+          <GBAuthor>Carballal,G.</GBAuthor>
+          <GBAuthor>Campos,R.H.</GBAuthor>
+          <GBAuthor>Oubina,J.R.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>Dynamics of a hepatitis B virus e antigen minus population ascribed to genotype F during the course of a chronic infection despite the presence of anti-HBs antibodies</GBReference_title>
+        <GBReference_journal>Virus Res. 123 (1), 72-85 (2007)</GBReference_journal>
+        <GBReference_xref>
+          <GBXref>
+            <GBXref_dbname>doi</GBXref_dbname>
+            <GBXref_id>10.1016/j.virusres.2006.08.004</GBXref_id>
+          </GBXref>
+        </GBReference_xref>
+        <GBReference_pubmed>16979773</GBReference_pubmed>
+      </GBReference>
+      <GBReference>
+        <GBReference_reference>2</GBReference_reference>
+        <GBReference_position>1..358</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Mathet,V.L.</GBAuthor>
+          <GBAuthor>Lopez,J.L.</GBAuthor>
+          <GBAuthor>Ruiz,V.</GBAuthor>
+          <GBAuthor>Sanchez,D.O.</GBAuthor>
+          <GBAuthor>Carballal,G.</GBAuthor>
+          <GBAuthor>Campos,R.</GBAuthor>
+          <GBAuthor>Oubina,J.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>Direct Submission</GBReference_title>
+        <GBReference_journal>Submitted (24-NOV-2005) Microbiology, University of Buenos Aires, Paraguay 2155, Buenos Aires 1121, Argentina</GBReference_journal>
+      </GBReference>
+    </GBSeq_references>
+    <GBSeq_feature-table>
+      <GBFeature>
+        <GBFeature_key>source</GBFeature_key>
+        <GBFeature_location>1..358</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>358</GBInterval_to>
+            <GBInterval_accession>DQ306956.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>organism</GBQualifier_name>
+            <GBQualifier_value>Hepatitis B virus</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>mol_type</GBQualifier_name>
+            <GBQualifier_value>genomic DNA</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>isolate</GBQualifier_name>
+            <GBQualifier_value>RI97</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>db_xref</GBQualifier_name>
+            <GBQualifier_value>taxon:10407</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>clone</GBQualifier_name>
+            <GBQualifier_value>RI97.13</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>note</GBQualifier_name>
+            <GBQualifier_value>genotype: F</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>CDS</GBFeature_key>
+        <GBFeature_location>&lt;1..&gt;358</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>358</GBInterval_to>
+            <GBInterval_accession>DQ306956.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_partial5 value="true"/>
+        <GBFeature_partial3 value="true"/>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>codon_start</GBQualifier_name>
+            <GBQualifier_value>1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>transl_table</GBQualifier_name>
+            <GBQualifier_value>1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>product</GBQualifier_name>
+            <GBQualifier_value>S protein</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>protein_id</GBQualifier_name>
+            <GBQualifier_value>ABC49909.1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>translation</GBQualifier_name>
+            <GBQualifier_value>SPTSNHLPTSCPPTCPGYRWMCLRRFIIFLFTLLLCLIFLLVLLDYQGMLPVCPLIPGSTTTSTGPCKTCTTLAQGTSMFPSCCCSKPSDGNCTCIPIPSSWALGKYLWEWPSARFSWL</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+    </GBSeq_feature-table>
+    <GBSeq_sequence>tccccaacctccaatcacttaccaacctcctgtcctccaacttgtcctggctatcgctggatgtgtctgcggcgttttatcatcttcctcttcaccctgctgctatgcctcatcttcttgttggttcttctggactatcaaggtatgttgcccgtttgtcctctaattccaggatccacgaccaccagcacgggaccatgcaaaacctgcacaactcttgctcaaggaacctctatgtttccctcttgctgctgttcaaaaccctcggacggaaactgcacttgtattcccatcccatcatcctgggctttaggaaaatacctatgggagtggccctcagcccgtttctcctggctca</GBSeq_sequence>
+  </GBSeq>

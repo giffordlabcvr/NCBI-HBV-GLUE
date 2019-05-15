@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<GBSeq>
+
+    <GBSeq_locus>KU702878</GBSeq_locus>
+    <GBSeq_length>1200</GBSeq_length>
+    <GBSeq_strandedness>double</GBSeq_strandedness>
+    <GBSeq_moltype>DNA</GBSeq_moltype>
+    <GBSeq_topology>linear</GBSeq_topology>
+    <GBSeq_division>VRL</GBSeq_division>
+    <GBSeq_update-date>12-JUN-2016</GBSeq_update-date>
+    <GBSeq_create-date>12-JUN-2016</GBSeq_create-date>
+    <GBSeq_definition>Hepatitis B virus isolate BF201 large S protein (S) gene, complete cds</GBSeq_definition>
+    <GBSeq_primary-accession>KU702878</GBSeq_primary-accession>
+    <GBSeq_accession-version>KU702878.1</GBSeq_accession-version>
+    <GBSeq_other-seqids>
+      <GBSeqid>gb|KU702878.1|</GBSeqid>
+      <GBSeqid>gi|1035343432</GBSeqid>
+    </GBSeq_other-seqids>
+    <GBSeq_source>Hepatitis B virus</GBSeq_source>
+    <GBSeq_organism>Hepatitis B virus</GBSeq_organism>
+    <GBSeq_taxonomy>Viruses; Retro-transcribing viruses; Hepadnaviridae; Orthohepadnavirus</GBSeq_taxonomy>
+    <GBSeq_references>
+      <GBReference>
+        <GBReference_reference>1</GBReference_reference>
+        <GBReference_position>1..1200</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Candotti,D.</GBAuthor>
+          <GBAuthor>Diarra,B.</GBAuthor>
+          <GBAuthor>Bisseye,C.</GBAuthor>
+          <GBAuthor>Tao,I.</GBAuthor>
+          <GBAuthor>Quang,K.P.</GBAuthor>
+          <GBAuthor>Sanou,M.</GBAuthor>
+          <GBAuthor>Laperche,S.</GBAuthor>
+          <GBAuthor>Sanogo,R.</GBAuthor>
+          <GBAuthor>Allain,J.P.</GBAuthor>
+          <GBAuthor>Simpore,J.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>Molecular characterization of hepatitis B virus in blood donors from Burkina Faso: prevalence of quasi-subgenotype A3, genotype E and mixed infections</GBReference_title>
+        <GBReference_journal>J. Med. Virol. (2016) In press</GBReference_journal>
+        <GBReference_xref>
+          <GBXref>
+            <GBXref_dbname>doi</GBXref_dbname>
+            <GBXref_id>10.1002/jmv.24589</GBXref_id>
+          </GBXref>
+        </GBReference_xref>
+        <GBReference_pubmed>27253483</GBReference_pubmed>
+        <GBReference_remark>Publication Status: Available-Online prior to print</GBReference_remark>
+      </GBReference>
+      <GBReference>
+        <GBReference_reference>2</GBReference_reference>
+        <GBReference_position>1..1200</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Candotti,D.</GBAuthor>
+          <GBAuthor>Diarra,B.</GBAuthor>
+          <GBAuthor>Bisseye,C.</GBAuthor>
+          <GBAuthor>Quang,K.P.</GBAuthor>
+          <GBAuthor>Sanou,M.</GBAuthor>
+          <GBAuthor>Laperche,S.</GBAuthor>
+          <GBAuthor>Sanogo,R.</GBAuthor>
+          <GBAuthor>Allain,J.-P.</GBAuthor>
+          <GBAuthor>Simpore,J.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>Direct Submission</GBReference_title>
+        <GBReference_journal>Submitted (02-FEB-2016) Etude des Agents Transmissibles par le Sang, Institut National de la Transfusion Sanguine, 6 rue Alexandre Cabanel, Paris 75015, France</GBReference_journal>
+      </GBReference>
+    </GBSeq_references>
+    <GBSeq_comment>##Assembly-Data-START## ; Assembly Method :: CLC DNA Workbench v. 6.5 ; Sequencing Technology :: Sanger dideoxy sequencing ; ##Assembly-Data-END##</GBSeq_comment>
+    <GBSeq_feature-table>
+      <GBFeature>
+        <GBFeature_key>source</GBFeature_key>
+        <GBFeature_location>1..1200</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>1200</GBInterval_to>
+            <GBInterval_accession>KU702878.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>organism</GBQualifier_name>
+            <GBQualifier_value>Hepatitis B virus</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>mol_type</GBQualifier_name>
+            <GBQualifier_value>genomic DNA</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>isolate</GBQualifier_name>
+            <GBQualifier_value>BF201</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>isolation_source</GBQualifier_name>
+            <GBQualifier_value>plasma</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>host</GBQualifier_name>
+            <GBQualifier_value>Homo sapiens</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>db_xref</GBQualifier_name>
+            <GBQualifier_value>taxon:10407</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>country</GBQualifier_name>
+            <GBQualifier_value>Burkina Faso</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>collection_date</GBQualifier_name>
+            <GBQualifier_value>2013</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>note</GBQualifier_name>
+            <GBQualifier_value>genotype: E</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>gene</GBFeature_key>
+        <GBFeature_location>1..1200</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>1200</GBInterval_to>
+            <GBInterval_accession>KU702878.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>gene</GBQualifier_name>
+            <GBQualifier_value>S</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>CDS</GBFeature_key>
+        <GBFeature_location>1..1200</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>1200</GBInterval_to>
+            <GBInterval_accession>KU702878.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>gene</GBQualifier_name>
+            <GBQualifier_value>S</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>note</GBQualifier_name>
+            <GBQualifier_value>pre-S1/pre-S2/S</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>codon_start</GBQualifier_name>
+            <GBQualifier_value>1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>transl_table</GBQualifier_name>
+            <GBQualifier_value>1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>product</GBQualifier_name>
+            <GBQualifier_value>large S protein</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>protein_id</GBQualifier_name>
+            <GBQualifier_value>ANJ02929.1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>translation</GBQualifier_name>
+            <GBQualifier_value>MGLSWTVPLEWGKNHSTTNPLGFFPDHQLDPAFRANTRNPDWDHNPNKDHWTEANKVGVGAFGPGFTPPHGGLLGWSPQAQGMLKTLPADPPPASTNRQSGRQPTPITPPLRDTHPQAMQWNSTTFHQALQDPRVRGLYFPAGGSSSGTVNPVPTTASLISSIFSRIGDPAPNMESITSGFLGPLLVLQAGFFLLTKILTIPQSLDSWWTSLNFLGGAPVCLGQNSQSPTSNHSPTSCPPICPGYRWMCLRRFIIFLFILLLCLIFLLVLLDYQGMLPVCPLIPGSSTTSTGPCRTCTTLAQGTSMFPSCCCSKPSDGNCTCIPIPSSWAFGKFLWEWASARFSWLSLLVPFVQWFAGLSPTVWLSVIWMMWYWGPSLYNILSPFIPLLPIFFCLWVYI</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+    </GBSeq_feature-table>
+    <GBSeq_sequence>atggggctttcttggacggtccctctcgaatgggggaagaatcattccaccaccaatcctctgggattttttcccgaccaccagttggatccagcattcagagcaaacaccagaaatccagattgggaccacaatcccaacaaagaccactggacagaagccaacaaggtaggagtgggagcattcgggcctgggttcactcccccacacggaggccttttggggtggagccctcaggctcaaggcatgctaaaaacattgccagcagatccgcctcctgcctccaccaatcggcagtcaggaaggcagcctaccccaatcactccacctttgagagacactcatcctcaggccatgcagtggaattccacaacattccaccaagctctgcaggatcccagagtaagaggcctgtattttcctgctggtggctccagttccggaacagtgaaccctgttccgactactgcctcactcatctcgtcaatcttctcgaggattggggaccctgcaccgaacatggaaagcatcacatcaggattcctaggacccctgctcgtgttacaggcggggtttttcttgttgacaaaaatcctcacaataccgcagagtctagactcgtggtggacttctctcaattttctagggggagctcccgtgtgtcttggccaaaattcgcagtccccaacctccaatcactcaccaacctcttgtcctccaatttgtcctggctatcgctggatgtgtctgcggcgttttatcatcttcctcttcatcctgctgctatgcctcatcttcttgttggttcttctggactatcaaggtatgttgcccgtttgtcctctaattccaggatcatcaaccaccagtacgggaccctgccgaacctgcacgactcttgctcaaggaacctctatgtttccctcatgttgctgttcaaaaccttcggacggaaattgcacttgtattcccatcccatcatcatgggctttcggaaaattcctatgggagtgggcctcagcccgtttctcctggctcagtttactagtgccctttgttcagtggttcgccgggctttcccccactgtctggctttcagttatatggatgatgtggtattgggggccaagtctgtacaacatcttgagtccctttatacctctgttaccaattttcttttgtctttgggtatacatttaa</GBSeq_sequence>
+  </GBSeq>

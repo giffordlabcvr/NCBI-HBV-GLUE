@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<GBSeq>
+
+    <GBSeq_locus>AB330373</GBSeq_locus>
+    <GBSeq_length>3241</GBSeq_length>
+    <GBSeq_strandedness>double</GBSeq_strandedness>
+    <GBSeq_moltype>DNA</GBSeq_moltype>
+    <GBSeq_topology>linear</GBSeq_topology>
+    <GBSeq_division>VRL</GBSeq_division>
+    <GBSeq_update-date>21-JUN-2008</GBSeq_update-date>
+    <GBSeq_create-date>26-DEC-2007</GBSeq_create-date>
+    <GBSeq_definition>Hepatitis B virus X gene for X protein, complete cds, isolate: TAJ93HBV</GBSeq_definition>
+    <GBSeq_primary-accession>AB330373</GBSeq_primary-accession>
+    <GBSeq_accession-version>AB330373.1</GBSeq_accession-version>
+    <GBSeq_other-seqids>
+      <GBSeqid>dbj|AB330373.1|</GBSeqid>
+      <GBSeqid>gi|163930007</GBSeqid>
+    </GBSeq_other-seqids>
+    <GBSeq_source>Hepatitis B virus</GBSeq_source>
+    <GBSeq_organism>Hepatitis B virus</GBSeq_organism>
+    <GBSeq_taxonomy>Viruses; Retro-transcribing viruses; Hepadnaviridae; Orthohepadnavirus</GBSeq_taxonomy>
+    <GBSeq_references>
+      <GBReference>
+        <GBReference_reference>1</GBReference_reference>
+        <GBReference_position>1..3241</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Khan,A.</GBAuthor>
+          <GBAuthor>Kurbanov,F.</GBAuthor>
+          <GBAuthor>Tanaka,Y.</GBAuthor>
+          <GBAuthor>Elkady,A.</GBAuthor>
+          <GBAuthor>Sugiyama,M.</GBAuthor>
+          <GBAuthor>Dustov,A.</GBAuthor>
+          <GBAuthor>Mizokami,M.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>Epidemiological and clinical evaluation of hepatitis B, hepatitis C, and delta hepatitis viruses in Tajikistan</GBReference_title>
+        <GBReference_journal>J. Med. Virol. 80 (2), 268-276 (2008)</GBReference_journal>
+        <GBReference_xref>
+          <GBXref>
+            <GBXref_dbname>doi</GBXref_dbname>
+            <GBXref_id>10.1002/jmv.21057</GBXref_id>
+          </GBXref>
+        </GBReference_xref>
+        <GBReference_pubmed>18098133</GBReference_pubmed>
+      </GBReference>
+      <GBReference>
+        <GBReference_reference>2</GBReference_reference>
+        <GBReference_position>1..3241</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Khan,A.A.</GBAuthor>
+          <GBAuthor>Kurbanov,F.</GBAuthor>
+          <GBAuthor>Tanaka,Y.</GBAuthor>
+          <GBAuthor>Mizokami,M.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>Direct Submission</GBReference_title>
+        <GBReference_journal>Submitted (27-JUN-2007) Contact:Anis A Khan Nagoya City University, Department of Clinical Molecular Informative Medicine; Kawasumi-1, Mizuho-Ku, Nagoya, Aichi 467-8601, Japan URL :http://www.nagoya-cu.ac.jp/english/index.html</GBReference_journal>
+      </GBReference>
+    </GBSeq_references>
+    <GBSeq_feature-table>
+      <GBFeature>
+        <GBFeature_key>source</GBFeature_key>
+        <GBFeature_location>1..3241</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>3241</GBInterval_to>
+            <GBInterval_accession>AB330373.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>organism</GBQualifier_name>
+            <GBQualifier_value>Hepatitis B virus</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>mol_type</GBQualifier_name>
+            <GBQualifier_value>genomic DNA</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>isolate</GBQualifier_name>
+            <GBQualifier_value>TAJ93HBV</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>db_xref</GBQualifier_name>
+            <GBQualifier_value>taxon:10407</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>country</GBQualifier_name>
+            <GBQualifier_value>Tajikistan:Dushanbe</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>collection_date</GBQualifier_name>
+            <GBQualifier_value>2006</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>note</GBQualifier_name>
+            <GBQualifier_value>genotype A (Ae)</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>gene</GBFeature_key>
+        <GBFeature_location>1377..1841</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1377</GBInterval_from>
+            <GBInterval_to>1841</GBInterval_to>
+            <GBInterval_accession>AB330373.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>gene</GBQualifier_name>
+            <GBQualifier_value>X</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>CDS</GBFeature_key>
+        <GBFeature_location>1377..1841</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1377</GBInterval_from>
+            <GBInterval_to>1841</GBInterval_to>
+            <GBInterval_accession>AB330373.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>gene</GBQualifier_name>
+            <GBQualifier_value>X</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>codon_start</GBQualifier_name>
+            <GBQualifier_value>1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>transl_table</GBQualifier_name>
+            <GBQualifier_value>1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>product</GBQualifier_name>
+            <GBQualifier_value>X protein</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>protein_id</GBQualifier_name>
+            <GBQualifier_value>BAF96003.1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>translation</GBQualifier_name>
+            <GBQualifier_value>MAARLYCQLDPSRDVLCLRPVGAESRGRPLSGPLGTLSSPSPSAVPADHGANLSLRGLPVCAFSSAGPCALRFTSARCMETTVNAHQILPKVLXKRTLGLPAMSTTDLEAYFKDCVFKDWEELGEEIRLMIFVLGGCRHKLVCAPAPCNFFTSA</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+    </GBSeq_feature-table>
+    <GBSeq_sequence>ttccactgccgccttccaccaagatctgcaggatcccaaagtcaggggtctgtattttcctgctggtggctccagttcaggaacagtaaaccctgctccgaatattgcctctcacatctcgtcaatctccgcgaggactggggaccctgtgacgaacatggagaacatcacatcaggattcctaagacccctgctcgtgttacaggcggggtttttcttgttgacaagaatcctcacaataccgcagagtctagactcgtggtggacttctctcaattttctagggggatcacccgtgtgtcgtggccaaaattcgcagtccccaacctccaatcactcaccaacctcctgtcctccaatttgtcctggttatcgctggatgtgtctgcggcgttttatcatattcctcttcatcctgctgctatgcctcatcttcttattggttcttctggattatcaaggtatgttgcccgtttgtcctctaattccaggatcaacaacaaccagtacgggaccatgcaaaacctgcacgactcctgctcaaggcaactctatgtttccctcatgttgctgtacaaaacctacggatggaaattgcacctgtattcccatcccatcgtcctgggctttcgcaaaatacctatgggagtgggcctcagtccgtttctcttggctcagtttactagtgccatttgttcagtggttcgtagggctttcccccactgtttggctttcagctatatggatgatgtggtattgggggccaagtctgtacagcatcgtgaggccctttataccgctgttaccaattttcttttgtctctgggtatacatttaaatcctaacaaaacaaaaagatggggttattccctaaacttcatgggttacataattggaagttggggaacattgccacaggatcatattgtacaaaagatcaaacaatgttttagaaaacttcctgttaacaggcctattgattggaaagtatgtcaaagaattgtgggtcttttgggctttgctgctccatttacacaatgtggatatcctgccttaatgcctttgtatgcatgtatacaagctaaacaggctttcactttctcgccaacttacaaggcctttctaagtaaacagtacatgaacctttaccccgttgctcggcaacggcctggtctgtgccaagtgtttgctgatgcaacccccactggctggggcttggccataggccatcagcgcatgcgtggaacctttgtggctcctctgccgatccatactgcggaactcctagccgcttgttttgctcgcagccggtctggagcgaaactcatcggaactgacaattctgtcgtcctctcgcggaaatatacatcgtttccatggctgctaggctgtactgccaactggatccttcgcgggacgtcctttgtttacgtcccgtcggcgctgaatcccgcggacgacccctctcggggccgcttgggactctatcgtccccttctccgtctgccgttccagccgaccacggggcgaacctctctttacgcggtctccccgtctgtgccttctcatctgccggtccgtgtgcacttcgcttcacctctgcacgttgcatggagaccaccgtgaacgcccatcagatcttgcccaaggtcttayataagaggactcttggactcccagcaatgtcaacgaccgaccttgaggcctacttcaaagactgtgtgtttaaggactgggaggagctgggggaggagattaggttaatgatctttgtattaggaggctgtaggcataaattggtctgcgcaccagcaccatgcaactttttcacctctgcctaatcatctcttgtacatgtcccactgttcaagcctccaagctgtgccttgggtggctttggggcatggacattgacccttataaagaatttggaccttataaagaatttggagctacttcggagttaatctcgtttttgccttctgacttctttccttccgtcagagatctcctagacaccgcctcagctctgtatcgagaagccttagagtctcctgagcattgctcacctcaccatactgcactcaggcaagccattctctgctggggggaattgatgactctagctacctgggtgggtaataatttgcaagatccagcatccagggatttagtagtcaattatgttaatactaacatgggtttaaagatcaggcaactattgtggtttcatatatcttgccttacttttggaagagagactgtacttgaatatttggtctctttcggagtgtggattcgcactcctccactctatagaccaccaaatgcccctatcttatcaacacttccggaaactactgttgttagacgacgggaccgaggcaggtcccctagaagaagaactccctcgcctcgcagacgcagatctcaatcgccgcgtcgcagaagatctcaatctcgggaatctcaatgttagtattccttggactcataaggtgggaaactttactgggctttattcctctacagtacctatctttaatcctgaatggcaaactccttcctttcctaagattcatttacaagaggacattatcaataggtgtcaacaatttgtgggccctctcactgtaaatgaaaagagaagattgaaattaattatgcctgctagattctatcctaaccacactaaatatttgcccttagacaaaggaattaaaccttattatccagatcaggtagttaatcattacttccaaaccagacattatttacatactctttggaaggctggtgttctatataagagggaaaccacacgtagcgcatcattttgcgggtcaccatattcttgggaacaagagctacagcatgggaggttggtcatcaaaacctcgcaaaggcaggggacgaatctttctgttcccaaccctctgggattctttcccgatcatcagttggaccctgcattcggagccaactcaaacaatccagattgggacttcaaccccatcaaggaccactggccagcagccaaccaggtaggagtgggagcattcgggccagggctcacccctccacacggcggtattttggggtggagccctcaggctcagggcatattgaccacagtgtcaacaaatcctcctcctgcctccaccaagcggcagtcaggaaggcagcctactcccatctctccacctctaagagacagtcatcctcaggccacgcagtggaa</GBSeq_sequence>
+  </GBSeq>

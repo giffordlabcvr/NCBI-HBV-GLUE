@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<GBSeq>
+
+    <GBSeq_locus>KF779282</GBSeq_locus>
+    <GBSeq_length>3165</GBSeq_length>
+    <GBSeq_strandedness>double</GBSeq_strandedness>
+    <GBSeq_moltype>DNA</GBSeq_moltype>
+    <GBSeq_topology>linear</GBSeq_topology>
+    <GBSeq_division>VRL</GBSeq_division>
+    <GBSeq_update-date>13-OCT-2014</GBSeq_update-date>
+    <GBSeq_create-date>13-OCT-2014</GBSeq_create-date>
+    <GBSeq_definition>UNVERIFIED: Hepatitis B virus isolate JFA4392, complete genome</GBSeq_definition>
+    <GBSeq_primary-accession>KF779282</GBSeq_primary-accession>
+    <GBSeq_accession-version>KF779282.1</GBSeq_accession-version>
+    <GBSeq_other-seqids>
+      <GBSeqid>gb|KF779282.1|</GBSeqid>
+      <GBSeqid>gi|630864972</GBSeqid>
+    </GBSeq_other-seqids>
+    <GBSeq_keywords>
+      <GBKeyword>UNVERIFIED</GBKeyword>
+    </GBSeq_keywords>
+    <GBSeq_source>Hepatitis B virus</GBSeq_source>
+    <GBSeq_organism>Hepatitis B virus</GBSeq_organism>
+    <GBSeq_taxonomy>Viruses; Retro-transcribing viruses; Hepadnaviridae; Orthohepadnavirus</GBSeq_taxonomy>
+    <GBSeq_references>
+      <GBReference>
+        <GBReference_reference>1</GBReference_reference>
+        <GBReference_position>1..3165</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Ramachandran,S.</GBAuthor>
+          <GBAuthor>Purdy,M.A.</GBAuthor>
+          <GBAuthor>Xia,G.L.</GBAuthor>
+          <GBAuthor>Campo,D.S.</GBAuthor>
+          <GBAuthor>Dimitrova,Z.E.</GBAuthor>
+          <GBAuthor>Teshale,E.H.</GBAuthor>
+          <GBAuthor>Teo,C.G.</GBAuthor>
+          <GBAuthor>Khudyakov,Y.E.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>Recent Population Expansions of Hepatitis B Virus in the United States</GBReference_title>
+        <GBReference_journal>J. Virol. (2014) In press</GBReference_journal>
+        <GBReference_xref>
+          <GBXref>
+            <GBXref_dbname>doi</GBXref_dbname>
+            <GBXref_id>10.1128/JVI.01594-14</GBXref_id>
+          </GBXref>
+        </GBReference_xref>
+        <GBReference_pubmed>25187549</GBReference_pubmed>
+        <GBReference_remark>Publication Status: Available-Online prior to print</GBReference_remark>
+      </GBReference>
+      <GBReference>
+        <GBReference_reference>2</GBReference_reference>
+        <GBReference_position>1..3165</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Ramachandran,S.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>Direct Submission</GBReference_title>
+        <GBReference_journal>Submitted (24-OCT-2013) Division of Viral Hepatitis, Molecular Epidemiology and Bioinformatics team, Centers for Disease Control and Prevention (CDC), 1600 Clifton Rd, Atlanta, GA 30333, USA</GBReference_journal>
+      </GBReference>
+    </GBSeq_references>
+    <GBSeq_comment>GenBank staff is unable to verify sequence and/or annotation provided by the submitter.; ; ##Assembly-Data-START## ; Sequencing Technology :: Sanger dideoxy sequencing ; ##Assembly-Data-END##</GBSeq_comment>
+    <GBSeq_feature-table>
+      <GBFeature>
+        <GBFeature_key>source</GBFeature_key>
+        <GBFeature_location>1..3165</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>3165</GBInterval_to>
+            <GBInterval_accession>KF779282.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>organism</GBQualifier_name>
+            <GBQualifier_value>Hepatitis B virus</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>mol_type</GBQualifier_name>
+            <GBQualifier_value>genomic DNA</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>isolate</GBQualifier_name>
+            <GBQualifier_value>JFA4392</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>isolation_source</GBQualifier_name>
+            <GBQualifier_value>serum</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>db_xref</GBQualifier_name>
+            <GBQualifier_value>taxon:10407</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>country</GBQualifier_name>
+            <GBQualifier_value>USA</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>collection_date</GBQualifier_name>
+            <GBQualifier_value>2005</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>collected_by</GBQualifier_name>
+            <GBQualifier_value>US Sentinel Surveillance</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>note</GBQualifier_name>
+            <GBQualifier_value>genotype: A</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+    </GBSeq_feature-table>
+    <GBSeq_sequence>ttgttcatgtcccactgttcaagcctccaagctgtgccttgggtggctttggggcatggacattgacccttataaagaatttggagctactgtggagttactctcgtttttgccttctgacttctttccttccgtcagagatctcctagacaccgcctcagctctgtatcgagaagccttagagtctcctgagcattgctcacctcaccatactgcactcagacaagccattctctgctggggggaattgatgactctagctacctgggtgggtaataatttggaagatccagcatccagggatctagtagtcaattatgttaatactaacatgggtttaaagattaggcaactattgtggtttcatatatcttgccttacttttggaagagagactgtacttgaatatttggtctctttcggagtgtggattcgcactcccccagcctatagaccaccaaatgcccctatcttatcaacacttccggaaactactgttgttagacgacgggaccgaggcaggtcccctagaagaagaactccctcgcctcgcagacgcagatctcaatcgccgcgtcgcagaagatctcaatctcgggaatctcaatgttagtattccttggactcataaggtgggaaactttacggggctttattcctcttcagtacctatctttaatcctgaatggcaaactccttcctttcctaagattcatttacaagaggacattattaataggtgtcaacaatttgtgggccctctcactgtaaatgaaaagagaagattgaaattaattatgcctgctagattctatcctacccacactaaatatttgcccttagacaaaggaattaaaccttattatccagatcaggtagttaatcattacttccaaaccagacattatttacatactctttggaaggctggtattctatataagagggaaaccacacgtagcgcatcattttgcgggtcaccatattcttgggaacaagagctacagcatgggaggttggtcatcaaaacctcgcaaaggcatggggacgaatctttcggttcccaaccctctgggattctttcccgatcatcagttggaccctgcattcggagccaactcaaacaatccagattgggacttcaaccccatcaaggaccactggccagcagccaaccaggtaggagcgggagcattcgggccagggctcacccctccacacggcggtattttggggtggagccctcaggctcagggcatattgaccacagtgtcaacaattcctcctcctgcctccaccaatcggcagtcaggaaggcagcctactcccatctctccacctctaagagacagtcatcctcaggccatgcagtggaattccactgccttccaccaagctctgcaggatcccagagtcaggggtctgtattttcctgctggtggctccagttcaggaacagtaaaccctgctccgaatattgcctctcacatctcgtcaatctccgcgaggactggggaccctgtgaagaacatggagaacatcacatcaggattcctaggacccctgctcgtgttacaggcggggtttttcttgttgacaagaatcctcacaataccgcagagtctagactcgtggtggacttctctcaattttctagggggatcacccgtgtgtcttggccaaaattcgcagtccccaacctccaatcactcaccaacctcctgtcctccaatttgtcctggttatcgctggatgtgtctgcggcgttttatcatattcctcttcatcctgctgctatgcctcatcttcttattggttcttctggattatcaaggtatgttgcccgtttgtcctctaattccaggatcaacaacaaccagtacgggaccatgcaaaacctgcacgactcctgctcaaggcaactctatgtttccctcatgttgctgtacaaaacctacggatggaaattgcacctgtattcccatcccatcgtcctgggctttcgcaaaatacctatgggagtgggcctcagtccgtttctcttggctcagtttactagtgccatttgttcagtggttcgcagggctttcccccactgtttggctttcagctatatggatgatgtggtattgggggccaagtctgtacagcatcgtgagtccctttataccgctgttaccaattttcttttgtctctgggtatacatttaaaccctaacaaaacaaaaagatggggttattccctaaacttcatgggttacgtaattggaagttgggggacattgccacaagatcatattgtacaaaagatcaaacactgttttagaaaacttcctgtaaacaggcctattgattggaaagtatgtcaaaggattgtgggtcttttgggctttgctgctccatttacacaatgtggatatcctgccttaatgcctttgtatgcatgtatacaagctaaacaggctttcactttctcgccaacttacaaggcctttctaagtaaacagtacatgaacctttaccccgttgctcggcaacggcctggtctttgccaagtgtttgctgacgcaacccccactggctggggcttggccataggccatcagcgcatgcgtggaacctttgtggctcctctgccgatccatactgcggaactcctagccgcttgttttgctcgcagccggtctggagcaaagctcataggaactgacaattctgtcgtcctctcgcggaaatatacatcgtttccatggctgctaggctgtactgccaactggatccttcgcgggacgtcctttgtttacgtcccgtcggcgctgaatcccgcggacgacccctctcggggccgcttgggactctctcgtccccttctccgtctgccgttccagccgaccacggggcgcacctctctttacgcggtctccccgtctgtgccttctcatctgccggtccgtgtgcacttcgcttcacctctgcacgttgcatggagaccaccgtgaacgcccatcagatcctgcccaaggtcttacataagaggactcttggactcccagcaatgtcaacgaccgaccttgaggcctacttcaaagactgtgtgtttaaggactgggaggagctgggggaggagattaggttaaaggtctttgtattaggaggctgtaggca</GBSeq_sequence>
+  </GBSeq>

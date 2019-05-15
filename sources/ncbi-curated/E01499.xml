@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<GBSeq>
+
+    <GBSeq_locus>E01499</GBSeq_locus>
+    <GBSeq_length>817</GBSeq_length>
+    <GBSeq_strandedness>double</GBSeq_strandedness>
+    <GBSeq_moltype>DNA</GBSeq_moltype>
+    <GBSeq_topology>linear</GBSeq_topology>
+    <GBSeq_division>PAT</GBSeq_division>
+    <GBSeq_update-date>04-NOV-2005</GBSeq_update-date>
+    <GBSeq_create-date>06-JUN-1997</GBSeq_create-date>
+    <GBSeq_definition>Genomic DNA encoding hepatitis B virus antigen</GBSeq_definition>
+    <GBSeq_primary-accession>E01499</GBSeq_primary-accession>
+    <GBSeq_accession-version>E01499.1</GBSeq_accession-version>
+    <GBSeq_other-seqids>
+      <GBSeqid>dbj|E01499.1|</GBSeqid>
+      <GBSeqid>pat|JP|1988022098|2</GBSeqid>
+      <GBSeqid>gi|2169755</GBSeqid>
+    </GBSeq_other-seqids>
+    <GBSeq_keywords>
+      <GBKeyword>JP 1988022098-A/2</GBKeyword>
+    </GBSeq_keywords>
+    <GBSeq_source>Hepatitis B virus</GBSeq_source>
+    <GBSeq_organism>Hepatitis B virus</GBSeq_organism>
+    <GBSeq_taxonomy>Viruses; Retro-transcribing viruses; Hepadnaviridae; Orthohepadnavirus</GBSeq_taxonomy>
+    <GBSeq_references>
+      <GBReference>
+        <GBReference_reference>1</GBReference_reference>
+        <GBReference_position>1..817</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Takamizawa,A.</GBAuthor>
+          <GBAuthor>Fujita,H.</GBAuthor>
+          <GBAuthor>Manabe,S.</GBAuthor>
+          <GBAuthor>Kato,M.</GBAuthor>
+          <GBAuthor>Osame,J.</GBAuthor>
+          <GBAuthor>Yoshida,I.</GBAuthor>
+          <GBAuthor>Takanobu,T.</GBAuthor>
+          <GBAuthor>Takaku,Y.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>HEPATITIS B VIRUS ANTIGEN AND PRODUCTION THEREOF</GBReference_title>
+        <GBReference_journal>JP1988022098-A 2 29-JAN-1988 HANDAI BISEIBUTSUBIYOU KENKYUKAI</GBReference_journal>
+      </GBReference>
+    </GBSeq_references>
+    <GBSeq_comment>OS Hepatitis B virus~PN JP 1988022098-A/2~PD 29-JAN-1988~PF 18-JUN-1986 JP 1986143412~PI TAKAMIZAWA AKIHISA, FUJITA HIROYUKI, MANABE SADAO, PI KATO MASAHIKO,~PI OSAME JUICHIRO, YOSHIDA IWAO, TAKANOBU TAKEO, TAKAKU YOSHINORI PC C07K13/00,A61K39/29,C12N15/00,C12P21/02,(C12P21/02,C12R1:865); CC strandedness: Double;~CC topology: Linear;~CC hypothetical: No;~CC anti-sense: No;~CC Feature is identified by experimental;~CC Feature is identified by similarity;~FH Key Location/Qualifiers~FH~FT CDS 140..807~FT /product='hepatitis B virus antigen' FT misc_feature 51..57~FT /note='hogness box'~FT 5'UTR 1..139.</GBSeq_comment>
+    <GBSeq_feature-table>
+      <GBFeature>
+        <GBFeature_key>source</GBFeature_key>
+        <GBFeature_location>1..817</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>817</GBInterval_to>
+            <GBInterval_accession>E01499.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>organism</GBQualifier_name>
+            <GBQualifier_value>Hepatitis B virus</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>mol_type</GBQualifier_name>
+            <GBQualifier_value>unassigned DNA</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>db_xref</GBQualifier_name>
+            <GBQualifier_value>taxon:10407</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+    </GBSeq_feature-table>
+    <GBSeq_sequence>atacccatttgggataagggtaaacatctttgaattgtcgaaatgaaacgtatataagcgctgatgttttgctaagtcgaggttagtatggcttcatctctcatgagaataagaacggactggggaccctgcaccgaacatggagaacacaacatcaggattcctaggacccctactcgtgttacaggcggggtttttcttgttgacaagaatcctcacaataccacagagtctagactcgtggtggacttctctcaattttctagggggagcacccacgtgtcctggccaaaattcgcagtccccaacctccaatcactcaccaacctcttgtcctccaatttgtcctggctatcgctggatgtgtctgcggcgttttatcatattcctcttcatcctgctgctatgcctcatcttcttgttggttcttctggactaccaaggtatgttgcccgtttgtcctctacttccaggaacatcaactaccagcacgggaccatgcaagacctgcacgattcctgctcaaggaacctctatgtttccctcttgttgctgtacaaaaccttcggacggaaactgcacttgtattcccatcccatcatcctgggctttcgcaagattcctatgggagtgggcctcagtccgtttctcctggctcagtttactagtgccatttgttcagtggttcgtagggctttcccccactgtttggctttcagttatatggatgatgtggtattgggggccaagtctgtacaacatcttgagtccctttttaccgctattaccaattttcttttgtctttgggtatacatt</GBSeq_sequence>
+  </GBSeq>

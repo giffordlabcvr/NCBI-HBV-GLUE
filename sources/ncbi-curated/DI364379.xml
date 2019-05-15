@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<GBSeq>
+
+    <GBSeq_locus>DI364379</GBSeq_locus>
+    <GBSeq_length>846</GBSeq_length>
+    <GBSeq_strandedness>double</GBSeq_strandedness>
+    <GBSeq_moltype>DNA</GBSeq_moltype>
+    <GBSeq_topology>linear</GBSeq_topology>
+    <GBSeq_division>PAT</GBSeq_division>
+    <GBSeq_update-date>08-JUL-2014</GBSeq_update-date>
+    <GBSeq_create-date>08-JUL-2014</GBSeq_create-date>
+    <GBSeq_definition>KR 1020130118890-A/1: Composition of DNA vaccine for preventing and treating hepatitis B</GBSeq_definition>
+    <GBSeq_primary-accession>DI364379</GBSeq_primary-accession>
+    <GBSeq_accession-version>DI364379.1</GBSeq_accession-version>
+    <GBSeq_other-seqids>
+      <GBSeqid>dbj|DI364379.1|</GBSeqid>
+      <GBSeqid>pat|KR|1020130118890|1</GBSeqid>
+      <GBSeqid>gi|662622024</GBSeqid>
+    </GBSeq_other-seqids>
+    <GBSeq_keywords>
+      <GBKeyword>KR 1020130118890-A/1</GBKeyword>
+    </GBSeq_keywords>
+    <GBSeq_source>Hepatitis B virus</GBSeq_source>
+    <GBSeq_organism>Hepatitis B virus</GBSeq_organism>
+    <GBSeq_taxonomy>Viruses; Retro-transcribing viruses; Hepadnaviridae; Orthohepadnavirus</GBSeq_taxonomy>
+    <GBSeq_references>
+      <GBReference>
+        <GBReference_reference>1</GBReference_reference>
+        <GBReference_position>1..846</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Liu,Y.</GBAuthor>
+          <GBAuthor>Li,D.</GBAuthor>
+          <GBAuthor>Zhang,C.</GBAuthor>
+          <GBAuthor>Hou,J.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>Composition of DNA vaccine for preventing and treating hepatitis B</GBReference_title>
+        <GBReference_journal>KR1020130118890-A 1 30-OCT-2013 Beijing Kawin Technology Share-Holding Co., Ltd.|Beijing Kawin Bio-Tech Co., Ltd</GBReference_journal>
+      </GBReference>
+    </GBSeq_references>
+    <GBSeq_comment>KN KR 1020137013827-A/1~AN KR 1020137013827~AD 2013-05-29~PN KR 1020130118890~PD 2013-10-30~AT Composition of DNA vaccine for preventing and treating~AT hepatitis B~AI Liu, Yong|Li, Dingfeng|Zhang, Chunli|Hou, Jianhua~AA Beijing Kawin Technology Share-Holding Co., Ltd.|Beijing Kawin~AA Bio-Tech Co., Ltd.~PR~OS hepatitis B virus~TY DNA.</GBSeq_comment>
+    <GBSeq_feature-table>
+      <GBFeature>
+        <GBFeature_key>source</GBFeature_key>
+        <GBFeature_location>1..846</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>846</GBInterval_to>
+            <GBInterval_accession>DI364379.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>organism</GBQualifier_name>
+            <GBQualifier_value>Hepatitis B virus</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>mol_type</GBQualifier_name>
+            <GBQualifier_value>unassigned DNA</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>db_xref</GBQualifier_name>
+            <GBQualifier_value>taxon:10407</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+    </GBSeq_feature-table>
+    <GBSeq_sequence>atgcagtggaactccacaacattccaccaagctctgctagaccccagagtgaggggcctatactttcctgctggtggctccagttccggaacagtaaaccctgttccgactactgcctcacccatatcgtcaatcttctcgaggactggggaccctgcaccgaacatggagaacacaacatcaggattcctaggacccctgctcgtgttacaggcggggtttttcttgttgacaagaatcctcacaataccacagagtctagactcgtggtggacttctctcaattttctagggggagcacccacgtgtcctggccaaaattcgcagtccccaacctccaatcactcaccaacctcttgtcctccaatttgtcctggctatcgctggatgtgtctgcggcgttttatcatattcctcttcatcctgctgctatgcctcatcttcttgttggttcttctggactaccaaggtatgttgcccgtttgtcctctacttccaggaacatcaactaccagcacgggaccatgcaagacctgcacgattcctgctcaaggaacctctatgtttccctcttgttgctgtacaaaaccttcggacggaaactgcacttgtattcccatcccatcatcctgggctttcgcaagattcctatgggagtgggcctcagtccgtttctcctggctcagtttactagtgccatttgttcagtggttcgtagggctttcccccactgtttggctttcagttatatggatgatgtggtattgggggccaagtctgtacaacatcttgagtccctttttacctctattaccaattttcttttgtctttgggtatacatttga</GBSeq_sequence>
+  </GBSeq>

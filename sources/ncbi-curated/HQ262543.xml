@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<GBSeq>
+
+    <GBSeq_locus>HQ262543</GBSeq_locus>
+    <GBSeq_length>319</GBSeq_length>
+    <GBSeq_strandedness>double</GBSeq_strandedness>
+    <GBSeq_moltype>DNA</GBSeq_moltype>
+    <GBSeq_topology>linear</GBSeq_topology>
+    <GBSeq_division>VRL</GBSeq_division>
+    <GBSeq_update-date>08-JAN-2013</GBSeq_update-date>
+    <GBSeq_create-date>08-NOV-2010</GBSeq_create-date>
+    <GBSeq_definition>Hepatitis B virus isolate IR30 polymerase (P) gene, partial cds</GBSeq_definition>
+    <GBSeq_primary-accession>HQ262543</GBSeq_primary-accession>
+    <GBSeq_accession-version>HQ262543.1</GBSeq_accession-version>
+    <GBSeq_other-seqids>
+      <GBSeqid>gb|HQ262543.1|</GBSeqid>
+      <GBSeqid>gi|310975283</GBSeqid>
+    </GBSeq_other-seqids>
+    <GBSeq_source>Hepatitis B virus</GBSeq_source>
+    <GBSeq_organism>Hepatitis B virus</GBSeq_organism>
+    <GBSeq_taxonomy>Viruses; Retro-transcribing viruses; Hepadnaviridae; Orthohepadnavirus</GBSeq_taxonomy>
+    <GBSeq_references>
+      <GBReference>
+        <GBReference_reference>1</GBReference_reference>
+        <GBReference_position>1..319</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Aghasadeghi,M.R.</GBAuthor>
+          <GBAuthor>Bahramali,G.</GBAuthor>
+          <GBAuthor>Sadat,S.M.</GBAuthor>
+          <GBAuthor>Farahani,A.</GBAuthor>
+          <GBAuthor>Mohraz,M.</GBAuthor>
+          <GBAuthor>Davar Siadat,S.</GBAuthor>
+          <GBAuthor>Mostafavi,E.</GBAuthor>
+          <GBAuthor>Memarnejadian,A.</GBAuthor>
+          <GBAuthor>Ardestani,M.S.</GBAuthor>
+          <GBAuthor>Vahabpour,R.</GBAuthor>
+          <GBAuthor>Saraji,A.A.</GBAuthor>
+          <GBAuthor>Delbaz,S.A.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>Detection of hepatitis B virus variants in HBV monoinfected and HBV/HIV coinfected Iranian patients under lamivudine treatment</GBReference_title>
+        <GBReference_journal>Curr. HIV Res. 9 (4), 263-269 (2011)</GBReference_journal>
+        <GBReference_pubmed>21671883</GBReference_pubmed>
+      </GBReference>
+      <GBReference>
+        <GBReference_reference>2</GBReference_reference>
+        <GBReference_position>1..319</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Aghasadeghi,M.R.</GBAuthor>
+          <GBAuthor>Farahani Far,A.</GBAuthor>
+          <GBAuthor>Bahramali,G.</GBAuthor>
+          <GBAuthor>Sadat,S.M.</GBAuthor>
+          <GBAuthor>Hajikhani,R.</GBAuthor>
+          <GBAuthor>Siadat,S.D.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>Direct Submission</GBReference_title>
+        <GBReference_journal>Submitted (14-SEP-2010) Department of Microbiology, Karaj Islamic Azad University, Esteghlal Blvd, Rajaee Shahr, Karaj, Iran</GBReference_journal>
+      </GBReference>
+    </GBSeq_references>
+    <GBSeq_feature-table>
+      <GBFeature>
+        <GBFeature_key>source</GBFeature_key>
+        <GBFeature_location>1..319</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>319</GBInterval_to>
+            <GBInterval_accession>HQ262543.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>organism</GBQualifier_name>
+            <GBQualifier_value>Hepatitis B virus</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>mol_type</GBQualifier_name>
+            <GBQualifier_value>genomic DNA</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>isolate</GBQualifier_name>
+            <GBQualifier_value>IR30</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>isolation_source</GBQualifier_name>
+            <GBQualifier_value>HIV-positive patient with HBV</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>host</GBQualifier_name>
+            <GBQualifier_value>Homo sapiens</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>db_xref</GBQualifier_name>
+            <GBQualifier_value>taxon:10407</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>country</GBQualifier_name>
+            <GBQualifier_value>Iran</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>collection_date</GBQualifier_name>
+            <GBQualifier_value>2008</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>note</GBQualifier_name>
+            <GBQualifier_value>genotype: D</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>gene</GBFeature_key>
+        <GBFeature_location>&lt;1..&gt;319</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>319</GBInterval_to>
+            <GBInterval_accession>HQ262543.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_partial5 value="true"/>
+        <GBFeature_partial3 value="true"/>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>gene</GBQualifier_name>
+            <GBQualifier_value>P</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>CDS</GBFeature_key>
+        <GBFeature_location>&lt;1..&gt;319</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>319</GBInterval_to>
+            <GBInterval_accession>HQ262543.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_partial5 value="true"/>
+        <GBFeature_partial3 value="true"/>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>gene</GBQualifier_name>
+            <GBQualifier_value>P</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>codon_start</GBQualifier_name>
+            <GBQualifier_value>1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>transl_table</GBQualifier_name>
+            <GBQualifier_value>1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>product</GBQualifier_name>
+            <GBQualifier_value>polymerase</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>protein_id</GBQualifier_name>
+            <GBQualifier_value>ADP55079.1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>translation</GBQualifier_name>
+            <GBQualifier_value>LLVGSSGLSRYVARLSSNSRIFNHQHGTMQNLHDYCSRNLYVSLLLLYQTFGRKLHLYSHPIILGFRKIPMGVGLSPFLLAQFTSAICSVVRRAFPHCLAFSYMDD</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+    </GBSeq_feature-table>
+    <GBSeq_sequence>cttcttgttggttcttctggactatcaaggtatgttgcccgtttgtcctctaattccaggatcttcaaccaccagcacgggaccatgcagaacctgcacgactactgctcaaggaacctctatgtatccctactgttgctgtaccaaaccttcggacggaaattgcacctgtattcccatcccatcatcctgggctttcggaaaattcctatgggagtgggcctcagcccgtttctcctggctcagtttactagtgccatttgttcagtggttcgtagggctttcccccactgtttggctttcagttatatggatgatg</GBSeq_sequence>
+  </GBSeq>

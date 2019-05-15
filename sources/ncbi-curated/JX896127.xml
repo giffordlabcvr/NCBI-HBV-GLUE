@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<GBSeq>
+
+    <GBSeq_locus>JX896127</GBSeq_locus>
+    <GBSeq_length>639</GBSeq_length>
+    <GBSeq_strandedness>double</GBSeq_strandedness>
+    <GBSeq_moltype>DNA</GBSeq_moltype>
+    <GBSeq_topology>linear</GBSeq_topology>
+    <GBSeq_division>VRL</GBSeq_division>
+    <GBSeq_update-date>19-DEC-2012</GBSeq_update-date>
+    <GBSeq_create-date>19-DEC-2012</GBSeq_create-date>
+    <GBSeq_definition>Hepatitis B virus isolate HBcMX-104 precore/core protein (C) gene, complete cds</GBSeq_definition>
+    <GBSeq_primary-accession>JX896127</GBSeq_primary-accession>
+    <GBSeq_accession-version>JX896127.1</GBSeq_accession-version>
+    <GBSeq_other-seqids>
+      <GBSeqid>gb|JX896127.1|</GBSeqid>
+      <GBSeqid>gi|429846574</GBSeqid>
+    </GBSeq_other-seqids>
+    <GBSeq_source>Hepatitis B virus</GBSeq_source>
+    <GBSeq_organism>Hepatitis B virus</GBSeq_organism>
+    <GBSeq_taxonomy>Viruses; Retro-transcribing viruses; Hepadnaviridae; Orthohepadnavirus</GBSeq_taxonomy>
+    <GBSeq_references>
+      <GBReference>
+        <GBReference_reference>1</GBReference_reference>
+        <GBReference_position>1..639</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Maldonado-Rodriguez,A.</GBAuthor>
+          <GBAuthor>Rojas-Montes,O.</GBAuthor>
+          <GBAuthor>Vazquez-Rosales,G.</GBAuthor>
+          <GBAuthor>Torres-Ibarra,R.</GBAuthor>
+          <GBAuthor>Valdez-Salazar,H.</GBAuthor>
+          <GBAuthor>Gomez,A.</GBAuthor>
+          <GBAuthor>Munoz,O.</GBAuthor>
+          <GBAuthor>Torres,J.</GBAuthor>
+          <GBAuthor>Alvarez-Munoz,M.</GBAuthor>
+          <GBAuthor>Lira,R.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>Genetic variability in the precore/core regions of Hepatitis B virus genotype H in Mexico</GBReference_title>
+        <GBReference_journal>Unpublished</GBReference_journal>
+      </GBReference>
+      <GBReference>
+        <GBReference_reference>2</GBReference_reference>
+        <GBReference_position>1..639</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Lira,R.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>Direct Submission</GBReference_title>
+        <GBReference_journal>Submitted (02-OCT-2012) Unidad de Investigacion Medica en Enfermedades Infecciosas y Parasitarias, IMSS, Av. Cuauhtemoc 330, Mexico City, D.F. 06720, Mexico</GBReference_journal>
+      </GBReference>
+    </GBSeq_references>
+    <GBSeq_feature-table>
+      <GBFeature>
+        <GBFeature_key>source</GBFeature_key>
+        <GBFeature_location>1..639</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>639</GBInterval_to>
+            <GBInterval_accession>JX896127.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>organism</GBQualifier_name>
+            <GBQualifier_value>Hepatitis B virus</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>mol_type</GBQualifier_name>
+            <GBQualifier_value>genomic DNA</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>isolate</GBQualifier_name>
+            <GBQualifier_value>HBcMX-104</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>isolation_source</GBQualifier_name>
+            <GBQualifier_value>patient plasma</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>host</GBQualifier_name>
+            <GBQualifier_value>Homo sapiens</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>db_xref</GBQualifier_name>
+            <GBQualifier_value>taxon:10407</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>country</GBQualifier_name>
+            <GBQualifier_value>Mexico</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>collection_date</GBQualifier_name>
+            <GBQualifier_value>Aug-2007</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>collected_by</GBQualifier_name>
+            <GBQualifier_value>O. Rojas-Montes</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>identified_by</GBQualifier_name>
+            <GBQualifier_value>A. Maldonado-Rodriguez</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>note</GBQualifier_name>
+            <GBQualifier_value>genotype: H</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>gene</GBFeature_key>
+        <GBFeature_location>1..639</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>639</GBInterval_to>
+            <GBInterval_accession>JX896127.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>gene</GBQualifier_name>
+            <GBQualifier_value>C</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>CDS</GBFeature_key>
+        <GBFeature_location>1..639</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>639</GBInterval_to>
+            <GBInterval_accession>JX896127.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>gene</GBQualifier_name>
+            <GBQualifier_value>C</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>note</GBQualifier_name>
+            <GBQualifier_value>preC/C</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>codon_start</GBQualifier_name>
+            <GBQualifier_value>1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>transl_table</GBQualifier_name>
+            <GBQualifier_value>1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>product</GBQualifier_name>
+            <GBQualifier_value>precore/core protein</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>protein_id</GBQualifier_name>
+            <GBQualifier_value>AGA17634.1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>translation</GBQualifier_name>
+            <GBQualifier_value>MQLFHLCLIIFCSCPTVQASKLCLGWLWGMDIDPYKEFGASVEXLSFLPSDFFPSVRDLXDTASALYRDALESPEHCTPNHTALRQAILCWGELMTLASWVGNNLEDPAARDLVVNYVNTNMGLKIRQLLWFHISCLTFGRETVLEYLVSFGVWIRTPPAYRPPNAPILSTLPETTVVRQRGRAPRRRTPSPRRRRSQSPRRRRSQSPASQC</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+    </GBSeq_feature-table>
+    <GBSeq_sequence>atgcaactttttcacctctgcctaatcatcttttgttcatgtcccactgttcaagcctccaagctgtgccttgggtggctttggggcatggacattgacccttataaagaatttggagcttctgtggagtkactctcatttttgccttctgacttcttcccgtctgtccgggacctacycgacaccgcttcagccctctaccgagatgccttagaatcacccgaacattgcacccccaaccatactgctctcaggcaagctattttgtgctggggtgagttgatgaccttggcttcctgggtgggcaataatttagaggatcctgcagccagagatctagtagttaattatgtcaatactaatatgggcctaaaaattagacaattattatggtttcatatttcctgccttacatttggaagagaaactgttcttgagtatttggtgtcttttggagtgtggattcgcactccacctgcttatagaccaccaaatgcccctatcctatcaacacttccggagactactgttgttagacaacgaggcagggcccctagaagaagaactccctcgcctcgcagacgaagatctcaatcaccgcgtcgcagaagatctcaatctccagcttcccaatgttag</GBSeq_sequence>
+  </GBSeq>

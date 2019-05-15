@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<GBSeq>
+
+    <GBSeq_locus>AF460221</GBSeq_locus>
+    <GBSeq_length>629</GBSeq_length>
+    <GBSeq_strandedness>double</GBSeq_strandedness>
+    <GBSeq_moltype>DNA</GBSeq_moltype>
+    <GBSeq_topology>linear</GBSeq_topology>
+    <GBSeq_division>VRL</GBSeq_division>
+    <GBSeq_update-date>24-JAN-2014</GBSeq_update-date>
+    <GBSeq_create-date>01-JAN-2003</GBSeq_create-date>
+    <GBSeq_definition>Hepatitis B virus isolate 02 polymerase (P) gene, partial cds</GBSeq_definition>
+    <GBSeq_primary-accession>AF460221</GBSeq_primary-accession>
+    <GBSeq_accession-version>AF460221.1</GBSeq_accession-version>
+    <GBSeq_other-seqids>
+      <GBSeqid>gb|AF460221.1|</GBSeqid>
+      <GBSeqid>gi|27450181</GBSeqid>
+    </GBSeq_other-seqids>
+    <GBSeq_source>Hepatitis B virus</GBSeq_source>
+    <GBSeq_organism>Hepatitis B virus</GBSeq_organism>
+    <GBSeq_taxonomy>Viruses; Retro-transcribing viruses; Hepadnaviridae; Orthohepadnavirus</GBSeq_taxonomy>
+    <GBSeq_references>
+      <GBReference>
+        <GBReference_reference>1</GBReference_reference>
+        <GBReference_position>1..629</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Drosten,C.</GBAuthor>
+          <GBAuthor>Nippraschk,T.</GBAuthor>
+          <GBAuthor>Manegold,C.</GBAuthor>
+          <GBAuthor>Meisel,H.</GBAuthor>
+          <GBAuthor>Brixner,V.</GBAuthor>
+          <GBAuthor>Roth,W.K.</GBAuthor>
+          <GBAuthor>Apedjinou,A.</GBAuthor>
+          <GBAuthor>Gunther,S.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>Prevalence of hepatitis B virus DNA in anti-HBc-positive/HBsAg-negative sera correlates with HCV but not HIV serostatus</GBReference_title>
+        <GBReference_journal>J. Clin. Virol. 29 (1), 59-68 (2004)</GBReference_journal>
+        <GBReference_pubmed>14675872</GBReference_pubmed>
+      </GBReference>
+      <GBReference>
+        <GBReference_reference>2</GBReference_reference>
+        <GBReference_position>1..629</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Drosten,C.</GBAuthor>
+          <GBAuthor>Nippraschk,T.</GBAuthor>
+          <GBAuthor>Manegold,C.</GBAuthor>
+          <GBAuthor>Meisel,H.</GBAuthor>
+          <GBAuthor>Gunther,S.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>Levels of viremia in individuals with markers of past hepatitis B: Relevance of coinfection with human immunodeficiency virus and hepatitis C virus and analysis of terminal protein sequence</GBReference_title>
+        <GBReference_journal>Unpublished</GBReference_journal>
+      </GBReference>
+      <GBReference>
+        <GBReference_reference>3</GBReference_reference>
+        <GBReference_position>1..629</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Drosten,C.</GBAuthor>
+          <GBAuthor>Nippraschk,T.</GBAuthor>
+          <GBAuthor>Manegold,C.</GBAuthor>
+          <GBAuthor>Meisel,H.</GBAuthor>
+          <GBAuthor>Gunther,S.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>Direct Submission</GBReference_title>
+        <GBReference_journal>Submitted (18-DEC-2001) Virology, Bernhard-Nocht-Institute of Tropical Medicine, Bernhard-Nocht-Strasse 74, Hamburg 20359, Germany</GBReference_journal>
+      </GBReference>
+    </GBSeq_references>
+    <GBSeq_feature-table>
+      <GBFeature>
+        <GBFeature_key>source</GBFeature_key>
+        <GBFeature_location>1..629</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>629</GBInterval_to>
+            <GBInterval_accession>AF460221.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>organism</GBQualifier_name>
+            <GBQualifier_value>Hepatitis B virus</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>mol_type</GBQualifier_name>
+            <GBQualifier_value>genomic DNA</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>isolate</GBQualifier_name>
+            <GBQualifier_value>02</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>isolation_source</GBQualifier_name>
+            <GBQualifier_value>HBsAg-negative human</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>db_xref</GBQualifier_name>
+            <GBQualifier_value>taxon:10407</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>note</GBQualifier_name>
+            <GBQualifier_value>genotype: A</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>gene</GBFeature_key>
+        <GBFeature_location>20..&gt;629</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>20</GBInterval_from>
+            <GBInterval_to>629</GBInterval_to>
+            <GBInterval_accession>AF460221.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_partial3 value="true"/>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>gene</GBQualifier_name>
+            <GBQualifier_value>P</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>CDS</GBFeature_key>
+        <GBFeature_location>20..&gt;629</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>20</GBInterval_from>
+            <GBInterval_to>629</GBInterval_to>
+            <GBInterval_accession>AF460221.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_partial3 value="true"/>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>gene</GBQualifier_name>
+            <GBQualifier_value>P</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>codon_start</GBQualifier_name>
+            <GBQualifier_value>1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>transl_table</GBQualifier_name>
+            <GBQualifier_value>1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>product</GBQualifier_name>
+            <GBQualifier_value>polymerase</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>protein_id</GBQualifier_name>
+            <GBQualifier_value>AAO14548.1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>translation</GBQualifier_name>
+            <GBQualifier_value>MPLSYQHFRKLLLLDDETEAGPLEEELPRLADADLNRRVAEDLNLGNLNVSIPWTHKVGNFTGLYSSTVPIFNPEWQTPSFPKIHLQEDIINRCQQFVGPLTVNEKRRLKLIMPARFYPTHTKYLPLDKGIKPYYPDQVVNHYFQTRHYLHTLWKAGILYKRETTRSASFCGSPYSWEQELQHGRLVIKTSQRHGDESFCSQP</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+    </GBSeq_feature-table>
+    <GBSeq_sequence>ccagcctatagaccaccaaatgcccctatcttatcaacacttccggaaactactgttgttagacgacgagaccgaggcaggtcccctagaagaagaactccctcgcctcgcagacgcagatctcaatcgccgcgtcgcagaagatctcaatctcgggaatctcaatgttagtattccttggactcataaggtgggaaactttactgggctttactcctctacagtacctatctttaatcctgaatggcaaactccttcctttcctaagattcatttacaagaggacattattaataggtgtcaacaatttgtgggccctcttactgtaaatgaaaagagaagattgaaattaattatgcctgctagattctatcctacccacactaaatatttgcccttagacaaaggaattaaaccttattatccagatcaggtagttaatcattacttccaaaccagacattatttacatactctttggaaggctggtattctatataagagggaaaccacacgtagcgcatcattttgcgggtcaccatattcttgggaacaagagctacagcatgggaggttggtcatcaaaacctcgcaaaggcatggggacgaatctttctgttcccaaccct</GBSeq_sequence>
+  </GBSeq>

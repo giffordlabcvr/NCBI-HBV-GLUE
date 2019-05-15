@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<GBSeq>
+
+    <GBSeq_locus>KC953699</GBSeq_locus>
+    <GBSeq_length>545</GBSeq_length>
+    <GBSeq_strandedness>double</GBSeq_strandedness>
+    <GBSeq_moltype>DNA</GBSeq_moltype>
+    <GBSeq_topology>linear</GBSeq_topology>
+    <GBSeq_division>VRL</GBSeq_division>
+    <GBSeq_update-date>02-APR-2015</GBSeq_update-date>
+    <GBSeq_create-date>04-NOV-2013</GBSeq_create-date>
+    <GBSeq_definition>Hepatitis B virus isolate HBV_UPM_D170 surface protein-like (S) gene, partial sequence</GBSeq_definition>
+    <GBSeq_primary-accession>KC953699</GBSeq_primary-accession>
+    <GBSeq_accession-version>KC953699.1</GBSeq_accession-version>
+    <GBSeq_other-seqids>
+      <GBSeqid>gb|KC953699.1|</GBSeqid>
+      <GBSeqid>gi|511624279</GBSeqid>
+    </GBSeq_other-seqids>
+    <GBSeq_source>Hepatitis B virus</GBSeq_source>
+    <GBSeq_organism>Hepatitis B virus</GBSeq_organism>
+    <GBSeq_taxonomy>Viruses; Retro-transcribing viruses; Hepadnaviridae; Orthohepadnavirus</GBSeq_taxonomy>
+    <GBSeq_references>
+      <GBReference>
+        <GBReference_reference>1</GBReference_reference>
+        <GBReference_position>1..545</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Hudu,S.A.</GBAuthor>
+          <GBAuthor>Harmal,N.S.</GBAuthor>
+          <GBAuthor>Saeed,M.I.</GBAuthor>
+          <GBAuthor>Alshrari,A.S.</GBAuthor>
+          <GBAuthor>Malik,Y.A.</GBAuthor>
+          <GBAuthor>Niazlin,M.T.</GBAuthor>
+          <GBAuthor>Hassan,R.</GBAuthor>
+          <GBAuthor>Sekawi,Z.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>Naturally occurring hepatitis B virus surface antigen mutant variants in Malaysian blood donors and vaccinees</GBReference_title>
+        <GBReference_journal>Eur. J. Clin. Microbiol. Infect. Dis. (2015) In press</GBReference_journal>
+        <GBReference_xref>
+          <GBXref>
+            <GBXref_dbname>doi</GBXref_dbname>
+            <GBXref_id>10.1007/s10096-015-2358-1</GBXref_id>
+          </GBXref>
+        </GBReference_xref>
+        <GBReference_pubmed>25792010</GBReference_pubmed>
+        <GBReference_remark>Publication Status: Available-Online prior to print</GBReference_remark>
+      </GBReference>
+      <GBReference>
+        <GBReference_reference>2</GBReference_reference>
+        <GBReference_position>1..545</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Hudu,S.A.</GBAuthor>
+          <GBAuthor>Sekawi,Z.</GBAuthor>
+          <GBAuthor>Malik,Y.A.</GBAuthor>
+          <GBAuthor>Taib,N.M.</GBAuthor>
+          <GBAuthor>Harmal,N.S.</GBAuthor>
+          <GBAuthor>Hassan,R.</GBAuthor>
+          <GBAuthor>Niam,N.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>Direct Submission</GBReference_title>
+        <GBReference_journal>Submitted (20-APR-2013) Medical Microbiology and Parasitology, Universiti Putra Malaysia, UPM Serdang, Sardang, Selangor 43400, Malaysia</GBReference_journal>
+      </GBReference>
+    </GBSeq_references>
+    <GBSeq_comment>##Assembly-Data-START## ; Sequencing Technology :: Sanger dideoxy sequencing ; ##Assembly-Data-END##</GBSeq_comment>
+    <GBSeq_feature-table>
+      <GBFeature>
+        <GBFeature_key>source</GBFeature_key>
+        <GBFeature_location>1..545</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>545</GBInterval_to>
+            <GBInterval_accession>KC953699.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>organism</GBQualifier_name>
+            <GBQualifier_value>Hepatitis B virus</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>mol_type</GBQualifier_name>
+            <GBQualifier_value>genomic DNA</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>isolate</GBQualifier_name>
+            <GBQualifier_value>HBV_UPM_D170</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>isolation_source</GBQualifier_name>
+            <GBQualifier_value>serum from from asymptomatic blood donors that tested negative by serology and nucleic acid amplification testing (NAT) but have positive anti-HBc</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>host</GBQualifier_name>
+            <GBQualifier_value>Homo sapiens</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>db_xref</GBQualifier_name>
+            <GBQualifier_value>taxon:10407</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>country</GBQualifier_name>
+            <GBQualifier_value>Malaysia</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>collected_by</GBQualifier_name>
+            <GBQualifier_value>National Blood Center</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>PCR_primers</GBQualifier_name>
+            <GBQualifier_value>fwd_name: hbsag-f2, fwd_seq: acatggagaacatcgcatcag, rev_name: hbsag-r2, rev_seq: aattggtaacagcggtataaagg</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>gene</GBFeature_key>
+        <GBFeature_location>&lt;1..&gt;545</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>545</GBInterval_to>
+            <GBInterval_accession>KC953699.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_partial5 value="true"/>
+        <GBFeature_partial3 value="true"/>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>gene</GBQualifier_name>
+            <GBQualifier_value>S</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>misc_feature</GBFeature_key>
+        <GBFeature_location>&lt;1..&gt;545</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>545</GBInterval_to>
+            <GBInterval_accession>KC953699.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_partial5 value="true"/>
+        <GBFeature_partial3 value="true"/>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>gene</GBQualifier_name>
+            <GBQualifier_value>S</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>note</GBQualifier_name>
+            <GBQualifier_value>similar to surface protein; small S protein</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+    </GBSeq_feature-table>
+    <GBSeq_sequence>ggtttttattgttgcaaagaacctcacaataccacagaatataaactagtggtgaaatctttcaaaggggggggggacacccgtggtcttgaccaggggggcagtccccaatctacaaaaaatcaccaacccgttgtcctccaatttgtcctggttatcgctggatgtgtctgcggcgttttatcatcttcctctgcatcctgctgctatgcctcatcttcttgttggttcttctggactatcaaggtatgttgcccgtttgtcctctaattccaggatcatcgacaaccagcaccggaccatgcaaaacctgcataactcctgctcaaggaacctgtttgtttccctcatgttgctgtacaaaacctacggacggaaactgcacctgtattcccatcccatcatcttgggctttcgcaaaatacctatgggagtgtttttttgggcgtttctcttggctcagtttactagtgccatttgtttttttggggtagggctttcccccactgtctggctttcatttatatggatgagtggttttgggg</GBSeq_sequence>
+  </GBSeq>

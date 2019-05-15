@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<GBSeq>
+
+    <GBSeq_locus>LT718449</GBSeq_locus>
+    <GBSeq_length>3182</GBSeq_length>
+    <GBSeq_strandedness>double</GBSeq_strandedness>
+    <GBSeq_moltype>DNA</GBSeq_moltype>
+    <GBSeq_topology>linear</GBSeq_topology>
+    <GBSeq_division>VRL</GBSeq_division>
+    <GBSeq_update-date>04-JUN-2018</GBSeq_update-date>
+    <GBSeq_create-date>04-JUN-2018</GBSeq_create-date>
+    <GBSeq_definition>HBV genotype D isolate M2043 genome assembly, chromosome: HBV_sample_M2043</GBSeq_definition>
+    <GBSeq_primary-accession>LT718449</GBSeq_primary-accession>
+    <GBSeq_accession-version>LT718449.1</GBSeq_accession-version>
+    <GBSeq_other-seqids>
+      <GBSeqid>emb|LT718449.1|</GBSeqid>
+      <GBSeqid>gi|1395161507</GBSeqid>
+    </GBSeq_other-seqids>
+    <GBSeq_project>PRJEB19214</GBSeq_project>
+    <GBSeq_source>HBV genotype D</GBSeq_source>
+    <GBSeq_organism>HBV genotype D</GBSeq_organism>
+    <GBSeq_taxonomy>Viruses; Retro-transcribing viruses; Hepadnaviridae; Orthohepadnavirus</GBSeq_taxonomy>
+    <GBSeq_references>
+      <GBReference>
+        <GBReference_reference>1</GBReference_reference>
+        <GBReference_position>1..3182</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Belenikin,M.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>Direct Submission</GBReference_title>
+        <GBReference_journal>Submitted (26-JAN-2017) N.F.Gamaleya Research Institute of Epidemiology and Microbiology, Russia, Moscow, Gamaleya st., b.18, Russia</GBReference_journal>
+      </GBReference>
+    </GBSeq_references>
+    <GBSeq_feature-table>
+      <GBFeature>
+        <GBFeature_key>source</GBFeature_key>
+        <GBFeature_location>1..3182</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>3182</GBInterval_to>
+            <GBInterval_accession>LT718449.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>organism</GBQualifier_name>
+            <GBQualifier_value>HBV genotype D</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>mol_type</GBQualifier_name>
+            <GBQualifier_value>genomic DNA</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>isolate</GBQualifier_name>
+            <GBQualifier_value>M2043</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>isolation_source</GBQualifier_name>
+            <GBQualifier_value>human</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>db_xref</GBQualifier_name>
+            <GBQualifier_value>taxon:489483</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>chromosome</GBQualifier_name>
+            <GBQualifier_value>HBV_sample_M2043</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+    </GBSeq_feature-table>
+    <GBSeq_sequence>ctccacaaccttccatcaaactctgcaagatcccagagtgagaggcctgtatttccctgctggtggctccagttcaggaacagtaaaccctgttcagactactgcctctcacttatcgtcaatcttctcgaggattggggaccttgcgctgaacatggagaacatcacatcaggactcctaggaccccttctcgtgttacaggcggggtttttcttgttgacaagaatcctcacaataccgcagagtctagactcgtggtggacttctctcaattttctcgggggaaccaccgtgtgtcttggccaaaattcgcagtccccaacctccaatcactcaccaacctcctgtcctccaacttgtcctggttatcgttggatgtgtctgcggcgttttatcatattcctcttcatcctgctgctatgcctcatcttcttgttggttcttctggactatcgaggtatgttgcccgtttgtcctctaattccaggatcctcaaccaccagcacgggaccatgccgaacctgcacgactcctgctcaaggaacctctaygtmtccctcctgttgctgtaccaaaccttcggacagaaattgcacctgtattcccatcccatcatcctgggctttcggaaamttcctatgggrgtgggcctcagcccgtttctcctggctcagtttactagtgccatttgttcagtggttcgtagggctttcccccactgtttggcttttagttatatggatgatgtggtattgggggccaagtctgtatcgcatcttgagtccctttttaccgctgttaccaattttcttttgtctttgggtatacatttaaaccctaacaaaacaaagagatggggttattctctaaattttatgggttatgtcattggaggttatgggtcattgccacaagaacacattatacaaaaaatcaaagactgttttagaaaacttcctgttaacaggcctattgattggaaagtgtgtcaacgaattgtgggccttttgggttttgctgcaccttttactcaatgtggttatcctgctttaaagcccttgtatgcctgtattcaatctaagcaggctttcactttctcgccaacttacaaggcctttctacgtcaacaatacctgaacctttaccccgttgcccggcaacggccaggtctgtgccaagtgtttgctgacgcaacccccactggctggggcttggtcatgggccatcagcgcatgcgtggaacctttatggctccactgccgatccatactgcggaactcctagccgcttgttttgctcgcagcaggtctggagcaaacattctcgggactgataactctgttgtcctctcccgcaaatatacatcgtttccatggctgctaggctgtgctgccaactggatcctgcgcgggacgtcctttgtttacgtcccctcggcgctgaatcccgcggacgacccttctcggggtcgcttgggactctatcgtccccttctccgtctgccgttccgaccgaccacggggcgcacctctctttacgcggcctccccgtctgtgccttctcatctgccggtccgtgtgcacttcgcttcacctctgcacgtcgcatggaaaccaccgtgaacgcccaccaaagcttgcccaaggtcttacataagaggactcttggactttctgcaatgtcaacgaccgaccttgaggcatacttcaaagactgtttgtttaaagactgggaggagttgggggaggagcttagattacaggtctttgtactaggaggctgtaggcataaattggtctgcgcaccagcaccatgcaactttttcacctctgcctaatcatctcttgttcatgtcctactgttcaagcctccaagctgtgccttgggtggctttgggacatggacatcgacccttataaagaatttggagctaccgtggagttactctcgtttttgccttctgacttttttccttcagtacgagatcttctagataccgcctcagctctgtatcgggatgcattagagtctcctgaacattgtacacctcaccatactgcactcaggcaagcaattctttgctggggggaactaatgactctagctacctgggtgggcgttaatttggaagatccagcatctagggacctagtagtcagttatgtcaacactaatatgggcctaaagttcagacaacttttgtggtttcacacttcttgtctcacttttggaagagaaacagttttagaatatttggtgtctttcggagtgtggattcgcactcctccagcttatagaccagcaaatgcccctatcttatcaacacttccggagacttgtgttattagacgacgaggcaggtcccctagaagaagaactccctcgcctcgcagacgaaggtctcaatcgccgcgtcgccgacgaactcaatctcgggaatctcaatgttagtattccttggactcataaggtgggaaactttacggggctttattcttctactgtacctgtctttaatcctcattggaaaacaccctcttttcctaatatacatttacaccaggacattatcaaaaaatgtgaacactttgtaggtccactcacaattaatgagaaaagaagattgcaattgattatgcctgctaggttttatccaaatgttaccaaatatttgccattggataagggtattaaaccttattatccagaacatctagttaatcattacttccaaactagacactatttacacactctatggaaggcgggtatattatataagagagaaacaacacatagcgcctcattttgtgggtcaccatattcttgggaacaagagctacagcatggggcagaatctgtccaccagcaatcctctgggattctttcccgaccaccagttggatccagccttcagagcaaacaccgcaaacccagattgggacttcaatcccaacaaggacacctggccagatgccaacaaggtaggagctggagcattcgggctgggtttcaccccaccgcacggaggccttttggggtggagccctcaggctcagggcataatacaaactttgccagtaaatccgcctcctgtctccaccaatcgccagtcagggaggcagccgaccccgctgtctccacctttgcgagacactcatcctcaggccatgcagtggaa</GBSeq_sequence>
+    <GBSeq_xrefs>
+      <GBXref>
+        <GBXref_dbname>BioProject</GBXref_dbname>
+        <GBXref_id>PRJEB19214</GBXref_id>
+      </GBXref>
+      <GBXref>
+        <GBXref_dbname>BioSample</GBXref_dbname>
+        <GBXref_id>SAMEA55072918</GBXref_id>
+      </GBXref>
+    </GBSeq_xrefs>
+  </GBSeq>

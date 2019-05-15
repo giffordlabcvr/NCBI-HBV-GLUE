@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<GBSeq>
+
+    <GBSeq_locus>DD139893</GBSeq_locus>
+    <GBSeq_length>558</GBSeq_length>
+    <GBSeq_strandedness>double</GBSeq_strandedness>
+    <GBSeq_moltype>DNA</GBSeq_moltype>
+    <GBSeq_topology>linear</GBSeq_topology>
+    <GBSeq_division>PAT</GBSeq_division>
+    <GBSeq_update-date>04-NOV-2005</GBSeq_update-date>
+    <GBSeq_create-date>04-NOV-2005</GBSeq_create-date>
+    <GBSeq_definition>HEPATITIS B VIRUS TREATMENT</GBSeq_definition>
+    <GBSeq_primary-accession>DD139893</GBSeq_primary-accession>
+    <GBSeq_accession-version>DD139893.1</GBSeq_accession-version>
+    <GBSeq_other-seqids>
+      <GBSeqid>dbj|DD139893.1|</GBSeqid>
+      <GBSeqid>pat|JP|2005505238|1</GBSeqid>
+      <GBSeqid>gi|92844970</GBSeqid>
+    </GBSeq_other-seqids>
+    <GBSeq_keywords>
+      <GBKeyword>JP 2005505238-A/1</GBKeyword>
+    </GBSeq_keywords>
+    <GBSeq_source>Hepatitis B virus</GBSeq_source>
+    <GBSeq_organism>Hepatitis B virus</GBSeq_organism>
+    <GBSeq_taxonomy>Viruses; Retro-transcribing viruses; Hepadnaviridae; Orthohepadnavirus</GBSeq_taxonomy>
+    <GBSeq_references>
+      <GBReference>
+        <GBReference_reference>1</GBReference_reference>
+        <GBReference_position>1..558</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Mizzen,L.</GBAuthor>
+          <GBAuthor>Liu,H.</GBAuthor>
+          <GBAuthor>Siegel,M.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>HEPATITIS B VIRUS TREATMENT</GBReference_title>
+        <GBReference_journal>JP2005505238-A 1 24-FEB-2005 Stressgen Biotechnologies Corporation</GBReference_journal>
+      </GBReference>
+    </GBSeq_references>
+    <GBSeq_comment>OS Hepatitis B virus~PN JP 2005505238-A/1~PD 24-FEB-2005~PF 05-FEB-2002 JP 2002563296~PR 05-FEB-2001 US 60/266733~PI lee mizzen,honguwei liu,mervin siegel~CC~FH Key Location/Qualifiers~FT CDS (1)...(555).</GBSeq_comment>
+    <GBSeq_feature-table>
+      <GBFeature>
+        <GBFeature_key>source</GBFeature_key>
+        <GBFeature_location>1..558</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>558</GBInterval_to>
+            <GBInterval_accession>DD139893.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>organism</GBQualifier_name>
+            <GBQualifier_value>Hepatitis B virus</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>mol_type</GBQualifier_name>
+            <GBQualifier_value>unassigned DNA</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>db_xref</GBQualifier_name>
+            <GBQualifier_value>taxon:10407</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+    </GBSeq_feature-table>
+    <GBSeq_sequence>atggacattgacccttataaagaatttggagctactgtggagttactctcgtttttgccttctgacttctttccttccgtcagagatctcctagacaccgcctcagctctgtatcgggaagccttagagtctcctgagcattgctcacctcaccacaccgcactcaggcaagccattctctgctggggggaattgatgactctagctacctgggtgggtaataatttggaagatccagcatcaagggatctagtagtcaattatgttaatactaacatgggtttaaaaattaggcaactattgtggtttcatatatcttgccttacttttggaagagagactgtacttgaatatttggtatctttcggagtgtggattcgcactcctccagcctatagaccaccaaatgcccctatcttatcaacacttccggaaactactgttgttagacgacgggaccgaggcaggtcccctagaagaagaactccctcgcctcgcagacgcagatctcaatcgccgcgtcgcagaagatctcaatctcgggaatctcaatgttga</GBSeq_sequence>
+  </GBSeq>

@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<GBSeq>
+
+    <GBSeq_locus>KF631239</GBSeq_locus>
+    <GBSeq_length>591</GBSeq_length>
+    <GBSeq_strandedness>double</GBSeq_strandedness>
+    <GBSeq_moltype>DNA</GBSeq_moltype>
+    <GBSeq_topology>linear</GBSeq_topology>
+    <GBSeq_division>VRL</GBSeq_division>
+    <GBSeq_update-date>04-DEC-2013</GBSeq_update-date>
+    <GBSeq_create-date>04-DEC-2013</GBSeq_create-date>
+    <GBSeq_definition>Hepatitis B virus isolate 15 reverse transcriptase gene, partial cds</GBSeq_definition>
+    <GBSeq_primary-accession>KF631239</GBSeq_primary-accession>
+    <GBSeq_accession-version>KF631239.1</GBSeq_accession-version>
+    <GBSeq_other-seqids>
+      <GBSeqid>gb|KF631239.1|</GBSeqid>
+      <GBSeqid>gi|560939424</GBSeqid>
+    </GBSeq_other-seqids>
+    <GBSeq_source>Hepatitis B virus</GBSeq_source>
+    <GBSeq_organism>Hepatitis B virus</GBSeq_organism>
+    <GBSeq_taxonomy>Viruses; Retro-transcribing viruses; Hepadnaviridae; Orthohepadnavirus</GBSeq_taxonomy>
+    <GBSeq_references>
+      <GBReference>
+        <GBReference_reference>1</GBReference_reference>
+        <GBReference_position>1..591</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Singla,B.</GBAuthor>
+          <GBAuthor>Chakraborti,A.</GBAuthor>
+          <GBAuthor>Sharma,B.K.</GBAuthor>
+          <GBAuthor>Kapil,S.</GBAuthor>
+          <GBAuthor>Chawla,Y.K.</GBAuthor>
+          <GBAuthor>Arora,S.K.</GBAuthor>
+          <GBAuthor>Das,A.</GBAuthor>
+          <GBAuthor>Dhiman,R.K.</GBAuthor>
+          <GBAuthor>Duseja,A.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>Hepatitis B virus reverse transcriptase mutations in treatment Naive chronic hepatitis B patients</GBReference_title>
+        <GBReference_journal>J. Med. Virol. 85 (7), 1155-1162 (2013)</GBReference_journal>
+        <GBReference_xref>
+          <GBXref>
+            <GBXref_dbname>doi</GBXref_dbname>
+            <GBXref_id>10.1002/jmv.23608</GBXref_id>
+          </GBXref>
+        </GBReference_xref>
+        <GBReference_pubmed>23918533</GBReference_pubmed>
+      </GBReference>
+      <GBReference>
+        <GBReference_reference>2</GBReference_reference>
+        <GBReference_position>1..591</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Singla,B.</GBAuthor>
+          <GBAuthor>Chakraborti,A.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>Direct Submission</GBReference_title>
+        <GBReference_journal>Submitted (06-SEP-2013) Hepatology, PGIMER, Sector 12, Chandigarh, Chandigarh 160012, India</GBReference_journal>
+      </GBReference>
+    </GBSeq_references>
+    <GBSeq_comment>##Assembly-Data-START## ; Sequencing Technology :: Sanger dideoxy sequencing ; ##Assembly-Data-END##</GBSeq_comment>
+    <GBSeq_feature-table>
+      <GBFeature>
+        <GBFeature_key>source</GBFeature_key>
+        <GBFeature_location>1..591</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>591</GBInterval_to>
+            <GBInterval_accession>KF631239.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>organism</GBQualifier_name>
+            <GBQualifier_value>Hepatitis B virus</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>mol_type</GBQualifier_name>
+            <GBQualifier_value>genomic DNA</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>isolate</GBQualifier_name>
+            <GBQualifier_value>15</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>db_xref</GBQualifier_name>
+            <GBQualifier_value>taxon:10407</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>country</GBQualifier_name>
+            <GBQualifier_value>India</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>collected_by</GBQualifier_name>
+            <GBQualifier_value>Bhupesh Singla</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>PCR_primers</GBQualifier_name>
+            <GBQualifier_value>fwd_name: rt1, fwd_seq: agactcgtggtggacttctc, rev_name: rt3, rev_seq: tgacatactttccaatcaat</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>CDS</GBFeature_key>
+        <GBFeature_location>&lt;1..&gt;591</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>591</GBInterval_to>
+            <GBInterval_accession>KF631239.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_partial5 value="true"/>
+        <GBFeature_partial3 value="true"/>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>codon_start</GBQualifier_name>
+            <GBQualifier_value>1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>transl_table</GBQualifier_name>
+            <GBQualifier_value>1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>product</GBQualifier_name>
+            <GBQualifier_value>reverse transcriptase</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>protein_id</GBQualifier_name>
+            <GBQualifier_value>AHB32124.1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>translation</GBQualifier_name>
+            <GBQualifier_value>SLDVSAAFYHLPLHPAAMPHLLVGSSGLSRYVARLSSNSRILNHQHGTMQNLHDSCSRNLYVSLLLLYQTFGRKLHLYSHPIILGFRKIPMGVGLSPFLLAQFTSAICSVVRRAFPHCLAFSYMDDVVLGAKSVQHLESLFTAVTNFLLSLGVHLNPNKTKRWGYSLHFMGYVIGCYGSLPQEHIIQKIKECFRKLP</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+    </GBSeq_feature-table>
+    <GBSeq_sequence>tcgctggatgtgtctgcggcgttttatcatcttcctcttcatcctgctgctatgcctcatcttcttgttggttcttctggactatcaaggtatgttgcccgtttgtcctctaattccaggatcctcaaccaccagcacgggaccatgcagaacctgcacgactcctgctcaaggaacctctatgtatccctcctgttgctgtaccaaaccttcggacggaaattgcacctgtattcccatcccatcatcctgggctttcggaaaattcctatgggagtgggcctcagcccgtttctcctggctcagtttactagtgccatttgttcagtggttcgtagggctttcccccactgtttggctttcagttatatggatgatgtggtattgggggccaagtctgtacagcatcttgagtccctttttaccgctgttaccaattttcttttgtctttgggtgtacatttaaaccctaacaaaacaaagagatggggttactctctacatttcatgggctatgtcattggatgttatgggtcattgccacaagaacacatcatacaaaaaatcaaagaatgttttagaaaacttcct</GBSeq_sequence>
+  </GBSeq>

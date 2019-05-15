@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<GBSeq>
+
+    <GBSeq_locus>JF815664</GBSeq_locus>
+    <GBSeq_length>1367</GBSeq_length>
+    <GBSeq_strandedness>double</GBSeq_strandedness>
+    <GBSeq_moltype>DNA</GBSeq_moltype>
+    <GBSeq_topology>linear</GBSeq_topology>
+    <GBSeq_division>VRL</GBSeq_division>
+    <GBSeq_update-date>09-DEC-2011</GBSeq_update-date>
+    <GBSeq_create-date>17-OCT-2011</GBSeq_create-date>
+    <GBSeq_definition>Hepatitis B virus strain HBV39 clone 02 polymerase (P) gene, partial cds; and large surface protein-like (S) gene, complete sequence</GBSeq_definition>
+    <GBSeq_primary-accession>JF815664</GBSeq_primary-accession>
+    <GBSeq_accession-version>JF815664.1</GBSeq_accession-version>
+    <GBSeq_other-seqids>
+      <GBSeqid>gb|JF815664.1|</GBSeqid>
+      <GBSeqid>gi|350627958</GBSeqid>
+    </GBSeq_other-seqids>
+    <GBSeq_source>Hepatitis B virus</GBSeq_source>
+    <GBSeq_organism>Hepatitis B virus</GBSeq_organism>
+    <GBSeq_taxonomy>Viruses; Retro-transcribing viruses; Hepadnaviridae; Orthohepadnavirus</GBSeq_taxonomy>
+    <GBSeq_references>
+      <GBReference>
+        <GBReference_reference>1</GBReference_reference>
+        <GBReference_position>1..1367</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Reis,L.M.</GBAuthor>
+          <GBAuthor>Soares,M.A.</GBAuthor>
+          <GBAuthor>Franca,P.H.</GBAuthor>
+          <GBAuthor>Soares,E.A.</GBAuthor>
+          <GBAuthor>Bonvicino,C.R.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>Clonal analysis of hepatitis B viruses among blood donors from Joinville, Brazil: evidence of dual infections, intragenotype recombination and markers of risk for hepatocellular carcinoma</GBReference_title>
+        <GBReference_journal>J. Med. Virol. 83 (12), 2103-2112 (2011)</GBReference_journal>
+        <GBReference_xref>
+          <GBXref>
+            <GBXref_dbname>doi</GBXref_dbname>
+            <GBXref_id>10.1002/jmv.22246</GBXref_id>
+          </GBXref>
+        </GBReference_xref>
+        <GBReference_pubmed>22012717</GBReference_pubmed>
+      </GBReference>
+      <GBReference>
+        <GBReference_reference>2</GBReference_reference>
+        <GBReference_position>1..1367</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Reis,L.M.W.</GBAuthor>
+          <GBAuthor>Soares,M.A.</GBAuthor>
+          <GBAuthor>Franca,P.C.</GBAuthor>
+          <GBAuthor>Soares,E.A.J.M.</GBAuthor>
+          <GBAuthor>Bonvicino,C.R.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>Direct Submission</GBReference_title>
+        <GBReference_journal>Submitted (19-APR-2011) Programa de Genetica, Instituto Nacional de Cancer, Rua Andre Cavalcanti 37 - 4 andar, Rio de Janeiro, Rio de Janeiro 20231-050, Brazil</GBReference_journal>
+      </GBReference>
+    </GBSeq_references>
+    <GBSeq_feature-table>
+      <GBFeature>
+        <GBFeature_key>source</GBFeature_key>
+        <GBFeature_location>1..1367</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>1367</GBInterval_to>
+            <GBInterval_accession>JF815664.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>organism</GBQualifier_name>
+            <GBQualifier_value>Hepatitis B virus</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>mol_type</GBQualifier_name>
+            <GBQualifier_value>genomic DNA</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>strain</GBQualifier_name>
+            <GBQualifier_value>HBV39</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>serotype</GBQualifier_name>
+            <GBQualifier_value>ayw2</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>host</GBQualifier_name>
+            <GBQualifier_value>Homo sapiens</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>db_xref</GBQualifier_name>
+            <GBQualifier_value>taxon:10407</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>clone</GBQualifier_name>
+            <GBQualifier_value>02</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>country</GBQualifier_name>
+            <GBQualifier_value>Brazil: Joiville, Santa Catarina</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>note</GBQualifier_name>
+            <GBQualifier_value>collected between 2005 and 2007;
+subtype: D3/D6; genotype: D</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>gene</GBFeature_key>
+        <GBFeature_location>&lt;1..&gt;1367</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>1367</GBInterval_to>
+            <GBInterval_accession>JF815664.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_partial5 value="true"/>
+        <GBFeature_partial3 value="true"/>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>gene</GBQualifier_name>
+            <GBQualifier_value>P</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>CDS</GBFeature_key>
+        <GBFeature_location>&lt;1..&gt;1367</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>1367</GBInterval_to>
+            <GBInterval_accession>JF815664.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_partial5 value="true"/>
+        <GBFeature_partial3 value="true"/>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>gene</GBQualifier_name>
+            <GBQualifier_value>P</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>codon_start</GBQualifier_name>
+            <GBQualifier_value>3</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>transl_table</GBQualifier_name>
+            <GBQualifier_value>1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>product</GBQualifier_name>
+            <GBQualifier_value>polymerase</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>protein_id</GBQualifier_name>
+            <GBQualifier_value>AEQ33776.1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>translation</GBQualifier_name>
+            <GBQualifier_value>GAESFHQQSSGILSRPPVGSSLQSKHRKSRLGLQSQQGHLARRQQGRSWSIRAGIHPTARRPFGVEPSGSGHNANLASKSASCLYQSPVRKAAYPAVSTFEKHASSGHAVKLHNLPPNSAGSQGERPVFPCWWLQFRNSKPCSDYCLSHIVNLLEDWGPCAEHGEHHIRIPRTPARVTGGVVLVDKNPHNTAESRLVVDFSQFSRGNYRVSWPKFAVPNLQSLTNLLSSNLSWLSLDVSAAFYHLPLHPAAMPHLLVGSSGLSRYVARLSSNSRIFNYQRGTMQNLHDYCSRNLYVSLLLLYQTFGRKLHLYSHPIILGFRKIPMGVGLSPFLLAQFTSAICSVVRRAFPHCLAFSYMDDVVLGAKTVQHLESLFTAVTNFLLSLGIHLNPNKTKRWGYSLNFMGYVIGCYGSLPQEHIIQKIKDCFRKLPINRPIDWKVCQRIVGLLGFAAPFT</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>gene</GBFeature_key>
+        <GBFeature_location>1..1170</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>1170</GBInterval_to>
+            <GBInterval_accession>JF815664.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>gene</GBQualifier_name>
+            <GBQualifier_value>S</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>misc_feature</GBFeature_key>
+        <GBFeature_location>1..1170</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>1170</GBInterval_to>
+            <GBInterval_accession>JF815664.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>gene</GBQualifier_name>
+            <GBQualifier_value>S</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>note</GBQualifier_name>
+            <GBQualifier_value>similar to large surface protein</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+    </GBSeq_feature-table>
+    <GBSeq_sequence>atggggcagaatctttccaccagcaatcctctgggattctttcccgaccaccagttggatccagccttcagagcaaacaccgcaaatccagattgggacttcaatcccaacaaggacacctggccagacgccaacaaggtaggagctggagcattcgggctgggattcaccccaccgcacggaggccttttggggtggagccctcaggctcagggcataatgcaaaccttgccagcaaatccgcctcctgcctctaccaatcgccagtcaggaaggcagcctaccccgctgtctccacctttgagaaacacgcatcctcaggccatgcagtgaaactccacaaccttccaccaaactctgcaggatcccagggtgagaggcctgtatttccctgctggtggctccagttcaggaacagtaaaccctgttccgactactgcctctcccatatcgtcaatcttctcgaggattggggaccctgcgctgaacatggagaacatcacatcaggattcctagaacccctgctcgtgttacaggcggggttgttcttgttgacaagaatcctcacaataccgcagagtctagactcgtggtggacttctctcaattttctagggggaactaccgtgtgtcttggccaaaattcgcagtccccaacctccaatcactcaccaacctcctgtcctccaacttgtcctggttatcgctggatgtgtctgcggcgttttatcatcttcctcttcatcctgctgctatgcctcatcttcttgttggttcttctggactatcaaggtatgttgcccgtctgtcctctaattccaggatcttcaactaccagcgtgggaccatgcagaacctgcacgactactgttcaaggaacctctatgtatccctcctgttgctgtaccaaaccttcggacggaaattgcacctgtattcccatcccatcatcctgggctttcggaaaattcctatgggagtgggcctcagcccgtttctcctggctcagtttactagtgccatttgttcagtggttcgtagggctttcccccactgtttggctttcagttatatggatgatgtggtattgggggccaagactgtacagcatcttgagtccctttttaccgctgttaccaattttcttttgtctttgggtatacatttaaaccctaacaaaacaaagagatggggttactctctaaattttatggggtatgtcattggatgttatgggtccttgccacaagaacacatcatacaaaaaatcaaagattgttttagaaaacttcctattaacaggcctattgattggaaagtatgtcaacgaattgtgggtcttttgggttttgctgcccctttcaca</GBSeq_sequence>
+  </GBSeq>

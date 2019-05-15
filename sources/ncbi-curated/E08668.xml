@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<GBSeq>
+
+    <GBSeq_locus>E08668</GBSeq_locus>
+    <GBSeq_length>405</GBSeq_length>
+    <GBSeq_strandedness>single</GBSeq_strandedness>
+    <GBSeq_moltype>RNA</GBSeq_moltype>
+    <GBSeq_topology>linear</GBSeq_topology>
+    <GBSeq_division>PAT</GBSeq_division>
+    <GBSeq_update-date>04-NOV-2005</GBSeq_update-date>
+    <GBSeq_create-date>06-JUN-1997</GBSeq_create-date>
+    <GBSeq_definition>cDNA encoding polypeptide from X protein of Hepatitis B virus</GBSeq_definition>
+    <GBSeq_primary-accession>E08668</GBSeq_primary-accession>
+    <GBSeq_accession-version>E08668.1</GBSeq_accession-version>
+    <GBSeq_other-seqids>
+      <GBSeqid>dbj|E08668.1|</GBSeqid>
+      <GBSeqid>pat|JP|1995033797|1</GBSeqid>
+      <GBSeqid>gi|2176781</GBSeqid>
+    </GBSeq_other-seqids>
+    <GBSeq_keywords>
+      <GBKeyword>JP 1995033797-A/1</GBKeyword>
+    </GBSeq_keywords>
+    <GBSeq_source>Hepatitis B virus</GBSeq_source>
+    <GBSeq_organism>Hepatitis B virus</GBSeq_organism>
+    <GBSeq_taxonomy>Viruses; Retro-transcribing viruses; Hepadnaviridae; Orthohepadnavirus</GBSeq_taxonomy>
+    <GBSeq_references>
+      <GBReference>
+        <GBReference_reference>1</GBReference_reference>
+        <GBReference_position>1..405</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Uchida,T.</GBAuthor>
+          <GBAuthor>Shikata,T.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>HEPATITIS B VIRUS-DERIVED POLYPEPTIDE AND GENE CODING THE SAME POLYPEPTIDE</GBReference_title>
+        <GBReference_journal>JP1995033797-A 1 03-FEB-1995 MITSUBISHI CHEM CORP</GBReference_journal>
+      </GBReference>
+    </GBSeq_references>
+    <GBSeq_comment>OS Hepatitis B virus~PN JP 1995033797-A/1~PD 03-FEB-1995~PF 21-JUL-1993 JP 1993180314~PI UCHIDA TOSHIKAZU, SHIKATA TOSHIO~PC C07K14/02,C12N15/09,C12P21/02,G01N33/53,G01N33/569,G01N33/576; CC strandedness: Double;~CC topology: Linear;~CC hypothetical: No;~CC anti-sense: No;~FH Key Location/Qualifiers~FH~FT source 1..405~FT /organism='Hepatitis B virus' FT CDS 1..405~FT /product='Polypeptide from X protein of FT Hepatitis B virus'~FT misc_difference 217~FT /note='Original is not C'.</GBSeq_comment>
+    <GBSeq_feature-table>
+      <GBFeature>
+        <GBFeature_key>source</GBFeature_key>
+        <GBFeature_location>1..405</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>405</GBInterval_to>
+            <GBInterval_accession>E08668.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>organism</GBQualifier_name>
+            <GBQualifier_value>Hepatitis B virus</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>mol_type</GBQualifier_name>
+            <GBQualifier_value>unassigned RNA</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>db_xref</GBQualifier_name>
+            <GBQualifier_value>taxon:10407</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+    </GBSeq_feature-table>
+    <GBSeq_sequence>atggctgctagggtgtgctgccaactggatcctgcgcgggacgtcctttgtctacgtcccgtcggcgctgaatcccgcggacgacccgtctcggggccgtttggggctctaccgtccccttcttcttctgccgttccggccgaccacggggcgcacctctctttacgcggtctccccgtctgtgccttctcatctgccggaccgtgtgcacttcgcctcacctctgcacgtcgcatggagaccaccgtgaacgcccaccaggtcttgcccaaggtcttacataagaggactcttggactctcagccatgtcaacgaccgaccttgaggcatacttcaaagactgtttgtttaaagactgggaggagttgggggaggagattaggttaaaggtctggaggctgtag</GBSeq_sequence>
+  </GBSeq>

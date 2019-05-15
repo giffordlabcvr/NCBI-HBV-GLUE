@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<GBSeq>
+
+    <GBSeq_locus>S50225</GBSeq_locus>
+    <GBSeq_length>3222</GBSeq_length>
+    <GBSeq_strandedness>double</GBSeq_strandedness>
+    <GBSeq_moltype>DNA</GBSeq_moltype>
+    <GBSeq_topology>linear</GBSeq_topology>
+    <GBSeq_division>VRL</GBSeq_division>
+    <GBSeq_update-date>20-MAR-2002</GBSeq_update-date>
+    <GBSeq_create-date>08-MAY-1993</GBSeq_create-date>
+    <GBSeq_definition>{HBV variant} [hepatitis B virus HBV, surface antigen-negative patient, Genomic Complete Mutant, 3222 nt]</GBSeq_definition>
+    <GBSeq_primary-accession>S50225</GBSeq_primary-accession>
+    <GBSeq_accession-version>S50225.1</GBSeq_accession-version>
+    <GBSeq_other-seqids>
+      <GBSeqid>bbm|264182</GBSeqid>
+      <GBSeqid>bbs|120443</GBSeqid>
+      <GBSeqid>gb|S50225.1|</GBSeqid>
+      <GBSeqid>gi|260397</GBSeqid>
+    </GBSeq_other-seqids>
+    <GBSeq_source>Hepatitis B virus</GBSeq_source>
+    <GBSeq_organism>Hepatitis B virus</GBSeq_organism>
+    <GBSeq_taxonomy>Viruses; Retro-transcribing viruses; Hepadnaviridae; Orthohepadnavirus</GBSeq_taxonomy>
+    <GBSeq_references>
+      <GBReference>
+        <GBReference_reference>1</GBReference_reference>
+        <GBReference_position>1..3222</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Wands,J.R.</GBAuthor>
+          <GBAuthor>Liang,T.J.</GBAuthor>
+          <GBAuthor>Blum,H.E.</GBAuthor>
+          <GBAuthor>Shafritz,D.A.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>Molecular pathogenesis of liver disease during persistent hepatitis B virus infection</GBReference_title>
+        <GBReference_journal>Semin. Liver Dis. 12 (3), 252-264 (1992)</GBReference_journal>
+        <GBReference_pubmed>1439878</GBReference_pubmed>
+        <GBReference_remark>GenBank staff at the National Library of Medicine created this entry [NCBI gibbsq 120443] from the original journal article.; This sequence comes from Fig. 5.</GBReference_remark>
+      </GBReference>
+    </GBSeq_references>
+    <GBSeq_feature-table>
+      <GBFeature>
+        <GBFeature_key>source</GBFeature_key>
+        <GBFeature_location>1..3222</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>3222</GBInterval_to>
+            <GBInterval_accession>S50225.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>organism</GBQualifier_name>
+            <GBQualifier_value>Hepatitis B virus</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>mol_type</GBQualifier_name>
+            <GBQualifier_value>genomic DNA</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>db_xref</GBQualifier_name>
+            <GBQualifier_value>taxon:10407</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>note</GBQualifier_name>
+            <GBQualifier_value>surface antigen-negative patient</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+    </GBSeq_feature-table>
+    <GBSeq_sequence>aattccactgccttccaccaagctctgcaggatcccagagtcaggggtctgtatcttcctgctggtggctccagttcaggaacagtaaaccctgctccgaatattgcctctcacatctcgtcaatctccgcgaggactggggaccctgtgacgaacatggagaacatcacatcaggattcctaggacccctgctcgtgttacaggcggggttttccttgttgacaagaatcctcacaataccgcagagtctagactcgtggtggacttctctcaattttctaggggggtcacccgtgtgccttggccaaaattcgcagtccccaacctccaatcactcaccaacctcctgtcctccaatttgtcctggttatcgctggatgtgtctgcggcgttttatcatattcctcttcatcctgctgctatgcctcatcttcttattggttcttctggattatcaaggtatgttgcccgtttgtcctataattccaggatcaacaacaaccagtacgggaccatgcaaaacctgcacgactcctgctcaaggcaactctttgtttccctcatgttgctgtacaaaacctacggatggaaattgcacctgtattcccatcccatcgtcctgggctttcgcaaaatacctatgggagcgggcctcagtccgtttctcttggctcagtttactagtgccatttgttcagtggttcgtagggctttcccccactgtttggcttttagctatatggatgatgtggtattgggggccaagtctgtacagcatcgtgaggccctttataccgctgttaccaattttcttttgtctctgggtatacatttaaaccctaacaaaacaaaaagatggggttattccctaaacttcatgggttacagaattggaagttggggaacattgccacaggatcacattgtacaaaagatcaaacactgttttagaaaacttcctgttaacaggcctattgattggaaggtatgtcaaagaattgtgggtcttttgggctttgctgctccttttacacaatgtggatatcctgccttaatgcctttgtatgcatgtatacaagctaaacaggctttctctttctcgccaacttacaaggcctttctaagtaaacagtacctgaacctttaccccgttgctcggcaacggcctggtctgtgccaagtgtttgctgacgcaacccccactggctggggcttagccataggccatcagcgcatgcgtggaacctttgtggctcctctgccgatccatactgcggaactcctagccgcttgttttgctcgcagccggtctggagcaaagctcatcggaactgacaattctgtcgtcctctcgcggaaatatacatcgtttccatggctgctaggctgtgctgccaactggatccttcgcgggacgtcctttgtttacgtcccgtcggcgctgaatcccgcggacgacccctctcggggccgcttgggactctatcgtccccttctccgtctgccgttccagccgaccacggggcgcacctctctttacgcggtctccccgtctgtgccttctcatctgccggtccgtgtgcacttcgcttcacctctgcacgttgcatggagaccaccgtgaacgcccatcagagcctgcccaaggtcttacataagagaactcttggactcccagcaatgtcaacgaccgaccttgaggcctacttcaaagactgtgtgtttaaggactgggaggagctgggggaggagattaggttaatgatctttgtattaggaggctgtaggcataaattggtctgcgcaccagcaccatgcaactttttcacctctgcctaatcatctcttgttcatgtctcactgttcaagcctccaagctgtgccttgggtggctttgaggcatggacattgacccttataaagaatttggagctagtgtggagttactctcgtttttgcctcatgacttctttccttccgtcagagatctcctagacaccgcctcagctctgtatcgagaagccttagagtctcctgagcattgctcacctcaccatactgcactcaggcaagccgttctctgctggggggaattaatgactctagctacctgggtgggtaataatttgcaagatccagcatccagggatcaagtagtcaattatgttaatactaacatgggtttaaagatcaggcaactattgtggtttcatatatcttgtcttatgtttggaagagacactgtacttgaatatttggtctctttcggagtgtggattcgcactcctccagcctatagaccaccaaatgcccctatcttatcaacacttccggaaactactgttgttagatgtcgggaccgacgcaggtcccctagaagaagaactccctcgcctcgcagacgcagatctcaatcgccgcgtcgcagaagatctcaatctcgggaatctcaatgttagtattccttggactcataaggtgggaaactttactgggctttattcctctacagtacctatctttaatcctgaatggcaaactccttcctttcctaagattcatttacaagaggacattattaataggtgtcaacaatttgtgggccctcttactgtaaatgaaaagagaagattgaaattaattatgcctgctagattctatcctacccacacaaaatatttgcccttagacaaaggaattaaaccttattatccagatcaggtagttaatcattacttccaaaccagacactatttacatactctttggaaggctggtattctatataagagggaacccacacgtagcgcatcattttcccggtcaccatattcttgggaacaagagctacagcatgggaggtgggacatcaaaacctcgcaaaggcatggggacgaatctttctgttcccaaccctctgggattctttcccgatcatcagttggaccctrgcattcggagccaactcaaacaatccagattgggacttcaaccccatcaaggaccactggccagcagccaaccaggtgggagtgggagcattcgggccagggctcacccctccacacggcggtattttggggtggagccctcaggctcaaggcatattgaccacagtgtcaacaattcctcctcctgcctccaccaatcggcagtcaggaaggcagcctactcccatctctccacctctgagagaaagtcatcctcaggccatgcagtgg</GBSeq_sequence>
+  </GBSeq>

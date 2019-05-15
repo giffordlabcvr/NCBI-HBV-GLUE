@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<GBSeq>
+
+    <GBSeq_locus>FJ040873</GBSeq_locus>
+    <GBSeq_length>944</GBSeq_length>
+    <GBSeq_strandedness>double</GBSeq_strandedness>
+    <GBSeq_moltype>DNA</GBSeq_moltype>
+    <GBSeq_topology>linear</GBSeq_topology>
+    <GBSeq_division>VRL</GBSeq_division>
+    <GBSeq_update-date>05-OCT-2008</GBSeq_update-date>
+    <GBSeq_create-date>05-OCT-2008</GBSeq_create-date>
+    <GBSeq_definition>Hepatitis B virus isolate 2 nonfunctional precore/core protein (C) and nonfunctional core protein (C) genes, complete sequence</GBSeq_definition>
+    <GBSeq_primary-accession>FJ040873</GBSeq_primary-accession>
+    <GBSeq_accession-version>FJ040873.1</GBSeq_accession-version>
+    <GBSeq_other-seqids>
+      <GBSeqid>gb|FJ040873.1|</GBSeqid>
+      <GBSeqid>gi|207339209</GBSeqid>
+    </GBSeq_other-seqids>
+    <GBSeq_source>Hepatitis B virus</GBSeq_source>
+    <GBSeq_organism>Hepatitis B virus</GBSeq_organism>
+    <GBSeq_taxonomy>Viruses; Retro-transcribing viruses; Hepadnaviridae; Orthohepadnavirus</GBSeq_taxonomy>
+    <GBSeq_references>
+      <GBReference>
+        <GBReference_reference>1</GBReference_reference>
+        <GBReference_position>1..944</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Bose,S.</GBAuthor>
+          <GBAuthor>Khatoon,E.</GBAuthor>
+          <GBAuthor>Bose,M.</GBAuthor>
+          <GBAuthor>Medhi,S.</GBAuthor>
+          <GBAuthor>Deka,M.</GBAuthor>
+          <GBAuthor>Baruah,B.</GBAuthor>
+          <GBAuthor>Saikia,A.</GBAuthor>
+          <GBAuthor>Bose,P.</GBAuthor>
+          <GBAuthor>Ghaznavi,M.</GBAuthor>
+          <GBAuthor>Hazam,R.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>Hepatitis virus isolated from a jaundice patient of Assam</GBReference_title>
+        <GBReference_journal>Unpublished</GBReference_journal>
+      </GBReference>
+      <GBReference>
+        <GBReference_reference>2</GBReference_reference>
+        <GBReference_position>1..944</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Bose,S.</GBAuthor>
+          <GBAuthor>Khatoon,E.</GBAuthor>
+          <GBAuthor>Bose,M.</GBAuthor>
+          <GBAuthor>Medhi,S.</GBAuthor>
+          <GBAuthor>Deka,M.</GBAuthor>
+          <GBAuthor>Baruah,B.</GBAuthor>
+          <GBAuthor>Saikia,A.</GBAuthor>
+          <GBAuthor>Bose,P.</GBAuthor>
+          <GBAuthor>Ghaznavi,M.</GBAuthor>
+          <GBAuthor>Hazam,R.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>Direct Submission</GBReference_title>
+        <GBReference_journal>Submitted (17-AUG-2008) Biotechnology, Gauhati University, Jalukbari, Guwahati, Assam 781014, India</GBReference_journal>
+      </GBReference>
+    </GBSeq_references>
+    <GBSeq_feature-table>
+      <GBFeature>
+        <GBFeature_key>source</GBFeature_key>
+        <GBFeature_location>1..944</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>944</GBInterval_to>
+            <GBInterval_accession>FJ040873.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>organism</GBQualifier_name>
+            <GBQualifier_value>Hepatitis B virus</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>mol_type</GBQualifier_name>
+            <GBQualifier_value>genomic DNA</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>isolate</GBQualifier_name>
+            <GBQualifier_value>2</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>db_xref</GBQualifier_name>
+            <GBQualifier_value>taxon:10407</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>country</GBQualifier_name>
+            <GBQualifier_value>India: Guwahati, Assam</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>collection_date</GBQualifier_name>
+            <GBQualifier_value>12-Jul-2008</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>gene</GBFeature_key>
+        <GBFeature_location>125..772</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>125</GBInterval_from>
+            <GBInterval_to>772</GBInterval_to>
+            <GBInterval_accession>FJ040873.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>gene</GBQualifier_name>
+            <GBQualifier_value>C</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>misc_feature</GBFeature_key>
+        <GBFeature_location>125..772</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>125</GBInterval_from>
+            <GBInterval_to>772</GBInterval_to>
+            <GBInterval_accession>FJ040873.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>gene</GBQualifier_name>
+            <GBQualifier_value>C</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>note</GBQualifier_name>
+            <GBQualifier_value>nonfunctional precore/core protein due to mutation</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>misc_feature</GBFeature_key>
+        <GBFeature_location>212..772</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>212</GBInterval_from>
+            <GBInterval_to>772</GBInterval_to>
+            <GBInterval_accession>FJ040873.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>gene</GBQualifier_name>
+            <GBQualifier_value>C</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>note</GBQualifier_name>
+            <GBQualifier_value>nonfunctional core protein due to mutation</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+    </GBSeq_feature-table>
+    <GBSeq_sequence>ccgaccttgaggcctccttcaaagactgtgtgtttaaggactgggaggagctgggggaggagattaggttaaaggtctttgtattaggaggctgtaggcataaattggtctgcgcaccagcaccatgcaactttttcacctctgcctaatcatctcttgtacatgtcccactgttcaagcctccaagctgtgccttgggtggctttggggcatggacattgacccttataaagaatttggagctactgtggagttactctcgtttttgccttctgacttctttccttccgtcagagatctcctagacaccgcctcagctctgtatcgagaagccttagagtctcctgagcattgctcacctcaccatactgcactcaggcaagccattctctgctggggggaattgatgactctagctacctgggtgggtaataatttggaagatccagcatccagggatctagtagtcaattatgttaatactaacatgggtctaaagatcaggcaactattgtggtttcatatatcttgcctcacttttggaagagagactgtacttgaatatttggtctctttcggagtgtggattcgcactcctccagcctatagaccaccaaatgcccctatcttatcaacacttccggaaactactgttgttagacgacgggaccgaggcaggtcccctagaaagaagaactccctcgcctcgcagacacgcagatctcaatcgccgcgtcgcagaagatctcaatctcgggaatctcaatgttagtattccttggactcataaggtgggaaactttactgggctttattcctctacagtacctatctttaatcctgaatggcaaactccttcctttcctaagattcatttacaagaggacattattaataggtgtcaacaatttgtgggccctctcactgtaaatgaaaagagaaga</GBSeq_sequence>
+  </GBSeq>

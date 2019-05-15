@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<GBSeq>
+
+    <GBSeq_locus>HM119494</GBSeq_locus>
+    <GBSeq_length>456</GBSeq_length>
+    <GBSeq_strandedness>double</GBSeq_strandedness>
+    <GBSeq_moltype>DNA</GBSeq_moltype>
+    <GBSeq_topology>linear</GBSeq_topology>
+    <GBSeq_division>VRL</GBSeq_division>
+    <GBSeq_update-date>15-JUN-2010</GBSeq_update-date>
+    <GBSeq_create-date>15-JUN-2010</GBSeq_create-date>
+    <GBSeq_definition>Hepatitis B virus clone NRK 01 truncated X protein gene, complete cds</GBSeq_definition>
+    <GBSeq_primary-accession>HM119494</GBSeq_primary-accession>
+    <GBSeq_accession-version>HM119494.1</GBSeq_accession-version>
+    <GBSeq_other-seqids>
+      <GBSeqid>gb|HM119494.1|</GBSeqid>
+      <GBSeqid>gi|298108464</GBSeqid>
+    </GBSeq_other-seqids>
+    <GBSeq_source>Hepatitis B virus</GBSeq_source>
+    <GBSeq_organism>Hepatitis B virus</GBSeq_organism>
+    <GBSeq_taxonomy>Viruses; Retro-transcribing viruses; Hepadnaviridae; Orthohepadnavirus</GBSeq_taxonomy>
+    <GBSeq_references>
+      <GBReference>
+        <GBReference_reference>1</GBReference_reference>
+        <GBReference_position>1..456</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Kapoor,N.R.</GBAuthor>
+          <GBAuthor>Dar,S.B.</GBAuthor>
+          <GBAuthor>Tripathi,D.M.</GBAuthor>
+          <GBAuthor>Singh,A.K.</GBAuthor>
+          <GBAuthor>Kumar,V.</GBAuthor>
+          <GBAuthor>Sarin,S.K.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>Isolation and identification of novel HBx mutations associated with progression towards HCC</GBReference_title>
+        <GBReference_journal>Unpublished</GBReference_journal>
+      </GBReference>
+      <GBReference>
+        <GBReference_reference>2</GBReference_reference>
+        <GBReference_position>1..456</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Kapoor,N.R.</GBAuthor>
+          <GBAuthor>Dar,S.B.</GBAuthor>
+          <GBAuthor>Tripathi,D.M.</GBAuthor>
+          <GBAuthor>Singh,A.K.</GBAuthor>
+          <GBAuthor>Kumar,V.</GBAuthor>
+          <GBAuthor>Sarin,S.K.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>Direct Submission</GBReference_title>
+        <GBReference_journal>Submitted (14-APR-2010) Research, Institute of Liver and Biliary Sciences, D1 Vasant Kunj, New Delhi, Delhi, India</GBReference_journal>
+      </GBReference>
+    </GBSeq_references>
+    <GBSeq_feature-table>
+      <GBFeature>
+        <GBFeature_key>source</GBFeature_key>
+        <GBFeature_location>1..456</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>456</GBInterval_to>
+            <GBInterval_accession>HM119494.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>organism</GBQualifier_name>
+            <GBQualifier_value>Hepatitis B virus</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>mol_type</GBQualifier_name>
+            <GBQualifier_value>genomic DNA</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>isolation_source</GBQualifier_name>
+            <GBQualifier_value>HCC patient</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>host</GBQualifier_name>
+            <GBQualifier_value>Homo sapiens</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>db_xref</GBQualifier_name>
+            <GBQualifier_value>taxon:10407</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>clone</GBQualifier_name>
+            <GBQualifier_value>NRK 01</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>country</GBQualifier_name>
+            <GBQualifier_value>India</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>CDS</GBFeature_key>
+        <GBFeature_location>1..387</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>387</GBInterval_to>
+            <GBInterval_accession>HM119494.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>note</GBQualifier_name>
+            <GBQualifier_value>truncated due to mutation</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>codon_start</GBQualifier_name>
+            <GBQualifier_value>1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>transl_table</GBQualifier_name>
+            <GBQualifier_value>1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>product</GBQualifier_name>
+            <GBQualifier_value>truncated X protein</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>protein_id</GBQualifier_name>
+            <GBQualifier_value>ADI56523.1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>translation</GBQualifier_name>
+            <GBQualifier_value>MAARLCCQLDPARDVLCLRPVGAESRGRPFSGSLGTLSSPSPSAVSTDHGAHLSLRGLPVCAFSSAGPCALHFTSARRMETTVNAHQFLPKVLHKRTLGLSVMSTTDLEAYFKDCLFKDWGSWGRRLD</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+    </GBSeq_feature-table>
+    <GBSeq_sequence>atggctgctaggctgtgctgccaactggatcctgcgcgggacgtcctttgtttacgtcccgtcggcgctgaatcccgcggacgacccttctcggggtcgcttgggactctatcgtccccttctccgtctgccgtttcgaccgaccacggggcgcacctctctttacgcggactccccgtctgtgccttctcatctgccggaccgtgtgcacttcacttcacctctgcacgtcgcatggagaccaccgtgaacgcccaccaattcttgcccaaggtcttacataagaggactcttggactctctgtaatgtcaacgaccgaccttgaggcatacttcaaagactgtttgtttaaagactgggggagttgggggaggagattagattaatcattaggaggctgtaggcataaattggtctgcgcaccagcaccatgcaactttttcacctctgcctaa</GBSeq_sequence>
+  </GBSeq>

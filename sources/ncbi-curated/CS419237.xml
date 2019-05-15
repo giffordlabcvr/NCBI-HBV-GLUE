@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<GBSeq>
+
+    <GBSeq_locus>CS419237</GBSeq_locus>
+    <GBSeq_length>478</GBSeq_length>
+    <GBSeq_strandedness>double</GBSeq_strandedness>
+    <GBSeq_moltype>DNA</GBSeq_moltype>
+    <GBSeq_topology>linear</GBSeq_topology>
+    <GBSeq_division>PAT</GBSeq_division>
+    <GBSeq_update-date>29-SEP-2006</GBSeq_update-date>
+    <GBSeq_create-date>29-SEP-2006</GBSeq_create-date>
+    <GBSeq_definition>Sequence 8 from Patent WO2006097284</GBSeq_definition>
+    <GBSeq_primary-accession>CS419237</GBSeq_primary-accession>
+    <GBSeq_accession-version>CS419237.1</GBSeq_accession-version>
+    <GBSeq_other-seqids>
+      <GBSeqid>emb|CS419237.1|</GBSeqid>
+      <GBSeqid>pat|WO|2006097284|8</GBSeqid>
+      <GBSeqid>gi|115404959</GBSeqid>
+    </GBSeq_other-seqids>
+    <GBSeq_source>Hepatitis B virus</GBSeq_source>
+    <GBSeq_organism>Hepatitis B virus</GBSeq_organism>
+    <GBSeq_taxonomy>Viruses; Retro-transcribing viruses; Hepadnaviridae; Orthohepadnavirus</GBSeq_taxonomy>
+    <GBSeq_references>
+      <GBReference>
+        <GBReference_reference>1</GBReference_reference>
+        <GBReference_position>1..478</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Schildgen,O.</GBAuthor>
+          <GBAuthor>Vogel,M.</GBAuthor>
+          <GBAuthor>Matz,B.</GBAuthor>
+          <GBAuthor>Rockstroh,J.</GBAuthor>
+          <GBAuthor>Kaiser,R.</GBAuthor>
+          <GBAuthor>Daeumer,M.</GBAuthor>
+          <GBAuthor>Helm,M.</GBAuthor>
+          <GBAuthor>Weitner,L.</GBAuthor>
+          <GBAuthor>Schewe,C.K.</GBAuthor>
+          <GBAuthor>Gerlich,W.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>Variants of hepatitis b virus resistant against some nucleoside analogues, but sensitive to others, and uses thereof</GBReference_title>
+        <GBReference_journal>WO2006097284-A1 8 21-SEP-2006 UNIVERSITAET ZU KOELN (DE); Rheinische Friedrich-Wilhelms-Universitaet Bonn (DE); Justus-Liebig-Universitaet Giessen (DE)</GBReference_journal>
+      </GBReference>
+    </GBSeq_references>
+    <GBSeq_feature-table>
+      <GBFeature>
+        <GBFeature_key>source</GBFeature_key>
+        <GBFeature_location>1..478</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>478</GBInterval_to>
+            <GBInterval_accession>CS419237.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>organism</GBQualifier_name>
+            <GBQualifier_value>Hepatitis B virus</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>mol_type</GBQualifier_name>
+            <GBQualifier_value>unassigned DNA</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>db_xref</GBQualifier_name>
+            <GBQualifier_value>taxon:10407</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>misc_feature</GBFeature_key>
+        <GBFeature_location>14..15</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>14</GBInterval_from>
+            <GBInterval_to>15</GBInterval_to>
+            <GBInterval_accession>CS419237.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>note</GBQualifier_name>
+            <GBQualifier_value>n=any</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>misc_feature</GBFeature_key>
+        <GBFeature_location>458</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_point>458</GBInterval_point>
+            <GBInterval_accession>CS419237.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>note</GBQualifier_name>
+            <GBQualifier_value>n=any</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>misc_feature</GBFeature_key>
+        <GBFeature_location>468..477</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>468</GBInterval_from>
+            <GBInterval_to>477</GBInterval_to>
+            <GBInterval_accession>CS419237.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>note</GBQualifier_name>
+            <GBQualifier_value>n=any</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+    </GBSeq_feature-table>
+    <GBSeq_sequence>tatataagagaagnnggacgacgatacggagtagaagaacaaccaagaagacctgatagttccatacaacgggcaaacaggagattaaggtcctagaagttggtggtcgtgccctggtacgtcttggacgtgctgataacgagttccttggagatacatagggaagacaacgacatggtttggaagcctgcctttaacgtggacataagggtagggtagtaggacccgaaagccttttaaggataccctgacccggagtcgggcaaagaggaccgagtcaaatgatcacggtaaacaagtcaccaagcatcccgaaagggggtgacaaaccgaaagtcaatataactactacaccataacccccggttcagacatgtcgtagaactcagggaaaaatggcgacaatggttaaaagaaaacagaaacccacatgtaaatttgggattgttttgttttcntacccccatnnnnnnnnnna</GBSeq_sequence>
+  </GBSeq>

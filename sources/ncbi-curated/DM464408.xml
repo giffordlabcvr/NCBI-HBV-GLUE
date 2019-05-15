@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<GBSeq>
+
+    <GBSeq_locus>DM464408</GBSeq_locus>
+    <GBSeq_length>471</GBSeq_length>
+    <GBSeq_strandedness>double</GBSeq_strandedness>
+    <GBSeq_moltype>DNA</GBSeq_moltype>
+    <GBSeq_topology>linear</GBSeq_topology>
+    <GBSeq_division>PAT</GBSeq_division>
+    <GBSeq_update-date>17-DEC-2009</GBSeq_update-date>
+    <GBSeq_create-date>17-DEC-2009</GBSeq_create-date>
+    <GBSeq_definition>Detection method for drug-resistant HBV mutants</GBSeq_definition>
+    <GBSeq_primary-accession>DM464408</GBSeq_primary-accession>
+    <GBSeq_accession-version>DM464408.1</GBSeq_accession-version>
+    <GBSeq_other-seqids>
+      <GBSeqid>dbj|DM464408.1|</GBSeqid>
+      <GBSeqid>pat|JP|2009213465|183</GBSeqid>
+      <GBSeqid>gi|281368820</GBSeqid>
+    </GBSeq_other-seqids>
+    <GBSeq_keywords>
+      <GBKeyword>JP 2009213465-A/183</GBKeyword>
+    </GBSeq_keywords>
+    <GBSeq_source>Hepatitis B virus</GBSeq_source>
+    <GBSeq_organism>Hepatitis B virus</GBSeq_organism>
+    <GBSeq_taxonomy>Viruses; Retro-transcribing viruses; Hepadnaviridae; Orthohepadnavirus</GBSeq_taxonomy>
+    <GBSeq_references>
+      <GBReference>
+        <GBReference_reference>1</GBReference_reference>
+        <GBReference_position>1..471</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Gemma,N.</GBAuthor>
+          <GBAuthor>Hashimoto,K.</GBAuthor>
+          <GBAuthor>Miyazaki,K.</GBAuthor>
+          <GBAuthor>Takahashi,K.</GBAuthor>
+          <GBAuthor>Kizu,K.</GBAuthor>
+          <GBAuthor>Mishiro,S.</GBAuthor>
+          <GBAuthor>Ito,K.</GBAuthor>
+          <GBAuthor>Hashimoto,M.</GBAuthor>
+          <GBAuthor>Takahashi,M.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>Detection method for drug-resistant HBV mutants</GBReference_title>
+        <GBReference_journal>JP2009213465-A 183 24-SEP-2009 Kabushiki Kaisha Toshiba</GBReference_journal>
+      </GBReference>
+    </GBSeq_references>
+    <GBSeq_comment>OS Hepatitis B virus~PN JP 2009213465-A/183~PD 24-SEP-2009~PF 27-OCT-2008 JP 2008275200~PI nobuhiro gemma,koji hashimoto,kazunori miyazaki,kazuaki PI takahashi,~PI keiko kizu,shunji mishiro,keiko ito,michie~PI hashimoto,masayoshi~PI takahashi~CC~FH Key Location/Qualifiers.</GBSeq_comment>
+    <GBSeq_feature-table>
+      <GBFeature>
+        <GBFeature_key>source</GBFeature_key>
+        <GBFeature_location>1..471</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>471</GBInterval_to>
+            <GBInterval_accession>DM464408.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>organism</GBQualifier_name>
+            <GBQualifier_value>Hepatitis B virus</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>mol_type</GBQualifier_name>
+            <GBQualifier_value>unassigned DNA</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>db_xref</GBQualifier_name>
+            <GBQualifier_value>taxon:10407</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+    </GBSeq_feature-table>
+    <GBSeq_sequence>cacgattcctgctcaaggcacctctatgtttccctcttgttgctgtacaaaaccttcggatggaaactgcacttgtattcccatcccatcatcctgggctttcgcaagattcctatgggagtgggcctcagtccgtttctcctggctcagtttactagtgccatttgttcagtggttcgtagggctttcccccactgtttggctttcagttatatggatgatgtggtattgggggccaagtctgtacaacatcttgagtccctttttacctctattaccaattttcttttgtctttgggtatacatttgaaccctaataaaaccaaacgttggggctactcccttaacttcatgggatatgtaattggaagttggggtactttaccgcaagaccatattgtactaaaactcaagcaatgttttcgaaaactgcctgtaaatagacctattgattggaaagtatgtcagaga</GBSeq_sequence>
+  </GBSeq>

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<GBSeq>
+
+    <GBSeq_locus>LX149041</GBSeq_locus>
+    <GBSeq_length>3215</GBSeq_length>
+    <GBSeq_strandedness>single</GBSeq_strandedness>
+    <GBSeq_moltype>RNA</GBSeq_moltype>
+    <GBSeq_topology>linear</GBSeq_topology>
+    <GBSeq_division>PAT</GBSeq_division>
+    <GBSeq_update-date>31-AUG-2017</GBSeq_update-date>
+    <GBSeq_create-date>31-AUG-2017</GBSeq_create-date>
+    <GBSeq_definition>JP 2017079759-A/525: RNA Interference Mediated Inhibition of Hepatitis B Virus (HBV) Gene Expression using Short Interfering Nucleic Acid (siNA)</GBSeq_definition>
+    <GBSeq_primary-accession>LX149041</GBSeq_primary-accession>
+    <GBSeq_accession-version>LX149041.1</GBSeq_accession-version>
+    <GBSeq_other-seqids>
+      <GBSeqid>dbj|LX149041.1|</GBSeqid>
+      <GBSeqid>pat|JP|2017079759|525</GBSeqid>
+      <GBSeqid>gi|1238781551</GBSeqid>
+    </GBSeq_other-seqids>
+    <GBSeq_keywords>
+      <GBKeyword>JP 2017079759-A/525</GBKeyword>
+    </GBSeq_keywords>
+    <GBSeq_source>Hepatitis B virus</GBSeq_source>
+    <GBSeq_organism>Hepatitis B virus</GBSeq_organism>
+    <GBSeq_taxonomy>Viruses; Retro-transcribing viruses; Hepadnaviridae; Orthohepadnavirus</GBSeq_taxonomy>
+    <GBSeq_references>
+      <GBReference>
+        <GBReference_reference>1</GBReference_reference>
+        <GBReference_position>1..3215</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Bartz,S.</GBAuthor>
+          <GBAuthor>Brown,D.</GBAuthor>
+          <GBAuthor>Robinson,M.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>RNA Interference Mediated Inhibition of Hepatitis B Virus (HBV) Gene Expression using Short Interfering Nucleic Acid (siNA)</GBReference_title>
+        <GBReference_journal>JP2017079759-A 525 18-MAY-2017 SIRNA THERAPEUTICS INC</GBReference_journal>
+      </GBReference>
+    </GBSeq_references>
+    <GBSeq_comment>OS Hepatitis B virus~PN JP 2017079759-A/525~PD 18-MAY-2017~PF 08-DEC-2016 JP 2016238640~PR 17-AUG-2010 US 61/374555~PA SIRNA THERAPEUTICS INC~PI steve bartz,duncan brown,michael robinson~PT 'RNA Interference Mediated Inhibition of Hepatitis B Virus~PT (HBV) Gene~PT Expression using Short Interfering Nucleic Acid (siNA)'~PS N525~CC~FH Key Location/Qualifiers.</GBSeq_comment>
+    <GBSeq_feature-table>
+      <GBFeature>
+        <GBFeature_key>source</GBFeature_key>
+        <GBFeature_location>1..3215</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>3215</GBInterval_to>
+            <GBInterval_accession>LX149041.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>organism</GBQualifier_name>
+            <GBQualifier_value>Hepatitis B virus</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>mol_type</GBQualifier_name>
+            <GBQualifier_value>unassigned RNA</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>db_xref</GBQualifier_name>
+            <GBQualifier_value>taxon:10407</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+    </GBSeq_feature-table>
+    <GBSeq_sequence>gaactcaacacagttccaccaagcactgttggatccgagagtaaggggtctgtatcttcctgctggtggctccagttcagaaacacagaaccctgttccgactattgcctctctcacatcatcaatcttctcgaagactggggaccctgctatgaacatggagaacatcacatcaggactcctaggaccccttctcgtgttacaggcggtgtgtttcttgttgacaaaaatcctcacaataccacagagtctagactcgtggtggacttctctcaattttctaggggtaccacccgggtgtcctggccaaaattcgcagtccccaatctccaatcacttaccaacctcctgtcctccaacttgtcctggctatcgttggatgtgtctgcggcgttttatcatcttcctcttcatcctgctgctatgcctcatcttcttgttggttcttctggactatcaaggtatgttgcccgtgtgtcctctacttccaggatctacaaccaccagcacgggtccctgcaaaacctgcaccactcttgctcaaggaacctctatgtttccctcctgctgctgtaccaaaccttcggacggaaattgcacctgtattcccatcccatcatcttgggctttcggaaaatacctatgggagtgggcctcagcccgtttctcttggctcagtttactagtgcaatttgttcagtggtgcgtagggctttcccccactgtctggcttttagttatatggatgatttggtattgggggccaaatctgtgcagcatcttgagtccctttataccgctgttaccaattttttgttatctgtgggcatccatttaaacacagctaaaacaaaatggtggggttattccttacactttatgggttatatcattgggagttgggggacattgcctcaggaacatattgtgcaaaaaatcaaagattgctttcgcaaacttcctgttaatcgacccattgattggaaagtctgtcaacgaattgtgggtcttttgggctttgcagccccttttactcaatgtggttatcctgctctcatgcccttatatgcctgtattaccgctaaacaggcttttgttttctcgccaacttacaaggcctttctctgtaaacaatacatgaacctttaccccgttgctcggcaacggccaggcctttgccaagtgtttgctgacgcaacccccactggctggggcttggcgattggccatcagcgcatgcgcggaacctttgtggctcctctgccgatccatactgcggaactcctagcagcttgtttcgctcgcagccggtctggagcggacattatcggcactgacaactccgttgtcctgtctcggaagtacacctccttcccatggctgctaggctgtgctgccaactggatcctgcgcgggacgtcctttgtttacgtcccgtcggcgctgaatcctgcggacgacccctctcgtggtcgcctggggctctgccgcccccttctccgccttccgttccggccgacgacgggtcgcacctctctttacgcggactccccgcctgtgccttctcatctgccggcccgtgtgcacttcgcttcacctctgcacgtcgcatggagaccaccgtgaacgcccctcaaagcttgccaacaaccttacataagaggactcttggactttcaccccggtcaacgacctggattgaggaatacatcaaagactgtgtgtttaaggactgggaggagtcgggggaggagttgaggttaaaggtctttgtattaggaggctgtaggcataaattggtctgttcaccagcaccatgcaactttttcacctctgcctaatcatcttttgttcatgtcccactgttcaagcctccaagctgtgccttgggtggctttggggcatggacattgacccttataaagaatttggagcttctgtggagttactctcatttttgccttctgacttcttcccgtctgtccgggacctactcgacaccgcttcagccctctaccgagatgccttagaatctcccgaacattgcacccccaaccatactgctctcaggcaagctattctgtgctggggtgagttaatgactttggcttcctgggtgggcaataatttagaggatcctgcggctagagatctagtagttaattatgtcaacactaatatgggcctaaaaattagacaattactatggtttcatatttcctgccttacatttggaagagatactgttcttgagtatttggtgtcttttggagtgtggattcgcactccacctgcttatagaccaccaaatgcccctatcctatcaacacttccggagactactgttgttagacaacgaggcagggcccctagaagaagaactccctcgcctcgcagacgaagatctcaatcaccgcgtcgccgaagatctcaatctccagcttcccaatgttagtatcccttggactcataaggtgggaaactttaccggtctttactcctctactgtacctgttttcaatcctgattggttaactccttcttttcctgacattcacctacatcaagatttgatacaaaaatgtgaacaatttgtaggcccactcactaaaaatgaagtgagacgattgaaattaattatgccagcaagattttatcccaaagttactaaatacttccctttggataaaggtattaaaccatattatccagagcatgtggttaatcattacttcaaaactagacactatttacatactttgtggaaggcaggaattctatataagagagaatccacacatagcgcctcattttgtgggtcaccatattcctgggaacaagagctacagcatgggagcacctctctcaacggcgagaaggggcatgggacagaatctttctgtgcccaatcctctgggattctttccagaccaccagttggatccactattcagagcaaattccagcagtcccgattgggacttcaacacaaacaaggacaattggccaatggcaaacaaggtaggagtgggaggctttggtccagggttcacacccccacacggtggccttctggggtggagccctcaggcacagggcattctgacaacctcgccacccgatccacctcccgcttccaccaatcggaggtcaggaaggaaaccaaccccagtctctccacctctaagggacacacatccacaggccatgcagtg</GBSeq_sequence>
+  </GBSeq>

@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<GBSeq>
+
+    <GBSeq_locus>KJ997879</GBSeq_locus>
+    <GBSeq_length>465</GBSeq_length>
+    <GBSeq_strandedness>double</GBSeq_strandedness>
+    <GBSeq_moltype>DNA</GBSeq_moltype>
+    <GBSeq_topology>linear</GBSeq_topology>
+    <GBSeq_division>VRL</GBSeq_division>
+    <GBSeq_update-date>27-JUL-2014</GBSeq_update-date>
+    <GBSeq_create-date>27-JUL-2014</GBSeq_create-date>
+    <GBSeq_definition>Hepatitis B virus clone CIRR3C3BLOOD X protein gene, complete cds</GBSeq_definition>
+    <GBSeq_primary-accession>KJ997879</GBSeq_primary-accession>
+    <GBSeq_accession-version>KJ997879.1</GBSeq_accession-version>
+    <GBSeq_other-seqids>
+      <GBSeqid>gb|KJ997879.1|</GBSeqid>
+      <GBSeqid>gi|666916028</GBSeqid>
+    </GBSeq_other-seqids>
+    <GBSeq_source>Hepatitis B virus</GBSeq_source>
+    <GBSeq_organism>Hepatitis B virus</GBSeq_organism>
+    <GBSeq_taxonomy>Viruses; Retro-transcribing viruses; Hepadnaviridae; Orthohepadnavirus</GBSeq_taxonomy>
+    <GBSeq_references>
+      <GBReference>
+        <GBReference_reference>1</GBReference_reference>
+        <GBReference_position>1..465</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Datta,S.</GBAuthor>
+          <GBAuthor>Roychoudhury,S.</GBAuthor>
+          <GBAuthor>Ghosh,A.</GBAuthor>
+          <GBAuthor>Dasgupta,D.</GBAuthor>
+          <GBAuthor>Ghosh,A.</GBAuthor>
+          <GBAuthor>Chakraborty,B.</GBAuthor>
+          <GBAuthor>Roy,S.</GBAuthor>
+          <GBAuthor>Gupta,S.</GBAuthor>
+          <GBAuthor>Santra,A.K.</GBAuthor>
+          <GBAuthor>Datta,S.</GBAuthor>
+          <GBAuthor>Das,K.</GBAuthor>
+          <GBAuthor>Dhali,G.K.</GBAuthor>
+          <GBAuthor>Chowdhury,A.</GBAuthor>
+          <GBAuthor>Banerjee,S.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>Distinct distribution pattern of hepatitis B virus genotype C and d in liver tissue and serum of dual genotype infected liver cirrhosis and hepatocellular carcinoma patients</GBReference_title>
+        <GBReference_journal>PLoS ONE 9 (7), E102573 (2014)</GBReference_journal>
+        <GBReference_xref>
+          <GBXref>
+            <GBXref_dbname>doi</GBXref_dbname>
+            <GBXref_id>10.1371/journal.pone.0102573</GBXref_id>
+          </GBXref>
+        </GBReference_xref>
+        <GBReference_pubmed>25032957</GBReference_pubmed>
+        <GBReference_remark>Publication Status: Online-Only</GBReference_remark>
+      </GBReference>
+      <GBReference>
+        <GBReference_reference>2</GBReference_reference>
+        <GBReference_position>1..465</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Datta,S.</GBAuthor>
+          <GBAuthor>Roychoudhury,S.</GBAuthor>
+          <GBAuthor>Ghosh,A.</GBAuthor>
+          <GBAuthor>Dasgupta,D.</GBAuthor>
+          <GBAuthor>Ghosh,A.</GBAuthor>
+          <GBAuthor>Roy,S.</GBAuthor>
+          <GBAuthor>Gupta,S.</GBAuthor>
+          <GBAuthor>Santra,A.K.</GBAuthor>
+          <GBAuthor>Datta,S.</GBAuthor>
+          <GBAuthor>Das,K.</GBAuthor>
+          <GBAuthor>Dhali,G.K.</GBAuthor>
+          <GBAuthor>Chowdhury,A.</GBAuthor>
+          <GBAuthor>Banerjee,S.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>Direct Submission</GBReference_title>
+        <GBReference_journal>Submitted (11-JUN-2014) Centre for Liver Research, IPGME&amp;R, 244, AJC Bose Road, Kolkata, West Bengal 700020, India</GBReference_journal>
+      </GBReference>
+    </GBSeq_references>
+    <GBSeq_comment>##Assembly-Data-START## ; Sequencing Technology :: Sanger dideoxy sequencing ; ##Assembly-Data-END##</GBSeq_comment>
+    <GBSeq_feature-table>
+      <GBFeature>
+        <GBFeature_key>source</GBFeature_key>
+        <GBFeature_location>1..465</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>465</GBInterval_to>
+            <GBInterval_accession>KJ997879.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>organism</GBQualifier_name>
+            <GBQualifier_value>Hepatitis B virus</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>mol_type</GBQualifier_name>
+            <GBQualifier_value>genomic DNA</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>host</GBQualifier_name>
+            <GBQualifier_value>Homo sapiens</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>db_xref</GBQualifier_name>
+            <GBQualifier_value>taxon:10407</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>clone</GBQualifier_name>
+            <GBQualifier_value>CIRR3C3BLOOD</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>country</GBQualifier_name>
+            <GBQualifier_value>India</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>CDS</GBFeature_key>
+        <GBFeature_location>1..465</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>465</GBInterval_to>
+            <GBInterval_accession>KJ997879.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>codon_start</GBQualifier_name>
+            <GBQualifier_value>1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>transl_table</GBQualifier_name>
+            <GBQualifier_value>1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>product</GBQualifier_name>
+            <GBQualifier_value>X protein</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>protein_id</GBQualifier_name>
+            <GBQualifier_value>AIG51809.1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>translation</GBQualifier_name>
+            <GBQualifier_value>MAARLCCQLDPARDVLCLRPVGAEFCGRPFSGSLGTLSSPSPSAVPTDHGAHLSLRGLPVCAFSSAGPCALRFTSARRMETTVNAHQILPNVLHKRTLGLSAMSTTDLEAYFKDCLFKDWEELGEEIRLKVFVLGGCRHKLVCATTPCNFFTSA</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+    </GBSeq_feature-table>
+    <GBSeq_sequence>atggctgctaggctgtgctgccaactggatcctgcgcgggacgtcctttgtttacgtcccgtcggcgctgaattctgcggacgacccttctcggggtcgcttgggactctctcgtccccttctccgtctgccgttccgaccgaccacggggcgcacctctctttacgcggactccccgtctgtgccttctcatctgccggaccgtgtgcacttcgcttcacctctgcacgtcgcatggagaccaccgtgaacgcccaccaaatattgcccaatgtcttacataagaggactcttggactctcagcaatgtcaacgaccgaccttgaggcatacttcaaagactgtttgtttaaagactgggaggagttgggggaggagattaggttaaaggtctttgtactaggaggctgtaggcataaattggtctgcgcaaccacaccatgcaactttttcacctctgcctaa</GBSeq_sequence>
+  </GBSeq>

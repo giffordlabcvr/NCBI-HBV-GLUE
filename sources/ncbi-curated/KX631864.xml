@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<GBSeq>
+
+    <GBSeq_locus>KX631864</GBSeq_locus>
+    <GBSeq_length>215</GBSeq_length>
+    <GBSeq_strandedness>double</GBSeq_strandedness>
+    <GBSeq_moltype>DNA</GBSeq_moltype>
+    <GBSeq_topology>linear</GBSeq_topology>
+    <GBSeq_division>VRL</GBSeq_division>
+    <GBSeq_update-date>12-APR-2017</GBSeq_update-date>
+    <GBSeq_create-date>12-APR-2017</GBSeq_create-date>
+    <GBSeq_definition>UNVERIFIED: Hepatitis B virus clone HBV269 S protein-like gene, partial sequence</GBSeq_definition>
+    <GBSeq_primary-accession>KX631864</GBSeq_primary-accession>
+    <GBSeq_accession-version>KX631864.1</GBSeq_accession-version>
+    <GBSeq_other-seqids>
+      <GBSeqid>gb|KX631864.1|</GBSeqid>
+      <GBSeqid>gi|1173708263</GBSeqid>
+    </GBSeq_other-seqids>
+    <GBSeq_keywords>
+      <GBKeyword>UNVERIFIED</GBKeyword>
+    </GBSeq_keywords>
+    <GBSeq_source>Hepatitis B virus</GBSeq_source>
+    <GBSeq_organism>Hepatitis B virus</GBSeq_organism>
+    <GBSeq_taxonomy>Viruses; Retro-transcribing viruses; Hepadnaviridae; Orthohepadnavirus</GBSeq_taxonomy>
+    <GBSeq_references>
+      <GBReference>
+        <GBReference_reference>1</GBReference_reference>
+        <GBReference_position>1..215</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Trinks,J.</GBAuthor>
+          <GBAuthor>Nishida,N.</GBAuthor>
+          <GBAuthor>Hulaniuk,M.L.</GBAuthor>
+          <GBAuthor>Caputo,M.</GBAuthor>
+          <GBAuthor>Tsuchiura,T.</GBAuthor>
+          <GBAuthor>Marciano,S.</GBAuthor>
+          <GBAuthor>Haddad,L.</GBAuthor>
+          <GBAuthor>Blejer,J.</GBAuthor>
+          <GBAuthor>Bartoli,S.</GBAuthor>
+          <GBAuthor>Ameigeiras,B.</GBAuthor>
+          <GBAuthor>Frias,S.E.</GBAuthor>
+          <GBAuthor>Vistarini,C.</GBAuthor>
+          <GBAuthor>Heinrich,F.</GBAuthor>
+          <GBAuthor>Remondegui,C.</GBAuthor>
+          <GBAuthor>Ceballos,S.</GBAuthor>
+          <GBAuthor>Echenique,G.</GBAuthor>
+          <GBAuthor>Charre Samman,M.</GBAuthor>
+          <GBAuthor>D'Amico,C.</GBAuthor>
+          <GBAuthor>Rojas,A.</GBAuthor>
+          <GBAuthor>Martinez,A.</GBAuthor>
+          <GBAuthor>Ridruejo,E.</GBAuthor>
+          <GBAuthor>Fernandez,R.J.</GBAuthor>
+          <GBAuthor>Burgos Pratx,L.</GBAuthor>
+          <GBAuthor>Salamone,H.</GBAuthor>
+          <GBAuthor>Nunez,F.</GBAuthor>
+          <GBAuthor>Galdame,O.</GBAuthor>
+          <GBAuthor>Gadano,A.</GBAuthor>
+          <GBAuthor>Corach,D.</GBAuthor>
+          <GBAuthor>Sugiyama,M.</GBAuthor>
+          <GBAuthor>Flichman,D.</GBAuthor>
+          <GBAuthor>Tokunaga,K.</GBAuthor>
+          <GBAuthor>Mizokami,M.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>Role of HLA-DP and HLA-DQ on the clearance of hepatitis B virus and the risk of chronic infection in a multiethnic population</GBReference_title>
+        <GBReference_journal>Liver Int. (2017) In press</GBReference_journal>
+        <GBReference_xref>
+          <GBXref>
+            <GBXref_dbname>doi</GBXref_dbname>
+            <GBXref_id>10.1111/liv.13405</GBXref_id>
+          </GBXref>
+        </GBReference_xref>
+        <GBReference_pubmed>28267888</GBReference_pubmed>
+        <GBReference_remark>Publication Status: Available-Online prior to print</GBReference_remark>
+      </GBReference>
+      <GBReference>
+        <GBReference_reference>2</GBReference_reference>
+        <GBReference_position>1..215</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Trinks,J.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>Direct Submission</GBReference_title>
+        <GBReference_journal>Submitted (30-JUL-2016) Instituto de Ciencias Basicas y Medicina Experimental, Instituto Universitario del Hospital Italiano, 4240 Potosi Str, Buenos Aires C1199ACL, Argentina</GBReference_journal>
+      </GBReference>
+    </GBSeq_references>
+    <GBSeq_comment>GenBank staff is unable to verify sequence and/or annotation provided by the submitter.; ; ##Assembly-Data-START## ; Sequencing Technology :: Sanger dideoxy sequencing ; ##Assembly-Data-END##</GBSeq_comment>
+    <GBSeq_feature-table>
+      <GBFeature>
+        <GBFeature_key>source</GBFeature_key>
+        <GBFeature_location>1..215</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>215</GBInterval_to>
+            <GBInterval_accession>KX631864.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>organism</GBQualifier_name>
+            <GBQualifier_value>Hepatitis B virus</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>mol_type</GBQualifier_name>
+            <GBQualifier_value>genomic DNA</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>db_xref</GBQualifier_name>
+            <GBQualifier_value>taxon:10407</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>clone</GBQualifier_name>
+            <GBQualifier_value>HBV269</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>country</GBQualifier_name>
+            <GBQualifier_value>Argentina</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>collection_date</GBQualifier_name>
+            <GBQualifier_value>2015</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>misc_feature</GBFeature_key>
+        <GBFeature_location>&lt;53..&gt;208</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>53</GBInterval_from>
+            <GBInterval_to>208</GBInterval_to>
+            <GBInterval_accession>KX631864.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_partial5 value="true"/>
+        <GBFeature_partial3 value="true"/>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>note</GBQualifier_name>
+            <GBQualifier_value>similar to S protein</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+    </GBSeq_feature-table>
+    <GBSeq_sequence>aaccagtamgggaccatgcaggacctgcacgactcctgctcaaggcaactctatgtttccctcatgttgctgtacaaaacctacggatggaaattgcacctgtattcccatcccatcgtcctgggctttcgcaaaatacctatgggagtgggcctcagtccgtttctcttggctcagtttactagtgccatttgttcagtggtcgtagggcttta</GBSeq_sequence>
+  </GBSeq>

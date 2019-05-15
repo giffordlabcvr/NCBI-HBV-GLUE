@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<GBSeq>
+
+    <GBSeq_locus>HQ700453</GBSeq_locus>
+    <GBSeq_length>3027</GBSeq_length>
+    <GBSeq_strandedness>double</GBSeq_strandedness>
+    <GBSeq_moltype>DNA</GBSeq_moltype>
+    <GBSeq_topology>linear</GBSeq_topology>
+    <GBSeq_division>VRL</GBSeq_division>
+    <GBSeq_update-date>09-JAN-2013</GBSeq_update-date>
+    <GBSeq_create-date>09-JAN-2013</GBSeq_create-date>
+    <GBSeq_definition>UNVERIFIED: Hepatitis B virus isolate D_NZL_HA35_1984, partial genome</GBSeq_definition>
+    <GBSeq_primary-accession>HQ700453</GBSeq_primary-accession>
+    <GBSeq_accession-version>HQ700453.1</GBSeq_accession-version>
+    <GBSeq_other-seqids>
+      <GBSeqid>gb|HQ700453.1|</GBSeqid>
+      <GBSeqid>gi|440234936</GBSeqid>
+    </GBSeq_other-seqids>
+    <GBSeq_keywords>
+      <GBKeyword>UNVERIFIED</GBKeyword>
+    </GBSeq_keywords>
+    <GBSeq_source>Hepatitis B virus</GBSeq_source>
+    <GBSeq_organism>Hepatitis B virus</GBSeq_organism>
+    <GBSeq_taxonomy>Viruses; Retro-transcribing viruses; Hepadnaviridae; Orthohepadnavirus</GBSeq_taxonomy>
+    <GBSeq_references>
+      <GBReference>
+        <GBReference_reference>1</GBReference_reference>
+        <GBReference_position>1..3027</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Harrison,A.</GBAuthor>
+          <GBAuthor>Lemey,P.</GBAuthor>
+          <GBAuthor>Hurles,M.</GBAuthor>
+          <GBAuthor>Moyes,C.</GBAuthor>
+          <GBAuthor>Horn,S.</GBAuthor>
+          <GBAuthor>Pryor,J.</GBAuthor>
+          <GBAuthor>Malani,J.</GBAuthor>
+          <GBAuthor>Supuri,M.</GBAuthor>
+          <GBAuthor>Masta,A.</GBAuthor>
+          <GBAuthor>Teriboriki,B.</GBAuthor>
+          <GBAuthor>Toatu,T.</GBAuthor>
+          <GBAuthor>Penny,D.</GBAuthor>
+          <GBAuthor>Rambaut,A.</GBAuthor>
+          <GBAuthor>Shapiro,B.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>Genomic analysis of hepatitis B virus reveals antigen state and genotype as sources of evolutionary rate variation</GBReference_title>
+        <GBReference_journal>Viruses 3 (2), 83-101 (2011)</GBReference_journal>
+        <GBReference_xref>
+          <GBXref>
+            <GBXref_dbname>doi</GBXref_dbname>
+            <GBXref_id>10.3390/v3020083</GBXref_id>
+          </GBXref>
+        </GBReference_xref>
+        <GBReference_pubmed>21765983</GBReference_pubmed>
+      </GBReference>
+      <GBReference>
+        <GBReference_reference>2</GBReference_reference>
+        <GBReference_position>1..3027</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Harrison,G.L.A.</GBAuthor>
+          <GBAuthor>Moyes,C.</GBAuthor>
+          <GBAuthor>Abbott,W.</GBAuthor>
+          <GBAuthor>Pryor,J.</GBAuthor>
+          <GBAuthor>Malani,J.</GBAuthor>
+          <GBAuthor>Supuri,M.</GBAuthor>
+          <GBAuthor>Masta,A.</GBAuthor>
+          <GBAuthor>Teriboriuk,B.</GBAuthor>
+          <GBAuthor>Toatu,T.</GBAuthor>
+          <GBAuthor>Shapiro,B.</GBAuthor>
+          <GBAuthor>Lemey,P.</GBAuthor>
+          <GBAuthor>Hurles,M.</GBAuthor>
+          <GBAuthor>Penny,D.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>Direct Submission</GBReference_title>
+        <GBReference_journal>Submitted (13-DEC-2010) Allan Wilson Centre for Molecular Ecology and Evolution, Massey University, Massey University Manawatu, Private Bag 11 222, Palmerston North 4442, New Zealand</GBReference_journal>
+      </GBReference>
+    </GBSeq_references>
+    <GBSeq_comment>GenBank staff is unable to verify sequence and/or annotation provided by the submitter.</GBSeq_comment>
+    <GBSeq_feature-table>
+      <GBFeature>
+        <GBFeature_key>source</GBFeature_key>
+        <GBFeature_location>1..3027</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>3027</GBInterval_to>
+            <GBInterval_accession>HQ700453.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>organism</GBQualifier_name>
+            <GBQualifier_value>Hepatitis B virus</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>mol_type</GBQualifier_name>
+            <GBQualifier_value>genomic DNA</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>isolate</GBQualifier_name>
+            <GBQualifier_value>D_NZL_HA35_1984</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>host</GBQualifier_name>
+            <GBQualifier_value>Homo sapiens</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>db_xref</GBQualifier_name>
+            <GBQualifier_value>taxon:10407</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>country</GBQualifier_name>
+            <GBQualifier_value>New Zealand</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>collection_date</GBQualifier_name>
+            <GBQualifier_value>1984</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+    </GBSeq_feature-table>
+    <GBSeq_sequence>ctccacaaccttccaccaaacgctgcaagatcccagagtgagaggcctgtatttccctgctggtggctccagttcaggaacagtaaaccctgttccgactactgtctctcatatatcgtcaatcttctcgaggattggggaccctgcgctgaacatggagaacatcacatcaggattcctaggacccctgctcgtgttacaggcggggtttttcttgttgacaagaatcctcacaataccgcagagtctagactcgtggtggacttctctcaattttctagggggaactaccgtgtgtcttggccaaaattcgcagtccccaacctccaatcactcaccaacctcctgtcctccaacttgtcctggttatcgctggatgtgtctgcggcgttttatcatcttcctcttcatcctgctgctatgcctcatcttcttgttggttcttctggactatcaaggtatgttgcccgtttgtcctctaattccaggatcttcaaccaccagcacgggaccatgcagaacctgcacgactcctgctcaaggaacctctatgtatccctcctgttgctgtaccaaaccttcggacggaaattgcacctgtattcccatcccatcatcttgggctttcggaaaattcctatgggagtgggcctcagcccgtttctcctggctcagtttactagtgccatttgttcagtggttcgtagggctttcccccactgtttggctttcagttatatggatgatgtggtattgggggccaagtctgtacagcatcttgagtccctttttaccgctgttaccaattttcttttgtctctgggtatacatttaaaccctaacaaaacaaaaagatggggttactctttacatttcatgggctatgtcattggctgtyatgggtcattgccacaagatcacatcatacagaaaatcaaagaatgttttagaaaacttcctgttaacaggcctattgattggaaagtctgtcaacgtattgtgggtcttttgggttttgctgccccttttacacaatgtggttatcctgctttaatgcccttgtatgcatgtattcaatctaagcaggctttcactttctcgccaacttacaaggcctttctgtgtaaacaatacctgaccctttaccccgttgcccggcaacggccaggtctgtgccaagtgtttgctgacgcaacccccactggctggggcttggtcatgggccatcagcgcatgcgtggaacctttctggctcctctgccgatccatactgcggaactcctagccgcttgttttgctcgcagcaggtctggagcaaacattctcgggacggataactctgttgttctctcccgcaaatatacatcgtttccatggctgctaggctgtgctgccaactggatcctgcgcgggacgtcctttgtttacgtcccgtcggcgctgaatcccgcggacgacccttctcggggccgcttgggactctctcgtccccttctacgtctgccgtttcaaccgaccacggggcgcacctctctttacgcggactccccgtctgtgccttctcatctgccggaccgtgtgcacttcgcttcacctctgcacgtcgcatggagaccaccgtgaacgcccaccaattcttgcccaaggtcttacataagaggactcttggactctctgcaatgtcaacgaccgaccttgaggcatacttcaaagactgtttgtttaaggactgggaggagttgggggaggagattagattaaaggtctttgtattaggaggctgtaggcataaattggtctgcgcaccagcaccatgcaactttttcacctctgcctaatcatctcttgttcatgtcctactgttcaagcctccaagctgtgccttgggtggctttggggcatggacattgatccttataaagaatttggagctactgtggagttactctcgtttttgccttctgacttctttccttcagtacgagatcttctagataccgcctcagctctatatcgggaagccttagagtctcctgagcattgctcacctcaccatactgcactcaggcaagcaattctttgctggggggaacttatgactctagccacctgggtgggtggtaatttggaagatccaatatccagggacctagtagtcagttatgttaacactaatatgggcctaaagttcaggcaactattgtggtttcacatttcttgtctcacttttggaagagaaacggtcatagagtatttggtgtctttcggagtgtggattcgcactcctccagcttatagaccacctaatgcccctatcttatcaactttacggggctttattcttctactgttcctatctttaaccctcattggaaaacaccctcttttcctaatatacatttacaccaagacattatcaaaaagtgtgaacaatttgtaggcccactcacagtcaatgagaaaagaagactgcaattgattatgcctgctaggttttatccaaatgttaccaaatatttgccattggataagggtattaaaccttattatccagaacatttagttaatcattacttccaaaccagacattatttacacactctatggaaggcgggtatattatataagagagaaacaacacatagcgcctcattttgtgggtcaccatattcttgggaacaagagctacagcatggggcagaatctttccaccagcaatcctctgggattctttcccgaccaccagttggatccagccttcagagcaaacaccgcaaatccagattgggacttcaatcccaaaaaggacacctggccagacgccaacaaggtaggagctggagcattcgggctgggattcaccccaccacacggaggccttttggggtggagccctcaggctcagggcatactacaaactttgccagcaaatccgcctcctgcctctaccaatcgccagtcaggaaggcagcctacccctctgtctccacctttgagaaacactcatcctcaggccatgcagtggaa</GBSeq_sequence>
+  </GBSeq>

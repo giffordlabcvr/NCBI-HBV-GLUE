@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<GBSeq>
+
+    <GBSeq_locus>BD418546</GBSeq_locus>
+    <GBSeq_length>1218</GBSeq_length>
+    <GBSeq_strandedness>double</GBSeq_strandedness>
+    <GBSeq_moltype>DNA</GBSeq_moltype>
+    <GBSeq_topology>linear</GBSeq_topology>
+    <GBSeq_division>PAT</GBSeq_division>
+    <GBSeq_update-date>04-NOV-2005</GBSeq_update-date>
+    <GBSeq_create-date>04-NOV-2005</GBSeq_create-date>
+    <GBSeq_definition>Hollow nano-particles composed of cysteine-modified proteins, and their use as a therapentic drug</GBSeq_definition>
+    <GBSeq_primary-accession>BD418546</GBSeq_primary-accession>
+    <GBSeq_accession-version>BD418546.1</GBSeq_accession-version>
+    <GBSeq_other-seqids>
+      <GBSeqid>dbj|BD418546.1|</GBSeqid>
+      <GBSeqid>pat|WO|2004002459|1</GBSeqid>
+      <GBSeqid>gi|92331941</GBSeqid>
+    </GBSeq_other-seqids>
+    <GBSeq_keywords>
+      <GBKeyword>WO 2004002459-A/1</GBKeyword>
+    </GBSeq_keywords>
+    <GBSeq_source>Hepatitis B virus</GBSeq_source>
+    <GBSeq_organism>Hepatitis B virus</GBSeq_organism>
+    <GBSeq_taxonomy>Viruses; Retro-transcribing viruses; Hepadnaviridae; Orthohepadnavirus</GBSeq_taxonomy>
+    <GBSeq_references>
+      <GBReference>
+        <GBReference_reference>1</GBReference_reference>
+        <GBReference_position>1..1218</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Seno,M.</GBAuthor>
+          <GBAuthor>Ueda,M.</GBAuthor>
+          <GBAuthor>Kondo,A.</GBAuthor>
+          <GBAuthor>Tanizawa,K.</GBAuthor>
+          <GBAuthor>Kuroda,S.</GBAuthor>
+          <GBAuthor>Tada,H.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>Hollow nano-particles composed of cysteine-modified proteins, and their use as a therapentic drug</GBReference_title>
+        <GBReference_journal>WO2004002459-A 1 08-JAN-2004 Japan Science and Technology Corporation</GBReference_journal>
+      </GBReference>
+    </GBSeq_references>
+    <GBSeq_comment>OS Hepatitis B virus~PN WO 2004002459-A/1~PD 08-JAN-2004~PF 27-JUN-2003 WO 2003JP008244~PR 27-JUN-2003 JP 03P 183863,28-JUN-2002 JP 02P 191386 PI masaharu seno,masakazu ueda,akihiko kondo,katsuyuki tanizawa, PI shunichi kuroda,hiroko tada~CC~FH Key Location/Qualifiers~FT CDS (1)..(1218).</GBSeq_comment>
+    <GBSeq_feature-table>
+      <GBFeature>
+        <GBFeature_key>source</GBFeature_key>
+        <GBFeature_location>1..1218</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>1218</GBInterval_to>
+            <GBInterval_accession>BD418546.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>organism</GBQualifier_name>
+            <GBQualifier_value>Hepatitis B virus</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>mol_type</GBQualifier_name>
+            <GBQualifier_value>unassigned DNA</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>db_xref</GBQualifier_name>
+            <GBQualifier_value>taxon:10407</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+    </GBSeq_feature-table>
+    <GBSeq_sequence>atgagatctttgttgatcttggttttgtgtttcttgccattggctgctttgggtaaggttcgacaaggcatggggacgaatctttctgttcccaatcctctgggattctttcccgatcaccagttggaccctgcgttcggagccaactcaaacaatccagattgggacttcaaccccaacaaggatcaatggccagaggcaaatcaggtaggagcgggagcattcgggccagggttcaccccaccacacggcggtcttttggggtggagccctcaggctcagggcatattgacaacagtgccagcagcacctcctcctgcctccaccaatcggcagtcaggaagacagcctactcccatctctccacctctaagagacagtcatcctcaggccatgcagtggaattccacaacattccaccaagctctgctagatcccagagtgaggggcctatattttcctgctggtggctccagttccggaacagtaaaccctgttccgactactgcctcacccatatctggggaccctgcaccgaacatggagaacacaacatcaggattcctaggacccctgctcgtgttacaggcggggtttttcttgttgacaagaatcctcacaataccacagagtctagactcgtggtggacttctctcaattttctagggggagcacccacgtgtcctggccaaaattcgcagtccccaacctccaatcactcaccaacctcttgtcctccaatttgtcctggctatcgctggatgtgtctgcggcgttttatcatattcctcttcatcctgctgctatgcctcatcttcttgttggttcttctggactaccaaggtatgttgcccgtttgtcctctacttccaggaacatcaaccaccagcacggggccatgcaagacctgcacgattcctgctcaaggaacctctatgtttccctcttgttgctgtacaaaaccttcggacggaaactgcacttgtattcccatcccatcatcctgggctttcgcaagattcctatgggagtgggcctcagtccgtttctcctggctcagtttactagtgccatttgttcagtggttcgtagggctttcccccactgtttggctttcagttatatggatgatgtggtattgggggccaagtctgtacaacatcttgagtccctttttacctctattaccaattttcttttgtctttgggtatatatt</GBSeq_sequence>
+  </GBSeq>

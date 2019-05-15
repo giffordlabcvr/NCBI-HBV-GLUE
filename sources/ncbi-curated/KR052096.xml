@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<GBSeq>
+
+    <GBSeq_locus>KR052096</GBSeq_locus>
+    <GBSeq_length>1056</GBSeq_length>
+    <GBSeq_strandedness>double</GBSeq_strandedness>
+    <GBSeq_moltype>DNA</GBSeq_moltype>
+    <GBSeq_topology>linear</GBSeq_topology>
+    <GBSeq_division>VRL</GBSeq_division>
+    <GBSeq_update-date>22-AUG-2016</GBSeq_update-date>
+    <GBSeq_create-date>30-APR-2016</GBSeq_create-date>
+    <GBSeq_definition>Bat Hepatitis B virus isolate WLHBV/AS9416 polymerase (POl) gene, partial cds</GBSeq_definition>
+    <GBSeq_primary-accession>KR052096</GBSeq_primary-accession>
+    <GBSeq_accession-version>KR052096.2</GBSeq_accession-version>
+    <GBSeq_other-seqids>
+      <GBSeqid>gb|KR052096.2|</GBSeqid>
+      <GBSeqid>gi|1057715814</GBSeqid>
+    </GBSeq_other-seqids>
+    <GBSeq_source>Bat Hepatitis B virus</GBSeq_source>
+    <GBSeq_organism>Bat Hepatitis B virus</GBSeq_organism>
+    <GBSeq_taxonomy>Viruses; Retro-transcribing viruses; Hepadnaviridae; Orthohepadnavirus</GBSeq_taxonomy>
+    <GBSeq_references>
+      <GBReference>
+        <GBReference_reference>1</GBReference_reference>
+        <GBReference_position>1..1056</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>De Souza,A.J.S.</GBAuthor>
+          <GBAuthor>Soares,M.C.P.</GBAuthor>
+          <GBAuthor>Malheiros,A.P.</GBAuthor>
+          <GBAuthor>Scheffer,K.C.</GBAuthor>
+          <GBAuthor>Mori,E.</GBAuthor>
+          <GBAuthor>Gomes-Gouvea,M.S.</GBAuthor>
+          <GBAuthor>Pinho,J.R.R.</GBAuthor>
+          <GBAuthor>Silva,A.L.</GBAuthor>
+          <GBAuthor>Freitas,P.E.B.</GBAuthor>
+          <GBAuthor>Chagas,A.A.C.</GBAuthor>
+          <GBAuthor>Sa,L.R.M.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>Bat Hepadnavirus in South America, Brazil, 2012</GBReference_title>
+        <GBReference_journal>Unpublished</GBReference_journal>
+      </GBReference>
+      <GBReference>
+        <GBReference_reference>2</GBReference_reference>
+        <GBReference_position>1..1056</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>De Souza,A.J.S.</GBAuthor>
+          <GBAuthor>Soares,M.C.P.</GBAuthor>
+          <GBAuthor>Malheiros,A.P.</GBAuthor>
+          <GBAuthor>Scheffer,K.C.</GBAuthor>
+          <GBAuthor>Mori,E.</GBAuthor>
+          <GBAuthor>Gomes-Gouvea,M.S.</GBAuthor>
+          <GBAuthor>Pinho,J.R.R.</GBAuthor>
+          <GBAuthor>Silva,A.L.</GBAuthor>
+          <GBAuthor>Freitas,P.E.B.</GBAuthor>
+          <GBAuthor>Chagas,A.A.C.</GBAuthor>
+          <GBAuthor>Sa,L.R.M.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>Direct Submission</GBReference_title>
+        <GBReference_journal>Submitted (31-MAR-2015) Secao de Hepatologia, Instituto Evandro Chagas, Av. Almirante Barroso 492, Belem, Para 66093-020, Brasil</GBReference_journal>
+      </GBReference>
+      <GBReference>
+        <GBReference_reference>3</GBReference_reference>
+        <GBReference_position>1..1056</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>De Souza,A.J.S.</GBAuthor>
+          <GBAuthor>Soares,M.C.P.</GBAuthor>
+          <GBAuthor>Malheiros,A.P.</GBAuthor>
+          <GBAuthor>Scheffer,K.C.</GBAuthor>
+          <GBAuthor>Mori,E.</GBAuthor>
+          <GBAuthor>Gomes-Gouvea,M.S.</GBAuthor>
+          <GBAuthor>Pinho,J.R.R.</GBAuthor>
+          <GBAuthor>Silva,A.L.</GBAuthor>
+          <GBAuthor>Freitas,P.E.B.</GBAuthor>
+          <GBAuthor>Chagas,A.A.C.</GBAuthor>
+          <GBAuthor>Sa,L.R.M.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>Direct Submission</GBReference_title>
+        <GBReference_journal>Submitted (22-AUG-2016) Secao de Hepatologia, Instituto Evandro Chagas, Av. Almirante Barroso 492, Belem, Para 66093-020, Brasil</GBReference_journal>
+        <GBReference_remark>Sequence update by submitter</GBReference_remark>
+      </GBReference>
+    </GBSeq_references>
+    <GBSeq_comment>On Aug 22, 2016 this sequence version replaced KR052096.1.; ; ##Assembly-Data-START## ; Sequencing Technology :: Sanger dideoxy sequencing ; ##Assembly-Data-END##</GBSeq_comment>
+    <GBSeq_feature-table>
+      <GBFeature>
+        <GBFeature_key>source</GBFeature_key>
+        <GBFeature_location>1..1056</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>1056</GBInterval_to>
+            <GBInterval_accession>KR052096.2</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>organism</GBQualifier_name>
+            <GBQualifier_value>Bat Hepatitis B virus</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>mol_type</GBQualifier_name>
+            <GBQualifier_value>genomic DNA</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>isolate</GBQualifier_name>
+            <GBQualifier_value>WLHBV/AS9416</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>isolation_source</GBQualifier_name>
+            <GBQualifier_value>liver</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>host</GBQualifier_name>
+            <GBQualifier_value>Platyrrhinus lineatus</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>db_xref</GBQualifier_name>
+            <GBQualifier_value>taxon:1401315</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>country</GBQualifier_name>
+            <GBQualifier_value>Brazil</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>collection_date</GBQualifier_name>
+            <GBQualifier_value>2012</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>gene</GBFeature_key>
+        <GBFeature_location>&lt;1..&gt;1056</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>1056</GBInterval_to>
+            <GBInterval_accession>KR052096.2</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_partial5 value="true"/>
+        <GBFeature_partial3 value="true"/>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>gene</GBQualifier_name>
+            <GBQualifier_value>POl</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>CDS</GBFeature_key>
+        <GBFeature_location>&lt;1..&gt;1056</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>1056</GBInterval_to>
+            <GBInterval_accession>KR052096.2</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_partial5 value="true"/>
+        <GBFeature_partial3 value="true"/>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>gene</GBQualifier_name>
+            <GBQualifier_value>POl</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>codon_start</GBQualifier_name>
+            <GBQualifier_value>1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>transl_table</GBQualifier_name>
+            <GBQualifier_value>1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>product</GBQualifier_name>
+            <GBQualifier_value>polymerase</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>protein_id</GBQualifier_name>
+            <GBQualifier_value>AML23867.2</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>translation</GBQualifier_name>
+            <GBQualifier_value>VVDFSQFSRGPDRVRWPKFAVPNLQSLTNLLSSDLQWLSLDVSAAFYHIPLVPAASPHLLVGSPGLVGTLTGMPIYAGSRGEDHQLQNVHQFCHRNTLETLMLLHSEYGRKLHLYSHPIIMGFRKIPMGVGLSPFLLAQFTSAICSVVRRTFKHCVAFAYMDDVVLGARTLSHLESIYTSCVNLLVSLGIKLNPEKTKWWGPSLHFMGLVINATGTMPQPQHVTKGLTMLKQLPINRPLDYKIMQRVTGLLGFLAPFTMFGYPLIKPMYTRSAFVLSALYKQCLIWAYSKLLPVARQRPGICVTYADATPSGWGWVSAYSYQVQAGSFATPLPIFAAETIAALLARLATGAR</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+    </GBSeq_feature-table>
+    <GBSeq_sequence>gtggtggatttctctcagttttcaagggggcccgacagggtgcggtggccaaaattcgctgtccccaacctccaatcactcaccaatctcctgtccagtgacctgcagtggctatcgttggatgtgtctgcggcgttttatcatatacctcttgttcctgctgctagtcctcacctgcttgttggttctcctggactggtggggactcttaccggtatgcccatttatgccggtagcaggggagaggaccatcaactgcagaacgtgcaccagttctgccacagaaacaccttggagacccttatgctgctgcacagtgaatacgggaggaaactgcacctgtattcccatcccatcatcatgggctttaggaaaatacctatgggggttggcctctcaccatttctcctggctcagtttacttcagcaatttgttctgtggttcgcaggactttcaagcactgcgtggcttttgcttatatggatgatgtggtactgggggcccggactctttcccatcttgagtccatttataccagctgtgttaatcttttggtatctctgggcataaagctaaacccagagaaaaccaagtggtggggcccttccttgcattttatgggtctggtgattaatgctacaggcaccatgccccaaccacagcatgtaactaaagggttaacaatgcttaaacaattgccaataaatagaccactggattataaaattatgcaaagagtcacaggcctgttaggctttttggctccttttaccatgtttggttacccattaatcaaacctatgtacacaagatcagcctttgtactttctgctctgtataaacaatgtttgatttgggcttattccaagctcctgcccgttgctaggcaacgccctggcatttgtgtgacgtatgcagacgccaccccttccggttggggttgggtttctgcttactcataccaagtgcaagctggctcttttgccacacctcttccgatctttgctgctgagaccatcgcggcgctgctggccaggctcgcgactggggcacgg</GBSeq_sequence>
+  </GBSeq>

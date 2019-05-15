@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<GBSeq>
+
+    <GBSeq_locus>AB307961</GBSeq_locus>
+    <GBSeq_length>665</GBSeq_length>
+    <GBSeq_strandedness>double</GBSeq_strandedness>
+    <GBSeq_moltype>DNA</GBSeq_moltype>
+    <GBSeq_topology>linear</GBSeq_topology>
+    <GBSeq_division>VRL</GBSeq_division>
+    <GBSeq_update-date>26-JUL-2016</GBSeq_update-date>
+    <GBSeq_create-date>10-OCT-2007</GBSeq_create-date>
+    <GBSeq_definition>Hepatitis B virus X gene for X protein, partial cds, isolate: HBHCCP25</GBSeq_definition>
+    <GBSeq_primary-accession>AB307961</GBSeq_primary-accession>
+    <GBSeq_accession-version>AB307961.1</GBSeq_accession-version>
+    <GBSeq_other-seqids>
+      <GBSeqid>dbj|AB307961.1|</GBSeqid>
+      <GBSeqid>gi|158052993</GBSeqid>
+    </GBSeq_other-seqids>
+    <GBSeq_source>Hepatitis B virus</GBSeq_source>
+    <GBSeq_organism>Hepatitis B virus</GBSeq_organism>
+    <GBSeq_taxonomy>Viruses; Retro-transcribing viruses; Hepadnaviridae; Orthohepadnavirus</GBSeq_taxonomy>
+    <GBSeq_references>
+      <GBReference>
+        <GBReference_reference>1</GBReference_reference>
+        <GBReference_position>1..665</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Shinkai,N.</GBAuthor>
+          <GBAuthor>Tanaka,Y.</GBAuthor>
+          <GBAuthor>Ito,K.</GBAuthor>
+          <GBAuthor>Mukaide,M.</GBAuthor>
+          <GBAuthor>Hasegawa,I.</GBAuthor>
+          <GBAuthor>Asahina,Y.</GBAuthor>
+          <GBAuthor>Izumi,N.</GBAuthor>
+          <GBAuthor>Yatsuhashi,H.</GBAuthor>
+          <GBAuthor>Orito,E.</GBAuthor>
+          <GBAuthor>Joh,T.</GBAuthor>
+          <GBAuthor>Mizokami,M.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>Influence of Hepatitis B Virus X and Core Promoter Mutations on Hepatocellular Carcinoma among Patients Infected with Subgenotype C2</GBReference_title>
+        <GBReference_journal>J. Clin. Microbiol. 45 (10), 3191-3197 (2007)</GBReference_journal>
+        <GBReference_xref>
+          <GBXref>
+            <GBXref_dbname>doi</GBXref_dbname>
+            <GBXref_id>10.1128/JCM.00411-07</GBXref_id>
+          </GBXref>
+        </GBReference_xref>
+        <GBReference_pubmed>17652471</GBReference_pubmed>
+      </GBReference>
+      <GBReference>
+        <GBReference_reference>2</GBReference_reference>
+        <GBReference_position>1..665</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Shinkai,N.</GBAuthor>
+          <GBAuthor>Mizokami,M.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>Direct Submission</GBReference_title>
+        <GBReference_journal>Submitted (06-JUN-2007) Noboru Shinkai, Nagoya City University Graduate School of Medical Sciences, Department of Clinical Molecular Informative Medicine; 1 Kawasumi, Mizuho-cho, Mizuho-ku, Nagoya, Aichi 467-8601, Japan (E-mail:noborush@med.nagoya-cu.ac.jp, Tel:81-52-853-8292, Fax:81-52-842-0021)</GBReference_journal>
+      </GBReference>
+    </GBSeq_references>
+    <GBSeq_feature-table>
+      <GBFeature>
+        <GBFeature_key>source</GBFeature_key>
+        <GBFeature_location>1..665</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>665</GBInterval_to>
+            <GBInterval_accession>AB307961.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>organism</GBQualifier_name>
+            <GBQualifier_value>Hepatitis B virus</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>mol_type</GBQualifier_name>
+            <GBQualifier_value>genomic DNA</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>isolate</GBQualifier_name>
+            <GBQualifier_value>HBHCCP25</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>isolation_source</GBQualifier_name>
+            <GBQualifier_value>sera isolated from hepatocellular carcinoma patient</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>db_xref</GBQualifier_name>
+            <GBQualifier_value>taxon:10407</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>note</GBQualifier_name>
+            <GBQualifier_value>genotype C2/Ce</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>gene</GBFeature_key>
+        <GBFeature_location>&lt;1..456</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>456</GBInterval_to>
+            <GBInterval_accession>AB307961.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_partial5 value="true"/>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>gene</GBQualifier_name>
+            <GBQualifier_value>X</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>CDS</GBFeature_key>
+        <GBFeature_location>&lt;1..456</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>456</GBInterval_to>
+            <GBInterval_accession>AB307961.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_partial5 value="true"/>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>gene</GBQualifier_name>
+            <GBQualifier_value>X</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>codon_start</GBQualifier_name>
+            <GBQualifier_value>1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>transl_table</GBQualifier_name>
+            <GBQualifier_value>1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>product</GBQualifier_name>
+            <GBQualifier_value>X protein</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>protein_id</GBQualifier_name>
+            <GBQualifier_value>BAF81878.1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>translation</GBQualifier_name>
+            <GBQualifier_value>RMCCQLDPTRDVLCLRPVGAESRGRPVSGPFGNLPSPSYSAVPADHGAHLSLRGLPVCAFSSAGPCALRFTSARRMETTVNAHQVLPKVLHKRTLGLSAMSTTDLEAYFKDCLFKDWEELGEEIRLKVFVLGGCRHKLVCSPAPCNFFTSA</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+    </GBSeq_feature-table>
+    <GBSeq_sequence>aggatgtgctgccaactggatcctacgcgggacgtcctttgtctacgtcccgtcggcgcggaatcccgcggacgacccgtctcggggccgtttgggaatctaccgtccccttcttactctgccgttccggccgaccacggggcgcacctctctttacgcggtctccccgtctgtgccttctcatccgccggaccgtgtgcacttcgcttcacctctgcacgtcgcatggagaccaccgtgaacgcccaccaggtcttgcccaaggtcttacataagaggactcttggactctccgcaatgtcaacgaccgaccttgaggcatacttcaaagactgtttgtttaaggactgggaggagttgggggaggagattaggttgaaggtctttgtactgggaggctgtaggcataaattggtctgttcaccagcaccatgcaactttttcacctctgcctaatcatctcatgttcatgtcctactgttcaagcctccaagctgtgccttgggtggctttagggcatggacattgacccgtataaagaatttggagcttctgtggagttactctcttttttgccttctgacttctttccgtctattcgagatctcctcgacaccgcctctgctctgtatcgggaggccttagagtctccggaacattgttca</GBSeq_sequence>
+  </GBSeq>

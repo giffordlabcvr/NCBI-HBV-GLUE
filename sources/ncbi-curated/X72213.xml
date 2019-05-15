@@ -1,0 +1,226 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<GBSeq>
+
+    <GBSeq_locus>X72213</GBSeq_locus>
+    <GBSeq_length>3995</GBSeq_length>
+    <GBSeq_strandedness>double</GBSeq_strandedness>
+    <GBSeq_moltype>DNA</GBSeq_moltype>
+    <GBSeq_topology>linear</GBSeq_topology>
+    <GBSeq_division>VRL</GBSeq_division>
+    <GBSeq_update-date>02-DEC-2006</GBSeq_update-date>
+    <GBSeq_create-date>08-JUN-1993</GBSeq_create-date>
+    <GBSeq_definition>H.sapiens genomic DNA with integrated fragment of HBV DNA</GBSeq_definition>
+    <GBSeq_primary-accession>X72213</GBSeq_primary-accession>
+    <GBSeq_accession-version>X72213.1</GBSeq_accession-version>
+    <GBSeq_other-seqids>
+      <GBSeqid>emb|X72213.1|</GBSeqid>
+      <GBSeqid>gi|311883</GBSeqid>
+    </GBSeq_other-seqids>
+    <GBSeq_keywords>
+      <GBKeyword>c gene</GBKeyword>
+      <GBKeyword>hepatitis B virus</GBKeyword>
+      <GBKeyword>integration</GBKeyword>
+      <GBKeyword>x gene</GBKeyword>
+    </GBSeq_keywords>
+    <GBSeq_source>Hepatitis B virus</GBSeq_source>
+    <GBSeq_organism>Hepatitis B virus</GBSeq_organism>
+    <GBSeq_taxonomy>Viruses; Retro-transcribing viruses; Hepadnaviridae; Orthohepadnavirus</GBSeq_taxonomy>
+    <GBSeq_references>
+      <GBReference>
+        <GBReference_reference>1</GBReference_reference>
+        <GBReference_position>1048..3754</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Tagieva,N.E.</GBAuthor>
+          <GBAuthor>Gulyaeva,A.N.</GBAuthor>
+          <GBAuthor>Gizatullin,R.Z.</GBAuthor>
+          <GBAuthor>Bannikov,V.M.</GBAuthor>
+          <GBAuthor>Zakharyev,V.M.</GBAuthor>
+          <GBAuthor>Naumova,A.K.</GBAuthor>
+          <GBAuthor>Kisselev,L.L.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>Integration hepatitis B virus DNA in to DNA of human neuroblastoma cells</GBReference_title>
+        <GBReference_journal>DNA 331 (1993) In press</GBReference_journal>
+      </GBReference>
+      <GBReference>
+        <GBReference_reference>2</GBReference_reference>
+        <GBReference_position>1..3995</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Tagieva,N.E.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>Direct Submission</GBReference_title>
+        <GBReference_journal>Submitted (24-MAY-1993) N.E. Tagieva, Engelhardt Insitute of Molecular Biology, Vavilov str. 32, 117984, Moscow, Russia, USSR</GBReference_journal>
+      </GBReference>
+    </GBSeq_references>
+    <GBSeq_feature-table>
+      <GBFeature>
+        <GBFeature_key>source</GBFeature_key>
+        <GBFeature_location>1048..3755</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1048</GBInterval_from>
+            <GBInterval_to>3755</GBInterval_to>
+            <GBInterval_accession>X72213.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>organism</GBQualifier_name>
+            <GBQualifier_value>Hepatitis B virus</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>mol_type</GBQualifier_name>
+            <GBQualifier_value>genomic DNA</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>db_xref</GBQualifier_name>
+            <GBQualifier_value>taxon:10407</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>focus</GBQualifier_name>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>source</GBFeature_key>
+        <GBFeature_location>join(1..1047,3756..3995)</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>1047</GBInterval_to>
+            <GBInterval_accession>X72213.1</GBInterval_accession>
+          </GBInterval>
+          <GBInterval>
+            <GBInterval_from>3756</GBInterval_from>
+            <GBInterval_to>3995</GBInterval_to>
+            <GBInterval_accession>X72213.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_operator>join</GBFeature_operator>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>organism</GBQualifier_name>
+            <GBQualifier_value>Homo sapiens</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>mol_type</GBQualifier_name>
+            <GBQualifier_value>genomic DNA</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>db_xref</GBQualifier_name>
+            <GBQualifier_value>taxon:9606</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>clone</GBQualifier_name>
+            <GBQualifier_value>NbHepB37</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>clone_lib</GBQualifier_name>
+            <GBQualifier_value>genomic library in lambda SK22</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>gene</GBFeature_key>
+        <GBFeature_location>1048..1258</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1048</GBInterval_from>
+            <GBInterval_to>1258</GBInterval_to>
+            <GBInterval_accession>X72213.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>gene</GBQualifier_name>
+            <GBQualifier_value>C</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>misc_feature</GBFeature_key>
+        <GBFeature_location>1048..1258</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1048</GBInterval_from>
+            <GBInterval_to>1258</GBInterval_to>
+            <GBInterval_accession>X72213.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>gene</GBQualifier_name>
+            <GBQualifier_value>C</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>misc_feature</GBFeature_key>
+        <GBFeature_location>1118..3547</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1118</GBInterval_from>
+            <GBInterval_to>3547</GBInterval_to>
+            <GBInterval_accession>X72213.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>note</GBQualifier_name>
+            <GBQualifier_value>region P</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>misc_feature</GBFeature_key>
+        <GBFeature_location>1162..2221</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1162</GBInterval_from>
+            <GBInterval_to>2221</GBInterval_to>
+            <GBInterval_accession>X72213.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>note</GBQualifier_name>
+            <GBQualifier_value>region PreS +S</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>gene</GBFeature_key>
+        <GBFeature_location>3275..3755</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>3275</GBInterval_from>
+            <GBInterval_to>3755</GBInterval_to>
+            <GBInterval_accession>X72213.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>gene</GBQualifier_name>
+            <GBQualifier_value>X</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>misc_feature</GBFeature_key>
+        <GBFeature_location>3275..3755</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>3275</GBInterval_from>
+            <GBInterval_to>3755</GBInterval_to>
+            <GBInterval_accession>X72213.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>gene</GBQualifier_name>
+            <GBQualifier_value>X</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+    </GBSeq_feature-table>
+    <GBSeq_sequence>aattctgtgcgtctctgatgctttgtcctccagcccccacccccagaaatctccccctnnngcaaagacccccagcttttctccccaagaggggcctgaatcccaccccccttccatgactccaccttatccctccaccccccatttccagcaccgatttgccccccaagcctagcagacgtgagggtggagggggcctggctaccccttactctgcaacagtctggaccctcccacgagtaggtaaccaggcctcctgcctctctggggcctccaggctactcagggccagacccaatcaatcttcagagccagccccagacgaggaaantggctcaccccacctgtcaccaccttctgacaggctctggggatagataatctttttattttttcttccaggacagaataaaaatacccgcaatgtaggatatttaatagacggcaaggaatcaggtcaggacacgaagatgcctcttccctcccctgacctactttbgttcttgtgacggcaaggagcttgggcbctcgagattggaaaccgggtgagggggcatcctggcttctagtgggcggggcctaggatagaaaccgcgaagaagttcctaactttagdnttcattgaagaaattttccatstgatgttatttgcggagggatatgggcggggacaggagaaaggtacactgtgggcnggaagagacggattccgtggcacgaggttaaaaaaaaaaaaaagaaaaagaaaagaaaaaaaacacacctaagaaaggaaacaactaaaggctctctaatctcttagaacgccggttcctccttccgccgggcncagagtcccagagactacctcctccagccctaaacccaatgtccccttaccgtggaacaaggcaaggccggtctgtaaattcttcttgatgtctaatttaaatcccaacttggcggactctcaaacagaatcagataggcagctacctccagcctgcagctacttgctgccctcaagtggccacgtgacgagccacaaccctcttgtcctccgggtttgaaacagttatagagtatttggtgtctttcggagtgtggattcgcactcctccagcttatagaccaccaaatgcccctatcttatcaacacttccggagactactgttgttagacgacgaggcaggtcccctagaagaagaactccctcgcctcgtcagacgaaggtctcaatcgcgcgcgtggcnaagancntcaattcggggaatctcaatgttagtattccttgggactcataaggtggggaattttactgggctttattcttctactgtnaccgtctttgaccctcacagggaaaaacaccctctttccctaananacattaacaccagcacatnatcnaantngtgnaacntttgtaggcccactcacnttcaagcntaaaagaagatgcaatgattatgcctgctaggttttatccaatgtttaccaaatattcccattggtataagggttattaaaccttattatccagaaccactagttaatcattacttcccaactagacactatttacacactctatggaanntnnttttattatataagagagaaacaacacatagcgcctcattttgtgggtcaccatattcttgggaacaagagctacagcatggggtcagaatctttccaccggcaatcctctgggatttctttcccgaccaccnttgggatccagccttcagagcaaataccgcaaatccagattgggacttcaatcccaacaaggacacctggccagacgccaacaaggtaggagttggagcattcgggctgggtttcaccccaccgcacggaggccttttggggtggagccctcaggctcagggcataatacaaactttgccagcaaatcygcctcctgcctccaccaatcgccagtcaggaaggcagcctaccccgctgtctccacctttgagaaacactcatcctcaggccatgcagtggaactccacaaccttccaccaaactctgcaagatcccagagtgagaggcctgtatttccctgctggtggctccagttcaggaacagtcagcatggcgtagactactacctctcccatatcgtcaatcttctcgaggattggggaccctgcgctgaacatggagaacagcacatcaggattcctaggacccctgctcgtgttacaggcggggtttttcttgttgacaagaatcctcacaataccgcagagtctagactcgtggtggacttctctcaattttctagggggaactaccgtgtgtcttggccaaaattcgcagtccccaatctccaatcactcaccaacctcctgtcctccaacttgtcctggttatcgctggatgtgtctgcggcgttttatcatcttcctcttcatcctgctgctatgcctcatcttcttgttggttcttctggactatcaaggtatgttgcccgtttgtcctctaattccaggatcctcaaccaccagcacgggaccatgccgaacctgcacgactcctgctcaaggaacctctatgtatccctcctgttgttgtaccaaaccttcggacggaaattgcacctgtattcccatcccatcatcctgggctttcggaaaattcctatgggagtgggcctcagcccgtttctcctggctcagtttactagtgccatttgttcagtggttcgtagggctttcccccactgtttggctttcagttatatggatgatgtggtattgggggccaagtctgtacagcatcttgagthcctttttacgstgttaccaattttcttttgtctttgggkatacatttaaacctaacaggtaagagatggggtactcactctctaaattttatgggttatgtcattggatgttatgggtccttgccacaagaacacatcatacaaaaaatcaaagaatgttttagaaaacttcctattaacaggcctattgattggaaagtatgtcaacgaattgtgggtcttttgggttttgctgccccttttacacaatgtggttatcccttttaccttcccggraaacggccagttctgtcccaaagtgttttwaacgcaacccccactggctggggcttggtcatgggccatcagggcatgcgtgraacctttgtggctcctctgccgatccatactgcggaactcctagccgcttgttttgctcgcagccggtctggagcaaacattgtcgggactgataactctgttgtcctttcccgtaaatatacatcatttccatggctgctaggctgtgctgccaactggatcctgcgcgggacgtcctttgtttacgtcccgtcggcgctgaatcccgcggacgacccttctcggggtcgattgggactctctcgtccccttctccgtctgccgttccgaccgaccacggggcgcacctctctttacgcggactccccgtctgtgcctgctcatctgccggaccgtgtgcacttcgcttcacctctgcacgtcgcatggagaccaccgtgaacgcccaccaaatcttgcccaaggtcttacataagaggactcttggactctctgcaatgtcaacgaccgaccttgaggcatacttcaaagacttgaggcatacttcaaagactgtttgcccaaagactgggaggagttgggggaggagattagattaaaggtctttgtactaggaggctgtaggcataaattggtctgcgcaccagcaccatgcaactttttcgtttcctctttccccagcctgcccacccccctgtctccgacctcctgccttcctcgaggtcaaggtgagaagtctcgggacggattccagctccagccccggcgtctttgcacattcctccatctggggtacctcgtggtctgtcttacaagaagagctcaggctgaaacataaacttgtaaatagtagaagcaaatgtgtaaattttaacgtaagcctctagaacttgagatcgtaatcacctgcag</GBSeq_sequence>
+  </GBSeq>

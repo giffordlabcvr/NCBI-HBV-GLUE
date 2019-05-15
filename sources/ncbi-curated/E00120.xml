@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<GBSeq>
+
+    <GBSeq_locus>E00120</GBSeq_locus>
+    <GBSeq_length>3183</GBSeq_length>
+    <GBSeq_strandedness>double</GBSeq_strandedness>
+    <GBSeq_moltype>DNA</GBSeq_moltype>
+    <GBSeq_topology>linear</GBSeq_topology>
+    <GBSeq_division>PAT</GBSeq_division>
+    <GBSeq_update-date>04-NOV-2005</GBSeq_update-date>
+    <GBSeq_create-date>06-JUN-1997</GBSeq_create-date>
+    <GBSeq_definition>DNA of adw type hepatitis B virus(HBs)</GBSeq_definition>
+    <GBSeq_primary-accession>E00120</GBSeq_primary-accession>
+    <GBSeq_accession-version>E00120.1</GBSeq_accession-version>
+    <GBSeq_other-seqids>
+      <GBSeqid>dbj|E00120.1|</GBSeqid>
+      <GBSeqid>pat|JP|1983194897|1</GBSeqid>
+      <GBSeqid>gi|2168421</GBSeqid>
+    </GBSeq_other-seqids>
+    <GBSeq_keywords>
+      <GBKeyword>JP 1983194897-A/1</GBKeyword>
+    </GBSeq_keywords>
+    <GBSeq_source>Hepatitis B virus</GBSeq_source>
+    <GBSeq_organism>Hepatitis B virus</GBSeq_organism>
+    <GBSeq_taxonomy>Viruses; Retro-transcribing viruses; Hepadnaviridae; Orthohepadnavirus</GBSeq_taxonomy>
+    <GBSeq_references>
+      <GBReference>
+        <GBReference_reference>1</GBReference_reference>
+        <GBReference_position>1..3183</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Onda,H.</GBAuthor>
+          <GBAuthor>Igarashi,K.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>NOVEL DNA, ITS PREPARATION AND HOST TRANSFORMED WITH THE SAME</GBReference_title>
+        <GBReference_journal>JP1983194897-A 1 12-NOV-1983 TAKEDA CHEM IND LTD</GBReference_journal>
+      </GBReference>
+    </GBSeq_references>
+    <GBSeq_comment>OS hepatitis B virus~PN JP 1983194897-A/1~PD 12-NOV-1983~PF 07-MAY-1982 JP 1982077020~PI ONDA HARUO, IGARASHI KOICHI~PC C07H21/04,C12N1/00,C12N15/00//A61K39/12,C12N1/20,C12P21/02; CC strandedness: Double;~CC topology: Linear;~CC hypothetical: No;~CC anti-sense: No;~FH Key Location/Qualifiers~FH~FT CDS 1..835~FT /product='pre HBs antigen'~FT mat_peptide 155..832~FT /product='HBs antigen'~FT CDS 2849..3183~FT /product='pre HBs antigen'~FT CDS 1884..2441~FT /product='HBc antigen'~FT mat_peptide 1884..2438~FT /product='HBc antigen'.</GBSeq_comment>
+    <GBSeq_feature-table>
+      <GBFeature>
+        <GBFeature_key>source</GBFeature_key>
+        <GBFeature_location>1..3183</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>3183</GBInterval_to>
+            <GBInterval_accession>E00120.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>organism</GBQualifier_name>
+            <GBQualifier_value>Hepatitis B virus</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>mol_type</GBQualifier_name>
+            <GBQualifier_value>unassigned DNA</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>db_xref</GBQualifier_name>
+            <GBQualifier_value>taxon:10407</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+    </GBSeq_feature-table>
+    <GBSeq_sequence>ttccactgccttgcaccaagctctgcaggatcccagagtcaggggtctgtatcttcctgctggtggctccagttcaggaacagtaaaccctgctccgaatattgcctctcacatctcgtcaatctccgcgaggactggggaccctgtgacgatcatggagaacatcacatcaggattcctaggacccctgctcgtgttacaggcggggtttttcttgttgacaagaatcctcacaataccgcagagtctagactcgtggtggacttctctcaattttctagggggatcacccgtgtgtcttggccaaaattcgcagtccccaacctccaatcactcaccaacctcctgtcctccaatttgtcctggttatcgctggatgtgtctgcggcgttttatcatattcctcttcatcctgctgctatgcctcatcttcttattggttcttctggattatcaaggtatgttgcccgtttgtcctctaattccaggatcaacaacaaccagtacgggaccatgcaaaacctgcacgactcctgctcaaggcaactctaagtttccctcatgttgctgtacaaaacctacggatggaaattgcacctgtattcccatcccatcgtcctgggctttcgcaaaatacctatgggagtgggcctcagtccgtttctcttggctcagtttactagtgccatttgttcagtggttcgtagggctttcccccactgtttggctttcagctatatggatgatgtggtattgggggccaagtctgtacagcatcgtgagtccctttataccgctgttaccaattttcttttgtctctgggtatacatttaaaccctaacaaaacaaaaagatggggttattccctaaacttcatgggctacataattggaagttggggaactttgccacaggatcaaacactgttttagaaaacttcctgttaacaggcctattgattggaaagtatgtcaaagaattgtgggtcttttgggctttgctgctccatttacacaatgtggatatcctgccttaatgcctttgtatgcatgtatacaagctaaacaggctttcactttctcgccaacttacaaggcctttctaagtaaacagtacatgaacctttaccccgttgctcggcaacggcctggtctgtgccaagtgtttgctgacgcaacccccactggctggggcttagccataggccatcagcgcatgcgtggaacctttgtggctcctctgccgatccatactgcggaactcctagccgcttgttttgctcgcagccggtctggagcaaagctcatcggaactgacaattctgtcgtcctctcgcggaaatatacatcatttccatggctgctaggctgtactgccaactggatccttcgcgggacgtcctttgtttacgtcccgtcggcgctgaatcccgcggacgacccctctcggggccgcttgggactctctcgtccccttctccgtctgccgttccagccgaccacggggcgcacctctctttacgcggtctccccgtctgtgccttctcatctgccggtccgtgtgcacttcgcttcacctctgcacgttgcatggcgaccaccgtgaacgcccatcagatcctgcccaaggtcttacataagaggactcttggactcccagcaatgtcaacgaccgaccttgaggcctacttcaaagactgtgtgtttaaggactgggaggagttgggggaggagattaggttaatgatctttgtattaggaggctgtaggcataaattggtctgcgcaccagcaccatgcaactttttcacctctgcctaatcatctcttgtacatgtcccactgttcaagcctccaagctgtgccttgggtggctttggggcatggacattgacccttataaagaatttggagctactgtggagttactctcgtttttgccttctgacttctttccttccgtacgagatctcctagacaccgcctcagctctgtatcgagaagccttagagtctcctgagcattgctcacctcaccatactgcactcaggcaagccattctctgctggggggaattgatgactctagctacctgggtgggtaataatttgcaagatccagcatccagagatctagtagtcaattatgttaatactaacatgggtttaaagatcaggcaactattgtggtttcatatatcttgccttacttttggaagagagactgtacttgaatatttggtctctttcggagtgtggattcgcactcctccagcctatagaccaccaaatgcccctatcttatcaacacttccggaaactactgttgttagacgacgggaccgaggcaggtcccctagaagaagaactccctcgcctcgcagacgcagatctcaatcgccgcgtcgcagaagatctcaatctcgggaatctcaatgttagtattccttggactcataaggtcggaaactttacggggctttattcctctacagtacctatctttaatcctgaatggcaaactccttcctttcctaagattcatttacaagaggacattattaataggtgtcaacaatttgtgggccctctcactgtaaatgaaaagagaagattgaaattaattatgcctgctagattctatcctacccacactaaatatttgcccttagacaaaggaattaaaccttattatccagatcaggtagttaatcattacttccaaaccagacattatttacatactctttggaaggctggtattctatataagagggaaaccacacgtagcgcatcattttgcgggtcaccatattcttgggaacaagagctacagcattcgcaaaggcatggggacgaatctttctgttcccaaccctctgggattccttcccgatcatcagttggaccctgcattcggagccaactcaacaaatccagattgggacttcaaccccatcaaggaccactggccagcagccaaccaggtaggagtgggagcattcgggccagggctcacccctccacacggcggtattttggggtggagccctcaggctcagggcatattgaccacagtgtcaacaattcctcctcctgcctccaccaatcggcagtcaggaaggcagcctactcccatctctccacctctaagagacagtcatcctcaggccatgcagtggaa</GBSeq_sequence>
+  </GBSeq>

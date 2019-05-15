@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<GBSeq>
+
+    <GBSeq_locus>E10004</GBSeq_locus>
+    <GBSeq_length>534</GBSeq_length>
+    <GBSeq_strandedness>double</GBSeq_strandedness>
+    <GBSeq_moltype>DNA</GBSeq_moltype>
+    <GBSeq_topology>linear</GBSeq_topology>
+    <GBSeq_division>PAT</GBSeq_division>
+    <GBSeq_update-date>05-NOV-2005</GBSeq_update-date>
+    <GBSeq_create-date>29-SEP-1997</GBSeq_create-date>
+    <GBSeq_definition>Human HBe antigen gene</GBSeq_definition>
+    <GBSeq_primary-accession>E10004</GBSeq_primary-accession>
+    <GBSeq_accession-version>E10004.1</GBSeq_accession-version>
+    <GBSeq_other-seqids>
+      <GBSeqid>dbj|E10004.1|</GBSeqid>
+      <GBSeqid>pat|JP|1995252300|12</GBSeqid>
+      <GBSeqid>gi|22026628</GBSeqid>
+    </GBSeq_other-seqids>
+    <GBSeq_keywords>
+      <GBKeyword>JP 1995252300-A/12</GBKeyword>
+    </GBSeq_keywords>
+    <GBSeq_source>Hepatitis B virus</GBSeq_source>
+    <GBSeq_organism>Hepatitis B virus</GBSeq_organism>
+    <GBSeq_taxonomy>Viruses; Retro-transcribing viruses; Hepadnaviridae; Orthohepadnavirus</GBSeq_taxonomy>
+    <GBSeq_references>
+      <GBReference>
+        <GBReference_reference>1</GBReference_reference>
+        <GBReference_position>1..534</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Okamoto,H.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>ANTIGEN FUSED PROTEIN FROM DUCK HEPATITIS VIRUS AND HUMAN HEPATITIS VIRUS AND ITS PRODUCTION</GBReference_title>
+        <GBReference_journal>JP1995252300-A 12 03-OCT-1995 IMMUNO JAPAN:KK</GBReference_journal>
+      </GBReference>
+    </GBSeq_references>
+    <GBSeq_comment>OS Hepatitis B virus~PN JP 1995252300-A/12~PD 03-OCT-1995~PF 11-MAR-1994 JP 1994079181~PI OKAMOTO HIROAKI~PC C07K19/00,C07K14/02,C07K16/08,C12N7/02,C12N15/09,G01N33/569, PC G01N33/576;~CC strandedness: Single;~CC topology: Linear;~CC hypothetical: No;~CC anti-sense: No;~FH Key Location/Qualifiers~FH~FT source 1..534~FT /organism='Hepatitis B virus'.</GBSeq_comment>
+    <GBSeq_feature-table>
+      <GBFeature>
+        <GBFeature_key>source</GBFeature_key>
+        <GBFeature_location>1..534</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>534</GBInterval_to>
+            <GBInterval_accession>E10004.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>organism</GBQualifier_name>
+            <GBQualifier_value>Hepatitis B virus</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>mol_type</GBQualifier_name>
+            <GBQualifier_value>unassigned DNA</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>db_xref</GBQualifier_name>
+            <GBQualifier_value>taxon:10407</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+    </GBSeq_feature-table>
+    <GBSeq_sequence>atgcaactttttcacctctgcctaatcatctcatgttcatgtcctactgttcaagcctccaagctgtgccttgggtggctttggggcatggacattgacccgtataaagaatttggagcttctgtggagttactctcttttttgccttctgacttctttccttctattcgagatctcctcgacaccgcctctgctctgtatcgggaggccttagagtctccggaacattgttcacctcaccatacagcactcaggcaagctattctgtgttggggtgagttgatgaatctggccacctgggtgggaagtaatttggaagacccagcatccagggaattagtagtcagctatgtcaatgttaatatgggcctaaaaatcagacaactattgtggtttcacatttcctgtcttacttttggaagagaaactgttcttgagtatttggtatcttttggagtgtggattcgcactcctccagcttacagaccaccaaatgcccctatcttatcaacacttccggaaactactgttgtt</GBSeq_sequence>
+  </GBSeq>

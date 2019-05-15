@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<GBSeq>
+
+    <GBSeq_locus>AY371918</GBSeq_locus>
+    <GBSeq_length>639</GBSeq_length>
+    <GBSeq_strandedness>double</GBSeq_strandedness>
+    <GBSeq_moltype>DNA</GBSeq_moltype>
+    <GBSeq_topology>linear</GBSeq_topology>
+    <GBSeq_division>VRL</GBSeq_division>
+    <GBSeq_update-date>16-DEC-2004</GBSeq_update-date>
+    <GBSeq_create-date>09-SEP-2003</GBSeq_create-date>
+    <GBSeq_definition>Hepatitis B virus isolate IR:42 precore protein pseudogene, complete sequence; and core protein (C) gene, complete cds</GBSeq_definition>
+    <GBSeq_primary-accession>AY371918</GBSeq_primary-accession>
+    <GBSeq_accession-version>AY371918.1</GBSeq_accession-version>
+    <GBSeq_other-seqids>
+      <GBSeqid>gb|AY371918.1|</GBSeqid>
+      <GBSeqid>gi|34452657</GBSeqid>
+    </GBSeq_other-seqids>
+    <GBSeq_source>Hepatitis B virus</GBSeq_source>
+    <GBSeq_organism>Hepatitis B virus</GBSeq_organism>
+    <GBSeq_taxonomy>Viruses; Retro-transcribing viruses; Hepadnaviridae; Orthohepadnavirus</GBSeq_taxonomy>
+    <GBSeq_references>
+      <GBReference>
+        <GBReference_reference>1</GBReference_reference>
+        <GBReference_position>1..639</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Amini-Bavil-Olyaee,S.</GBAuthor>
+          <GBAuthor>Sarrami-Forooshani,R.</GBAuthor>
+          <GBAuthor>Mahboudi,F.</GBAuthor>
+          <GBAuthor>Sabahi,F.</GBAuthor>
+          <GBAuthor>Adeli,A.</GBAuthor>
+          <GBAuthor>Noorinayer,B.</GBAuthor>
+          <GBAuthor>Azizi,M.</GBAuthor>
+          <GBAuthor>Reza Zali,M.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>Genotype characterization and phylogenetic analysis of hepatitis B virus isolates from Iranian patients</GBReference_title>
+        <GBReference_journal>J. Med. Virol. 75 (2), 227-234 (2005)</GBReference_journal>
+        <GBReference_xref>
+          <GBXref>
+            <GBXref_dbname>doi</GBXref_dbname>
+            <GBXref_id>10.1002/jmv.20261</GBXref_id>
+          </GBXref>
+        </GBReference_xref>
+        <GBReference_pubmed>15602742</GBReference_pubmed>
+      </GBReference>
+      <GBReference>
+        <GBReference_reference>2</GBReference_reference>
+        <GBReference_position>1..639</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Azizi,M.</GBAuthor>
+          <GBAuthor>Amini Bavil Olyaee,S.</GBAuthor>
+          <GBAuthor>Sarrami Forooshani,R.</GBAuthor>
+          <GBAuthor>Saifi,P.</GBAuthor>
+          <GBAuthor>Nafisi,H.</GBAuthor>
+          <GBAuthor>Ghaziani,T.</GBAuthor>
+          <GBAuthor>Zali,M.R.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>Hepatitis B virus heterogeneity by using precore/core (Pre-C/C) genes among Iranian isolates</GBReference_title>
+        <GBReference_journal>Unpublished</GBReference_journal>
+      </GBReference>
+      <GBReference>
+        <GBReference_reference>3</GBReference_reference>
+        <GBReference_position>1..639</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Azizi,M.</GBAuthor>
+          <GBAuthor>Amini Bavil Olyaee,S.</GBAuthor>
+          <GBAuthor>Sarrami Forooshani,R.</GBAuthor>
+          <GBAuthor>Saifi,P.</GBAuthor>
+          <GBAuthor>Nafisi,H.</GBAuthor>
+          <GBAuthor>Ghaziani,T.</GBAuthor>
+          <GBAuthor>Zali,M.R.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>Direct Submission</GBReference_title>
+        <GBReference_journal>Submitted (20-AUG-2003) Biotechnology Department, Pasteur Institute of Iran, No. 69, Pasteur St., Pasteur Sq., Tehran 13164, Iran</GBReference_journal>
+      </GBReference>
+    </GBSeq_references>
+    <GBSeq_feature-table>
+      <GBFeature>
+        <GBFeature_key>source</GBFeature_key>
+        <GBFeature_location>1..639</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>639</GBInterval_to>
+            <GBInterval_accession>AY371918.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>organism</GBQualifier_name>
+            <GBQualifier_value>Hepatitis B virus</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>mol_type</GBQualifier_name>
+            <GBQualifier_value>genomic DNA</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>isolate</GBQualifier_name>
+            <GBQualifier_value>IR:42</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>db_xref</GBQualifier_name>
+            <GBQualifier_value>taxon:10407</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>country</GBQualifier_name>
+            <GBQualifier_value>Iran</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>gene</GBFeature_key>
+        <GBFeature_location>1..639</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>639</GBInterval_to>
+            <GBInterval_accession>AY371918.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>gene</GBQualifier_name>
+            <GBQualifier_value>C</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>misc_feature</GBFeature_key>
+        <GBFeature_location>1..639</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>639</GBInterval_to>
+            <GBInterval_accession>AY371918.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>gene</GBQualifier_name>
+            <GBQualifier_value>C</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>note</GBQualifier_name>
+            <GBQualifier_value>precore protein pseudogene</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>CDS</GBFeature_key>
+        <GBFeature_location>88..639</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>88</GBInterval_from>
+            <GBInterval_to>639</GBInterval_to>
+            <GBInterval_accession>AY371918.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>gene</GBQualifier_name>
+            <GBQualifier_value>C</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>note</GBQualifier_name>
+            <GBQualifier_value>HBc Ag</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>codon_start</GBQualifier_name>
+            <GBQualifier_value>1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>transl_table</GBQualifier_name>
+            <GBQualifier_value>1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>product</GBQualifier_name>
+            <GBQualifier_value>core protein</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>protein_id</GBQualifier_name>
+            <GBQualifier_value>AAQ72719.1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>translation</GBQualifier_name>
+            <GBQualifier_value>MDIDPYKEFGATVELLSFLPSDFFPSVRDLLDTASALYREALESPEHCSPHHTALRQAILCWGDLMTLATWVGGNLEDPTSRDLVVSYVNTNMGLKFRQLLWFHISCLTFGRETVIEYLVSFGVWIRTPPAYRPPNAPILSTLPETTVVRRRGRSPRRRTPSPRRRRSQSPRRRRSQSRESQC</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+    </GBSeq_feature-table>
+    <GBSeq_sequence>atgcaactttttcacctctgcctaatcatctcttgttcatgtcctactgttcaagcctccaagctgtgccttgggtggctttagggcatggacattgatccttataaagaatttggagctactgtggagttactctcgtttttgccttctgacttctttccttcagtacgagatcttctagataccgcctcagctctgtatcgggaagccttagagtctcctgagcattgttcacctcaccatactgcactcaggcaagcaattctatgctggggggacctaatgactctagctacctgggtgggtggtaatttggaagatccaacatccagggacctagtagtcagttatgtcaacactaatatgggcctgaagttcagacaactattgtggtttcacatttcttgtctcacttttggaagagaaacagttatagagtatttggtgtctttcggagtgtggattcgcactcctccagcttatagaccaccaaatgcccctatcttatcaacacttccggagactactgttgttagacgacgaggcaggtcccctagaagaagaactccctcgcctcgcagacgaaggtctcaatcgccgcgtcgcagaagatctcaatctcgggaatctcaatgttag</GBSeq_sequence>
+  </GBSeq>

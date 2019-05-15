@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<GBSeq>
+
+    <GBSeq_locus>CS626385</GBSeq_locus>
+    <GBSeq_length>1080</GBSeq_length>
+    <GBSeq_strandedness>double</GBSeq_strandedness>
+    <GBSeq_moltype>DNA</GBSeq_moltype>
+    <GBSeq_topology>linear</GBSeq_topology>
+    <GBSeq_division>PAT</GBSeq_division>
+    <GBSeq_update-date>10-JUL-2007</GBSeq_update-date>
+    <GBSeq_create-date>10-JUL-2007</GBSeq_create-date>
+    <GBSeq_definition>Sequence 36 from Patent WO2007052046</GBSeq_definition>
+    <GBSeq_primary-accession>CS626385</GBSeq_primary-accession>
+    <GBSeq_accession-version>CS626385.1</GBSeq_accession-version>
+    <GBSeq_other-seqids>
+      <GBSeqid>emb|CS626385.1|</GBSeqid>
+      <GBSeqid>pat|WO|2007052046|36</GBSeqid>
+      <GBSeqid>gi|151416006</GBSeqid>
+    </GBSeq_other-seqids>
+    <GBSeq_source>Hepatitis B virus</GBSeq_source>
+    <GBSeq_organism>Hepatitis B virus</GBSeq_organism>
+    <GBSeq_taxonomy>Viruses; Retro-transcribing viruses; Hepadnaviridae; Orthohepadnavirus</GBSeq_taxonomy>
+    <GBSeq_references>
+      <GBReference>
+        <GBReference_reference>1</GBReference_reference>
+        <GBReference_position>1..1080</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Eagles,P.A.</GBAuthor>
+          <GBAuthor>Qureshi,A.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>Anti-hepatitis b virus ribozymal nucleic acid</GBReference_title>
+        <GBReference_journal>WO2007052046-A1 36 10-MAY-2007 KINGS COLLEGE LONDON (GB)</GBReference_journal>
+      </GBReference>
+    </GBSeq_references>
+    <GBSeq_feature-table>
+      <GBFeature>
+        <GBFeature_key>source</GBFeature_key>
+        <GBFeature_location>1..1080</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>1080</GBInterval_to>
+            <GBInterval_accession>CS626385.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>organism</GBQualifier_name>
+            <GBQualifier_value>Hepatitis B virus</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>mol_type</GBQualifier_name>
+            <GBQualifier_value>unassigned DNA</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>db_xref</GBQualifier_name>
+            <GBQualifier_value>taxon:10407</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+    </GBSeq_feature-table>
+    <GBSeq_sequence>acattctcgggacggataactctgttgttctctcccgcaaatatacatcgtttccatggctgctaggctgtgctgccaactggatcctgcgcgggacgtcctttgtttacgtcccgtcggcgctgaatcccacggacgacccttctcggggtcgcttggggctctctcgtccccttctccgtctaccgtttcgaccgaccacggggcgcacctctctttacgcggactccccgtctgtgccttctcatctgccggaccgtgtgcacttcgcttcacctctgcacgtcgcatggagaccaccgtgaacgcccaccaattcttgcccaaggtcttacataagaggactcttggactctctgcaatgtcaacgaccgaccttgaggcatacttcaaagactgtttgttcaaagactgggaggagttgggggaggagattaggttaaaggtctttgtattaggaggctgtaggcataaattggtctgcgcaccagcaccatgcaactttttcacctctgcctaatcatcttttgttcatgtcctactgttcaagcctccaagctgtgccttgggtggctttggggcatggacattgatccttataaagaatttggagctactgtggagttactctcttttttgccttctgacttctttccttcagtacgtgatcttctagataccgcctcagctctgtatcgggaagccttagagtctcctgagcattgttcacctcaccatactgctctcaggcaagcaattctgtgctggggggaactaatgactctagctacctgggtgggtggtaatttggaagatccaatatccagggacctagtagtcagttatgtcaacactaatatgggcctaaagttccggcaactattgtggtttcacatttcttgtctcacttttggaagagaaacagttatagaatatttggtgtctttcggagtgtggattcgcactcctccagcttatagaccaccaaatgcccctatcttatcaacacttccggagactactgttgttagacgacgaggcaggtcccctagaagaagaactccctcgcctcgcagacga</GBSeq_sequence>
+  </GBSeq>

@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<GBSeq>
+
+    <GBSeq_locus>LT623875</GBSeq_locus>
+    <GBSeq_length>735</GBSeq_length>
+    <GBSeq_strandedness>double</GBSeq_strandedness>
+    <GBSeq_moltype>DNA</GBSeq_moltype>
+    <GBSeq_topology>linear</GBSeq_topology>
+    <GBSeq_division>VRL</GBSeq_division>
+    <GBSeq_update-date>05-OCT-2018</GBSeq_update-date>
+    <GBSeq_create-date>05-OCT-2018</GBSeq_create-date>
+    <GBSeq_definition>Hepatitis B virus S gene for S protein pseudogene, strain BFA16-H-94</GBSeq_definition>
+    <GBSeq_primary-accession>LT623875</GBSeq_primary-accession>
+    <GBSeq_accession-version>LT623875.1</GBSeq_accession-version>
+    <GBSeq_other-seqids>
+      <GBSeqid>emb|LT623875.1|</GBSeqid>
+      <GBSeqid>gi|1487192793</GBSeqid>
+    </GBSeq_other-seqids>
+    <GBSeq_source>Hepatitis B virus</GBSeq_source>
+    <GBSeq_organism>Hepatitis B virus</GBSeq_organism>
+    <GBSeq_taxonomy>Viruses; Retro-transcribing viruses; Hepadnaviridae; Orthohepadnavirus</GBSeq_taxonomy>
+    <GBSeq_references>
+      <GBReference>
+        <GBReference_reference>1</GBReference_reference>
+        <GBReference_position>1..735</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Sanou,A.M.</GBAuthor>
+          <GBAuthor>Tarnagda,Z.</GBAuthor>
+          <GBAuthor>Drabo,A.</GBAuthor>
+          <GBAuthor>Benkirane,K.</GBAuthor>
+          <GBAuthor>Muller,C.P.</GBAuthor>
+          <GBAuthor>Huebschen,J.M.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>Hepatitis B and D virus co-infections in Burkina Faso and genetic characterization of the viruses</GBReference_title>
+        <GBReference_journal>Unpublished</GBReference_journal>
+      </GBReference>
+      <GBReference>
+        <GBReference_reference>2</GBReference_reference>
+        <GBReference_position>1..735</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Hubschen,J.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>Direct Submission</GBReference_title>
+        <GBReference_journal>Submitted (18-AUG-2016) Department of Infection and Immunity, CRP-Sante / Laboratoire National de, 29 rue Henri Koch, Esch-sur-Alzette, L-4354, LUXEMBOURG</GBReference_journal>
+      </GBReference>
+    </GBSeq_references>
+    <GBSeq_feature-table>
+      <GBFeature>
+        <GBFeature_key>source</GBFeature_key>
+        <GBFeature_location>1..735</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>735</GBInterval_to>
+            <GBInterval_accession>LT623875.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>organism</GBQualifier_name>
+            <GBQualifier_value>Hepatitis B virus</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>mol_type</GBQualifier_name>
+            <GBQualifier_value>genomic DNA</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>strain</GBQualifier_name>
+            <GBQualifier_value>BFA16-H-94</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>db_xref</GBQualifier_name>
+            <GBQualifier_value>taxon:10407</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>country</GBQualifier_name>
+            <GBQualifier_value>Burkina Faso</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>note</GBQualifier_name>
+            <GBQualifier_value>genotype:E</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>gene</GBFeature_key>
+        <GBFeature_location>40..720</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>40</GBInterval_from>
+            <GBInterval_to>720</GBInterval_to>
+            <GBInterval_accession>LT623875.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>gene</GBQualifier_name>
+            <GBQualifier_value>S</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>pseudo</GBQualifier_name>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>CDS</GBFeature_key>
+        <GBFeature_location>40..720</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>40</GBInterval_from>
+            <GBInterval_to>720</GBInterval_to>
+            <GBInterval_accession>LT623875.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>gene</GBQualifier_name>
+            <GBQualifier_value>S</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>pseudo</GBQualifier_name>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>codon_start</GBQualifier_name>
+            <GBQualifier_value>1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>transl_table</GBQualifier_name>
+            <GBQualifier_value>1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>product</GBQualifier_name>
+            <GBQualifier_value>S protein</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+    </GBSeq_feature-table>
+    <GBSeq_sequence>tcgtcaatcttctcgaggattggggaccctgcaccgaacatggaaggcatcacatcaggattcctaggacccctgctcgtgttacaggcggggtttttcttgttgacaaaaatcctcacaataccgcagagtctagactcgtggtggacttctctcaattttctagggggagctcccgtgtgtcttggccaaaattcgcagtccccaatctccaatcactcaccaacctcttgtcctccaatttgacctggctatcgctggatgtgtctgcggcgttttatcatcttcctcttcatcctgctgctatgcctcatcttcttgttggttcttctggactatcaaggtatgttgcccgtttgtcctctaattccaggatcatcaaccaccagtacgggaccctgccgaacctgcacgactcttgctccaggaacctctatgtttccctcatgttgctgttcaaaaccttcggamggaaattgcacttgtattcccatcccatcatcttgggctttcggaaaattcctatgggagtgggcctcagcccgtttctcttggctcagtttactagtgccatttgttcagtggttcgccgggctttcccccactgtctggctttcagttatatggatgatgtggtattgggggccaagtctgcacaacatcttgagtccctttatacctctgttaccaattttcttttgtctttgggcatacatttaaatcccaacaaaacaa</GBSeq_sequence>
+  </GBSeq>

@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<GBSeq>
+
+    <GBSeq_locus>EU234067</GBSeq_locus>
+    <GBSeq_length>530</GBSeq_length>
+    <GBSeq_strandedness>double</GBSeq_strandedness>
+    <GBSeq_moltype>DNA</GBSeq_moltype>
+    <GBSeq_topology>linear</GBSeq_topology>
+    <GBSeq_division>VRL</GBSeq_division>
+    <GBSeq_update-date>26-JUL-2016</GBSeq_update-date>
+    <GBSeq_create-date>11-NOV-2007</GBSeq_create-date>
+    <GBSeq_definition>Hepatitis B virus isolate 19_BE77 nonfunctional precore/core protein (C) gene, partial sequence</GBSeq_definition>
+    <GBSeq_primary-accession>EU234067</GBSeq_primary-accession>
+    <GBSeq_accession-version>EU234067.1</GBSeq_accession-version>
+    <GBSeq_other-seqids>
+      <GBSeqid>gb|EU234067.1|</GBSeqid>
+      <GBSeqid>gi|159147144</GBSeqid>
+    </GBSeq_other-seqids>
+    <GBSeq_source>Hepatitis B virus</GBSeq_source>
+    <GBSeq_organism>Hepatitis B virus</GBSeq_organism>
+    <GBSeq_taxonomy>Viruses; Retro-transcribing viruses; Hepadnaviridae; Orthohepadnavirus</GBSeq_taxonomy>
+    <GBSeq_references>
+      <GBReference>
+        <GBReference_reference>1</GBReference_reference>
+        <GBReference_position>1..530</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Vitale,F.</GBAuthor>
+          <GBAuthor>Tramuto,F.</GBAuthor>
+          <GBAuthor>Orlando,A.</GBAuthor>
+          <GBAuthor>Vizzini,G.</GBAuthor>
+          <GBAuthor>Meli,V.</GBAuthor>
+          <GBAuthor>Cerame,G.</GBAuthor>
+          <GBAuthor>Mazzucco,W.</GBAuthor>
+          <GBAuthor>Virdone,R.</GBAuthor>
+          <GBAuthor>Palazzo,U.</GBAuthor>
+          <GBAuthor>Villafrate,M.R.</GBAuthor>
+          <GBAuthor>Tagger,A.</GBAuthor>
+          <GBAuthor>Romano,N.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>Can the serological status of anti-HBc alone be considered a sentinel marker for detection of occult HBV infection?</GBReference_title>
+        <GBReference_journal>J. Med. Virol. 80 (4), 577-582 (2008)</GBReference_journal>
+        <GBReference_xref>
+          <GBXref>
+            <GBXref_dbname>doi</GBXref_dbname>
+            <GBXref_id>10.1002/jmv.21121</GBXref_id>
+          </GBXref>
+        </GBReference_xref>
+        <GBReference_pubmed>18297707</GBReference_pubmed>
+      </GBReference>
+      <GBReference>
+        <GBReference_reference>2</GBReference_reference>
+        <GBReference_position>1..530</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Vitale,F.</GBAuthor>
+          <GBAuthor>Tramuto,F.</GBAuthor>
+          <GBAuthor>Orlando,A.</GBAuthor>
+          <GBAuthor>Vizzini,G.</GBAuthor>
+          <GBAuthor>Meli,V.</GBAuthor>
+          <GBAuthor>Cerame,G.</GBAuthor>
+          <GBAuthor>Mazzucco,W.</GBAuthor>
+          <GBAuthor>Virdone,R.</GBAuthor>
+          <GBAuthor>Palazzo,U.</GBAuthor>
+          <GBAuthor>Villafrate,M.R.</GBAuthor>
+          <GBAuthor>Tagger,A.</GBAuthor>
+          <GBAuthor>Romano,N.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>Direct Submission</GBReference_title>
+        <GBReference_journal>Submitted (18-OCT-2007) Dipartimento di Igiene e Microbiologia G. D'Alessandro - Sezione di Igiene, Universita' degli Studi di Palermo, Via del Vespro, 133, Palermo I-90127, Italy</GBReference_journal>
+      </GBReference>
+    </GBSeq_references>
+    <GBSeq_feature-table>
+      <GBFeature>
+        <GBFeature_key>source</GBFeature_key>
+        <GBFeature_location>1..530</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>530</GBInterval_to>
+            <GBInterval_accession>EU234067.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>organism</GBQualifier_name>
+            <GBQualifier_value>Hepatitis B virus</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>mol_type</GBQualifier_name>
+            <GBQualifier_value>genomic DNA</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>isolate</GBQualifier_name>
+            <GBQualifier_value>19_BE77</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>isolation_source</GBQualifier_name>
+            <GBQualifier_value>serum; female</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>host</GBQualifier_name>
+            <GBQualifier_value>Homo sapiens</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>db_xref</GBQualifier_name>
+            <GBQualifier_value>taxon:10407</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>country</GBQualifier_name>
+            <GBQualifier_value>Italy</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>note</GBQualifier_name>
+            <GBQualifier_value>genotype: E</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>gene</GBFeature_key>
+        <GBFeature_location>&lt;1..&gt;530</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>530</GBInterval_to>
+            <GBInterval_accession>EU234067.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_partial5 value="true"/>
+        <GBFeature_partial3 value="true"/>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>gene</GBQualifier_name>
+            <GBQualifier_value>C</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>misc_feature</GBFeature_key>
+        <GBFeature_location>&lt;1..&gt;530</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>530</GBInterval_to>
+            <GBInterval_accession>EU234067.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_partial5 value="true"/>
+        <GBFeature_partial3 value="true"/>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>gene</GBQualifier_name>
+            <GBQualifier_value>C</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>note</GBQualifier_name>
+            <GBQualifier_value>nonfunctional precore/core protein due to mutation</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+    </GBSeq_feature-table>
+    <GBSeq_sequence>actgttcaagcctccaagctgtgccttgggtggctttagggcatggacattgacccttataaagaatttggagcttctgtggagttactctcgtttttgccttctgacttctytccttcagtaagagatcttctagataccgcctcagctctgtatcgggatgccttggaatctcctgagcattgtacacctcaccacactgcactcaggcaagccattctttgctggggggaactaatgactctagctacctgggtgggtgcaaatttgcaagatccagcatccagggaccaagtagtcagttatgtcaatactaatatgggcctaaagttcaggcaattattgtggtttcatatttcttgtctcacttttggaagagaaaccgtcgcagagtatttggtgtcttttggagtgtggattcgcactcctccaccttatagaccaccaaatgcccctatcttatcaacacttccggagattactgttgttagacgaagaggcaggtcccctagaagaagaactccctcgcc</GBSeq_sequence>
+  </GBSeq>

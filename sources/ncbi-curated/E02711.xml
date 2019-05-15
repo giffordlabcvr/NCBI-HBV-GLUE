@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<GBSeq>
+
+    <GBSeq_locus>E02711</GBSeq_locus>
+    <GBSeq_length>1296</GBSeq_length>
+    <GBSeq_strandedness>double</GBSeq_strandedness>
+    <GBSeq_moltype>DNA</GBSeq_moltype>
+    <GBSeq_topology>linear</GBSeq_topology>
+    <GBSeq_division>PAT</GBSeq_division>
+    <GBSeq_update-date>04-NOV-2005</GBSeq_update-date>
+    <GBSeq_create-date>06-JUN-1997</GBSeq_create-date>
+    <GBSeq_definition>DNA sequence coding for native prourokinase</GBSeq_definition>
+    <GBSeq_primary-accession>E02711</GBSeq_primary-accession>
+    <GBSeq_accession-version>E02711.1</GBSeq_accession-version>
+    <GBSeq_other-seqids>
+      <GBSeqid>dbj|E02711.1|</GBSeqid>
+      <GBSeqid>pat|JP|1991022979|4</GBSeqid>
+      <GBSeqid>gi|2170939</GBSeqid>
+    </GBSeq_other-seqids>
+    <GBSeq_keywords>
+      <GBKeyword>JP 1991022979-A/4</GBKeyword>
+    </GBSeq_keywords>
+    <GBSeq_source>Hepatitis B virus</GBSeq_source>
+    <GBSeq_organism>Hepatitis B virus</GBSeq_organism>
+    <GBSeq_taxonomy>Viruses; Retro-transcribing viruses; Hepadnaviridae; Orthohepadnavirus</GBSeq_taxonomy>
+    <GBSeq_references>
+      <GBReference>
+        <GBReference_reference>1</GBReference_reference>
+        <GBReference_position>1..1296</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Yasumura,S.</GBAuthor>
+          <GBAuthor>Nishi,T.</GBAuthor>
+          <GBAuthor>Itou,S.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>NOVEL PLASMINOGEN-ACTIVATION FACTOR</GBReference_title>
+        <GBReference_journal>JP1991022979-A 4 31-JAN-1991 KYOWA HAKKO KOGYO CO LTD</GBReference_journal>
+      </GBReference>
+    </GBSeq_references>
+    <GBSeq_comment>PN JP 1991022979-A/4~PD 31-JAN-1991~PF 19-JUN-1989 JP 1989156302~PI YASUMURA SHIGEYOSHI, NISHI TATSUYA, ITOU SEIGA PC C12N9/72,C12N15/58,(C12N9/72,C12R1:19);~CC strandedness: Double;~CC topology: Linear;~CC hypothetical: No;~CC anti-sense: No;~FH Key Location/Qualifiers~FH~FT sig_peptide 1..60~FT /product='Natire prourokinase signal peptide' FT CDS 61..1296~FT /product='Native prourokinase' FT mat_peptide 61..192~FT /note='Growth factor domain'~FT mat_peptide 193..459~FT /note='taringul domain'~FT mat_peptide 460..1293~FT /note='Protease domain'.</GBSeq_comment>
+    <GBSeq_feature-table>
+      <GBFeature>
+        <GBFeature_key>source</GBFeature_key>
+        <GBFeature_location>1..1296</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>1296</GBInterval_to>
+            <GBInterval_accession>E02711.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>organism</GBQualifier_name>
+            <GBQualifier_value>Hepatitis B virus</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>mol_type</GBQualifier_name>
+            <GBQualifier_value>unassigned DNA</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>db_xref</GBQualifier_name>
+            <GBQualifier_value>taxon:10407</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+    </GBSeq_feature-table>
+    <GBSeq_sequence>atgagagccctgctggcgcgcctgcttctctgcgtcctggtcgtgagcgactccaaaggcagcaatgaacttcatcaagttccatcgaactgtgactgtctaaatggaggaacatgtgtgtccaacaagtacttctccaacattcactggtgcaactgcccaaagaaattcggagggcagcactgtgaaatagataagtcaaaaacctgctatgaggggaatggtcacttttaccgaggaaaggccagcactgacaccatgggccggccctgcctgccctggaactctgccactgtccttcagcaaacgtaccatgcccacagatctgatgctcttcagctgggcctggggaaacataattactgcaggaacccagacaaccggaggcgaccctggtgctatgtgcaggtgggcctaaagccgcttgtccaagagtgcatggtgcatgactgcgcagatggaaaaaagccctcctctcctccagaagaattaaaatttcagtgtggccaaaagactctgaggccccgctttaagattattgggggagaattcaccaccatcgagaaccagccctggtttgcggccatctacaggaggcaccgggggggctctgtcacctacgtgtgtggaggcagcctcatcagcccttgctgggtgatcagcgccacacactgcttcattgattacccaaagaaggaggactacatcgtctacctgggtcgctcaaggcttaactccaacacgcaaggggagatgaagtttgaggtggaaaacctcatcctacacaaggactacagcgctgacacgcttgctcaccacaatgacattgccttgctgaagatccgttccaaggagggcaggtgtgcgcagccatcccggactatacagaccatctgcctgccctcgatgtataacgatccccagtttggcacaagctgtgagatcactggctttggaaaagagaattctaccgactatctctatccggagcagctgaaaatgactgttgtgaagctgatttcccaccgggagtgtcagcagccccactactacggctctgaagtcaccaccaaaatgctgtgtgctgctgacccacagtggaaaacagattcctgccagggagactcagggggacccctcgtctgttccctccaaggccgcatgactttgactggaattgtgagctggggccgtggatgtgccctgaaggacaagccaggcgtctacacgagagtctcacacttcttaccctggatccgcagtcacaccaaggaagagaatggcctggccctctga</GBSeq_sequence>
+  </GBSeq>

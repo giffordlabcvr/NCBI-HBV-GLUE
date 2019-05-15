@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<GBSeq>
+
+    <GBSeq_locus>S74815</GBSeq_locus>
+    <GBSeq_length>1381</GBSeq_length>
+    <GBSeq_strandedness>double</GBSeq_strandedness>
+    <GBSeq_moltype>DNA</GBSeq_moltype>
+    <GBSeq_topology>linear</GBSeq_topology>
+    <GBSeq_division>VRL</GBSeq_division>
+    <GBSeq_update-date>27-JUL-2018</GBSeq_update-date>
+    <GBSeq_create-date>05-MAY-1995</GBSeq_create-date>
+    <GBSeq_definition>pre-S region: S-E-X {clone lambda 36A, provivral} [human hepatitis B virus HBV, host=hepatocellular carcinoma cell line HCC36, Genomic, 1381 nt]</GBSeq_definition>
+    <GBSeq_primary-accession>S74815</GBSeq_primary-accession>
+    <GBSeq_accession-version>S74815.1</GBSeq_accession-version>
+    <GBSeq_other-seqids>
+      <GBSeqid>bbm|358038</GBSeqid>
+      <GBSeqid>bbs|159167</GBSeqid>
+      <GBSeqid>gb|S74815.1|</GBSeqid>
+      <GBSeqid>gi|797382</GBSeqid>
+    </GBSeq_other-seqids>
+    <GBSeq_source>Hepatitis B virus</GBSeq_source>
+    <GBSeq_organism>Hepatitis B virus</GBSeq_organism>
+    <GBSeq_taxonomy>Viruses; Retro-transcribing viruses; Hepadnaviridae; Orthohepadnavirus</GBSeq_taxonomy>
+    <GBSeq_references>
+      <GBReference>
+        <GBReference_reference>1</GBReference_reference>
+        <GBReference_position>1..1381</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Chen,J.Y.</GBAuthor>
+          <GBAuthor>Harrison,T.J.</GBAuthor>
+          <GBAuthor>Tsuei,D.J.</GBAuthor>
+          <GBAuthor>Hsu,T.Y.</GBAuthor>
+          <GBAuthor>Zuckerman,A.J.</GBAuthor>
+          <GBAuthor>Chan,T.S.</GBAuthor>
+          <GBAuthor>Yang,C.S.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>Analysis of integrated hepatitis B virus DNA and flanking cellular sequences in the hepatocellular carcinoma cell line HCC36</GBReference_title>
+        <GBReference_journal>Intervirology 37 (1), 41-46 (1994)</GBReference_journal>
+        <GBReference_pubmed>7928289</GBReference_pubmed>
+        <GBReference_remark>GenBank staff at the National Library of Medicine created this entry [NCBI gibbsq 159167] from the original journal article.</GBReference_remark>
+      </GBReference>
+    </GBSeq_references>
+    <GBSeq_comment>Region: pre-S region.</GBSeq_comment>
+    <GBSeq_feature-table>
+      <GBFeature>
+        <GBFeature_key>source</GBFeature_key>
+        <GBFeature_location>1..1381</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>1381</GBInterval_to>
+            <GBInterval_accession>S74815.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>organism</GBQualifier_name>
+            <GBQualifier_value>Hepatitis B virus</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>mol_type</GBQualifier_name>
+            <GBQualifier_value>genomic DNA</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>host</GBQualifier_name>
+            <GBQualifier_value>hepatocellular carcinoma cell line HCC36</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>db_xref</GBQualifier_name>
+            <GBQualifier_value>taxon:10407</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>gene</GBFeature_key>
+        <GBFeature_location>1..1381</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>1381</GBInterval_to>
+            <GBInterval_accession>S74815.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>gene</GBQualifier_name>
+            <GBQualifier_value>S-E-X</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+    </GBSeq_feature-table>
+    <GBSeq_sequence>caattcctcctcctgcctccaccaatcggcagtcaggaaggcagcctactccctcatcgccacctctaagggacactcatcctcaggccatgcagtggaactccaccactttccaccaaactcttcaagatcccagagtcagggccctgtaccttcctgctggtggctccagttcaggaacagtgagccctgctcagaatattgtctctgccatatcgtcaatcttatcgaagactggggaccctgtaacgaacatggagaacatcgcatcaggactcctaggacccctgctcgtgttacaggcggggtttttcttgtcgacaaaaatcctcacaataccacagagtctagactcgtggtggacttctctcaattttctagggggaacacccgtgtgtcttggccaaaattcgcagtcccaaatctccagtcactcaccaacctgttgtcctccaatttgtcctggttatcgctggatgtgtctgcggcgttttatcatcttcctctgcatcctgctgctatgcctcatcttcttgttggttcttctggactatcaaggtatgttgcccgtttgtcctctaattccaggatcaacaacaaccagcacgggaccatgcaaaacctgcacgactcctgctcaaggaacctctatgtttccctcatgttgctgtataaaacctacggacggaaactgcacctgtattcccatcccatcatcttgggctttcgcaaaatacctatgggagtgggcctcagtccgtttctcttggctcagtttactagtgccatttgttcagtggttcgtagggctttcccccactgtctggctttcagttatatggatgatgtggttttgggggccaagtctgtacaacatcttgagtccctttatgccgctgttaccaattttcttttgtctttgggtatacatttaaaccctcacaaaacaaaaagatggggatattcccttaacttcatgggatatgtaattggaagttggggcacattgccacaggaacatattgtacaaaaaatcaaaatgtgttttaggaaacttcctgtaaacaggcctattgattggaaagtatgtcaacgaattgtgggtcttttggggtttgccgcccctttcacgcaatgtggatatcctgctttaatgcctttatatgcatgtatacaagcaaaacaggcttttactttctcgccaacttacaaggcctttctacgtaaccagtatctgaccctttaccccgttgctcggcaacggcctggtctgtgccaagtgtttgctgacgcaacccccactggttggggcttggccataggccatcagcgcatgcgtggaacctttgtgtctcctctgccgatccattgacctgcgagg</GBSeq_sequence>
+  </GBSeq>

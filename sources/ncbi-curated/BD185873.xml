@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<GBSeq>
+
+    <GBSeq_locus>BD185873</GBSeq_locus>
+    <GBSeq_length>560</GBSeq_length>
+    <GBSeq_strandedness>double</GBSeq_strandedness>
+    <GBSeq_moltype>DNA</GBSeq_moltype>
+    <GBSeq_topology>linear</GBSeq_topology>
+    <GBSeq_division>PAT</GBSeq_division>
+    <GBSeq_update-date>05-AUG-2014</GBSeq_update-date>
+    <GBSeq_create-date>17-JUN-2003</GBSeq_create-date>
+    <GBSeq_definition>WO 2002101042-A/69: A stabilization method and a preservation method for a reagent for nucleic acid amplification or detection reaction</GBSeq_definition>
+    <GBSeq_primary-accession>BD185873</GBSeq_primary-accession>
+    <GBSeq_accession-version>BD185873.1</GBSeq_accession-version>
+    <GBSeq_other-seqids>
+      <GBSeqid>dbj|BD185873.1|</GBSeqid>
+      <GBSeqid>pat|WO|2002101042|69</GBSeqid>
+      <GBSeqid>gi|31878073</GBSeqid>
+    </GBSeq_other-seqids>
+    <GBSeq_keywords>
+      <GBKeyword>WO 2002101042-A/69</GBKeyword>
+    </GBSeq_keywords>
+    <GBSeq_source>Hepatitis B virus</GBSeq_source>
+    <GBSeq_organism>Hepatitis B virus</GBSeq_organism>
+    <GBSeq_taxonomy>Viruses; Retro-transcribing viruses; Hepadnaviridae; Orthohepadnavirus</GBSeq_taxonomy>
+    <GBSeq_references>
+      <GBReference>
+        <GBReference_reference>1</GBReference_reference>
+        <GBReference_position>1..560</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Sagawa,H.</GBAuthor>
+          <GBAuthor>Uemori,T.</GBAuthor>
+          <GBAuthor>Mukai,H.</GBAuthor>
+          <GBAuthor>Yamamoto,J.</GBAuthor>
+          <GBAuthor>Tomono,J.</GBAuthor>
+          <GBAuthor>Kobayashi,E.</GBAuthor>
+          <GBAuthor>Enoki,T.</GBAuthor>
+          <GBAuthor>Asada,K.</GBAuthor>
+          <GBAuthor>Kato,I.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>A stabilization method and a preservation method for a reagent for nucleic acid amplification or detection reaction</GBReference_title>
+        <GBReference_journal>WO2002101042-A 69 19-DEC-2002 TAKARA BIO INC,HIROAKI SAGAWA,TAKASHI UEMORI,HIROYUKI MUKAI,JUNKO YAMAMOTO, JUN TOMONO,EIJI KOBAYASHI,TATSUJI ENOKI,KIYOZO ASADA,IKUNOSHIN KATO</GBReference_journal>
+      </GBReference>
+    </GBSeq_references>
+    <GBSeq_comment>OS Hepatitis virus (hepatitis B virus)~PN WO 2002101042-A/69~PD 19-DEC-2002~PF 12-JUN-2002 WO 2002JP005832~PR 12-JUN-2001 JP 01P 177737,20-AUG-2001 JP 01P 249689~PA TAKARA BIO INC,HIROAKI SAGAWA,TAKASHI UEMORI,HIROYUKI~PA MUKAI,JUNKO YAMAMOTO,~PA JUN TOMONO,EIJI KOBAYASHI,TATSUJI ENOKI,KIYOZO ASADA,IKUNOSHIN~PA KATO~PI HIROAKI SAGAWA,TAKASHI UEMORI,HIROYUKI MUKAI,JUNKO~PI YAMAMOTO,JUN TOMONO,~PI EIJI KOBAYASHI,TATSUJI ENOKI,KIYOZO ASADA,IKUNOSHIN KATO~PT 'A stabilization method and a preservation method for a~PT reagent for~PT nucleic acid amplification or detection reaction'~PS~PC C12N15/09,C12Q1/68~CC A stabilization method and a preservation method for a reagent~CC for nucleic~CC acid amplification or detection reaction~FH Key Location/Qualifiers~FT source 1..560~FT /organism='Hepatitis virus (hepatitis B virus)'.</GBSeq_comment>
+    <GBSeq_feature-table>
+      <GBFeature>
+        <GBFeature_key>source</GBFeature_key>
+        <GBFeature_location>1..560</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>560</GBInterval_to>
+            <GBInterval_accession>BD185873.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>organism</GBQualifier_name>
+            <GBQualifier_value>Hepatitis B virus</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>mol_type</GBQualifier_name>
+            <GBQualifier_value>unassigned DNA</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>db_xref</GBQualifier_name>
+            <GBQualifier_value>taxon:10407</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+    </GBSeq_feature-table>
+    <GBSeq_sequence>ccttcccatggctgctcgggtgtgctgccaactggatcctgcgcgggacgtcctttgtctacgtcccgtcggcgctgaatcccgcggacgacccgtctcggggccgtttgggcctctaccgtcccttgctttctctgccgttccagccgaccacggggcgcacctctctttacgcggtctccccgtctgtgccttctcatctgccggaccgtgtgcacttcgcttcacctctgcacgtcgcatggagaccaccgtgaacggccaccaggtcttgcccaagctcttacataagaggactcttggactctcagcaatgtcaacaaccgaccttgaggcatacttcaaagactgtttgtttaaagactgggaggagttgggggaggagattaggttaaaggtctttgtactaggaggctgtaggcataaattggtctgttcaccagcaccatgcaactttttcacctctgcctaatcatctcatgttcatgtcctactgttcaagcctccaagctgtgccttgggtggctttggggcatggacattgacccgtataaagaatt</GBSeq_sequence>
+  </GBSeq>

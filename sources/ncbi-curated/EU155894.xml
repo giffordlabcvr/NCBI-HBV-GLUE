@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<GBSeq>
+
+    <GBSeq_locus>EU155894</GBSeq_locus>
+    <GBSeq_length>252</GBSeq_length>
+    <GBSeq_strandedness>double</GBSeq_strandedness>
+    <GBSeq_moltype>DNA</GBSeq_moltype>
+    <GBSeq_topology>linear</GBSeq_topology>
+    <GBSeq_division>VRL</GBSeq_division>
+    <GBSeq_update-date>26-JUL-2016</GBSeq_update-date>
+    <GBSeq_create-date>01-MAR-2008</GBSeq_create-date>
+    <GBSeq_definition>Hepatitis B virus isolate 5a S protein gene, partial cds</GBSeq_definition>
+    <GBSeq_primary-accession>EU155894</GBSeq_primary-accession>
+    <GBSeq_accession-version>EU155894.1</GBSeq_accession-version>
+    <GBSeq_other-seqids>
+      <GBSeqid>gb|EU155894.1|</GBSeqid>
+      <GBSeqid>gi|162424175</GBSeqid>
+    </GBSeq_other-seqids>
+    <GBSeq_source>Hepatitis B virus</GBSeq_source>
+    <GBSeq_organism>Hepatitis B virus</GBSeq_organism>
+    <GBSeq_taxonomy>Viruses; Retro-transcribing viruses; Hepadnaviridae; Orthohepadnavirus</GBSeq_taxonomy>
+    <GBSeq_references>
+      <GBReference>
+        <GBReference_reference>1</GBReference_reference>
+        <GBReference_position>1..252</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Zaaijer,H.L.</GBAuthor>
+          <GBAuthor>Torres,P.</GBAuthor>
+          <GBAuthor>Ontanon,A.</GBAuthor>
+          <GBAuthor>Ponte,L.G.</GBAuthor>
+          <GBAuthor>Koppelman,M.H.</GBAuthor>
+          <GBAuthor>Lelie,P.N.</GBAuthor>
+          <GBAuthor>Hemert,F.J.</GBAuthor>
+          <GBAuthor>Boot,H.J.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>Multiple surface antigen mutations in five blood donors with occult hepatitis B virus infection</GBReference_title>
+        <GBReference_journal>J. Med. Virol. 80 (8), 1344-1349 (2008)</GBReference_journal>
+        <GBReference_xref>
+          <GBXref>
+            <GBXref_dbname>doi</GBXref_dbname>
+            <GBXref_id>10.1002/jmv.21233</GBXref_id>
+          </GBXref>
+        </GBReference_xref>
+        <GBReference_pubmed>18551607</GBReference_pubmed>
+      </GBReference>
+      <GBReference>
+        <GBReference_reference>2</GBReference_reference>
+        <GBReference_position>1..252</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Zaaijer,H.L.</GBAuthor>
+          <GBAuthor>Boot,H.J.</GBAuthor>
+          <GBAuthor>Torres,P.</GBAuthor>
+          <GBAuthor>Gonzalez,R.</GBAuthor>
+          <GBAuthor>Ontanon,A.</GBAuthor>
+          <GBAuthor>Koppelman,M.H.</GBAuthor>
+          <GBAuthor>Lelie,N.</GBAuthor>
+          <GBAuthor>van Hemert,F.J.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>Direct Submission</GBReference_title>
+        <GBReference_journal>Submitted (14-SEP-2007) Clinical Virology, Academic Medical Center, PO Box 22660, Amsterdam 1100-DD, The Netherlands</GBReference_journal>
+      </GBReference>
+    </GBSeq_references>
+    <GBSeq_feature-table>
+      <GBFeature>
+        <GBFeature_key>source</GBFeature_key>
+        <GBFeature_location>1..252</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>252</GBInterval_to>
+            <GBInterval_accession>EU155894.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>organism</GBQualifier_name>
+            <GBQualifier_value>Hepatitis B virus</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>mol_type</GBQualifier_name>
+            <GBQualifier_value>genomic DNA</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>isolate</GBQualifier_name>
+            <GBQualifier_value>5a</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>isolation_source</GBQualifier_name>
+            <GBQualifier_value>blood donor #5, HBsAg negative, HBV-DNA positive</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>db_xref</GBQualifier_name>
+            <GBQualifier_value>taxon:10407</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>country</GBQualifier_name>
+            <GBQualifier_value>Spain</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>CDS</GBFeature_key>
+        <GBFeature_location>&lt;1..&gt;252</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>252</GBInterval_to>
+            <GBInterval_accession>EU155894.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_partial5 value="true"/>
+        <GBFeature_partial3 value="true"/>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>note</GBQualifier_name>
+            <GBQualifier_value>contains a-determinant</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>codon_start</GBQualifier_name>
+            <GBQualifier_value>3</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>transl_table</GBQualifier_name>
+            <GBQualifier_value>1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>product</GBQualifier_name>
+            <GBQualifier_value>S protein</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>protein_id</GBQualifier_name>
+            <GBQualifier_value>ABX89824.1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>translation</GBQualifier_name>
+            <GBQualifier_value>TSRGTCRNCMLNAPGTSMSPFCCCTKPSDGNCTCIPIPSSWAFGKFLWGWASARFSWLSSLVQFVQWFVGLSPTVWLSVIWMI</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+    </GBSeq_feature-table>
+    <GBSeq_sequence>acaccagcaggggaacatgccgaaactgcatgctgaatgctccaggaacctctatgtctcccttctgttgctgtaccaaaccttcggacggaaattgcacctgtattcccatcccatcatcctgggctttcggaaaattcctatgggggtgggcctcagcccgtttctcctggctcagttcactagtgcaatttgttcagtggttcgtagggctttcccccactgtttggctttcagttatatggatgatat</GBSeq_sequence>
+  </GBSeq>

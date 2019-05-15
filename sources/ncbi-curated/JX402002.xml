@@ -1,0 +1,237 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<GBSeq>
+
+    <GBSeq_locus>JX402002</GBSeq_locus>
+    <GBSeq_length>733</GBSeq_length>
+    <GBSeq_strandedness>double</GBSeq_strandedness>
+    <GBSeq_moltype>DNA</GBSeq_moltype>
+    <GBSeq_topology>linear</GBSeq_topology>
+    <GBSeq_division>VRL</GBSeq_division>
+    <GBSeq_update-date>05-JUN-2013</GBSeq_update-date>
+    <GBSeq_create-date>26-SEP-2012</GBSeq_create-date>
+    <GBSeq_definition>Hepatitis B virus isolate FN0473 polymerase (P) and S protein (S) genes, partial cds</GBSeq_definition>
+    <GBSeq_primary-accession>JX402002</GBSeq_primary-accession>
+    <GBSeq_accession-version>JX402002.1</GBSeq_accession-version>
+    <GBSeq_other-seqids>
+      <GBSeqid>gb|JX402002.1|</GBSeqid>
+      <GBSeqid>gi|406363900</GBSeqid>
+    </GBSeq_other-seqids>
+    <GBSeq_source>Hepatitis B virus</GBSeq_source>
+    <GBSeq_organism>Hepatitis B virus</GBSeq_organism>
+    <GBSeq_taxonomy>Viruses; Retro-transcribing viruses; Hepadnaviridae; Orthohepadnavirus</GBSeq_taxonomy>
+    <GBSeq_references>
+      <GBReference>
+        <GBReference_reference>1</GBReference_reference>
+        <GBReference_position>1..733</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Khamduang,W.</GBAuthor>
+          <GBAuthor>Ngo-Giang-Huong,N.</GBAuthor>
+          <GBAuthor>Gaudy-Graffin,C.</GBAuthor>
+          <GBAuthor>Jourdain,G.</GBAuthor>
+          <GBAuthor>Suwankornsakul,W.</GBAuthor>
+          <GBAuthor>Jarupanich,T.</GBAuthor>
+          <GBAuthor>Chalermpolprapa,V.</GBAuthor>
+          <GBAuthor>Nanta,S.</GBAuthor>
+          <GBAuthor>Puarattana-Aroonkorn,N.</GBAuthor>
+          <GBAuthor>Tonmat,S.</GBAuthor>
+          <GBAuthor>Lallemant,M.</GBAuthor>
+          <GBAuthor>Goudeau,A.</GBAuthor>
+          <GBAuthor>Sirirungsi,W.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_consortium>Program for HIV Prevention and Treatment (PHPT-2) group</GBReference_consortium>
+        <GBReference_title>Prevalence, Risk Factors, and Impact of Isolated Antibody to Hepatitis B Core Antigen and Occult Hepatitis B Virus Infection in HIV-1-Infected Pregnant Women</GBReference_title>
+        <GBReference_journal>Clin. Infect. Dis. 56 (12), 1704-1712 (2013)</GBReference_journal>
+        <GBReference_xref>
+          <GBXref>
+            <GBXref_dbname>doi</GBXref_dbname>
+            <GBXref_id>10.1093/cid/cit166</GBXref_id>
+          </GBXref>
+        </GBReference_xref>
+        <GBReference_pubmed>23487379</GBReference_pubmed>
+      </GBReference>
+      <GBReference>
+        <GBReference_reference>2</GBReference_reference>
+        <GBReference_position>1..733</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Khamduang,W.</GBAuthor>
+          <GBAuthor>Ngo-Giang-Huong,N.</GBAuthor>
+          <GBAuthor>Gaudy-Graffin,C.</GBAuthor>
+          <GBAuthor>Jourdain,G.</GBAuthor>
+          <GBAuthor>Suwankornsakul,W.</GBAuthor>
+          <GBAuthor>Jarupanich,T.</GBAuthor>
+          <GBAuthor>Chalermpolprapa,V.</GBAuthor>
+          <GBAuthor>Nanta,S.</GBAuthor>
+          <GBAuthor>Puarattana-Aroonkorn,N.</GBAuthor>
+          <GBAuthor>Tonmat,S.</GBAuthor>
+          <GBAuthor>Lallemant,M.</GBAuthor>
+          <GBAuthor>Goudeau,A.</GBAuthor>
+          <GBAuthor>Sirirungsi,W.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>Direct Submission</GBReference_title>
+        <GBReference_journal>Submitted (18-JUL-2012) Faculty of Associated Medical Sciences, Chiang Mai University, Institut de Recherche pour le Developpement (IRD) UMI 174/Programs for HIV Prevention and Treatment (PHPT), 110, Intrawarorot Road, Sripoom, Muang, Chiang Mai 50200, Thailand</GBReference_journal>
+      </GBReference>
+    </GBSeq_references>
+    <GBSeq_comment>##Assembly-Data-START## ; Assembly Method :: BioEdit v. 7.0.9.0 ; Sequencing Technology :: Sanger dideoxy sequencing ; ##Assembly-Data-END##</GBSeq_comment>
+    <GBSeq_feature-table>
+      <GBFeature>
+        <GBFeature_key>source</GBFeature_key>
+        <GBFeature_location>1..733</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>733</GBInterval_to>
+            <GBInterval_accession>JX402002.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>organism</GBQualifier_name>
+            <GBQualifier_value>Hepatitis B virus</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>mol_type</GBQualifier_name>
+            <GBQualifier_value>genomic DNA</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>isolate</GBQualifier_name>
+            <GBQualifier_value>FN0473</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>host</GBQualifier_name>
+            <GBQualifier_value>Homo sapiens</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>db_xref</GBQualifier_name>
+            <GBQualifier_value>taxon:10407</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>country</GBQualifier_name>
+            <GBQualifier_value>Thailand</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>collection_date</GBQualifier_name>
+            <GBQualifier_value>23-Nov-2001</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>note</GBQualifier_name>
+            <GBQualifier_value>genotype: C</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>gene</GBFeature_key>
+        <GBFeature_location>&lt;1..&gt;733</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>733</GBInterval_to>
+            <GBInterval_accession>JX402002.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_partial5 value="true"/>
+        <GBFeature_partial3 value="true"/>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>gene</GBQualifier_name>
+            <GBQualifier_value>P</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>CDS</GBFeature_key>
+        <GBFeature_location>&lt;1..&gt;733</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>733</GBInterval_to>
+            <GBInterval_accession>JX402002.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_partial5 value="true"/>
+        <GBFeature_partial3 value="true"/>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>gene</GBQualifier_name>
+            <GBQualifier_value>P</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>codon_start</GBQualifier_name>
+            <GBQualifier_value>1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>transl_table</GBQualifier_name>
+            <GBQualifier_value>1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>product</GBQualifier_name>
+            <GBQualifier_value>polymerase</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>protein_id</GBQualifier_name>
+            <GBQualifier_value>AFS34843.1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>translation</GBQualifier_name>
+            <GBQualifier_value>QFSRGSTHVSWPKFAVPNLQSLTNLLSSNLSWLSLDVSAAFYHLPLHPAAMPHLLVGSSGLPRYVARLSSTSRNINYHQGTMQDLHDSCSRNLYVSLLLLYKTFGRKLHLYSHPIILGFRKIPMGVGLSPFLLAQFTSAICSVVRRAFPHCLAFSYMDDVVLGAKSVQHLEALFTSITNFLLSLGIHLNPNKTKRWGYSLNFMGYVIGSWGTLPQEHIVQKLKLCFRKLPINRPIDWKVCQRIV</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>gene</GBFeature_key>
+        <GBFeature_location>&lt;1..565</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>565</GBInterval_to>
+            <GBInterval_accession>JX402002.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_partial5 value="true"/>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>gene</GBQualifier_name>
+            <GBQualifier_value>S</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>CDS</GBFeature_key>
+        <GBFeature_location>&lt;1..565</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>565</GBInterval_to>
+            <GBInterval_accession>JX402002.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_partial5 value="true"/>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>gene</GBQualifier_name>
+            <GBQualifier_value>S</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>codon_start</GBQualifier_name>
+            <GBQualifier_value>2</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>transl_table</GBQualifier_name>
+            <GBQualifier_value>1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>product</GBQualifier_name>
+            <GBQualifier_value>S protein</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>protein_id</GBQualifier_name>
+            <GBQualifier_value>AFS34844.1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>translation</GBQualifier_name>
+            <GBQualifier_value>NFLGGAPTCPGQNLQSPTSNHSPTSCPPICPGYRWMCLRRFIIFLFILLLCLIFLLVLLDYQGMLPVCPLLPGTSTTIKGPCKTCTIPAQGTSMFPSCCCTKPSDGNCTCIPIPSSWAFAKFLWEWASVRFSWLSLLVPFVQWFVGLSPTVWLSVIWMMWYWGPSLYNILKPFLPLLPIFFCLWVYI</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+    </GBSeq_feature-table>
+    <GBSeq_sequence>caattttctagggggagcacccacgtgtcctggccaaaatttgcagtccccaacctccaatcactcaccaacctcttgtcctccaatttgtcctggttatcgctggatgtgtctgcggcgttttatcatcttcctcttcatcctgctgctatgcctcatcttcttgttggttcttctggactaccaaggtatgttgcccgtttgtcctctacttccaggaacatcaactaccatcaagggaccatgcaagacctgcacgattcctgctcaaggaacctctatgtttccctcttgttgctgtacaaaaccttcggacggaaattgcacctgtattcccatcccatcatcttgggctttcgcaaaattcctatgggagtgggcctcagtccgtttctcctggctcagtttactagtgccatttgttcagtggttcgtagggctttcccccactgtttggctttcagttatatggatgatgtggtattgggggccaagtctgtacaacatcttgaagccctttttacctctattaccaattttcttttgtctttgggtatacatttaaaccctaataaaaccaaacgttggggctactcccttaacttcatgggatatgtaattggaagttggggtaccttgccacaggaacatattgtacaaaaattgaaactatgttttcggaaacttcctataaatagacctattgattggaaagtatgtcaaagaattgtgg</GBSeq_sequence>
+  </GBSeq>

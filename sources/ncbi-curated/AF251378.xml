@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<GBSeq>
+
+    <GBSeq_locus>AF251378</GBSeq_locus>
+    <GBSeq_length>556</GBSeq_length>
+    <GBSeq_strandedness>double</GBSeq_strandedness>
+    <GBSeq_moltype>DNA</GBSeq_moltype>
+    <GBSeq_topology>linear</GBSeq_topology>
+    <GBSeq_division>VRL</GBSeq_division>
+    <GBSeq_update-date>14-JUL-2016</GBSeq_update-date>
+    <GBSeq_create-date>02-JAN-2001</GBSeq_create-date>
+    <GBSeq_definition>Hepatitis B virus isolate 111CD surface antigen gene, partial cds</GBSeq_definition>
+    <GBSeq_primary-accession>AF251378</GBSeq_primary-accession>
+    <GBSeq_accession-version>AF251378.1</GBSeq_accession-version>
+    <GBSeq_other-seqids>
+      <GBSeqid>gb|AF251378.1|</GBSeqid>
+      <GBSeqid>gi|12005768</GBSeqid>
+    </GBSeq_other-seqids>
+    <GBSeq_source>Hepatitis B virus</GBSeq_source>
+    <GBSeq_organism>Hepatitis B virus</GBSeq_organism>
+    <GBSeq_taxonomy>Viruses; Retro-transcribing viruses; Hepadnaviridae; Orthohepadnavirus</GBSeq_taxonomy>
+    <GBSeq_references>
+      <GBReference>
+        <GBReference_reference>1</GBReference_reference>
+        <GBReference_position>1..556</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Quintero,A.</GBAuthor>
+          <GBAuthor>Uzcategui,N.</GBAuthor>
+          <GBAuthor>Loureiro,C.L.</GBAuthor>
+          <GBAuthor>Villegas,L.</GBAuthor>
+          <GBAuthor>Illarramendi,X.</GBAuthor>
+          <GBAuthor>Guevara,M.E.</GBAuthor>
+          <GBAuthor>Ludert,J.E.</GBAuthor>
+          <GBAuthor>Blitz,L.</GBAuthor>
+          <GBAuthor>Liprandi,F.</GBAuthor>
+          <GBAuthor>Pujol,F.H.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>Hepatitis delta virus genotypes I and III circulate associated with hepatitis B virus genotype F In Venezuela</GBReference_title>
+        <GBReference_journal>J. Med. Virol. 64 (3), 356-359 (2001)</GBReference_journal>
+        <GBReference_pubmed>11424126</GBReference_pubmed>
+      </GBReference>
+      <GBReference>
+        <GBReference_reference>2</GBReference_reference>
+        <GBReference_position>1..556</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Quintero,A.</GBAuthor>
+          <GBAuthor>Uzcategui,N.</GBAuthor>
+          <GBAuthor>Pujol,F.H.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>Direct Submission</GBReference_title>
+        <GBReference_journal>Submitted (04-APR-2000) CMBC, IVIC, Caracas 1020-A, Venezuela</GBReference_journal>
+      </GBReference>
+    </GBSeq_references>
+    <GBSeq_feature-table>
+      <GBFeature>
+        <GBFeature_key>source</GBFeature_key>
+        <GBFeature_location>1..556</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>556</GBInterval_to>
+            <GBInterval_accession>AF251378.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>organism</GBQualifier_name>
+            <GBQualifier_value>Hepatitis B virus</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>mol_type</GBQualifier_name>
+            <GBQualifier_value>genomic DNA</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>isolate</GBQualifier_name>
+            <GBQualifier_value>111CD</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>db_xref</GBQualifier_name>
+            <GBQualifier_value>taxon:10407</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>CDS</GBFeature_key>
+        <GBFeature_location>&lt;1..&gt;556</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>556</GBInterval_to>
+            <GBInterval_accession>AF251378.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_partial5 value="true"/>
+        <GBFeature_partial3 value="true"/>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>codon_start</GBQualifier_name>
+            <GBQualifier_value>2</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>transl_table</GBQualifier_name>
+            <GBQualifier_value>1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>product</GBQualifier_name>
+            <GBQualifier_value>surface antigen</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>protein_id</GBQualifier_name>
+            <GBQualifier_value>AAG44613.1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>translation</GBQualifier_name>
+            <GBQualifier_value>VCFLLIKILTIPQRLDSWWTSLNFLGGLPGCPGQNSQSPTSNHLPTSCPPTCPGYRWMCLRRFIIFLFILLLCLIFLLVLLDYQGMLPVCPLLPGSTTTNTGPCKTCTTLAQGTSMFPSCCCSKPSDGNCTCIPIPSSWALGKYLWEWASARFSWLSLLVPFVQFCAGLSPTVWLLVIWMIWYWG</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+    </GBSeq_feature-table>
+    <GBSeq_sequence>ggtgtgtttcttgttgataaaaatcctcacaattccacagaggctagactcgtggtggacttctctcaattttctagggggactacccgggtgtcctggccaaaattcgcagtccccaacctccaatcacttaccaacctcctgtcctccaacttgtcctggctatcgttggatgtgtctgcggcgttttatcatcttcctcttcatcctgctgctatgcctcatcttcttgttggttcttctggactatcagggtatgttgcccgtttgtcctctacttccaggatccacgaccaccaacacgggaccatgcaaaacctgcacaactcttgctcaaggaacctctatgtttccctcctgttgctgttcnaaaccctcggacggaaactgcacctgtattcccatcccatcatcttgggctttaggaaaatacctatgggagtgggcctcagcccgtttctcctggctcagtttactagtgccatttgttcagttttgcgcagggctttcccccactgtctggcttttagttatatggatgatctggtattggggg</GBSeq_sequence>
+  </GBSeq>

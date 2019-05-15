@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<GBSeq>
+
+    <GBSeq_locus>MF133390</GBSeq_locus>
+    <GBSeq_length>576</GBSeq_length>
+    <GBSeq_strandedness>double</GBSeq_strandedness>
+    <GBSeq_moltype>DNA</GBSeq_moltype>
+    <GBSeq_topology>linear</GBSeq_topology>
+    <GBSeq_division>VRL</GBSeq_division>
+    <GBSeq_update-date>08-DEC-2017</GBSeq_update-date>
+    <GBSeq_create-date>08-DEC-2017</GBSeq_create-date>
+    <GBSeq_definition>Hepatitis B virus isolate NCHADS201 S protein (S) gene, partial cds</GBSeq_definition>
+    <GBSeq_primary-accession>MF133390</GBSeq_primary-accession>
+    <GBSeq_accession-version>MF133390.1</GBSeq_accession-version>
+    <GBSeq_other-seqids>
+      <GBSeqid>gb|MF133390.1|</GBSeqid>
+      <GBSeqid>gi|1267733504</GBSeqid>
+    </GBSeq_other-seqids>
+    <GBSeq_source>Hepatitis B virus</GBSeq_source>
+    <GBSeq_organism>Hepatitis B virus</GBSeq_organism>
+    <GBSeq_taxonomy>Viruses; Retro-transcribing viruses; Hepadnaviridae; Orthohepadnavirus</GBSeq_taxonomy>
+    <GBSeq_references>
+      <GBReference>
+        <GBReference_reference>1</GBReference_reference>
+        <GBReference_position>1..576</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Rouet,F.</GBAuthor>
+          <GBAuthor>Nouhin,J.</GBAuthor>
+          <GBAuthor>Zheng,D.-P.</GBAuthor>
+          <GBAuthor>Roche,B.</GBAuthor>
+          <GBAuthor>Black,A.</GBAuthor>
+          <GBAuthor>Prak,S.</GBAuthor>
+          <GBAuthor>Leoz,M.</GBAuthor>
+          <GBAuthor>Gaudy-Graffin,C.</GBAuthor>
+          <GBAuthor>Ferradini,L.</GBAuthor>
+          <GBAuthor>Mom,C.</GBAuthor>
+          <GBAuthor>Mam,S.</GBAuthor>
+          <GBAuthor>Gautier,C.</GBAuthor>
+          <GBAuthor>Lesage,G.</GBAuthor>
+          <GBAuthor>Ken,S.</GBAuthor>
+          <GBAuthor>Phon,K.</GBAuthor>
+          <GBAuthor>Kerleguer,A.</GBAuthor>
+          <GBAuthor>Yang,C.</GBAuthor>
+          <GBAuthor>Killam,W.</GBAuthor>
+          <GBAuthor>Barin,F.</GBAuthor>
+          <GBAuthor>Fujita,M.</GBAuthor>
+          <GBAuthor>Mean,C.</GBAuthor>
+          <GBAuthor>Fontenille,D.</GBAuthor>
+          <GBAuthor>Plantier,J.-C.</GBAuthor>
+          <GBAuthor>Bedford,T.</GBAuthor>
+          <GBAuthor>Ramos,A.</GBAuthor>
+          <GBAuthor>Saphonn,V.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>Temporal dynamic and geospatial evidence of a massive iatrogenic HIV outbreak associated with HCV in rural Cambodia</GBReference_title>
+        <GBReference_journal>Unpublished</GBReference_journal>
+      </GBReference>
+      <GBReference>
+        <GBReference_reference>2</GBReference_reference>
+        <GBReference_position>1..576</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Rouet,F.</GBAuthor>
+          <GBAuthor>Nouhin,J.</GBAuthor>
+          <GBAuthor>Zheng,D.-P.</GBAuthor>
+          <GBAuthor>Roche,B.</GBAuthor>
+          <GBAuthor>Black,A.</GBAuthor>
+          <GBAuthor>Prak,S.</GBAuthor>
+          <GBAuthor>Leoz,M.</GBAuthor>
+          <GBAuthor>Gaudy-Graffin,C.</GBAuthor>
+          <GBAuthor>Ferradini,L.</GBAuthor>
+          <GBAuthor>Mom,C.</GBAuthor>
+          <GBAuthor>Mam,S.</GBAuthor>
+          <GBAuthor>Gautier,C.</GBAuthor>
+          <GBAuthor>Lesage,G.</GBAuthor>
+          <GBAuthor>Ken,S.</GBAuthor>
+          <GBAuthor>Phon,K.</GBAuthor>
+          <GBAuthor>Kerleguer,A.</GBAuthor>
+          <GBAuthor>Yang,C.</GBAuthor>
+          <GBAuthor>Killam,W.</GBAuthor>
+          <GBAuthor>Barin,F.</GBAuthor>
+          <GBAuthor>Fujita,M.</GBAuthor>
+          <GBAuthor>Mean,C.</GBAuthor>
+          <GBAuthor>Fontenille,D.</GBAuthor>
+          <GBAuthor>Plantier,J.-C.</GBAuthor>
+          <GBAuthor>Bedford,T.</GBAuthor>
+          <GBAuthor>Ramos,A.</GBAuthor>
+          <GBAuthor>Saphonn,V.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>Direct Submission</GBReference_title>
+        <GBReference_journal>Submitted (17-MAY-2017) HIV/Hepatitis Unit, Institut Pasteur in Cambodia, 5 Boulevard Monivong, Phnom Penh 12201, Cambodia</GBReference_journal>
+      </GBReference>
+    </GBSeq_references>
+    <GBSeq_comment>##Assembly-Data-START## ; Sequencing Technology :: Sanger dideoxy sequencing ; ##Assembly-Data-END##</GBSeq_comment>
+    <GBSeq_feature-table>
+      <GBFeature>
+        <GBFeature_key>source</GBFeature_key>
+        <GBFeature_location>1..576</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>576</GBInterval_to>
+            <GBInterval_accession>MF133390.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>organism</GBQualifier_name>
+            <GBQualifier_value>Hepatitis B virus</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>mol_type</GBQualifier_name>
+            <GBQualifier_value>genomic DNA</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>isolate</GBQualifier_name>
+            <GBQualifier_value>NCHADS201</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>host</GBQualifier_name>
+            <GBQualifier_value>Homo sapiens</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>db_xref</GBQualifier_name>
+            <GBQualifier_value>taxon:10407</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>country</GBQualifier_name>
+            <GBQualifier_value>Cambodia</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>collection_date</GBQualifier_name>
+            <GBQualifier_value>23-Dec-2014</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>note</GBQualifier_name>
+            <GBQualifier_value>genotype: C1</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>gene</GBFeature_key>
+        <GBFeature_location>&lt;1..576</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>576</GBInterval_to>
+            <GBInterval_accession>MF133390.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_partial5 value="true"/>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>gene</GBQualifier_name>
+            <GBQualifier_value>S</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>CDS</GBFeature_key>
+        <GBFeature_location>&lt;1..576</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>576</GBInterval_to>
+            <GBInterval_accession>MF133390.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_partial5 value="true"/>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>gene</GBQualifier_name>
+            <GBQualifier_value>S</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>codon_start</GBQualifier_name>
+            <GBQualifier_value>1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>transl_table</GBQualifier_name>
+            <GBQualifier_value>1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>product</GBQualifier_name>
+            <GBQualifier_value>S protein</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>protein_id</GBQualifier_name>
+            <GBQualifier_value>ATN28207.1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>translation</GBQualifier_name>
+            <GBQualifier_value>WTSLNFLGGAPTCPGQNLQSPTSNHSPTSCPPICPGYRWMCLRRFIIFLFILLLCLIFLLVLLDYQGMLPVCPLLPGTSTTSTGPCKTCTIPAQGTSMFPSCCCTKPSDGNCTCIPIPSSWAFARFLWEWASVRFSWLSLLVPFVQWFVGLSPTVWLSVIWMMWYWGPSLYNILNPFLPLLPIFFCLWVYI</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+    </GBSeq_feature-table>
+    <GBSeq_sequence>tggacttctctcaattttctagggggagcacccacgtgtcctggccaaaatttgcagtccccaacctccaatcactcaccaacctcttgtcctccaatttgtcctggttatcgctggatgtgtctgcggcgttttatcatcttcctcttcatcctgctgctatgcctcatcttcttgttggttcttctggactaccaaggtatgttgcccgtttgtcctctacttccaggaacatcaactaccagcacgggaccatgcaagacctgcacgattcctgctcaaggaacctctatgtttccctcttgttgctgtacaaaaccttcggacggaaattgcacttgtattcccatcccatcatcttgggctttcgcaagattcctatgggagtgggcctcagtccgtttctcctggctcagtttactagtgccatttgttcagtggttcgtagggctttcccccactgtttggctttcagttatatggatgatgtggtattgggggccaagtctgtacaacatcttgaatccctttttacctctattaccaattttcttttgtctttgggtatacatttaa</GBSeq_sequence>
+  </GBSeq>

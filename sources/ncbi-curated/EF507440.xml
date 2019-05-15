@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<GBSeq>
+
+    <GBSeq_locus>EF507440</GBSeq_locus>
+    <GBSeq_length>226</GBSeq_length>
+    <GBSeq_strandedness>double</GBSeq_strandedness>
+    <GBSeq_moltype>DNA</GBSeq_moltype>
+    <GBSeq_topology>linear</GBSeq_topology>
+    <GBSeq_division>VRL</GBSeq_division>
+    <GBSeq_update-date>25-JUL-2016</GBSeq_update-date>
+    <GBSeq_create-date>05-AUG-2007</GBSeq_create-date>
+    <GBSeq_definition>Hepatitis B virus isolate 208306 S protein gene, partial cds</GBSeq_definition>
+    <GBSeq_primary-accession>EF507440</GBSeq_primary-accession>
+    <GBSeq_accession-version>EF507440.2</GBSeq_accession-version>
+    <GBSeq_other-seqids>
+      <GBSeqid>gb|EF507440.2|</GBSeqid>
+      <GBSeqid>gi|295684315</GBSeqid>
+    </GBSeq_other-seqids>
+    <GBSeq_source>Hepatitis B virus</GBSeq_source>
+    <GBSeq_organism>Hepatitis B virus</GBSeq_organism>
+    <GBSeq_taxonomy>Viruses; Retro-transcribing viruses; Hepadnaviridae; Orthohepadnavirus</GBSeq_taxonomy>
+    <GBSeq_references>
+      <GBReference>
+        <GBReference_reference>1</GBReference_reference>
+        <GBReference_position>1..226</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Thedja,M.D.</GBAuthor>
+          <GBAuthor>Roni,M.</GBAuthor>
+          <GBAuthor>Harahap,A.R.</GBAuthor>
+          <GBAuthor>Siregar,N.C.</GBAuthor>
+          <GBAuthor>Ie,S.I.</GBAuthor>
+          <GBAuthor>Muljono,D.H.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>Occult hepatitis B in blood donors in Indonesia: altered antigenicity of the hepatitis B virus surface protein</GBReference_title>
+        <GBReference_journal>Hepatol Int 4 (3), 608-614 (2010)</GBReference_journal>
+        <GBReference_xref>
+          <GBXref>
+            <GBXref_dbname>doi</GBXref_dbname>
+            <GBXref_id>10.1007/s12072-010-9203-5</GBXref_id>
+          </GBXref>
+        </GBReference_xref>
+        <GBReference_pubmed>21063484</GBReference_pubmed>
+        <GBReference_remark>Publication Status: Online-Only</GBReference_remark>
+      </GBReference>
+      <GBReference>
+        <GBReference_reference>2</GBReference_reference>
+        <GBReference_position>1..226</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Thedja,M.D.</GBAuthor>
+          <GBAuthor>Roni,M.</GBAuthor>
+          <GBAuthor>Harahap,A.R.</GBAuthor>
+          <GBAuthor>Siregar,N.C.</GBAuthor>
+          <GBAuthor>Muljono,D.H.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>Direct Submission</GBReference_title>
+        <GBReference_journal>Submitted (19-MAR-2007) Hepatitis, Eijkman Institute for Molecular Biology, Jl. Diponegoro 69, Jakarta, DKI Jakarta 10430, Indonesia</GBReference_journal>
+      </GBReference>
+      <GBReference>
+        <GBReference_reference>3</GBReference_reference>
+        <GBReference_position>1..226</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Thedja,M.D.</GBAuthor>
+          <GBAuthor>Roni,M.</GBAuthor>
+          <GBAuthor>Harahap,A.R.</GBAuthor>
+          <GBAuthor>Siregar,N.C.</GBAuthor>
+          <GBAuthor>Ie,S.I.</GBAuthor>
+          <GBAuthor>Muljono,D.H.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>Direct Submission</GBReference_title>
+        <GBReference_journal>Submitted (28-APR-2010) Hepatitis, Eijkman Institute for Molecular Biology, Jl. Diponegoro 69, Jakarta, DKI Jakarta 10430, Indonesia</GBReference_journal>
+        <GBReference_remark>Sequence update by submitter</GBReference_remark>
+      </GBReference>
+    </GBSeq_references>
+    <GBSeq_comment>On May 4, 2010 this sequence version replaced EF507440.1.</GBSeq_comment>
+    <GBSeq_feature-table>
+      <GBFeature>
+        <GBFeature_key>source</GBFeature_key>
+        <GBFeature_location>1..226</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>226</GBInterval_to>
+            <GBInterval_accession>EF507440.2</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>organism</GBQualifier_name>
+            <GBQualifier_value>Hepatitis B virus</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>mol_type</GBQualifier_name>
+            <GBQualifier_value>genomic DNA</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>isolate</GBQualifier_name>
+            <GBQualifier_value>208306</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>host</GBQualifier_name>
+            <GBQualifier_value>Homo sapiens</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>db_xref</GBQualifier_name>
+            <GBQualifier_value>taxon:10407</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>country</GBQualifier_name>
+            <GBQualifier_value>Indonesia</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>note</GBQualifier_name>
+            <GBQualifier_value>subtype: adw; genotype: B</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>gene</GBFeature_key>
+        <GBFeature_location>&lt;1..&gt;226</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>226</GBInterval_to>
+            <GBInterval_accession>EF507440.2</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_partial5 value="true"/>
+        <GBFeature_partial3 value="true"/>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>gene</GBQualifier_name>
+            <GBQualifier_value>S</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>CDS</GBFeature_key>
+        <GBFeature_location>&lt;1..&gt;226</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>226</GBInterval_to>
+            <GBInterval_accession>EF507440.2</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_partial5 value="true"/>
+        <GBFeature_partial3 value="true"/>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>gene</GBQualifier_name>
+            <GBQualifier_value>S</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>codon_start</GBQualifier_name>
+            <GBQualifier_value>3</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>transl_table</GBQualifier_name>
+            <GBQualifier_value>1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>product</GBQualifier_name>
+            <GBQualifier_value>S protein</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>protein_id</GBQualifier_name>
+            <GBQualifier_value>ABS71784.1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>translation</GBQualifier_name>
+            <GBQualifier_value>LPVCPLIPGSSTTSTGPCKTCTTPAQGTSMFPSCCCTKPMDGNCTCIPIPSSWAFAKYLWEWASVRFSWLSLLVP</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+    </GBSeq_feature-table>
+    <GBSeq_sequence>tgttgcccgtttgtcctctaattccaggatcatcaaccaccagcaccggaccatgcaaaacctgcacgactcctgctcaaggaacctctatgtttccctcatgttgctgtacaaaacctatggacggaaactgcacctgtattcccatcccatcatcttgggctttcgcaaaatacctatgggagtgggcctcagtccgtttctcttggctcagtttactagtgcc</GBSeq_sequence>
+  </GBSeq>

@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<GBSeq>
+
+    <GBSeq_locus>KP959344</GBSeq_locus>
+    <GBSeq_length>289</GBSeq_length>
+    <GBSeq_strandedness>double</GBSeq_strandedness>
+    <GBSeq_moltype>DNA</GBSeq_moltype>
+    <GBSeq_topology>linear</GBSeq_topology>
+    <GBSeq_division>VRL</GBSeq_division>
+    <GBSeq_update-date>30-APR-2016</GBSeq_update-date>
+    <GBSeq_create-date>30-APR-2016</GBSeq_create-date>
+    <GBSeq_definition>UNVERIFIED: Hepatitis B virus isolate C09-172 genomic sequence</GBSeq_definition>
+    <GBSeq_primary-accession>KP959344</GBSeq_primary-accession>
+    <GBSeq_accession-version>KP959344.1</GBSeq_accession-version>
+    <GBSeq_other-seqids>
+      <GBSeqid>gb|KP959344.1|</GBSeqid>
+      <GBSeqid>gi|808180379</GBSeqid>
+    </GBSeq_other-seqids>
+    <GBSeq_keywords>
+      <GBKeyword>UNVERIFIED</GBKeyword>
+    </GBSeq_keywords>
+    <GBSeq_source>Hepatitis B virus</GBSeq_source>
+    <GBSeq_organism>Hepatitis B virus</GBSeq_organism>
+    <GBSeq_taxonomy>Viruses; Retro-transcribing viruses; Hepadnaviridae; Orthohepadnavirus</GBSeq_taxonomy>
+    <GBSeq_references>
+      <GBReference>
+        <GBReference_reference>1</GBReference_reference>
+        <GBReference_position>1..289</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Gunardi,H.</GBAuthor>
+          <GBAuthor>Iskandar,M.Y.</GBAuthor>
+          <GBAuthor>Gayatri,P.</GBAuthor>
+          <GBAuthor>Turyadi,T.</GBAuthor>
+          <GBAuthor>Ie,S.I.</GBAuthor>
+          <GBAuthor>Gani,R.A.</GBAuthor>
+          <GBAuthor>Muljono,D.H.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>Molecular Epidemiology of Hepatitis B virus Transmission in Family Members of HBV-related Chronic Liver Disease Patients</GBReference_title>
+        <GBReference_journal>Unpublished</GBReference_journal>
+      </GBReference>
+      <GBReference>
+        <GBReference_reference>2</GBReference_reference>
+        <GBReference_position>1..289</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Gunardi,H.</GBAuthor>
+          <GBAuthor>Iskandar,M.Y.</GBAuthor>
+          <GBAuthor>Gayatri,P.</GBAuthor>
+          <GBAuthor>Turyadi,T.</GBAuthor>
+          <GBAuthor>Ie,S.I.</GBAuthor>
+          <GBAuthor>Gani,R.A.</GBAuthor>
+          <GBAuthor>Muljono,D.H.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>Direct Submission</GBReference_title>
+        <GBReference_journal>Submitted (13-MAR-2015) Child Health Department, Faculty of Medicine University of Indonesia, Jl. Salemba 6, Jakarta, DKI Jakarta 10430, Indonesia</GBReference_journal>
+      </GBReference>
+    </GBSeq_references>
+    <GBSeq_comment>GenBank staff is unable to verify sequence and/or annotation provided by the submitter.; ; ##Assembly-Data-START## ; Sequencing Technology :: Sanger dideoxy sequencing ; ##Assembly-Data-END##</GBSeq_comment>
+    <GBSeq_feature-table>
+      <GBFeature>
+        <GBFeature_key>source</GBFeature_key>
+        <GBFeature_location>1..289</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>289</GBInterval_to>
+            <GBInterval_accession>KP959344.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>organism</GBQualifier_name>
+            <GBQualifier_value>Hepatitis B virus</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>mol_type</GBQualifier_name>
+            <GBQualifier_value>genomic DNA</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>isolate</GBQualifier_name>
+            <GBQualifier_value>C09-172</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>isolation_source</GBQualifier_name>
+            <GBQualifier_value>blood</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>host</GBQualifier_name>
+            <GBQualifier_value>Homo sapiens</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>db_xref</GBQualifier_name>
+            <GBQualifier_value>taxon:10407</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>country</GBQualifier_name>
+            <GBQualifier_value>Indonesia</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>collection_date</GBQualifier_name>
+            <GBQualifier_value>2009</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>note</GBQualifier_name>
+            <GBQualifier_value>subtype: adw; genotype: B</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+    </GBSeq_feature-table>
+    <GBSeq_sequence>cataagaggactcttggactttcagcaatgtcaacgaccgaccttgaggcatacttcaaagactgtgtgtttaatgagtgggaggagttgggggaggagatcaggttaaaggtctttgtactaggaggctgtaggcataaattggtctgttcaccagcaccatgcaactttttcacctctgcctaatcatctcatgttcatgtcctactgttcaagcctccaagctgtgccttgggtggctttggggcatggacattgacccgtataaagaatttggagcttctgtgga</GBSeq_sequence>
+  </GBSeq>

@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<GBSeq>
+
+    <GBSeq_locus>HQ420156</GBSeq_locus>
+    <GBSeq_length>468</GBSeq_length>
+    <GBSeq_strandedness>double</GBSeq_strandedness>
+    <GBSeq_moltype>DNA</GBSeq_moltype>
+    <GBSeq_topology>linear</GBSeq_topology>
+    <GBSeq_division>VRL</GBSeq_division>
+    <GBSeq_update-date>22-JUN-2012</GBSeq_update-date>
+    <GBSeq_create-date>07-AUG-2011</GBSeq_create-date>
+    <GBSeq_definition>Hepatitis B virus isolate 1Mg large S protein (S) gene, partial cds</GBSeq_definition>
+    <GBSeq_primary-accession>HQ420156</GBSeq_primary-accession>
+    <GBSeq_accession-version>HQ420156.1</GBSeq_accession-version>
+    <GBSeq_other-seqids>
+      <GBSeqid>gb|HQ420156.1|</GBSeqid>
+      <GBSeqid>gi|310832511</GBSeqid>
+    </GBSeq_other-seqids>
+    <GBSeq_source>Hepatitis B virus</GBSeq_source>
+    <GBSeq_organism>Hepatitis B virus</GBSeq_organism>
+    <GBSeq_taxonomy>Viruses; Retro-transcribing viruses; Hepadnaviridae; Orthohepadnavirus</GBSeq_taxonomy>
+    <GBSeq_references>
+      <GBReference>
+        <GBReference_reference>1</GBReference_reference>
+        <GBReference_position>1..468</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Delfino,C.M.</GBAuthor>
+          <GBAuthor>Berini,C.</GBAuthor>
+          <GBAuthor>Eirin,M.E.</GBAuthor>
+          <GBAuthor>Malan,R.</GBAuthor>
+          <GBAuthor>Pedrozo,W.</GBAuthor>
+          <GBAuthor>Krupp,R.</GBAuthor>
+          <GBAuthor>Blejer,J.</GBAuthor>
+          <GBAuthor>Espejo,R.</GBAuthor>
+          <GBAuthor>Fierro,L.</GBAuthor>
+          <GBAuthor>Puca,A.</GBAuthor>
+          <GBAuthor>Oubina,J.R.</GBAuthor>
+          <GBAuthor>Mathet,V.L.</GBAuthor>
+          <GBAuthor>Biglione,M.M.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>New natural variants of hepatitis B virus among Amerindians from Argentina with mainly occult infections</GBReference_title>
+        <GBReference_journal>J. Clin. Virol. 54 (2), 174-179 (2012)</GBReference_journal>
+        <GBReference_xref>
+          <GBXref>
+            <GBXref_dbname>doi</GBXref_dbname>
+            <GBXref_id>10.1016/j.jcv.2012.02.023</GBXref_id>
+          </GBXref>
+        </GBReference_xref>
+        <GBReference_pubmed>22445262</GBReference_pubmed>
+      </GBReference>
+      <GBReference>
+        <GBReference_reference>2</GBReference_reference>
+        <GBReference_position>1..468</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Delfino,C.</GBAuthor>
+          <GBAuthor>Mathet,V.</GBAuthor>
+          <GBAuthor>Biglione,M.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>HBV in original communities from Argentina</GBReference_title>
+        <GBReference_journal>Unpublished</GBReference_journal>
+      </GBReference>
+      <GBReference>
+        <GBReference_reference>3</GBReference_reference>
+        <GBReference_position>1..468</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Delfino,C.</GBAuthor>
+          <GBAuthor>Mathet,V.</GBAuthor>
+          <GBAuthor>Biglione,M.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>Direct Submission</GBReference_title>
+        <GBReference_journal>Submitted (17-OCT-2010) Microbiology, School of Medicine, University of Buenos Aires, Paraguay 2155, CABA C1121ABG, Argentina</GBReference_journal>
+      </GBReference>
+    </GBSeq_references>
+    <GBSeq_feature-table>
+      <GBFeature>
+        <GBFeature_key>source</GBFeature_key>
+        <GBFeature_location>1..468</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>468</GBInterval_to>
+            <GBInterval_accession>HQ420156.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>organism</GBQualifier_name>
+            <GBQualifier_value>Hepatitis B virus</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>mol_type</GBQualifier_name>
+            <GBQualifier_value>genomic DNA</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>isolate</GBQualifier_name>
+            <GBQualifier_value>1Mg</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>host</GBQualifier_name>
+            <GBQualifier_value>Homo sapiens</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>db_xref</GBQualifier_name>
+            <GBQualifier_value>taxon:10407</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>country</GBQualifier_name>
+            <GBQualifier_value>Argentina</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>collection_date</GBQualifier_name>
+            <GBQualifier_value>2008</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>note</GBQualifier_name>
+            <GBQualifier_value>genotype: F4</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>gene</GBFeature_key>
+        <GBFeature_location>&lt;1..&gt;468</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>468</GBInterval_to>
+            <GBInterval_accession>HQ420156.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_partial5 value="true"/>
+        <GBFeature_partial3 value="true"/>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>gene</GBQualifier_name>
+            <GBQualifier_value>S</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>CDS</GBFeature_key>
+        <GBFeature_location>&lt;1..&gt;468</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>468</GBInterval_to>
+            <GBInterval_accession>HQ420156.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_partial5 value="true"/>
+        <GBFeature_partial3 value="true"/>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>gene</GBQualifier_name>
+            <GBQualifier_value>S</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>note</GBQualifier_name>
+            <GBQualifier_value>pre-S1/pre-S2/S</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>codon_start</GBQualifier_name>
+            <GBQualifier_value>3</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>transl_table</GBQualifier_name>
+            <GBQualifier_value>1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>product</GBQualifier_name>
+            <GBQualifier_value>large S protein</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>protein_id</GBQualifier_name>
+            <GBQualifier_value>ADP30903.1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>translation</GBQualifier_name>
+            <GBQualifier_value>TSNHLPTSCPPTCPGYRWMCLRRFIIFLFILLLCLIFLLVLLDYQGMLPVCPLIPGSTTTSTGPCKTCTTLAQGTSMFPSCCCSKPSDGNCTCIPIPSSWALGKYLWEWASARFSWLSLLVQFVQWCVGLSPTVWLLVIWMIWYWGPNLCSIVSP</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+    </GBSeq_feature-table>
+    <GBSeq_sequence>caacctccaatcacttaccaacctcctgtcctccaacttgtcctggctatcgttggatgtgtctgcggcgttttatcatcttcctcttcatcctgctgctatgcctcatcttcttgttggttcttctggactatcaaggtatgttgcccgtttgtcctctaattccaggatctacgaccaccagcacgggaccctgcaaaacctgcacaactcttgctcaaggaacctctatgtttccctcctgttgctgttccaaaccctcggacggaaactgcacctgtattcccatcccatcatcttgggctttaggaaaatacctatgggagtgggcctcagcccgtttctcctggctcagtttactagtgcaatttgttcagtggtgcgtagggctttcccccactgtctggcttttagttatatggatgatctggtattgggggccaaatctgtgcagcatcgtgagtccct</GBSeq_sequence>
+  </GBSeq>

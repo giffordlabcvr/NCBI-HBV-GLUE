@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<GBSeq>
+
+    <GBSeq_locus>E05202</GBSeq_locus>
+    <GBSeq_length>582</GBSeq_length>
+    <GBSeq_strandedness>double</GBSeq_strandedness>
+    <GBSeq_moltype>DNA</GBSeq_moltype>
+    <GBSeq_topology>linear</GBSeq_topology>
+    <GBSeq_division>PAT</GBSeq_division>
+    <GBSeq_update-date>04-NOV-2005</GBSeq_update-date>
+    <GBSeq_create-date>06-JUN-1997</GBSeq_create-date>
+    <GBSeq_definition>DNA sequence of Hepatitis B core gene</GBSeq_definition>
+    <GBSeq_primary-accession>E05202</GBSeq_primary-accession>
+    <GBSeq_accession-version>E05202.1</GBSeq_accession-version>
+    <GBSeq_other-seqids>
+      <GBSeqid>dbj|E05202.1|</GBSeqid>
+      <GBSeqid>pat|JP|1993192170|1</GBSeqid>
+      <GBSeqid>gi|2173392</GBSeqid>
+    </GBSeq_other-seqids>
+    <GBSeq_keywords>
+      <GBKeyword>JP 1993192170-A/1</GBKeyword>
+    </GBSeq_keywords>
+    <GBSeq_source>Hepatitis B virus</GBSeq_source>
+    <GBSeq_organism>Hepatitis B virus</GBSeq_organism>
+    <GBSeq_taxonomy>Viruses; Retro-transcribing viruses; Hepadnaviridae; Orthohepadnavirus</GBSeq_taxonomy>
+    <GBSeq_references>
+      <GBReference>
+        <GBReference_reference>1</GBReference_reference>
+        <GBReference_position>1..582</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Oyama,K.</GBAuthor>
+          <GBAuthor>Kasai,M.</GBAuthor>
+          <GBAuthor>Nejime,K.</GBAuthor>
+          <GBAuthor>Sugita,S.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>RECOMBINED PLASMID</GBReference_title>
+        <GBReference_journal>JP1993192170-A 1 03-AUG-1993 NISSHIN OIL MILLS LTD:THE</GBReference_journal>
+      </GBReference>
+    </GBSeq_references>
+    <GBSeq_comment>OS Hepatitis B virus~PN JP 1993192170-A/1~PD 03-AUG-1993~PF 24-SEP-1991 JP 1991243800~PI OYAMA KATSUHIKO, KASAI MICHIO, NEJIME KUNIAKI, SUGITA SHIGEO PC C12N15/85,A61K39/285,C07H21/04//C12N15/62;~CC strandedness: Single;~CC topology: Linear;~CC hypothetical: No;~CC anti-sense: No;~FH Key Location/Qualifiers~FH~FT 5'UTR 1..14~FT CDS 15..566~FT /gene='Hepatitis B core gene' FT 3'UTR 567..582.</GBSeq_comment>
+    <GBSeq_feature-table>
+      <GBFeature>
+        <GBFeature_key>source</GBFeature_key>
+        <GBFeature_location>1..582</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>582</GBInterval_to>
+            <GBInterval_accession>E05202.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>organism</GBQualifier_name>
+            <GBQualifier_value>Hepatitis B virus</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>mol_type</GBQualifier_name>
+            <GBQualifier_value>unassigned DNA</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>db_xref</GBQualifier_name>
+            <GBQualifier_value>taxon:10407</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+    </GBSeq_feature-table>
+    <GBSeq_sequence>gagctcgaattcccatggacattgacccgtataaagaatttggagcttctgtggagttactctcttttttgccttctgacttctttccttctattcgagatctcctcgacaccgcctcagctctatatcgggaggccttagagtctccggaacattgttctcctcatcatacagcactcaggcaagctattctgtgttggggtgagttgatgaatctggccacctgggtgggaagtaatttggaagacccagcatccagggaattagtagtcagctatgtcaatgttaatatgggcctaaaaatcagacaactactgtggtttcacatttcctgtcttacttttggaagagaaactgttcttgagtatttggtgtcttttggagtgtggattcgcactcctcctgcttacagaccaccaaatgcccctatcttatcaacacttccggaaactactgttgttagacgacgaggcaggtcccctagaagaagaactccctcgcctcgcagacgaaggtctcaatcgccccgtcgcagaagatctcaatctcgggaatctcaatgttagtatcccttgcgaattc</GBSeq_sequence>
+  </GBSeq>

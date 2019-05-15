@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<GBSeq>
+
+    <GBSeq_locus>HE805982</GBSeq_locus>
+    <GBSeq_length>413</GBSeq_length>
+    <GBSeq_strandedness>double</GBSeq_strandedness>
+    <GBSeq_moltype>DNA</GBSeq_moltype>
+    <GBSeq_topology>linear</GBSeq_topology>
+    <GBSeq_division>VRL</GBSeq_division>
+    <GBSeq_update-date>15-MAY-2012</GBSeq_update-date>
+    <GBSeq_create-date>15-MAY-2012</GBSeq_create-date>
+    <GBSeq_definition>Hepatitis B virus partial X gene for HBx, isolate 11851</GBSeq_definition>
+    <GBSeq_primary-accession>HE805982</GBSeq_primary-accession>
+    <GBSeq_accession-version>HE805982.1</GBSeq_accession-version>
+    <GBSeq_other-seqids>
+      <GBSeqid>emb|HE805982.1|</GBSeqid>
+      <GBSeqid>gi|387848860</GBSeqid>
+    </GBSeq_other-seqids>
+    <GBSeq_source>Hepatitis B virus</GBSeq_source>
+    <GBSeq_organism>Hepatitis B virus</GBSeq_organism>
+    <GBSeq_taxonomy>Viruses; Retro-transcribing viruses; Hepadnaviridae; Orthohepadnavirus</GBSeq_taxonomy>
+    <GBSeq_references>
+      <GBReference>
+        <GBReference_reference>1</GBReference_reference>
+        <GBReference_position>1..413</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Tuteja,A.</GBAuthor>
+          <GBAuthor>Siddique,A.</GBAuthor>
+          <GBAuthor>Acharya,S.K.</GBAuthor>
+          <GBAuthor>Subodh,S.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>Mutation profiling of Hepatitis B virus strains circulating in India</GBReference_title>
+        <GBReference_journal>Unpublished</GBReference_journal>
+      </GBReference>
+      <GBReference>
+        <GBReference_reference>2</GBReference_reference>
+        <GBReference_position>1..413</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Tuteja,A.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>Direct Submission</GBReference_title>
+        <GBReference_journal>Submitted (02-MAY-2012) to the INSDC. Research, Institute of Molecular Medicine, 254, Okhla Phase 3, New Delhi, 110020, INDIA</GBReference_journal>
+      </GBReference>
+    </GBSeq_references>
+    <GBSeq_feature-table>
+      <GBFeature>
+        <GBFeature_key>source</GBFeature_key>
+        <GBFeature_location>1..413</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>413</GBInterval_to>
+            <GBInterval_accession>HE805982.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>organism</GBQualifier_name>
+            <GBQualifier_value>Hepatitis B virus</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>mol_type</GBQualifier_name>
+            <GBQualifier_value>genomic DNA</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>isolate</GBQualifier_name>
+            <GBQualifier_value>11851</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>db_xref</GBQualifier_name>
+            <GBQualifier_value>taxon:10407</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>country</GBQualifier_name>
+            <GBQualifier_value>India</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>gene</GBFeature_key>
+        <GBFeature_location>1..&gt;413</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>413</GBInterval_to>
+            <GBInterval_accession>HE805982.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_partial3 value="true"/>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>gene</GBQualifier_name>
+            <GBQualifier_value>X</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>CDS</GBFeature_key>
+        <GBFeature_location>1..&gt;413</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>413</GBInterval_to>
+            <GBInterval_accession>HE805982.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_partial3 value="true"/>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>gene</GBQualifier_name>
+            <GBQualifier_value>X</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>codon_start</GBQualifier_name>
+            <GBQualifier_value>1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>transl_table</GBQualifier_name>
+            <GBQualifier_value>1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>product</GBQualifier_name>
+            <GBQualifier_value>HBx</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>protein_id</GBQualifier_name>
+            <GBQualifier_value>CCH57386.1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>translation</GBQualifier_name>
+            <GBQualifier_value>MAARLYCQLDSSRDVLCLRPVGAESRGRPLARPLGAVSSPSPSAVPSDHGAHLSLRGLPVCAFSSXRSVCTSLHLCTLHGDHRERPSXPAQGLTKEDSWTLSNVNDRPRGLLQRLCDKRLGGVGGGDKVXXLCIRRL</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+    </GBSeq_feature-table>
+    <GBSeq_sequence>atggctgctaggttgtactgccaactggattcttcgcgggacgtcctttgtttacgtcccgtcggcgctgaatcccgcggacgacccctcgcgaggccgcttggggctgtatcgtccccttctccgtctgccgtaccgtccgaccacggggcgcacctctctttacgcggtctccccgtctgtgccttctcatctngccggtccgtgtgcacttcgcttcacctctgcacgttgcatggagaccaccgtgaacgcccatcargtcctgcccaaggtcttacaaaagaggactcttggactctcagcaatgtcaacgaccgacctagaggcctacttcaaagactgtgtgataaaagactgggaggagttgggggaggagataaggttaanngtctttgtattaggaggctgta</GBSeq_sequence>
+  </GBSeq>

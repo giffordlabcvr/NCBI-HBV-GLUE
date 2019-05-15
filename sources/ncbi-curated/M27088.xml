@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<GBSeq>
+
+    <GBSeq_locus>HUMHPBINS</GBSeq_locus>
+    <GBSeq_length>1895</GBSeq_length>
+    <GBSeq_strandedness>single</GBSeq_strandedness>
+    <GBSeq_moltype>mRNA</GBSeq_moltype>
+    <GBSeq_topology>linear</GBSeq_topology>
+    <GBSeq_division>VRL</GBSeq_division>
+    <GBSeq_update-date>30-NOV-1999</GBSeq_update-date>
+    <GBSeq_create-date>04-AUG-1993</GBSeq_create-date>
+    <GBSeq_definition>Homo sapiens (clone pcAL-36) mRNA fragment with a proviral hepatitis B insertion and a mitochondrial URF4 homologous sequence</GBSeq_definition>
+    <GBSeq_primary-accession>M27088</GBSeq_primary-accession>
+    <GBSeq_accession-version>M27088.1</GBSeq_accession-version>
+    <GBSeq_other-seqids>
+      <GBSeqid>gb|M27088.1|HUMHPBINS</GBSeqid>
+      <GBSeqid>gi|600218</GBSeqid>
+    </GBSeq_other-seqids>
+    <GBSeq_keywords>
+      <GBKeyword>oncogene</GBKeyword>
+    </GBSeq_keywords>
+    <GBSeq_source>Hepatitis B virus</GBSeq_source>
+    <GBSeq_organism>Hepatitis B virus</GBSeq_organism>
+    <GBSeq_taxonomy>Viruses; Retro-transcribing viruses; Hepadnaviridae; Orthohepadnavirus</GBSeq_taxonomy>
+    <GBSeq_references>
+      <GBReference>
+        <GBReference_reference>1</GBReference_reference>
+        <GBReference_position>1..1895</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Koch,I.</GBAuthor>
+          <GBAuthor>Hofschneider,P.H.</GBAuthor>
+          <GBAuthor>Koshy,R.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>Expression of a hepatitis B virus transcript containing fused mitochondrial-like domains in human hepatoma cells</GBReference_title>
+        <GBReference_journal>Virology 170 (2), 591-594 (1989)</GBReference_journal>
+        <GBReference_pubmed>2543134</GBReference_pubmed>
+      </GBReference>
+    </GBSeq_references>
+    <GBSeq_comment>On Dec 8, 1994 this sequence version replaced gi:341633.</GBSeq_comment>
+    <GBSeq_feature-table>
+      <GBFeature>
+        <GBFeature_key>source</GBFeature_key>
+        <GBFeature_location>252..1680</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>252</GBInterval_from>
+            <GBInterval_to>1680</GBInterval_to>
+            <GBInterval_accession>M27088.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>organism</GBQualifier_name>
+            <GBQualifier_value>Hepatitis B virus</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>mol_type</GBQualifier_name>
+            <GBQualifier_value>mRNA</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>db_xref</GBQualifier_name>
+            <GBQualifier_value>taxon:10407</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>focus</GBQualifier_name>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>source</GBFeature_key>
+        <GBFeature_location>1..251</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>251</GBInterval_to>
+            <GBInterval_accession>M27088.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>organism</GBQualifier_name>
+            <GBQualifier_value>Homo sapiens</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>mol_type</GBQualifier_name>
+            <GBQualifier_value>mRNA</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>db_xref</GBQualifier_name>
+            <GBQualifier_value>taxon:9606</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>clone</GBQualifier_name>
+            <GBQualifier_value>pcAL-36</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>cell_line</GBQualifier_name>
+            <GBQualifier_value>PLC/PRF/5</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>tissue_type</GBQualifier_name>
+            <GBQualifier_value>hepatoma</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>source</GBFeature_key>
+        <GBFeature_location>1681..1895</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1681</GBInterval_from>
+            <GBInterval_to>1895</GBInterval_to>
+            <GBInterval_accession>M27088.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>organism</GBQualifier_name>
+            <GBQualifier_value>Homo sapiens</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>mol_type</GBQualifier_name>
+            <GBQualifier_value>mRNA</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>db_xref</GBQualifier_name>
+            <GBQualifier_value>taxon:9606</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>cell_line</GBQualifier_name>
+            <GBQualifier_value>PLC/PRF/5</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>tissue_type</GBQualifier_name>
+            <GBQualifier_value>hepatoma</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>misc_feature</GBFeature_key>
+        <GBFeature_location>complement(1..251)</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>251</GBInterval_from>
+            <GBInterval_to>1</GBInterval_to>
+            <GBInterval_iscomp value="true"/>
+            <GBInterval_accession>M27088.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>note</GBQualifier_name>
+            <GBQualifier_value>region similar to mitochondrial Urf4</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+    </GBSeq_feature-table>
+    <GBSeq_sequence>gggtggtttcgaagaaganntgtaaaatatgattacgttctgtggctgtgaatgcttataattaaggagatttgtagggagattagtatagagaggtagagtctttctcgtgatagtggttcatcggataagtggcgttggcttgccatgcattgtgaggggctaggagtcaggtagttagtattaggaggggggttggctaggggtcagaggaaaaggttcgggcccagctaaataggttattcccaaaccttttctcgacccctaaggccccaacctccaatcactcaccaacctcctgtcctccaatttgtcctggttatcgctggatatgtctgcgcggttttatcatattcctcttcatcctgctgctatgcctcatcttcttattggttcttctggactatcaaggtatgttgcccgtttgtcctctaattctcaggatccacaacaaccagtacgggaccctgcaaaacctccacgactcctgctcaaggcaactctatgtttccctcatgttgctgtacaaaacctccggatggaaattgcacctgtattcccatcccatcacttgggctttcgcaaaatacctatgggagtggggctcagtccgtttctcttggctcagtttactagtgccatttgttcagtggttcgtagggctttcccccactgtttggctttcagttatatggatgatgtggtattgggggccaaatctgtacaacatcttgagtccctttataccgctgttaccaattttcttttgtctttgggtatacatttaaaccctaacaaaacgaagagatggggttattccctaaacttcatgggatatgtaattggaagttggggtaccttgccacaggatcatattgtacaaaaaatcaaatgctgttttaggaaacttcctgtcaatcctacctattgattggaaagtatgtcaaagaattgtgggtcttttgggctttgccgcgccctttacacaatgtggttaccctgccttaatgcctttatatgcatgtatacaagcaaaacaggcttttactttctcgccaacttacaaggcctttctaagtaaatagtatatgaacctttacccttgccggcaacgcctgcctgtccaaggttgtcttgacgcaacccccactggctggggcttggctatgggccatcagcgcatgcgtggagcctttgtggctcctctgccgatccatactgcggaacttcttgcagcttgttttgctcgcagccggtctggagcgaaactcatcgggactgataattctgtcgtcctttctcggaaatatacatcatttccatggctgctaggttgtgctgctaactggattcttcgcgggacgtcctttgtctacgtcccgtcggcgctgaatcctgcggacgaccctcccggggccgcttggactctatcgtccccttcttcgtctgccgtaccgtccgaccacggggcgcacctctctttacgcggtttccccgtctgttcctactcatctgccggtccgtgtacactttgcttcacctctgcacgacgcatggaaaaggcacctgccatgaacacttacataagtggtctcttgnactgtattaatgtagcaataattatgacattgtgtaatgtcggttatgtaacaaatcaataattaatggtttaggtaacaacaaaaaaaaaaaaactcagttacgaggagttgtgaattaaaagcaaacatgaggcagataccttttactgtagacaggacgttagcaaacctcagaaggttgaaagtctcagcgttgtcaacatgtggttgaaatggtatccttccgcattggtcttgggactataacgtgctataccaactttcaagttatattggcagccactagcccgaatt</GBSeq_sequence>
+  </GBSeq>

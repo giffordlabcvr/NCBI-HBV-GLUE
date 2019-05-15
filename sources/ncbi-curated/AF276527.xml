@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<GBSeq>
+
+    <GBSeq_locus>AF276527</GBSeq_locus>
+    <GBSeq_length>407</GBSeq_length>
+    <GBSeq_strandedness>double</GBSeq_strandedness>
+    <GBSeq_moltype>DNA</GBSeq_moltype>
+    <GBSeq_topology>linear</GBSeq_topology>
+    <GBSeq_division>VRL</GBSeq_division>
+    <GBSeq_update-date>14-JUL-2016</GBSeq_update-date>
+    <GBSeq_create-date>06-NOV-2000</GBSeq_create-date>
+    <GBSeq_definition>Hepatitis B virus isolate 4F-9 X protein (X) gene, promoter and partial cds</GBSeq_definition>
+    <GBSeq_primary-accession>AF276527</GBSeq_primary-accession>
+    <GBSeq_accession-version>AF276527.1</GBSeq_accession-version>
+    <GBSeq_other-seqids>
+      <GBSeqid>gb|AF276527.1|</GBSeqid>
+      <GBSeqid>gi|11095718</GBSeqid>
+    </GBSeq_other-seqids>
+    <GBSeq_source>Hepatitis B virus</GBSeq_source>
+    <GBSeq_organism>Hepatitis B virus</GBSeq_organism>
+    <GBSeq_taxonomy>Viruses; Retro-transcribing viruses; Hepadnaviridae; Orthohepadnavirus</GBSeq_taxonomy>
+    <GBSeq_references>
+      <GBReference>
+        <GBReference_reference>1</GBReference_reference>
+        <GBReference_position>1..407</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Ha-Lee,Y.M.</GBAuthor>
+          <GBAuthor>Lee,J.</GBAuthor>
+          <GBAuthor>Pyun,H.</GBAuthor>
+          <GBAuthor>Kim,Y.</GBAuthor>
+          <GBAuthor>Sohn,J.</GBAuthor>
+          <GBAuthor>Cho,Y.J.</GBAuthor>
+          <GBAuthor>Kim,Y.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>Sequence variations of hepatitis B virus promoter regions in persistently infected patients</GBReference_title>
+        <GBReference_journal>Arch. Virol. 146 (2), 279-292 (2001)</GBReference_journal>
+        <GBReference_pubmed>11315638</GBReference_pubmed>
+      </GBReference>
+      <GBReference>
+        <GBReference_reference>2</GBReference_reference>
+        <GBReference_position>1..407</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Ha-Lee,Y.M.</GBAuthor>
+          <GBAuthor>Lee,J.</GBAuthor>
+          <GBAuthor>Pyun,H.-S.</GBAuthor>
+          <GBAuthor>Kim,Y.-S.</GBAuthor>
+          <GBAuthor>Sohn,J.</GBAuthor>
+          <GBAuthor>Cho,Y.J.</GBAuthor>
+          <GBAuthor>Kim,Y.-K.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>Direct Submission</GBReference_title>
+        <GBReference_journal>Submitted (09-JUN-2000) Korea Nutrition Research Institute, Korea University, 126-1 Anam-Dong, Sungbuk-Gu, Seoul 136-701, Korea</GBReference_journal>
+      </GBReference>
+    </GBSeq_references>
+    <GBSeq_feature-table>
+      <GBFeature>
+        <GBFeature_key>source</GBFeature_key>
+        <GBFeature_location>1..407</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>407</GBInterval_to>
+            <GBInterval_accession>AF276527.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>organism</GBQualifier_name>
+            <GBQualifier_value>Hepatitis B virus</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>mol_type</GBQualifier_name>
+            <GBQualifier_value>genomic DNA</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>isolate</GBQualifier_name>
+            <GBQualifier_value>4F-9</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>db_xref</GBQualifier_name>
+            <GBQualifier_value>taxon:10407</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>gene</GBFeature_key>
+        <GBFeature_location>1..&gt;407</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>407</GBInterval_to>
+            <GBInterval_accession>AF276527.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_partial3 value="true"/>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>gene</GBQualifier_name>
+            <GBQualifier_value>X</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>CDS</GBFeature_key>
+        <GBFeature_location>369..&gt;407</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>369</GBInterval_from>
+            <GBInterval_to>407</GBInterval_to>
+            <GBInterval_accession>AF276527.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_partial3 value="true"/>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>gene</GBQualifier_name>
+            <GBQualifier_value>X</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>codon_start</GBQualifier_name>
+            <GBQualifier_value>1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>transl_table</GBQualifier_name>
+            <GBQualifier_value>1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>product</GBQualifier_name>
+            <GBQualifier_value>X protein</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>protein_id</GBQualifier_name>
+            <GBQualifier_value>AAG29994.1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>translation</GBQualifier_name>
+            <GBQualifier_value>MAARVCCQLDPAR</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+    </GBSeq_feature-table>
+    <GBSeq_sequence>cttttgggctttgctgccccttttacacaatgtggctatcctgctttgatgcctttatatgcatgtatacaatctaagcaggctttcactttctcgccaacttacaaggcctttctgtgtaaacaatatatgcacctttaccccgttgcccggcaacggtcaggtctctgccaagtgtttgctgacgcaacccccactggatggggcttggccataggccatcggcgcatgcgtggaacctttgtggctcctctgccgatccataccgcggaactcctagcggcttgttttgctcgcagccggtctggagcaaaacttatcgggactgacaactctgttgtcctctctcggaaatacacctccttcccatggctgctcgggtgtgctgccaactggatcctgcgcgg</GBSeq_sequence>
+  </GBSeq>

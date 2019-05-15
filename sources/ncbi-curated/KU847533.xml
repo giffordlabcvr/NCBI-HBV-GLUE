@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<GBSeq>
+
+    <GBSeq_locus>KU847533</GBSeq_locus>
+    <GBSeq_length>1032</GBSeq_length>
+    <GBSeq_strandedness>double</GBSeq_strandedness>
+    <GBSeq_moltype>DNA</GBSeq_moltype>
+    <GBSeq_topology>linear</GBSeq_topology>
+    <GBSeq_division>VRL</GBSeq_division>
+    <GBSeq_update-date>12-JAN-2018</GBSeq_update-date>
+    <GBSeq_create-date>28-AUG-2016</GBSeq_create-date>
+    <GBSeq_definition>Hepatitis B virus isolate 1014.1 reverse transcriptase (RT) gene, partial cds</GBSeq_definition>
+    <GBSeq_primary-accession>KU847533</GBSeq_primary-accession>
+    <GBSeq_accession-version>KU847533.1</GBSeq_accession-version>
+    <GBSeq_other-seqids>
+      <GBSeqid>gb|KU847533.1|</GBSeqid>
+      <GBSeqid>gi|1058265384</GBSeqid>
+    </GBSeq_other-seqids>
+    <GBSeq_source>Hepatitis B virus</GBSeq_source>
+    <GBSeq_organism>Hepatitis B virus</GBSeq_organism>
+    <GBSeq_taxonomy>Viruses; Retro-transcribing viruses; Hepadnaviridae; Orthohepadnavirus</GBSeq_taxonomy>
+    <GBSeq_references>
+      <GBReference>
+        <GBReference_reference>1</GBReference_reference>
+        <GBReference_position>1..1032</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Pacheco,S.R.</GBAuthor>
+          <GBAuthor>Dos Santos,M.I.M.A.</GBAuthor>
+          <GBAuthor>Stocker,A.</GBAuthor>
+          <GBAuthor>Zarife,M.A.S.</GBAuthor>
+          <GBAuthor>Schinoni,M.I.</GBAuthor>
+          <GBAuthor>Parana,R.</GBAuthor>
+          <GBAuthor>Dos Reis,M.G.</GBAuthor>
+          <GBAuthor>Silva,L.K.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>Genotyping of HBV and tracking of resistance mutations in treatment-naive patients with chronic hepatitis B</GBReference_title>
+        <GBReference_journal>Infect Drug Resist 10, 201-207 (2017)</GBReference_journal>
+        <GBReference_xref>
+          <GBXref>
+            <GBXref_dbname>doi</GBXref_dbname>
+            <GBXref_id>10.2147/IDR.S135420</GBXref_id>
+          </GBXref>
+        </GBReference_xref>
+        <GBReference_pubmed>28740410</GBReference_pubmed>
+        <GBReference_remark>Publication Status: Online-Only</GBReference_remark>
+      </GBReference>
+      <GBReference>
+        <GBReference_reference>2</GBReference_reference>
+        <GBReference_position>1..1032</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Dos Santos,M.I.M.A.</GBAuthor>
+          <GBAuthor>Pacheco,S.R.</GBAuthor>
+          <GBAuthor>Stocker,A.</GBAuthor>
+          <GBAuthor>Schinoni,M.I.</GBAuthor>
+          <GBAuthor>Parana,R.</GBAuthor>
+          <GBAuthor>Reis,M.G.</GBAuthor>
+          <GBAuthor>Silva,L.K.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>Mutations associated with drug resistance and prevalence of vaccine escape mutations in patients with chronic hepatitis B infection</GBReference_title>
+        <GBReference_journal>J. Med. Virol. 89 (10), 1811-1816 (2017)</GBReference_journal>
+        <GBReference_xref>
+          <GBXref>
+            <GBXref_dbname>doi</GBXref_dbname>
+            <GBXref_id>10.1002/jmv.24853</GBXref_id>
+          </GBXref>
+        </GBReference_xref>
+        <GBReference_pubmed>28500726</GBReference_pubmed>
+      </GBReference>
+      <GBReference>
+        <GBReference_reference>3</GBReference_reference>
+        <GBReference_position>1..1032</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Pacheco,S.R.</GBAuthor>
+          <GBAuthor>Santos,M.I.M.M.A.</GBAuthor>
+          <GBAuthor>Stocker,A.</GBAuthor>
+          <GBAuthor>Zarife,M.A.S.</GBAuthor>
+          <GBAuthor>Schinoni,M.I.</GBAuthor>
+          <GBAuthor>Parana,R.</GBAuthor>
+          <GBAuthor>Reis,M.G.</GBAuthor>
+          <GBAuthor>Silva,L.K.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>Direct Submission</GBReference_title>
+        <GBReference_journal>Submitted (29-FEB-2016) Centro de Pesquisas Goncalo Moniz, Fundacao Oswaldo Cruz, R. Waldemar Falcao, 121, Salvador, BA 40296-710, Brasil</GBReference_journal>
+      </GBReference>
+    </GBSeq_references>
+    <GBSeq_comment>##Assembly-Data-START## ; Sequencing Technology :: Sanger dideoxy sequencing ; ##Assembly-Data-END##</GBSeq_comment>
+    <GBSeq_feature-table>
+      <GBFeature>
+        <GBFeature_key>source</GBFeature_key>
+        <GBFeature_location>1..1032</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>1032</GBInterval_to>
+            <GBInterval_accession>KU847533.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>organism</GBQualifier_name>
+            <GBQualifier_value>Hepatitis B virus</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>mol_type</GBQualifier_name>
+            <GBQualifier_value>genomic DNA</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>isolate</GBQualifier_name>
+            <GBQualifier_value>1014.1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>isolation_source</GBQualifier_name>
+            <GBQualifier_value>serum from chronic hepatitis B patient</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>host</GBQualifier_name>
+            <GBQualifier_value>Homo sapiens</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>db_xref</GBQualifier_name>
+            <GBQualifier_value>taxon:10407</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>country</GBQualifier_name>
+            <GBQualifier_value>Brazil</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>collection_date</GBQualifier_name>
+            <GBQualifier_value>2011</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>note</GBQualifier_name>
+            <GBQualifier_value>genotype: A1</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>gene</GBFeature_key>
+        <GBFeature_location>&lt;1..&gt;1032</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>1032</GBInterval_to>
+            <GBInterval_accession>KU847533.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_partial5 value="true"/>
+        <GBFeature_partial3 value="true"/>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>gene</GBQualifier_name>
+            <GBQualifier_value>RT</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>CDS</GBFeature_key>
+        <GBFeature_location>&lt;1..&gt;1032</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>1032</GBInterval_to>
+            <GBInterval_accession>KU847533.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_partial5 value="true"/>
+        <GBFeature_partial3 value="true"/>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>gene</GBQualifier_name>
+            <GBQualifier_value>RT</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>codon_start</GBQualifier_name>
+            <GBQualifier_value>1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>transl_table</GBQualifier_name>
+            <GBQualifier_value>1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>product</GBQualifier_name>
+            <GBQualifier_value>reverse transcriptase</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>protein_id</GBQualifier_name>
+            <GBQualifier_value>AOF39715.1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>translation</GBQualifier_name>
+            <GBQualifier_value>EDWGPCAEHGEHHIRIPTTPARVTGGVFLVDKNPHNTAESRLVVDFSQFSRGTTRVSWPKFAVPNLQSLTNLLSSNLSWLSLDVSAAFYHIPLHPAAMPHLLIGSSGLSGYVARLSSNSRIHNNQXGTLQNLHDSCSRQLYVSLMLLYKTYGWKLHLYSHPIILGFRKIPMGVGLSPFLLAQFTSAICSVVRRAFPHCXAFSYMDDVVLGAKSVQHLESLYTAVTNFLLSLGIHLNPNKTKRWGYSLNFMGYIIGSWGTLPQDHIVHKIKHCFRKLPVNRPIDWKVCQRIVGLLGFAAPFTQCGYPALMPLYACIQAKQAFTFSPTYKAFLRQQYMNLYPVARQ</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+    </GBSeq_feature-table>
+    <GBSeq_sequence>gaggactggggaccctgcgccgaacatggagaacatcacatcaggattcctacgacccctgctcgtgttacaggcggggtttttcttgttgacaagaatcctcacaataccgcagagtctagactcgtggtggacttctctcaattttctagggggaccacccgtgtgtcttggccaaaattcgcagtccccaacctccaatcactcaccaacctcctgtcctccaacttgtcctggttatcgctggatgtgtctgcggcgttttatcatattcctcttcatcctgctgctatgcctcatcttcttattggttcttctggattatcagggtatgttgcccgtttgtcctctaattccaggatccacaacaaccagyacgggaccctgcaaaacctgcacgactcctgctcaaggcaactctatgtttccctcatgttgctgtacaaaacctacggatggaaattgcacctgtattcccatcccatcatcttgggctttcgcaaaatacctatgggagtgggcctcagtccgtttctcttggctcagtttactagtgccatttgttcagtggttcgtagggctttcccccactgtktggctttcagctatatggatgatgtggtactgggggccaaatctgtacaacatcttgagtccctttataccgctgttaccaattttcttttgtctttgggtatacatttaaacccyaacaaaacaaagagatggggctattccctaaatttcatgggttatatcattggaagttggggwacattgccacaggatcatattgtacacaaaatcaaacactgttttaggaaacttcctgttaatcggcctattgattggaaagtgtgtcaragaattgtgggtcttttgggctttgccgctccatttacacaatgtggttatcctgccttaatgcctttgtatgcatgtatacaagcaaaacaggcttttactttctcgccaacttacaaggcctttctacgtcaacagtatatgaacctttaccccgttgcccggcaa</GBSeq_sequence>
+  </GBSeq>

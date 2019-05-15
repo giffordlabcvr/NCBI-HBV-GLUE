@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<GBSeq>
+
+    <GBSeq_locus>MA144845</GBSeq_locus>
+    <GBSeq_length>639</GBSeq_length>
+    <GBSeq_strandedness>double</GBSeq_strandedness>
+    <GBSeq_moltype>DNA</GBSeq_moltype>
+    <GBSeq_topology>linear</GBSeq_topology>
+    <GBSeq_division>PAT</GBSeq_division>
+    <GBSeq_update-date>29-JUN-2018</GBSeq_update-date>
+    <GBSeq_create-date>29-JUN-2018</GBSeq_create-date>
+    <GBSeq_definition>JP 2018502562-A/1: Vaccines based on hepatitis B core antigens</GBSeq_definition>
+    <GBSeq_primary-accession>MA144845</GBSeq_primary-accession>
+    <GBSeq_accession-version>MA144845.1</GBSeq_accession-version>
+    <GBSeq_other-seqids>
+      <GBSeqid>dbj|MA144845.1|</GBSeqid>
+      <GBSeqid>pat|JP|2018502562|1</GBSeqid>
+      <GBSeqid>gi|1417735845</GBSeqid>
+    </GBSeq_other-seqids>
+    <GBSeq_keywords>
+      <GBKeyword>JP 2018502562-A/1</GBKeyword>
+    </GBSeq_keywords>
+    <GBSeq_source>Hepatitis B virus</GBSeq_source>
+    <GBSeq_organism>Hepatitis B virus</GBSeq_organism>
+    <GBSeq_taxonomy>Viruses; Retro-transcribing viruses; Hepadnaviridae; Orthohepadnavirus</GBSeq_taxonomy>
+    <GBSeq_references>
+      <GBReference>
+        <GBReference_reference>1</GBReference_reference>
+        <GBReference_position>1..639</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Ceballos,A.R.</GBAuthor>
+          <GBAuthor>Whelan,M.A.</GBAuthor>
+          <GBAuthor>Crescente,V.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>Vaccines based on hepatitis B core antigens</GBReference_title>
+        <GBReference_journal>JP2018502562-A 1 01-FEB-2018 iQUR LIMITED</GBReference_journal>
+      </GBReference>
+    </GBSeq_references>
+    <GBSeq_comment>OS Hepatitis B virus~PN JP 2018502562-A/1~PD 01-FEB-2018~PF 03-DEC-2015 JP 2017530074~PR 05-DEC-2014 GB 1421692.3~PA iQUR LIMITED~PI alejandro ramirez ceballos,michael anthony whelan,vincenzo~PI crescente~PT 'Vaccines based on hepatitis B core antigens'~PS N1~CC HBcAg ayw subtype nucleotide and amino acid sequence~FH Key Location/Qualifiers~FT CDS (1)..(639).</GBSeq_comment>
+    <GBSeq_feature-table>
+      <GBFeature>
+        <GBFeature_key>source</GBFeature_key>
+        <GBFeature_location>1..639</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>639</GBInterval_to>
+            <GBInterval_accession>MA144845.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>organism</GBQualifier_name>
+            <GBQualifier_value>Hepatitis B virus</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>mol_type</GBQualifier_name>
+            <GBQualifier_value>unassigned DNA</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>db_xref</GBQualifier_name>
+            <GBQualifier_value>taxon:10407</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+    </GBSeq_feature-table>
+    <GBSeq_sequence>atgcaactttttcacctctgcctaatcatctcttgttcatgtcctactgttcaagcctccaagctgtgccttgggtggctttggggcatggacatcgacccttataaagaatttggagctactgtggagttactctcgtttttgccttctgacttctttccttcagtacgagatcttctagataccgcctcagctctgtatcgggaagccttagagtctcctgagcattgttcacctcaccatactgcactcaggcaagcaattctttgctggggggaactaatgactctagctacctgggtgggtgttaatttggaagatccagcgtctagagacctagtagtcagttatgtcaacactaatatgggcctaaagttcaggcaactcttgtggtttcacatttcttgtctcacttttggaagagaaacagttatagagtatttggtgtctttcggagtgtggattcgcactcctccagcttatagaccaccaaatgcccctatcctatcaacacttccggagactactgttgttagacgacgaggcaggtcccctagaagaagaactccctcgcctcgcagacgaaggtctcaatcgccgcgtcgcagaagatctcaatctcgggaatctcaatgttag</GBSeq_sequence>
+  </GBSeq>

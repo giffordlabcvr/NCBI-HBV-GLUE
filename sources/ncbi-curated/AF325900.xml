@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<GBSeq>
+
+    <GBSeq_locus>AF325900</GBSeq_locus>
+    <GBSeq_length>2132</GBSeq_length>
+    <GBSeq_strandedness>double</GBSeq_strandedness>
+    <GBSeq_moltype>DNA</GBSeq_moltype>
+    <GBSeq_topology>linear</GBSeq_topology>
+    <GBSeq_division>PRI</GBSeq_division>
+    <GBSeq_update-date>05-APR-2002</GBSeq_update-date>
+    <GBSeq_create-date>22-APR-2001</GBSeq_create-date>
+    <GBSeq_definition>Homo sapiens TERT gene promoter region with integrated Hepatitis B virus sequence</GBSeq_definition>
+    <GBSeq_primary-accession>AF325900</GBSeq_primary-accession>
+    <GBSeq_accession-version>AF325900.1</GBSeq_accession-version>
+    <GBSeq_other-seqids>
+      <GBSeqid>gb|AF325900.1|</GBSeqid>
+      <GBSeqid>gi|13751762</GBSeqid>
+    </GBSeq_other-seqids>
+    <GBSeq_source>Homo sapiens (human)</GBSeq_source>
+    <GBSeq_organism>Homo sapiens</GBSeq_organism>
+    <GBSeq_taxonomy>Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi; Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini; Catarrhini; Hominidae; Homo</GBSeq_taxonomy>
+    <GBSeq_references>
+      <GBReference>
+        <GBReference_reference>1</GBReference_reference>
+        <GBReference_position>1..2132</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Horikawa,I.</GBAuthor>
+          <GBAuthor>Barrett,J.C.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>cis-Activation of the human telomerase gene (hTERT) by the hepatitis B virus genome</GBReference_title>
+        <GBReference_journal>J. Natl. Cancer Inst. 93 (15), 1171-1173 (2001)</GBReference_journal>
+        <GBReference_pubmed>11481390</GBReference_pubmed>
+      </GBReference>
+      <GBReference>
+        <GBReference_reference>2</GBReference_reference>
+        <GBReference_position>1..2132</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Horikawa,I.</GBAuthor>
+          <GBAuthor>Barrett,J.C.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>Direct Submission</GBReference_title>
+        <GBReference_journal>Submitted (04-DEC-2000) Laboratory of Biosystems and Cancer, National Cancer Institute, 9000 Rockville Pike, Bldg. 40, Rm. 2607, Bethesda, MD 20892, USA</GBReference_journal>
+      </GBReference>
+    </GBSeq_references>
+    <GBSeq_feature-table>
+      <GBFeature>
+        <GBFeature_key>source</GBFeature_key>
+        <GBFeature_location>1836..2132</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1836</GBInterval_from>
+            <GBInterval_to>2132</GBInterval_to>
+            <GBInterval_accession>AF325900.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>organism</GBQualifier_name>
+            <GBQualifier_value>Homo sapiens</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>mol_type</GBQualifier_name>
+            <GBQualifier_value>genomic DNA</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>db_xref</GBQualifier_name>
+            <GBQualifier_value>taxon:9606</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>cell_line</GBQualifier_name>
+            <GBQualifier_value>huH-4</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>cell_type</GBQualifier_name>
+            <GBQualifier_value>hepatocellular carcinoma</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>focus</GBQualifier_name>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>source</GBFeature_key>
+        <GBFeature_location>1..1835</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>1835</GBInterval_to>
+            <GBInterval_accession>AF325900.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>organism</GBQualifier_name>
+            <GBQualifier_value>Hepatitis B virus</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>mol_type</GBQualifier_name>
+            <GBQualifier_value>genomic DNA</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>db_xref</GBQualifier_name>
+            <GBQualifier_value>taxon:10407</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>misc_feature</GBFeature_key>
+        <GBFeature_location>complement(1..477)</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>477</GBInterval_from>
+            <GBInterval_to>1</GBInterval_to>
+            <GBInterval_iscomp value="true"/>
+            <GBInterval_accession>AF325900.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>note</GBQualifier_name>
+            <GBQualifier_value>similar to Hepatitis B virus subtype adr deposited in GenBank Accession Number V00867</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>misc_feature</GBFeature_key>
+        <GBFeature_location>478..1835</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>478</GBInterval_from>
+            <GBInterval_to>1835</GBInterval_to>
+            <GBInterval_accession>AF325900.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>note</GBQualifier_name>
+            <GBQualifier_value>similar to Hepatitis B virus subtype adr deposited in GenBank Accession Number V00867</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>gene</GBFeature_key>
+        <GBFeature_location>1836..&gt;2132</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1836</GBInterval_from>
+            <GBInterval_to>2132</GBInterval_to>
+            <GBInterval_accession>AF325900.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_partial3 value="true"/>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>gene</GBQualifier_name>
+            <GBQualifier_value>TERT</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>note</GBQualifier_name>
+            <GBQualifier_value>telomerase reverse transcriptase</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>regulatory</GBFeature_key>
+        <GBFeature_location>1836..2092</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1836</GBInterval_from>
+            <GBInterval_to>2092</GBInterval_to>
+            <GBInterval_accession>AF325900.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>regulatory_class</GBQualifier_name>
+            <GBQualifier_value>promoter</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>gene</GBQualifier_name>
+            <GBQualifier_value>TERT</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>mRNA</GBFeature_key>
+        <GBFeature_location>2093..&gt;2132</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>2093</GBInterval_from>
+            <GBInterval_to>2132</GBInterval_to>
+            <GBInterval_accession>AF325900.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_partial3 value="true"/>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>gene</GBQualifier_name>
+            <GBQualifier_value>TERT</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>product</GBQualifier_name>
+            <GBQualifier_value>telomerase reverse transcriptase</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>transcription</GBQualifier_name>
+            <GBQualifier_value>GCAGCGCTGCGTCCTGCTGCGCACGTGGGAAGCCCTGGCC</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+    </GBSeq_feature-table>
+    <GBSeq_sequence>cgacgggacgtagacaaaggacgtcccgcgcaggatccagttggcagcacaccctagcagccatggaaaggaggtgtatttccgagagaggacaacagagttgtcggtgccgataagtttcgctccagaccggctgcgagcaaaacaagctgctaggagttccgcagtatggatcggcagaggagccacaaaggttccacgcatgcgccgatggcctatggccaagccccatgcagtgggggttgcgtcagcaaacacttggcaaagacgtgaccgttgccgggcaacggggtaaaggttcagatattgtttacacagaaaggccttgtaagttggcgagaaagtgaaagcctgcttagattgtatacatgcatataaaggcattaaggcaggatagccacattgtgtaaaaggggcaacaaagcccaaaagacccacaattctttggcatactttccaatcaataggtctatttactttttcacctctgcctaatcatctcatgttcatgtcctactgttcaagcctccaagctgtgccttgggtggctttggggcatggacattgacccatataaagaatttggagcttctgtggagttactctcttttttgccttctgacttctttccttctattcgagatctcctcgacaccgcctcagctctatatcgggaggccttagagtctccggaacattgttcacctcaccatacagcactcaggcaagctattctgtgttggggtgagttgatgaatctggccacttgggtgggaagtaatttggaagacccagcatcccgggaattagtagtcagctatgtcaatgttaatatgggcctgaaaatcagacaactattgtggtttcacatttcctgtcttacttttggaagagaaactgttcttgagtatttggtgtcttttggagtgtggattcgcactcctcccgcttacagaccaccaaatgcccctatcctatcaacacttccggaaactactgttgttagacgacgaggcaggtcccctagaagaagaactccctcgcctcgcagacgaaggtctcaatcgccgcgtcgcagaagatctcaatctcgggaatctcaatgttagtatcccttggactcataaggtgggaaactttactgggctttattcttctactgtacctgtctttaatcctgagtggcaaactccctcctttcctcacattcatttacaggaggacattattaatagatgtcaacaatatgtgggccctcttacagttaatgaaaaaaggagattaaaattaattatgcctgctaggttctatcctaaccttaccaaatatttgcccttggataaaggcattaaaccgtattatcctgaaaatgcagttaatcattacttcaaaactaggcattatttacatactctgtggaaggctggcattctatataagagagaaactacacgcagcgcctcattttttgggtcaccatattcttgggaacaagagctacagcatgggaggttggtcttccaaacctcgacaaggcatggggacgaatctttctgttcccaatcctctgggattctttcccgatcaccagttggaccctgcgttcggagccaactcaaacaatccagattgggacttcaaccccaacaaggatcactggccagaggcaaatcaggtaggagcgggagcattcggatcagggttcaccccaccacacggcggtcttttggggtggagccctcaggctcagggcatattgacaacagtgccagcagcacctcctcctgcctccaccaatcggcagtcagggagacagcctactcccatctctccacagctgcgctgtcggggccaggccgggctcccagtggattcgcgggcacagacgcccaggaccgcgcttcccacgtggcggagggactggggacccgggcacccgtcctgccccttcaccttccagctccgcctcctccgcgcggaccccgccccgtcccgacccctcccgggtccccggcccagccccctccgggccctcccagcccctccccttcctttccgcggccccgccctctcctcgcggcgcgagtttcaggcagcgctgcgtcctgctgcgcacgtgggaagccctggcc</GBSeq_sequence>
+  </GBSeq>

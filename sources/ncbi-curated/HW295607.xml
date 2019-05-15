@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<GBSeq>
+
+    <GBSeq_locus>HW295607</GBSeq_locus>
+    <GBSeq_length>552</GBSeq_length>
+    <GBSeq_strandedness>double</GBSeq_strandedness>
+    <GBSeq_moltype>DNA</GBSeq_moltype>
+    <GBSeq_topology>linear</GBSeq_topology>
+    <GBSeq_division>PAT</GBSeq_division>
+    <GBSeq_update-date>29-OCT-2013</GBSeq_update-date>
+    <GBSeq_create-date>29-OCT-2013</GBSeq_create-date>
+    <GBSeq_definition>JP 2013521785-A/1: TUMOR VACCINATION INVOLVING A HUMORAL IMMUNE RESPONSE AGAINST SELF-PROTEINS</GBSeq_definition>
+    <GBSeq_primary-accession>HW295607</GBSeq_primary-accession>
+    <GBSeq_accession-version>HW295607.1</GBSeq_accession-version>
+    <GBSeq_other-seqids>
+      <GBSeqid>dbj|HW295607.1|</GBSeqid>
+      <GBSeqid>pat|JP|2013521785|1</GBSeqid>
+      <GBSeqid>gi|554621091</GBSeqid>
+    </GBSeq_other-seqids>
+    <GBSeq_keywords>
+      <GBKeyword>JP 2013521785-A/1</GBKeyword>
+    </GBSeq_keywords>
+    <GBSeq_source>Hepatitis B virus</GBSeq_source>
+    <GBSeq_organism>Hepatitis B virus</GBSeq_organism>
+    <GBSeq_taxonomy>Viruses; Retro-transcribing viruses; Hepadnaviridae; Orthohepadnavirus</GBSeq_taxonomy>
+    <GBSeq_references>
+      <GBReference>
+        <GBReference_reference>1</GBReference_reference>
+        <GBReference_position>1..552</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Schumacher,J.</GBAuthor>
+          <GBAuthor>Hiller,T.</GBAuthor>
+          <GBAuthor>Tuereci,O.</GBAuthor>
+          <GBAuthor>Koslowski,M.</GBAuthor>
+          <GBAuthor>Sahin,U.</GBAuthor>
+          <GBAuthor>Klamp,T.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>TUMOR VACCINATION INVOLVING A HUMORAL IMMUNE RESPONSE AGAINST SELF-PROTEINS</GBReference_title>
+        <GBReference_journal>JP2013521785-A 1 13-JUN-2013 BioNTech AG et al</GBReference_journal>
+      </GBReference>
+    </GBSeq_references>
+    <GBSeq_comment>OS Hepatitis B virus~PN JP 2013521785-A/1~PD 13-JUN-2013~PF 09-MAR-2011 JP 2012557436~PR 30-DEC-2010 EP 10016216.3 ,16-MAR-2010 EP 10002775.4 PA BioNTech AG et al~PI jens schumacher,thomas hiller,oezlem tuereci,michael PI koslowski,ugur sahin,~PI thorsten klamp~PT 'TUMOR VACCINATION INVOLVING A HUMORAL IMMUNE RESPONSE AGAINST PT SELF-PROTEINS'~PS N2~CC~FH Key Location/Qualifiers.</GBSeq_comment>
+    <GBSeq_feature-table>
+      <GBFeature>
+        <GBFeature_key>source</GBFeature_key>
+        <GBFeature_location>1..552</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>552</GBInterval_to>
+            <GBInterval_accession>HW295607.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>organism</GBQualifier_name>
+            <GBQualifier_value>Hepatitis B virus</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>mol_type</GBQualifier_name>
+            <GBQualifier_value>unassigned DNA</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>db_xref</GBQualifier_name>
+            <GBQualifier_value>taxon:10407</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+    </GBSeq_feature-table>
+    <GBSeq_sequence>atggacatcgacccttataaagaatttggagctactgtggagttactctcgtttttgccttctgacttctttccttcagtacgagatcttctagataccgcctcagctctgtatcgggaagccttagagtctcctgagcattgttcacctcaccatactgcactcaggcaagcaattctttgctggggggaactaatgactctagctacctgggtgggtgttaatttggaagatccagcgtctagagacctagtagtcagttatgtcaacactaatatgggcctaaagttcaggcaactcttgtggtttcacatttcttgtctcacttttggaagagaaacagttatagagtatttggtgtctttcggagtgtggattcgcactcctccagcttatagaccaccaaatgcccctatcctatcaacacttccggagactactgttgttagacgacgaggcaggtcccctagaagaagaactccctcacctcgcagacgaaggtctcaatcgccgcgtcgcagaagatctaaatctcgggaatctcaatgttag</GBSeq_sequence>
+  </GBSeq>

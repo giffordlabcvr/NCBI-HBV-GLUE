@@ -1,0 +1,216 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<GBSeq>
+
+    <GBSeq_locus>KT151619</GBSeq_locus>
+    <GBSeq_length>3150</GBSeq_length>
+    <GBSeq_strandedness>double</GBSeq_strandedness>
+    <GBSeq_moltype>DNA</GBSeq_moltype>
+    <GBSeq_topology>circular</GBSeq_topology>
+    <GBSeq_division>VRL</GBSeq_division>
+    <GBSeq_update-date>16-AUG-2015</GBSeq_update-date>
+    <GBSeq_create-date>16-AUG-2015</GBSeq_create-date>
+    <GBSeq_definition>UNVERIFIED: Hepatitis B virus isolate 168, complete sequence</GBSeq_definition>
+    <GBSeq_primary-accession>KT151619</GBSeq_primary-accession>
+    <GBSeq_accession-version>KT151619.1</GBSeq_accession-version>
+    <GBSeq_other-seqids>
+      <GBSeqid>gb|KT151619.1|</GBSeqid>
+      <GBSeqid>gi|914404227</GBSeqid>
+    </GBSeq_other-seqids>
+    <GBSeq_keywords>
+      <GBKeyword>UNVERIFIED</GBKeyword>
+    </GBSeq_keywords>
+    <GBSeq_source>Hepatitis B virus</GBSeq_source>
+    <GBSeq_organism>Hepatitis B virus</GBSeq_organism>
+    <GBSeq_taxonomy>Viruses; Retro-transcribing viruses; Hepadnaviridae; Orthohepadnavirus</GBSeq_taxonomy>
+    <GBSeq_references>
+      <GBReference>
+        <GBReference_reference>1</GBReference_reference>
+        <GBReference_position>1..3150</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Prakash,S.</GBAuthor>
+          <GBAuthor>Jain,A.</GBAuthor>
+          <GBAuthor>Seth,A.</GBAuthor>
+          <GBAuthor>Jain,B.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>Whole genome sequencing of Hepatitis B virus (HBV) from India using next generation sequencing technology</GBReference_title>
+        <GBReference_journal>Unpublished</GBReference_journal>
+      </GBReference>
+      <GBReference>
+        <GBReference_reference>2</GBReference_reference>
+        <GBReference_position>1..3150</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Prakash,S.</GBAuthor>
+          <GBAuthor>Jain,A.</GBAuthor>
+          <GBAuthor>Seth,A.</GBAuthor>
+          <GBAuthor>Jain,B.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>Direct Submission</GBReference_title>
+        <GBReference_journal>Submitted (26-MAY-2015) Microbiology, King George's Medical University, Shahmina Road, Chowk, Lucknow, Uttar Pradesh 226003, India</GBReference_journal>
+      </GBReference>
+    </GBSeq_references>
+    <GBSeq_comment>GenBank staff is unable to verify sequence and/or annotation provided by the submitter.; ; ##Assembly-Data-START## ; Assembly Method :: Torrent Suite v. v. 3.6.2; MEGA v. v. 5.10 ; Sequencing Technology :: IonTorrent ; ##Assembly-Data-END##</GBSeq_comment>
+    <GBSeq_feature-table>
+      <GBFeature>
+        <GBFeature_key>source</GBFeature_key>
+        <GBFeature_location>1..3150</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>3150</GBInterval_to>
+            <GBInterval_accession>KT151619.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>organism</GBQualifier_name>
+            <GBQualifier_value>Hepatitis B virus</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>mol_type</GBQualifier_name>
+            <GBQualifier_value>genomic DNA</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>isolate</GBQualifier_name>
+            <GBQualifier_value>168</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>isolation_source</GBQualifier_name>
+            <GBQualifier_value>serum</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>host</GBQualifier_name>
+            <GBQualifier_value>Homo sapiens</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>db_xref</GBQualifier_name>
+            <GBQualifier_value>taxon:10407</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>country</GBQualifier_name>
+            <GBQualifier_value>India: Lucknow</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>collection_date</GBQualifier_name>
+            <GBQualifier_value>26-Oct-2013</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>note</GBQualifier_name>
+            <GBQualifier_value>genotype: D</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>misc_feature</GBFeature_key>
+        <GBFeature_location>join(2275..3150,1..1591)</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>2275</GBInterval_from>
+            <GBInterval_to>3150</GBInterval_to>
+            <GBInterval_accession>KT151619.1</GBInterval_accession>
+          </GBInterval>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>1591</GBInterval_to>
+            <GBInterval_accession>KT151619.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_operator>join</GBFeature_operator>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>note</GBQualifier_name>
+            <GBQualifier_value>nonfunctional polymerase due to mutation</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>misc_feature</GBFeature_key>
+        <GBFeature_location>join(2816..3150,1..803)</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>2816</GBInterval_from>
+            <GBInterval_to>3150</GBInterval_to>
+            <GBInterval_accession>KT151619.1</GBInterval_accession>
+          </GBInterval>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>803</GBInterval_to>
+            <GBInterval_accession>KT151619.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_operator>join</GBFeature_operator>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>note</GBQualifier_name>
+            <GBQualifier_value>nonfunctional large S protein due to mutation; pre-S1/pre-S2/S</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>CDS</GBFeature_key>
+        <GBFeature_location>1342..1806</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1342</GBInterval_from>
+            <GBInterval_to>1806</GBInterval_to>
+            <GBInterval_accession>KT151619.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>codon_start</GBQualifier_name>
+            <GBQualifier_value>1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>transl_table</GBQualifier_name>
+            <GBQualifier_value>1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>product</GBQualifier_name>
+            <GBQualifier_value>X protein</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>protein_id</GBQualifier_name>
+            <GBQualifier_value>AKV63245.1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>translation</GBQualifier_name>
+            <GBQualifier_value>MAARLCCQLDPARDVLCLRPVGAESRGRPVSGPLGPLSSSPPSAVPTDHGAHLSLRGLPVCAFSSAGPCALRFTSARRMETTVNAHQILPKILHKRTLGLSTMSTTDLEQYFKDCLFKDWEELGEEIRLKVFVLGGCRHKLVCAPAPCXFFTSA</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>CDS</GBFeature_key>
+        <GBFeature_location>1782..2420</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1782</GBInterval_from>
+            <GBInterval_to>2420</GBInterval_to>
+            <GBInterval_accession>KT151619.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>codon_start</GBQualifier_name>
+            <GBQualifier_value>1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>transl_table</GBQualifier_name>
+            <GBQualifier_value>1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>product</GBQualifier_name>
+            <GBQualifier_value>precore/core protein</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>protein_id</GBQualifier_name>
+            <GBQualifier_value>AKV63246.1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>translation</GBQualifier_name>
+            <GBQualifier_value>MXLFHLCLIIFCSCPTVQASKLCLGWLWGMDIDPYKEFGATVELLSFLPSDFFPSVRDLLDTAAALYRDALESPEHCSPHHTALRQAILCWGELMTLATWVGTNLEDPASRDLVVSYVNTNMGLKFRQLLWFHISCLTFGRETVLEYLVSFGVWIRTPPAYRPPNAPILSTLPETTVVRRRGRSPRRRTPSPRRRRSQSPRRRRSQSRESQC</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+    </GBSeq_feature-table>
+    <GBSeq_sequence>ccagagtgagaggcctgtctttccctgctggtggctccagttcaggagcagtaaaccctgttccgactactgcctctcccttatcnnnnnnnnnnnnnaggattggggaccctgcgctgaacatggagaacatcacatcaggattcctaggacccctgctcgtgttacaggcggggtttttcttgttgacaagaatcctcacaataccgcagagtctagactcgtggtggacttctctcaattttctagggggaaccaccgtgtgtcttggccaaaattcgcagtccccaacctccaatcactcaccaacctcctgtcctccaacttgtcctggttatcgctggatgtgtctgcggcgttttatcatcttcctcttcatcctgctgctatgcctcatcttcttgttggttcttctggactatcaaggtatgttgcccgtttgtcctctaattccaggatcttcgaccaccagcacgggaccatgccgmacctgcacgactactgctcaaggaacctctatgtatccctcctgttgctgtaccaaaccttcggacggaaattgcacctgtattcccatcccatcatcctgggctttcggaaaattcctatgggagtgggcctcagcccgtttctcctggctcagtttactagtgccatttgttcagtggttcgtagggctttcccccactgtttggctttcagttatatggatgatgtggtattgggggccaagtctgtacagcatcttgagtccctttttaccgctgttaccaattttcttttgtctttgggtatacatttaaaccctaacaagacgaaaagatggggttattctctacatttcatggggtatgtcattgattgttggggatcattaccacaagagcacattatacacaagctgaaagaatgttttcgaaaactccctgttaacaggcctattgattggaaagtatgtcaaagaattgtgggtcttttgggttttgctgccccttttacacaatgtggttatcctgctttaatgcccttatatgcatgtattcaatctaaacaggctttcactttctcgccaacttacaaggcctttctctgtaaacaatacatgaacctttaccccgttgcccggcaacggtcaggtctgtgccaagtgtttgctgacgcaacccccactggctggggcttggtcatgggccatcagcgcatgcgtggaacctttcmggctcctctgccgatccatactgcggaactcctagccgcttgttttgctcgcagccggtctggggcaaacattctcgggactgataactctgttgttctctcccgcaaatatacatcgtttccatggctgctaggctgtgctgccaactggatcctgcgcgggacgtcctttgtttacgtcccgtcggcgctgaatcccgcggacgacccgtctcggggccgcttgggcctctgtcgtcctctcctccgtctgcagttccgaccgaccacggggcgcacctctctttacgcggactccccgtctgtgccttctcatctgccggaccgtgtgcacttcgcttcacctctgcacgtcgcatggagaccaccgtgaacgcccaccaaatcttgcccaagatcttacataagaggactcttggactctccacaatgtcaacgaccgatcttgagcaatacttcaaagactgtttgtttaaggactgggaggagttgggggaggagattaggttaaaggtctttgtattaggaggctgtaggcataaattggtctgcgcaccrgcaccatgcamctttttcacctctgcctaatcatcttttgttcatgtcctactgttcaagcctccaagctgtgccttgggtggctttggggcatggacattgacccttataaagaatttggagcgactgtggagttactctcatttttgccttctgatttctttccgtctgtacgagatcttctagataccgccgcagctctatatcgggatgcgttagaatctcctgagcattgttcacctcaccatactgcactcaggcaagcaattctttgctggggagaactaatgactctagctacctgggtgggtactaatttggaagatccagcatctagggacctagtggtcagttatgtcaacactaacatgggcctaaagttcaggcaactattgtggtttcacatttcttgtctcacttttgggagagaaacggttttggagtatttggtgtctttcggagtgtggattcgcactcctccagcttatagaccaccaaatgcccctatcttatcaacacttccggagactactgttgttagacgacgaggcaggtcccctagaagaagaactccctcgcctcgcagacgaaggtctcaatcgccgcgtcgcagaagatctcaatctcgggaatctcaatgttagtattccctggactcataaggtgggraactttacggggctttattcttctactgtacctgtctttaaccctcattggaaaacaccaactttccctaatatacatttacaccaagacatcatcaacaaatgtgaacagtttgtaggccctcttactgttaatgagaaacgaagattgcaattgattatgcctgctaggttttaccctaactttaccaaatatttacccttagataagggtattaaaccttactatccagaacatctagttaatcattactttcaaaccagacactatttacatactctatggaaggcgggtatcttatataagagagaaacaacacatagcgcctcattttgtgggtcaccatattcttgggaacaaaagctacagcatggggcagaatctttccaccagcaatcctctgggattctttcccgaccaccagttggatccagccttcagagcaaacacmrgaaatccagattgggacttcaatcccaacaaggacacctggccagacgccaacaaggtaggagctggagcattcgggctagggttcaccccaccgcacggaggccttttggggtggagcccgcaggctcagggcatactacaaaccttgccagcaaatccgcctcctgcagctaccaatcgccagtcaggacgacagcctactccgctgtctccacctttgagaaacactcatcctcaggccatgcagtggaa</GBSeq_sequence>
+  </GBSeq>

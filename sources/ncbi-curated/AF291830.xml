@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<GBSeq>
+
+    <GBSeq_locus>AF291830</GBSeq_locus>
+    <GBSeq_length>1431</GBSeq_length>
+    <GBSeq_strandedness>double</GBSeq_strandedness>
+    <GBSeq_moltype>DNA</GBSeq_moltype>
+    <GBSeq_topology>linear</GBSeq_topology>
+    <GBSeq_division>VRL</GBSeq_division>
+    <GBSeq_update-date>26-JUL-2016</GBSeq_update-date>
+    <GBSeq_create-date>23-AUG-2000</GBSeq_create-date>
+    <GBSeq_definition>Hepatitis B virus strain 121-8 subtype ADW polymerase gene, partial cds; and large envelope protein gene, complete cds</GBSeq_definition>
+    <GBSeq_primary-accession>AF291830</GBSeq_primary-accession>
+    <GBSeq_accession-version>AF291830.1</GBSeq_accession-version>
+    <GBSeq_other-seqids>
+      <GBSeqid>gb|AF291830.1|</GBSeqid>
+      <GBSeqid>gi|9885811</GBSeqid>
+    </GBSeq_other-seqids>
+    <GBSeq_source>Hepatitis B virus</GBSeq_source>
+    <GBSeq_organism>Hepatitis B virus</GBSeq_organism>
+    <GBSeq_taxonomy>Viruses; Retro-transcribing viruses; Hepadnaviridae; Orthohepadnavirus</GBSeq_taxonomy>
+    <GBSeq_references>
+      <GBReference>
+        <GBReference_reference>1</GBReference_reference>
+        <GBReference_position>1..1431</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Dong,J.</GBAuthor>
+          <GBAuthor>Cheng,J.</GBAuthor>
+          <GBAuthor>Wang,Q.H.</GBAuthor>
+          <GBAuthor>Wang,G.</GBAuthor>
+          <GBAuthor>Shi,S.S.</GBAuthor>
+          <GBAuthor>Liu,Y.Z.</GBAuthor>
+          <GBAuthor>Xia,X.B.</GBAuthor>
+          <GBAuthor>Shao,Q.</GBAuthor>
+          <GBAuthor>Si,C.W.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>The preliminary study on hepatitis B virus (HBV) quasispecies in patients with chronic HBV infection</GBReference_title>
+        <GBReference_journal>Zhonghua Chuan Ran Bing Za Zhi 19 (4), 199-203 (2001)</GBReference_journal>
+      </GBReference>
+      <GBReference>
+        <GBReference_reference>2</GBReference_reference>
+        <GBReference_position>1..1431</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Dong,J.</GBAuthor>
+          <GBAuthor>Liu,Y.</GBAuthor>
+          <GBAuthor>Huangfu,J.K.</GBAuthor>
+          <GBAuthor>Shi,S.S.</GBAuthor>
+          <GBAuthor>Wang,G.</GBAuthor>
+          <GBAuthor>Hong,Y.</GBAuthor>
+          <GBAuthor>Chen,G.F.</GBAuthor>
+          <GBAuthor>Li,L.</GBAuthor>
+          <GBAuthor>Chen,J.M.</GBAuthor>
+          <GBAuthor>Cheng,J.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>The study on polymorphism of hepatitis B virus surface antigen preliminary structure in patients with chronic HBV infection</GBReference_title>
+        <GBReference_journal>Weichangbingxue He Ganbingxue Zazhi 11 (2), 130-135 (2002)</GBReference_journal>
+      </GBReference>
+      <GBReference>
+        <GBReference_reference>3</GBReference_reference>
+        <GBReference_position>1..1431</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Dong,J.</GBAuthor>
+          <GBAuthor>Cheng,J.</GBAuthor>
+          <GBAuthor>Wang,G.</GBAuthor>
+          <GBAuthor>Shi,S.</GBAuthor>
+          <GBAuthor>Zhang,J.</GBAuthor>
+          <GBAuthor>Xia,X.</GBAuthor>
+          <GBAuthor>Wang,Q.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>Cloning and sequence analysis of Hepatitis B virus ADW subtype in South China</GBReference_title>
+        <GBReference_journal>Unpublished</GBReference_journal>
+      </GBReference>
+      <GBReference>
+        <GBReference_reference>4</GBReference_reference>
+        <GBReference_position>1..1431</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Dong,J.</GBAuthor>
+          <GBAuthor>Cheng,J.</GBAuthor>
+          <GBAuthor>Wang,G.</GBAuthor>
+          <GBAuthor>Shi,S.</GBAuthor>
+          <GBAuthor>Zhang,J.</GBAuthor>
+          <GBAuthor>Xia,X.</GBAuthor>
+          <GBAuthor>Wang,Q.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>Direct Submission</GBReference_title>
+        <GBReference_journal>Submitted (01-AUG-2000) Gene Therapy Research Center, Institution of Infectious Diseases of PLA, Fengtai Road, Beijing 100039, China</GBReference_journal>
+      </GBReference>
+    </GBSeq_references>
+    <GBSeq_feature-table>
+      <GBFeature>
+        <GBFeature_key>source</GBFeature_key>
+        <GBFeature_location>1..1431</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>1431</GBInterval_to>
+            <GBInterval_accession>AF291830.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>organism</GBQualifier_name>
+            <GBQualifier_value>Hepatitis B virus</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>mol_type</GBQualifier_name>
+            <GBQualifier_value>genomic DNA</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>strain</GBQualifier_name>
+            <GBQualifier_value>121-8</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>db_xref</GBQualifier_name>
+            <GBQualifier_value>taxon:10407</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>country</GBQualifier_name>
+            <GBQualifier_value>China: South China</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>note</GBQualifier_name>
+            <GBQualifier_value>subtype: ADW</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>CDS</GBFeature_key>
+        <GBFeature_location>&lt;1..&gt;1431</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>1431</GBInterval_to>
+            <GBInterval_accession>AF291830.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_partial5 value="true"/>
+        <GBFeature_partial3 value="true"/>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>codon_start</GBQualifier_name>
+            <GBQualifier_value>3</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>transl_table</GBQualifier_name>
+            <GBQualifier_value>1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>product</GBQualifier_name>
+            <GBQualifier_value>polymerase</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>protein_id</GBQualifier_name>
+            <GBQualifier_value>AAG01539.1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>translation</GBQualifier_name>
+            <GBQualifier_value>HGRLVFQTSERHGDKSFCPQSPGILPRSSVGPCIQSQLRNSRLGPQPAQGQLAGRQQGGSGSIRARVHPSPWGTVGVEPSGSGHTYNCASSSSFCLHQSAVRKTAYSLISTSKGHSSSGHEVELPHFPPNSSRSQSQGPVLSCWWLQFRNSEPCSEYCLCHIVNLIEDWGPCTEHGEHRIRTPRTPARVTGGVFLVDKNPHNTTESRLVVDFSQFSRGNTRVSWPKFAVPNLQSLTNLLSSNLSWLSLDVSAAFYHLPLHPAAMPHLLVGSSGLSRYVARLSSNSRIINNQHRTMQNLHNSCSRNLYVSLMLLYKTYGRKLHLYSHPIILGFRKIPMGVGLSPFLLAQFTSAICSVVRRAFPHCLAFSYMDDVVLGAKSVQHLESLYAAVTNFLLSLGIHLNPHKTKRWGYSLNFMGYVIGGWGTLPQEHIVQKIKMCFRKLPVNRPIDWKVCQRIVGLLGFAAPFTQCGYPALMP</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>CDS</GBFeature_key>
+        <GBFeature_location>4..1206</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>4</GBInterval_from>
+            <GBInterval_to>1206</GBInterval_to>
+            <GBInterval_accession>AF291830.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>codon_start</GBQualifier_name>
+            <GBQualifier_value>1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>transl_table</GBQualifier_name>
+            <GBQualifier_value>1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>product</GBQualifier_name>
+            <GBQualifier_value>large envelope protein</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>protein_id</GBQualifier_name>
+            <GBQualifier_value>AAG01538.1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>translation</GBQualifier_name>
+            <GBQualifier_value>MGGWSSKPRKGMGTNLSVPNPLGFFPDHQLDPAFKANSETPDWDLNPHKDNWPDANKVGVGAFGPGFTPPHGGLLGWSPQAQGILTTVPAAPPSASTNRQSGRQPTPLSPPLRDTHPQAMKWNSPTFHQTLQDPRVRALYFPAGGSSSGTVSPAQNTVSAISSILSKTGDPVPNMENIASGLLGPLLVLQAGFFLLTKILTIPQSLDSWWTSLNFLGGTPVCLGQNSQSQISSHSPTCCPPICPGYRWMCLRRFIIFLCILLLCLIFLLVLLDYQGMLPVCPLIPGSSTTSTGPCKTCTTPAHGTSMFPSCCCTKPTDGNCTCIPIPSSWAFAKYLWEWASVRFSWLSLLVPFVQWFVGLSPTVWLSVIWMMWYWGPSLYNILSPFMPLLPIFFCLWVYI</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+    </GBSeq_feature-table>
+    <GBSeq_sequence>agcatgggaggttggtcttccaaacctcggaaaggcatggggacaaatctttctgtccccaatcccctgggattcttccccgatcatcagttggaccctgcattcaaagccaactcagaaactccagattgggacctcaacccgcacaaggacaactggccggacgccaacaaggtgggagtgggagcattcgggccagggttcacccctccccatgggggactgttggggtggagccctcaggctcagggcatacttacaactgtgccagcagctcctccttctgcctccaccaatcggcagtcaggaagacagcctactcccttatctccacctctaagggacactcatcctcaggccatgaagtggaactcccccactttccaccaaactcttcaagatcccagagtcagggccctgtactttcctgctggtggctccagttcaggaacagtgagccctgctcagaatactgtctctgccatatcgtcaatcttatcgaagactggggaccctgtaccgaacatggagaacatcgcatcaggactcctaggacccctgctcgtgttacaggcggggtttttcttgttgacaaaaatcctcacaataccacagagtctagactcgtggtggacttctctcaattttctagggggaacacccgtgtgtcttggccaaaattcgcagtcccaaatctccagtcactcaccaacctgttgtcctccaatttgtcctggttatcgctggatgtgtctgcggcgttttatcatcttcctctgcatcctgctgctatgcctcatcttcttgttggttcttctggactatcaaggtatgttgcccgtttgtcctctaattccaggatcatcaacaaccagcaccggaccatgcaaaacctgcacaactcctgctcacggaacctctatgtttccctcatgttgctgtacaaaacctacggacggaaactgcacctgtattcccatcccatcatcttgggctttcgcaaaatacctatgggagtgggcctcagtccgtttctcttggctcagtttactagtgccatttgttcagtggttcgtagggctttcccccactgtctggctttcagttatatggatgatgtggtattgggggccaagtctgtacaacatcttgagtccctttatgccgctgttaccaattttcttttgtctttgggtatacatttaaatcctcacaaaacaaaaagatggggatattcccttaatttcatgggatatgtaattgggggttggggcacattgcctcaggaacatattgtacaaaaaatcaaaatgtgttttaggaaacttcctgtaaacaggcctattgattggaaagtgtgtcaacgaattgtgggtcttttggggtttgccgcccctttcacgcaatgtggctatcctgccttgatgcctt</GBSeq_sequence>
+  </GBSeq>

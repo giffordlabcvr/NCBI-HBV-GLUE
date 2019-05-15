@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<GBSeq>
+
+    <GBSeq_locus>LF132582</GBSeq_locus>
+    <GBSeq_length>453</GBSeq_length>
+    <GBSeq_strandedness>double</GBSeq_strandedness>
+    <GBSeq_moltype>DNA</GBSeq_moltype>
+    <GBSeq_topology>linear</GBSeq_topology>
+    <GBSeq_division>PAT</GBSeq_division>
+    <GBSeq_update-date>29-JUL-2016</GBSeq_update-date>
+    <GBSeq_create-date>29-JUL-2016</GBSeq_create-date>
+    <GBSeq_definition>JP 2016507520-A/24: Disulfide Stabilized Polypeptides</GBSeq_definition>
+    <GBSeq_primary-accession>LF132582</GBSeq_primary-accession>
+    <GBSeq_accession-version>LF132582.1</GBSeq_accession-version>
+    <GBSeq_other-seqids>
+      <GBSeqid>dbj|LF132582.1|</GBSeqid>
+      <GBSeqid>pat|JP|2016507520|24</GBSeqid>
+      <GBSeqid>gi|1048725548</GBSeqid>
+    </GBSeq_other-seqids>
+    <GBSeq_keywords>
+      <GBKeyword>JP 2016507520-A/24</GBKeyword>
+    </GBSeq_keywords>
+    <GBSeq_source>Hepatitis B virus</GBSeq_source>
+    <GBSeq_organism>Hepatitis B virus</GBSeq_organism>
+    <GBSeq_taxonomy>Viruses; Retro-transcribing viruses; Hepadnaviridae; Orthohepadnavirus</GBSeq_taxonomy>
+    <GBSeq_references>
+      <GBReference>
+        <GBReference_reference>1</GBReference_reference>
+        <GBReference_position>1..453</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Lu,Y.</GBAuthor>
+          <GBAuthor>Swarwtz,J.R.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>Disulfide Stabilized Polypeptides</GBReference_title>
+        <GBReference_journal>JP2016507520-A 24 10-MAR-2016 Yuan Lu,James Robert Swarwtz</GBReference_journal>
+      </GBReference>
+    </GBSeq_references>
+    <GBSeq_comment>OS Hepatitis B virus~PN JP 2016507520-A/24~PD 10-MAR-2016~PF 22-JAN-2014 JP 2015555242~PR 23-JAN-2013 US 61/755850 ,07-NOV-2013 US 61/901243~PA Yuan Lu,James Robert Swarwtz~PI yuan lu,james robert swarwtz~PT 'Disulfide Stabilized Polypeptides'~PS N76~CC~FH Key Location/Qualifiers.</GBSeq_comment>
+    <GBSeq_feature-table>
+      <GBFeature>
+        <GBFeature_key>source</GBFeature_key>
+        <GBFeature_location>1..453</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>453</GBInterval_to>
+            <GBInterval_accession>LF132582.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>organism</GBQualifier_name>
+            <GBQualifier_value>Hepatitis B virus</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>mol_type</GBQualifier_name>
+            <GBQualifier_value>unassigned DNA</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>db_xref</GBQualifier_name>
+            <GBQualifier_value>taxon:10407</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+    </GBSeq_feature-table>
+    <GBSeq_sequence>atggatatcgacccgtacaaagaattcggcgcgaccgttgaactgctgtctttcctgccgtctgatttcttcccgtctgttcgttgcctgctggacaccgcggcagcactgtaccgtgacgcgctggaatctccggaacattgttctccgcatcacactgcgctgcgtcaggcgattctgtgctggggcgacctgagcaccctggcgacttgggttggcaccaacctggaaagcatggcgtctcgtgatctggttgtttcttacgttaacactaacgttggtctgaaattccgtcagctgctgtggttccacatctcttgcctgaccttcggtcgtgaaaccgttctggaatacctggtttcttttggtgtttggatttgtactccgccggcttaccgtccgccgaacgcaccgatcctgagcaccctgccggaaaccactgttgtgtaataa</GBSeq_sequence>
+  </GBSeq>

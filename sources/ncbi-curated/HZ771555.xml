@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<GBSeq>
+
+    <GBSeq_locus>HZ771555</GBSeq_locus>
+    <GBSeq_length>206</GBSeq_length>
+    <GBSeq_strandedness>double</GBSeq_strandedness>
+    <GBSeq_moltype>DNA</GBSeq_moltype>
+    <GBSeq_topology>linear</GBSeq_topology>
+    <GBSeq_division>PAT</GBSeq_division>
+    <GBSeq_update-date>29-JUN-2016</GBSeq_update-date>
+    <GBSeq_create-date>29-JUN-2016</GBSeq_create-date>
+    <GBSeq_definition>JP 2015003913-A/3: Conserved HBV and HCV Sequences Useful for Gene Silencing</GBSeq_definition>
+    <GBSeq_primary-accession>HZ771555</GBSeq_primary-accession>
+    <GBSeq_accession-version>HZ771555.1</GBSeq_accession-version>
+    <GBSeq_other-seqids>
+      <GBSeqid>dbj|HZ771555.1|</GBSeqid>
+      <GBSeqid>pat|JP|2015003913|3</GBSeqid>
+      <GBSeqid>gi|1041445162</GBSeqid>
+    </GBSeq_other-seqids>
+    <GBSeq_keywords>
+      <GBKeyword>JP 2015003913-A/3</GBKeyword>
+    </GBSeq_keywords>
+    <GBSeq_source>Hepatitis B virus</GBSeq_source>
+    <GBSeq_organism>Hepatitis B virus</GBSeq_organism>
+    <GBSeq_taxonomy>Viruses; Retro-transcribing viruses; Hepadnaviridae; Orthohepadnavirus</GBSeq_taxonomy>
+    <GBSeq_references>
+      <GBReference>
+        <GBReference_reference>1</GBReference_reference>
+        <GBReference_position>1..206</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Mintz,L.</GBAuthor>
+          <GBAuthor>Zurawski,V. Jr.</GBAuthor>
+          <GBAuthor>Satishchandran,C.</GBAuthor>
+          <GBAuthor>Pachuk,C.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>Conserved HBV and HCV Sequences Useful for Gene Silencing</GBReference_title>
+        <GBReference_journal>JP2015003913-A 3 08-JAN-2015 Alnylam Pharmaceuticals Inc</GBReference_journal>
+      </GBReference>
+    </GBSeq_references>
+    <GBSeq_comment>OS Hepatitis B virus~PN JP 2015003913-A/3~PD 08-JAN-2015~PF 03-SEP-2014 JP 2014179056~PR 22-DEC-2004 US 60/638294~PA Alnylam Pharmaceuticals Inc~PI liat mintz,vincent zurawski jr,chandrasekhar satishchandran,~PI catherine pachuk~PT 'Conserved HBV and HCV Sequences Useful for Gene Silencing'~PS N3~CC~FH Key Location/Qualifiers~FT misc_feature (63)..(63)~FT /note='n is a, c, g, or t'~FT misc_feature (111)..(111)~FT /note='n is a, c, g, or t'~FT misc_feature (140)..(140)~FT /note='n is a, c, g, or t'~FT misc_feature (174)..(174)~FT /note='n is a, c, g, or t'~FT misc_feature (177)..(177)~FT /note='n is a, c, g, or t'.</GBSeq_comment>
+    <GBSeq_feature-table>
+      <GBFeature>
+        <GBFeature_key>source</GBFeature_key>
+        <GBFeature_location>1..206</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>206</GBInterval_to>
+            <GBInterval_accession>HZ771555.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>organism</GBQualifier_name>
+            <GBQualifier_value>Hepatitis B virus</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>mol_type</GBQualifier_name>
+            <GBQualifier_value>unassigned DNA</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>db_xref</GBQualifier_name>
+            <GBQualifier_value>taxon:10407</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+    </GBSeq_feature-table>
+    <GBSeq_sequence>aaggcctttctvhgtmaacartaymtgmmcctttaccccgttgcymggcaacggychggyctntgccaagtgtttgctgacgcaacccccactgghtggggcttggybatnggccatcrscgcatgcgtggaacctttbngkctcctctgccgatccatactgcggaactcctngcngcbtgtttygctcgcagcmggtctggrgc</GBSeq_sequence>
+  </GBSeq>

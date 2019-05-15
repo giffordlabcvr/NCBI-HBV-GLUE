@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<GBSeq>
+
+    <GBSeq_locus>JX196462</GBSeq_locus>
+    <GBSeq_length>399</GBSeq_length>
+    <GBSeq_strandedness>double</GBSeq_strandedness>
+    <GBSeq_moltype>DNA</GBSeq_moltype>
+    <GBSeq_topology>linear</GBSeq_topology>
+    <GBSeq_division>VRL</GBSeq_division>
+    <GBSeq_update-date>13-MAR-2013</GBSeq_update-date>
+    <GBSeq_create-date>05-SEP-2012</GBSeq_create-date>
+    <GBSeq_definition>Hepatitis B virus isolate 08.10.048 X protein gene, partial cds</GBSeq_definition>
+    <GBSeq_primary-accession>JX196462</GBSeq_primary-accession>
+    <GBSeq_accession-version>JX196462.1</GBSeq_accession-version>
+    <GBSeq_other-seqids>
+      <GBSeqid>gb|JX196462.1|</GBSeqid>
+      <GBSeqid>gi|402748971</GBSeqid>
+    </GBSeq_other-seqids>
+    <GBSeq_source>Hepatitis B virus</GBSeq_source>
+    <GBSeq_organism>Hepatitis B virus</GBSeq_organism>
+    <GBSeq_taxonomy>Viruses; Retro-transcribing viruses; Hepadnaviridae; Orthohepadnavirus</GBSeq_taxonomy>
+    <GBSeq_references>
+      <GBReference>
+        <GBReference_reference>1</GBReference_reference>
+        <GBReference_position>1..399</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Siburian,M.D.</GBAuthor>
+          <GBAuthor>Utama,A.</GBAuthor>
+          <GBAuthor>Dhenni,R.</GBAuthor>
+          <GBAuthor>Arnelis,N.</GBAuthor>
+          <GBAuthor>Fanany,I.</GBAuthor>
+          <GBAuthor>Intan,M.D.</GBAuthor>
+          <GBAuthor>Kurniasih,T.S.</GBAuthor>
+          <GBAuthor>Andriani,F.</GBAuthor>
+          <GBAuthor>Afadlal,S.</GBAuthor>
+          <GBAuthor>Julianto,E.B.</GBAuthor>
+          <GBAuthor>Rasman,W.S.</GBAuthor>
+          <GBAuthor>Zubir,N.</GBAuthor>
+          <GBAuthor>Mathew,G.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>High prevalence of hepatitis B virus genotype C/C1 in the Minangkabau ethnic group in Indonesia</GBReference_title>
+        <GBReference_journal>Virol. J. 10, 27 (2013)</GBReference_journal>
+        <GBReference_xref>
+          <GBXref>
+            <GBXref_dbname>doi</GBXref_dbname>
+            <GBXref_id>10.1186/1743-422X-10-27</GBXref_id>
+          </GBXref>
+        </GBReference_xref>
+        <GBReference_pubmed>23336976</GBReference_pubmed>
+        <GBReference_remark>Publication Status: Online-Only</GBReference_remark>
+      </GBReference>
+      <GBReference>
+        <GBReference_reference>2</GBReference_reference>
+        <GBReference_position>1..399</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Siburian,M.D.</GBAuthor>
+          <GBAuthor>Utama,A.</GBAuthor>
+          <GBAuthor>Dhenni,R.</GBAuthor>
+          <GBAuthor>Fanany,I.</GBAuthor>
+          <GBAuthor>Intan,M.D.</GBAuthor>
+          <GBAuthor>Arnelis</GBAuthor>
+          <GBAuthor>Julianto,E.B.</GBAuthor>
+          <GBAuthor>Widyarman</GBAuthor>
+          <GBAuthor>Zubir,N.</GBAuthor>
+          <GBAuthor>Mathew,G.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>Direct Submission</GBReference_title>
+        <GBReference_journal>Submitted (18-JUN-2012) Molecular Epidemiology Division, Mochtar Riady Institute for Nanotechnology, Jalan Boulevard Jend. Sudirman 1688, Lippo Karawaci, Tangerang, Banten 15810, Indonesia</GBReference_journal>
+      </GBReference>
+    </GBSeq_references>
+    <GBSeq_comment>##Assembly-Data-START## ; Sequencing Technology :: Sanger dideoxy sequencing ; ##Assembly-Data-END##</GBSeq_comment>
+    <GBSeq_feature-table>
+      <GBFeature>
+        <GBFeature_key>source</GBFeature_key>
+        <GBFeature_location>1..399</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>399</GBInterval_to>
+            <GBInterval_accession>JX196462.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>organism</GBQualifier_name>
+            <GBQualifier_value>Hepatitis B virus</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>mol_type</GBQualifier_name>
+            <GBQualifier_value>genomic DNA</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>isolate</GBQualifier_name>
+            <GBQualifier_value>08.10.048</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>isolation_source</GBQualifier_name>
+            <GBQualifier_value>serum of HBsAg-positive chronic hepatitis patient</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>host</GBQualifier_name>
+            <GBQualifier_value>Homo sapiens</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>db_xref</GBQualifier_name>
+            <GBQualifier_value>taxon:10407</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>country</GBQualifier_name>
+            <GBQualifier_value>Indonesia</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>collection_date</GBQualifier_name>
+            <GBQualifier_value>22-Sep-2008</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>note</GBQualifier_name>
+            <GBQualifier_value>genotype: B</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>CDS</GBFeature_key>
+        <GBFeature_location>1..&gt;399</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>399</GBInterval_to>
+            <GBInterval_accession>JX196462.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_partial3 value="true"/>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>codon_start</GBQualifier_name>
+            <GBQualifier_value>1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>transl_table</GBQualifier_name>
+            <GBQualifier_value>1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>product</GBQualifier_name>
+            <GBQualifier_value>X protein</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>protein_id</GBQualifier_name>
+            <GBQualifier_value>AFQ94902.1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>translation</GBQualifier_name>
+            <GBQualifier_value>MAARLCCQLDPARDVLCLRPVGAESRGRPLSGPLGALPPASPSAIPTDHGAHLSLRGLPVCAFSSAGPCALRFTSARRMETTVNAHRNLPKVLHKRTLGLSAMSTTDLEAYFKDCVFNEWEELGEEIRLKVFV</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+    </GBSeq_feature-table>
+    <GBSeq_sequence>atggctgctaggctgtgctgccaactggatcctgcgcgggacgtcctttgtttacgtcccgtcggcgctgaatcccgcggacgacccctctcggggccgcttggggctctaccgcccgcttctccgtctgccataccgaccgaccacggggcgcacctctctttacgcggactccccgtctgtgccttctcatctgccggaccgtgtgcacttcgcttcacctctgcacgtcgcatggagaccaccgtgaacgcccaccggaacttgcccaaggtcttgcataagaggactcttggactttcagcaatgtcaacgaccgaccttgaggcatacttcaaagactgtgtgttcaatgagtgggaggagttgggggaggagattaggttaaaggtctttgta</GBSeq_sequence>
+  </GBSeq>

@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<GBSeq>
+
+    <GBSeq_locus>EU185757</GBSeq_locus>
+    <GBSeq_length>531</GBSeq_length>
+    <GBSeq_strandedness>double</GBSeq_strandedness>
+    <GBSeq_moltype>DNA</GBSeq_moltype>
+    <GBSeq_topology>linear</GBSeq_topology>
+    <GBSeq_division>VRL</GBSeq_division>
+    <GBSeq_update-date>26-JUL-2016</GBSeq_update-date>
+    <GBSeq_create-date>01-OCT-2008</GBSeq_create-date>
+    <GBSeq_definition>Hepatitis B virus isolate MSM6 S protein gene, partial cds</GBSeq_definition>
+    <GBSeq_primary-accession>EU185757</GBSeq_primary-accession>
+    <GBSeq_accession-version>EU185757.1</GBSeq_accession-version>
+    <GBSeq_other-seqids>
+      <GBSeqid>gb|EU185757.1|</GBSeqid>
+      <GBSeqid>gi|163961356</GBSeqid>
+    </GBSeq_other-seqids>
+    <GBSeq_source>Hepatitis B virus</GBSeq_source>
+    <GBSeq_organism>Hepatitis B virus</GBSeq_organism>
+    <GBSeq_taxonomy>Viruses; Retro-transcribing viruses; Hepadnaviridae; Orthohepadnavirus</GBSeq_taxonomy>
+    <GBSeq_references>
+      <GBReference>
+        <GBReference_reference>1</GBReference_reference>
+        <GBReference_position>1..531</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Trinks,J.</GBAuthor>
+          <GBAuthor>Cuestas,M.L.</GBAuthor>
+          <GBAuthor>Tanaka,Y.</GBAuthor>
+          <GBAuthor>Mathet,V.L.</GBAuthor>
+          <GBAuthor>Minassian,M.L.</GBAuthor>
+          <GBAuthor>Rivero,C.W.</GBAuthor>
+          <GBAuthor>Benetucci,J.A.</GBAuthor>
+          <GBAuthor>Gimenez,E.D.</GBAuthor>
+          <GBAuthor>Segura,M.</GBAuthor>
+          <GBAuthor>Bobillo,M.C.</GBAuthor>
+          <GBAuthor>Corach,D.</GBAuthor>
+          <GBAuthor>Ghiringhelli,P.D.</GBAuthor>
+          <GBAuthor>Sanchez,D.O.</GBAuthor>
+          <GBAuthor>Avila,M.M.</GBAuthor>
+          <GBAuthor>Peralta,L.A.</GBAuthor>
+          <GBAuthor>Kurbanov,F.</GBAuthor>
+          <GBAuthor>Weissenbacher,M.C.</GBAuthor>
+          <GBAuthor>Simmonds,P.</GBAuthor>
+          <GBAuthor>Mizokami,M.</GBAuthor>
+          <GBAuthor>Oubina,J.R.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>Two simultaneous hepatitis B virus epidemics among injecting drug users and men who have sex with men in Buenos Aires, Argentina: characterization of the first D/A recombinant from the American continent</GBReference_title>
+        <GBReference_journal>J. Viral Hepat. 15 (11), 827-838 (2008)</GBReference_journal>
+        <GBReference_xref>
+          <GBXref>
+            <GBXref_dbname>doi</GBXref_dbname>
+            <GBXref_id>10.1111/j.1365-2893.2008.00997.x</GBXref_id>
+          </GBXref>
+        </GBReference_xref>
+        <GBReference_pubmed>18507755</GBReference_pubmed>
+      </GBReference>
+      <GBReference>
+        <GBReference_reference>2</GBReference_reference>
+        <GBReference_position>1..531</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Trinks,J.</GBAuthor>
+          <GBAuthor>Cuestas,M.L.</GBAuthor>
+          <GBAuthor>Mathet,V.L.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>Direct Submission</GBReference_title>
+        <GBReference_journal>Submitted (26-SEP-2007) Microbiology, School of Medicine, University of Buenos Aires, Paraguay 2155, Buenos Aires 1121, Argentina</GBReference_journal>
+      </GBReference>
+    </GBSeq_references>
+    <GBSeq_feature-table>
+      <GBFeature>
+        <GBFeature_key>source</GBFeature_key>
+        <GBFeature_location>1..531</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>531</GBInterval_to>
+            <GBInterval_accession>EU185757.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>organism</GBQualifier_name>
+            <GBQualifier_value>Hepatitis B virus</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>mol_type</GBQualifier_name>
+            <GBQualifier_value>genomic DNA</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>serotype</GBQualifier_name>
+            <GBQualifier_value>adw4</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>isolate</GBQualifier_name>
+            <GBQualifier_value>MSM6</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>db_xref</GBQualifier_name>
+            <GBQualifier_value>taxon:10407</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>country</GBQualifier_name>
+            <GBQualifier_value>Argentina</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>note</GBQualifier_name>
+            <GBQualifier_value>genotype: F1b</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>CDS</GBFeature_key>
+        <GBFeature_location>&lt;1..&gt;531</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>531</GBInterval_to>
+            <GBInterval_accession>EU185757.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_partial5 value="true"/>
+        <GBFeature_partial3 value="true"/>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>codon_start</GBQualifier_name>
+            <GBQualifier_value>2</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>transl_table</GBQualifier_name>
+            <GBQualifier_value>1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>product</GBQualifier_name>
+            <GBQualifier_value>S protein</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>protein_id</GBQualifier_name>
+            <GBQualifier_value>ABY50106.1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>translation</GBQualifier_name>
+            <GBQualifier_value>SLDSWWTSLNFLGGTPGCPGQNSQSPTSNHLPTSCPPTCPGYRWMCLRRFIIFLFILLLCLIFLLVLLDYQGMLPVCPLLPGSTTTSTGPCKTCTTLAQGTSMFPSCCCSKPSDGNCTCIPIPSSWALGKYLWEWASARFSWLSLLVQFVQWCVGLSPTVWLLVIWMIWYWGPNLY</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+    </GBSeq_feature-table>
+    <GBSeq_sequence>gagtctagactcgtggtggacttctctcaattttctagggggaacacccgggtgtcctggccaaaattcgcagtccccaacctccaatcacttaccaacctcctgtcctccaacttgtcctggctatcgctggatgtgtctgcggcgttttatcatcttcctcttcatcctgctgctatgcctcatcttcttgttggttcttctggactatcaaggtatgttgcccgtttgtcctctacttccaggatccacgaccaccagcacgggaccatgcaaaacctgcacaactcttgctcaaggaacctctatgtttccctcttgctgctgttccaaaccctcggacggaaactgcacttgtattcccatcccatcatcctgggctttaggaaaatacctatgggagtgggcctcagcccgtttctcctggctcagtttactagtgcaatttgttcagtggtgcgtagggctttcccccactgtctggcttttagttatatggatgatctggtattgggggccaaatctgtacaa</GBSeq_sequence>
+  </GBSeq>

@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<GBSeq>
+
+    <GBSeq_locus>KC790372</GBSeq_locus>
+    <GBSeq_length>354</GBSeq_length>
+    <GBSeq_strandedness>double</GBSeq_strandedness>
+    <GBSeq_moltype>DNA</GBSeq_moltype>
+    <GBSeq_topology>linear</GBSeq_topology>
+    <GBSeq_division>VRL</GBSeq_division>
+    <GBSeq_update-date>27-SEP-2013</GBSeq_update-date>
+    <GBSeq_create-date>27-SEP-2013</GBSeq_create-date>
+    <GBSeq_definition>Bat Hepatitis B virus isolate TBHBV/Pan366/Uro_bil/PAN/2010 polymerase gene, partial cds</GBSeq_definition>
+    <GBSeq_primary-accession>KC790372</GBSeq_primary-accession>
+    <GBSeq_accession-version>KC790372.1</GBSeq_accession-version>
+    <GBSeq_other-seqids>
+      <GBSeqid>gb|KC790372.1|</GBSeqid>
+      <GBSeqid>gi|530280558</GBSeqid>
+    </GBSeq_other-seqids>
+    <GBSeq_source>Bat Hepatitis B virus</GBSeq_source>
+    <GBSeq_organism>Bat Hepatitis B virus</GBSeq_organism>
+    <GBSeq_taxonomy>Viruses; Retro-transcribing viruses; Hepadnaviridae; Orthohepadnavirus</GBSeq_taxonomy>
+    <GBSeq_references>
+      <GBReference>
+        <GBReference_reference>1</GBReference_reference>
+        <GBReference_position>1..354</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Drexler,J.F.</GBAuthor>
+          <GBAuthor>Geipel,A.</GBAuthor>
+          <GBAuthor>Konig,A.</GBAuthor>
+          <GBAuthor>Corman,V.M.</GBAuthor>
+          <GBAuthor>van Riel,D.</GBAuthor>
+          <GBAuthor>Leijten,L.M.</GBAuthor>
+          <GBAuthor>Bremer,C.M.</GBAuthor>
+          <GBAuthor>Rasche,A.</GBAuthor>
+          <GBAuthor>Cottontail,V.M.</GBAuthor>
+          <GBAuthor>Maganga,G.D.</GBAuthor>
+          <GBAuthor>Schlegel,M.</GBAuthor>
+          <GBAuthor>Muller,M.A.</GBAuthor>
+          <GBAuthor>Adam,A.</GBAuthor>
+          <GBAuthor>Klose,S.M.</GBAuthor>
+          <GBAuthor>Borges Carneiro,A.J.</GBAuthor>
+          <GBAuthor>Stocker,A.</GBAuthor>
+          <GBAuthor>Franke,C.R.</GBAuthor>
+          <GBAuthor>Gloza-Rausch,F.</GBAuthor>
+          <GBAuthor>Geyer,J.</GBAuthor>
+          <GBAuthor>Annan,A.</GBAuthor>
+          <GBAuthor>Adu-Sarkodie,Y.</GBAuthor>
+          <GBAuthor>Oppong,S.</GBAuthor>
+          <GBAuthor>Binger,T.</GBAuthor>
+          <GBAuthor>Vallo,P.</GBAuthor>
+          <GBAuthor>Tschapka,M.</GBAuthor>
+          <GBAuthor>Ulrich,R.G.</GBAuthor>
+          <GBAuthor>Gerlich,W.H.</GBAuthor>
+          <GBAuthor>Leroy,E.</GBAuthor>
+          <GBAuthor>Kuiken,T.</GBAuthor>
+          <GBAuthor>Glebe,D.</GBAuthor>
+          <GBAuthor>Drosten,C.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>Bats carry pathogenic hepadnaviruses antigenically related to hepatitis B virus and capable of infecting human hepatocytes</GBReference_title>
+        <GBReference_journal>Proc. Natl. Acad. Sci. U.S.A. (2013) In press</GBReference_journal>
+        <GBReference_xref>
+          <GBXref>
+            <GBXref_dbname>doi</GBXref_dbname>
+            <GBXref_id>10.1073/pnas.1308049110</GBXref_id>
+          </GBXref>
+        </GBReference_xref>
+        <GBReference_pubmed>24043818</GBReference_pubmed>
+        <GBReference_remark>Publication Status: Available-Online prior to print</GBReference_remark>
+      </GBReference>
+      <GBReference>
+        <GBReference_reference>2</GBReference_reference>
+        <GBReference_position>1..354</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Corman,V.M.</GBAuthor>
+          <GBAuthor>Drexler,J.F.</GBAuthor>
+          <GBAuthor>Drosten,C.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>Direct Submission</GBReference_title>
+        <GBReference_journal>Submitted (15-MAR-2013) Institute of Virology, University of Bonn Medical Centre, Sigmund Freud-Str. 25, Bonn 53127, Germany</GBReference_journal>
+      </GBReference>
+    </GBSeq_references>
+    <GBSeq_comment>##Assembly-Data-START## ; Sequencing Technology :: Sanger dideoxy sequencing ; ##Assembly-Data-END##</GBSeq_comment>
+    <GBSeq_feature-table>
+      <GBFeature>
+        <GBFeature_key>source</GBFeature_key>
+        <GBFeature_location>1..354</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>354</GBInterval_to>
+            <GBInterval_accession>KC790372.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>organism</GBQualifier_name>
+            <GBQualifier_value>Bat Hepatitis B virus</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>mol_type</GBQualifier_name>
+            <GBQualifier_value>genomic DNA</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>isolate</GBQualifier_name>
+            <GBQualifier_value>TBHBV/Pan366/Uro_bil/PAN/2010</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>host</GBQualifier_name>
+            <GBQualifier_value>Uroderma bilobatum</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>db_xref</GBQualifier_name>
+            <GBQualifier_value>taxon:1401315</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>country</GBQualifier_name>
+            <GBQualifier_value>Panama</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>collection_date</GBQualifier_name>
+            <GBQualifier_value>2010</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>CDS</GBFeature_key>
+        <GBFeature_location>&lt;1..&gt;354</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>354</GBInterval_to>
+            <GBInterval_accession>KC790372.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_partial5 value="true"/>
+        <GBFeature_partial3 value="true"/>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>codon_start</GBQualifier_name>
+            <GBQualifier_value>1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>transl_table</GBQualifier_name>
+            <GBQualifier_value>1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>product</GBQualifier_name>
+            <GBQualifier_value>polymerase</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>protein_id</GBQualifier_name>
+            <GBQualifier_value>AGT17572.1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>translation</GBQualifier_name>
+            <GBQualifier_value>RGPDRVRWPKFAVPNLQSLTNLLSSDLQWLSLDVSAAFYHIPLVPAASPHLLVGSPGLVGTLAGMSIHACSRGEDHQLQDLHHFCHRSTLETLMLLHNEYGRKLHLYSHPIIMGFRKI</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+    </GBSeq_feature-table>
+    <GBSeq_sequence>agggggcccgacagggtgcggtggccaaaattcgctgtccccaacctccaatcactcaccaatctcctgtccagtgacctgcagtggctatcgttggatgtgtctgcggcgttttatcacatacctcttgttcctgctgctagtcctcaccttcttgttggttctcctggactggtggggactcttgccggtatgtccattcatgcctgtagcaggggagaggaccatcaactgcaggacctgcaccacttctgccacagaagcaccttggagacccttatgctgctgcataatgaatacgggaggaaattgcacttgtactcccatcccatcatcatgggctttaggaaaata</GBSeq_sequence>
+  </GBSeq>

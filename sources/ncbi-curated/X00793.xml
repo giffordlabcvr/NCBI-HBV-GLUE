@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<GBSeq>
+
+    <GBSeq_locus>X00793</GBSeq_locus>
+    <GBSeq_length>320</GBSeq_length>
+    <GBSeq_strandedness>double</GBSeq_strandedness>
+    <GBSeq_moltype>DNA</GBSeq_moltype>
+    <GBSeq_topology>linear</GBSeq_topology>
+    <GBSeq_division>VRL</GBSeq_division>
+    <GBSeq_update-date>01-OCT-1996</GBSeq_update-date>
+    <GBSeq_create-date>13-JUN-1985</GBSeq_create-date>
+    <GBSeq_definition>Hepatitis B viral-human DNA junction (clone A-10.5)</GBSeq_definition>
+    <GBSeq_primary-accession>X00793</GBSeq_primary-accession>
+    <GBSeq_accession-version>X00793.1</GBSeq_accession-version>
+    <GBSeq_other-seqids>
+      <GBSeqid>emb|X00793.1|</GBSeqid>
+      <GBSeqid>gi|60407</GBSeqid>
+    </GBSeq_other-seqids>
+    <GBSeq_secondary-accessions>
+      <GBSecondary-accn>K02371</GBSecondary-accn>
+    </GBSeq_secondary-accessions>
+    <GBSeq_keywords>
+      <GBKeyword>integration site</GBKeyword>
+    </GBSeq_keywords>
+    <GBSeq_source>Hepatitis B virus</GBSeq_source>
+    <GBSeq_organism>Hepatitis B virus</GBSeq_organism>
+    <GBSeq_taxonomy>Viruses; Retro-transcribing viruses; Hepadnaviridae; Orthohepadnavirus</GBSeq_taxonomy>
+    <GBSeq_references>
+      <GBReference>
+        <GBReference_reference>1</GBReference_reference>
+        <GBReference_position>1..258</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Koch,S.</GBAuthor>
+          <GBAuthor>von Loringhoven,A.F.</GBAuthor>
+          <GBAuthor>Hofschneider,P.H.</GBAuthor>
+          <GBAuthor>Koshy,R.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>Amplification and rearrangement in hepatoma cell DNA associated with integrated hepatitis B virus DNA</GBReference_title>
+        <GBReference_journal>EMBO J. 3 (9), 2185-2189 (1984)</GBReference_journal>
+        <GBReference_pubmed>6092065</GBReference_pubmed>
+      </GBReference>
+      <GBReference>
+        <GBReference_reference>2</GBReference_reference>
+        <GBReference_position>1..320</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Hofschneider,P.H.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>Direct Submission</GBReference_title>
+        <GBReference_journal>Submitted (27-MAR-1985)</GBReference_journal>
+      </GBReference>
+    </GBSeq_references>
+    <GBSeq_comment>On Mar 16, 2005 this sequence version replaced K02371.1.; Data kindly reviewed (27-MAR-1985) by Hofschneider P.H.</GBSeq_comment>
+    <GBSeq_feature-table>
+      <GBFeature>
+        <GBFeature_key>source</GBFeature_key>
+        <GBFeature_location>1..320</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>320</GBInterval_to>
+            <GBInterval_accession>X00793.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>organism</GBQualifier_name>
+            <GBQualifier_value>Hepatitis B virus</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>mol_type</GBQualifier_name>
+            <GBQualifier_value>genomic DNA</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>db_xref</GBQualifier_name>
+            <GBQualifier_value>taxon:10407</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>misc_feature</GBFeature_key>
+        <GBFeature_location>&lt;1..169</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>169</GBInterval_to>
+            <GBInterval_accession>X00793.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_partial5 value="true"/>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>note</GBQualifier_name>
+            <GBQualifier_value>viral DNA</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>old_sequence</GBFeature_key>
+        <GBFeature_location>7</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_point>7</GBInterval_point>
+            <GBInterval_accession>X00793.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>note</GBQualifier_name>
+            <GBQualifier_value>T was inserted in [1]</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>citation</GBQualifier_name>
+            <GBQualifier_value>[1]</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>old_sequence</GBFeature_key>
+        <GBFeature_location>10</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_point>10</GBInterval_point>
+            <GBInterval_accession>X00793.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>note</GBQualifier_name>
+            <GBQualifier_value>G was absent in [1]</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>citation</GBQualifier_name>
+            <GBQualifier_value>[1]</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>misc_feature</GBFeature_key>
+        <GBFeature_location>169..170</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>169</GBInterval_from>
+            <GBInterval_to>170</GBInterval_to>
+            <GBInterval_accession>X00793.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>note</GBQualifier_name>
+            <GBQualifier_value>viral-human junction</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>misc_feature</GBFeature_key>
+        <GBFeature_location>170..&gt;320</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>170</GBInterval_from>
+            <GBInterval_to>320</GBInterval_to>
+            <GBInterval_accession>X00793.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_partial3 value="true"/>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>note</GBQualifier_name>
+            <GBQualifier_value>cellular DNA</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>variation</GBFeature_key>
+        <GBFeature_location>205</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_point>205</GBInterval_point>
+            <GBInterval_accession>X00793.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>note</GBQualifier_name>
+            <GBQualifier_value>A is C in clone A-10.7</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>variation</GBFeature_key>
+        <GBFeature_location>303</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_point>303</GBInterval_point>
+            <GBInterval_accession>X00793.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>note</GBQualifier_name>
+            <GBQualifier_value>T IS C IN clone A-10.7</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+    </GBSeq_feature-table>
+    <GBSeq_sequence>aatcctgcggacgacccctcccggggccgcttgggactctatcgtccccttcttcgtctgccgtaccgtccgaccacggggcgcacctctctttacgcggtttccccgtctgttcctgctcatctgccggtccgtgtacactttgcttcacctctgcacgacgcatggaactggcacccgccatgaacacttacataagtgaacacttgaactgtattaatgtagcaataattatgacattgtgtaatgtcggttatgtaacaatcaataattaatggtttaggtaacagattaatgttatgtcaaggttaatgataaac</GBSeq_sequence>
+  </GBSeq>

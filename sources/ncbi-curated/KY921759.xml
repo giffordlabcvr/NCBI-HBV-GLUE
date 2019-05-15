@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<GBSeq>
+
+    <GBSeq_locus>KY921759</GBSeq_locus>
+    <GBSeq_length>438</GBSeq_length>
+    <GBSeq_strandedness>double</GBSeq_strandedness>
+    <GBSeq_moltype>DNA</GBSeq_moltype>
+    <GBSeq_topology>linear</GBSeq_topology>
+    <GBSeq_division>VRL</GBSeq_division>
+    <GBSeq_update-date>08-OCT-2017</GBSeq_update-date>
+    <GBSeq_create-date>08-OCT-2017</GBSeq_create-date>
+    <GBSeq_definition>Hepatitis B virus strain InDRE S655_HGM S protein (S) gene, partial cds</GBSeq_definition>
+    <GBSeq_primary-accession>KY921759</GBSeq_primary-accession>
+    <GBSeq_accession-version>KY921759.1</GBSeq_accession-version>
+    <GBSeq_other-seqids>
+      <GBSeqid>gb|KY921759.1|</GBSeqid>
+      <GBSeqid>gi|1249105947</GBSeqid>
+    </GBSeq_other-seqids>
+    <GBSeq_source>Hepatitis B virus</GBSeq_source>
+    <GBSeq_organism>Hepatitis B virus</GBSeq_organism>
+    <GBSeq_taxonomy>Viruses; Retro-transcribing viruses; Hepadnaviridae; Orthohepadnavirus</GBSeq_taxonomy>
+    <GBSeq_references>
+      <GBReference>
+        <GBReference_reference>1</GBReference_reference>
+        <GBReference_position>1..438</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Fragoso-Fonseca,D.E.</GBAuthor>
+          <GBAuthor>Escobar-Escamilla,N.</GBAuthor>
+          <GBAuthor>Esteban-Valencia,Md.C.</GBAuthor>
+          <GBAuthor>Corona-Valdespino,E.</GBAuthor>
+          <GBAuthor>Lloret y Sanchez,L.T.</GBAuthor>
+          <GBAuthor>Wong-Arambula,C.E.</GBAuthor>
+          <GBAuthor>Rodriguez-Maldonado,A.P.</GBAuthor>
+          <GBAuthor>Gonzalez-Villa,M.</GBAuthor>
+          <GBAuthor>Hernandez-Rivas,L.</GBAuthor>
+          <GBAuthor>Diaz-Quinonez,J.A.</GBAuthor>
+          <GBAuthor>Ramirez-Gonzalez,J.E.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>Molecular characterization of Hepatitis B virus isolates from a mexican population in a reference laboratory</GBReference_title>
+        <GBReference_journal>Unpublished</GBReference_journal>
+      </GBReference>
+      <GBReference>
+        <GBReference_reference>2</GBReference_reference>
+        <GBReference_position>1..438</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Fragoso-Fonseca,D.E.</GBAuthor>
+          <GBAuthor>Wong-Arambula,C.E.</GBAuthor>
+          <GBAuthor>Rodriguez-Maldonado,A.P.</GBAuthor>
+          <GBAuthor>Del Mazo-Lopez,J.C.</GBAuthor>
+          <GBAuthor>Serrano-Gutierrez,S.</GBAuthor>
+          <GBAuthor>Hernandez-Rivas,L.</GBAuthor>
+          <GBAuthor>Diaz-Quinonez,J.A.</GBAuthor>
+          <GBAuthor>Ramirez-Gonzalez,J.E.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>Direct Submission</GBReference_title>
+        <GBReference_journal>Submitted (07-APR-2017) Biologia Molecular y Validacion de Tecnicas, Instituto de Diagnostico y Referencia Epidemiologicos (InDRE), Francisco de P. Miranda 177 Col. Lomas de Plateros, Mexico, DF 01480, Mexico</GBReference_journal>
+      </GBReference>
+    </GBSeq_references>
+    <GBSeq_comment>##Assembly-Data-START## ; Sequencing Technology :: Sanger dideoxy sequencing ; ##Assembly-Data-END##</GBSeq_comment>
+    <GBSeq_feature-table>
+      <GBFeature>
+        <GBFeature_key>source</GBFeature_key>
+        <GBFeature_location>1..438</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>438</GBInterval_to>
+            <GBInterval_accession>KY921759.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>organism</GBQualifier_name>
+            <GBQualifier_value>Hepatitis B virus</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>mol_type</GBQualifier_name>
+            <GBQualifier_value>genomic DNA</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>strain</GBQualifier_name>
+            <GBQualifier_value>InDRE S655_HGM</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>isolation_source</GBQualifier_name>
+            <GBQualifier_value>plasma</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>host</GBQualifier_name>
+            <GBQualifier_value>Homo sapiens</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>db_xref</GBQualifier_name>
+            <GBQualifier_value>taxon:10407</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>country</GBQualifier_name>
+            <GBQualifier_value>Mexico</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>collection_date</GBQualifier_name>
+            <GBQualifier_value>2016</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>collected_by</GBQualifier_name>
+            <GBQualifier_value>Hospital General de Mexico 'Dr. Eduardo Liceaga'</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>note</GBQualifier_name>
+            <GBQualifier_value>genotype: H</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>gene</GBFeature_key>
+        <GBFeature_location>&lt;1..&gt;438</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>438</GBInterval_to>
+            <GBInterval_accession>KY921759.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_partial5 value="true"/>
+        <GBFeature_partial3 value="true"/>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>gene</GBQualifier_name>
+            <GBQualifier_value>S</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>CDS</GBFeature_key>
+        <GBFeature_location>&lt;1..&gt;438</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>438</GBInterval_to>
+            <GBInterval_accession>KY921759.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_partial5 value="true"/>
+        <GBFeature_partial3 value="true"/>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>gene</GBQualifier_name>
+            <GBQualifier_value>S</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>note</GBQualifier_name>
+            <GBQualifier_value>HBsAg</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>codon_start</GBQualifier_name>
+            <GBQualifier_value>1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>transl_table</GBQualifier_name>
+            <GBQualifier_value>1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>product</GBQualifier_name>
+            <GBQualifier_value>S protein</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>protein_id</GBQualifier_name>
+            <GBQualifier_value>ATG85004.1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>translation</GBQualifier_name>
+            <GBQualifier_value>LQAVCFLLTKILTIPQSLDSWWTSLNFLGVPPGCPGQNSQSPISNHLPTSCPPTCPGYRWMCLRRFIIFLFILLLCLIFLLVLLDYQGMLPVCPLLPGSPTTSTGPCKTCTTLAQGTSMFPSCCCTKPSDGNCTCIPIPSSWAFGK</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+    </GBSeq_feature-table>
+    <GBSeq_sequence>ttacaggcggtgtgtttcttgttgacaaaaatcctcacaataccacagagtctagactcgtggtggacttctctcaattttctaggggtaccacccgggtgtcctggccaaaattcgcagtccccaatctccaatcacttaccaacctcctgtcctccaacttgtcctggctatcgttggatgtgtctgcggcgttttatcatcttcctcttcatcctgctgctatgcctcatcttcttgttggttcttctggactatcaaggtatgttgcccgtgtgtcctctacttccaggatcaccaaccaccagcacgggaccctgcaaaacctgcaccactcttgctcaaggaacctctatgtttccctcctgctgctgtaccaaaccttcggacggaaattgcacctgtattcccatcccatcatcttgggctttcggaaaa</GBSeq_sequence>
+  </GBSeq>

@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<GBSeq>
+
+    <GBSeq_locus>JY085056</GBSeq_locus>
+    <GBSeq_length>656</GBSeq_length>
+    <GBSeq_strandedness>double</GBSeq_strandedness>
+    <GBSeq_moltype>DNA</GBSeq_moltype>
+    <GBSeq_topology>linear</GBSeq_topology>
+    <GBSeq_division>GSS</GBSeq_division>
+    <GBSeq_update-date>12-JUL-2012</GBSeq_update-date>
+    <GBSeq_create-date>11-JUL-2012</GBSeq_create-date>
+    <GBSeq_definition>HBV0839 HBV genome library Hepatitis B virus genomic clone 14375.4, genomic survey sequence</GBSeq_definition>
+    <GBSeq_primary-accession>JY085056</GBSeq_primary-accession>
+    <GBSeq_accession-version>JY085056.1</GBSeq_accession-version>
+    <GBSeq_other-seqids>
+      <GBSeqid>gnl|dbGSS|34935447</GBSeqid>
+      <GBSeqid>gb|JY085056.1|</GBSeqid>
+      <GBSeqid>gi|395001467</GBSeqid>
+    </GBSeq_other-seqids>
+    <GBSeq_keywords>
+      <GBKeyword>GSS</GBKeyword>
+    </GBSeq_keywords>
+    <GBSeq_source>Hepatitis B virus</GBSeq_source>
+    <GBSeq_organism>Hepatitis B virus</GBSeq_organism>
+    <GBSeq_taxonomy>Viruses; Retro-transcribing viruses; Hepadnaviridae; Orthohepadnavirus</GBSeq_taxonomy>
+    <GBSeq_references>
+      <GBReference>
+        <GBReference_reference>1</GBReference_reference>
+        <GBReference_position>1..656</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Tuteja,A.</GBAuthor>
+          <GBAuthor>Siddique,A.B.</GBAuthor>
+          <GBAuthor>Madan,K.</GBAuthor>
+          <GBAuthor>Goyal,R.</GBAuthor>
+          <GBAuthor>Shalimar</GBAuthor>
+          <GBAuthor>Sreenivas,V.</GBAuthor>
+          <GBAuthor>Kaur,N.</GBAuthor>
+          <GBAuthor>Panda,S.K.</GBAuthor>
+          <GBAuthor>Narayanasamy,K.</GBAuthor>
+          <GBAuthor>Subodh,S.</GBAuthor>
+          <GBAuthor>Acharya,S.K.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>Mutation profiling of the hepatitis B virus strains circulating in north Indian population</GBReference_title>
+        <GBReference_journal>PLoS ONE 9 (3), e91150 (2014)</GBReference_journal>
+        <GBReference_pubmed>24637457</GBReference_pubmed>
+      </GBReference>
+    </GBSeq_references>
+    <GBSeq_comment>Contact: Tuteja A; Subodh S~Research and Development~Institute of Molecular Medicine~254, Okhla phase 3, New Delhi 110020, India~Email: amittuteja1981@gmail.com~Class: PCR with specific primers.</GBSeq_comment>
+    <GBSeq_feature-table>
+      <GBFeature>
+        <GBFeature_key>source</GBFeature_key>
+        <GBFeature_location>1..656</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>656</GBInterval_to>
+            <GBInterval_accession>JY085056.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>organism</GBQualifier_name>
+            <GBQualifier_value>Hepatitis B virus</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>mol_type</GBQualifier_name>
+            <GBQualifier_value>genomic DNA</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>db_xref</GBQualifier_name>
+            <GBQualifier_value>taxon:10407</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>clone</GBQualifier_name>
+            <GBQualifier_value>14375.4</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>clone_lib</GBQualifier_name>
+            <GBQualifier_value>SAMN01087391 HBV genome library</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+    </GBSeq_feature-table>
+    <GBSeq_sequence>gaagcttgatcgtattgtggatcctttgggtttaaagactgggagaascttgatcgtattgtggatcctttgggtttaaagactggsagaagcttggtctgtttgwggtgtttgctgacgcaacccccactggctggggcttggtcwtaggccatcagcgcatgcgtggaacctttctggctcctctgccgatccatactgcggaactcctagccgcttgttttgctcgcagcaggtctggagcaaacattctcggracggataaytctgttgtyctctcccgcaaatatacatcgtttccatggctgctaggctgtgctgccaactggatcctgcgcggracgtcctttgtttacgtcccgtcggcgctgaatcccgcggacgacccttctcggggccgcttgggactctctcgtccccttctccgtctgccgttycraccgaccacggggcgcacctctctttacgcggactccccgtctgtgccttctcatctgccggaccgtgtgcacttcgcttcacctctgcacgtcgcatggaaaccaccgtgaacgcccaccaawtcttgcccaaggtcttgcataagaggactcttggactctctgtaatgtcaacgaccgaccttgaggcatacttcaaagactgtttgtttaaag</GBSeq_sequence>
+    <GBSeq_xrefs>
+      <GBXref>
+        <GBXref_dbname>BioSample</GBXref_dbname>
+        <GBXref_id>SAMN01087391</GBXref_id>
+      </GBXref>
+    </GBSeq_xrefs>
+  </GBSeq>

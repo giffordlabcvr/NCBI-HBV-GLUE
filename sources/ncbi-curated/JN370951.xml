@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<GBSeq>
+
+    <GBSeq_locus>JN370951</GBSeq_locus>
+    <GBSeq_length>2053</GBSeq_length>
+    <GBSeq_strandedness>double</GBSeq_strandedness>
+    <GBSeq_moltype>DNA</GBSeq_moltype>
+    <GBSeq_topology>linear</GBSeq_topology>
+    <GBSeq_division>VRL</GBSeq_division>
+    <GBSeq_update-date>25-JUL-2016</GBSeq_update-date>
+    <GBSeq_create-date>13-DEC-2011</GBSeq_create-date>
+    <GBSeq_definition>Hepatitis B virus isolate NYX3 polymerase gene, partial cds</GBSeq_definition>
+    <GBSeq_primary-accession>JN370951</GBSeq_primary-accession>
+    <GBSeq_accession-version>JN370951.1</GBSeq_accession-version>
+    <GBSeq_other-seqids>
+      <GBSeqid>gb|JN370951.1|</GBSeqid>
+      <GBSeqid>gi|359720322</GBSeqid>
+    </GBSeq_other-seqids>
+    <GBSeq_source>Hepatitis B virus</GBSeq_source>
+    <GBSeq_organism>Hepatitis B virus</GBSeq_organism>
+    <GBSeq_taxonomy>Viruses; Retro-transcribing viruses; Hepadnaviridae; Orthohepadnavirus</GBSeq_taxonomy>
+    <GBSeq_references>
+      <GBReference>
+        <GBReference_reference>1</GBReference_reference>
+        <GBReference_position>1..2053</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Schaffzin,J.K.</GBAuthor>
+          <GBAuthor>Southwick,K.L.</GBAuthor>
+          <GBAuthor>Clement,E.J.</GBAuthor>
+          <GBAuthor>Konings,F.</GBAuthor>
+          <GBAuthor>Ganova-Raeva,L.</GBAuthor>
+          <GBAuthor>Xia,G.-L.</GBAuthor>
+          <GBAuthor>Khudyakov,Y.</GBAuthor>
+          <GBAuthor>Johnson,G.S.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>Transmission of Hepatitis B Virus Associated with Assisted Monitoring of Blood Glucose at an Assisted Living Facility in New York State</GBReference_title>
+        <GBReference_journal>Unpublished</GBReference_journal>
+      </GBReference>
+      <GBReference>
+        <GBReference_reference>2</GBReference_reference>
+        <GBReference_position>1..2053</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Schaffzin,J.K.</GBAuthor>
+          <GBAuthor>Southwick,K.L.</GBAuthor>
+          <GBAuthor>Clement,E.J.</GBAuthor>
+          <GBAuthor>Konings,F.</GBAuthor>
+          <GBAuthor>Ganova-Raeva,L.</GBAuthor>
+          <GBAuthor>Xia,G.-L.</GBAuthor>
+          <GBAuthor>Khudyakov,Y.</GBAuthor>
+          <GBAuthor>Johnson,G.S.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>Direct Submission</GBReference_title>
+        <GBReference_journal>Submitted (19-JUL-2011) Division of Viral Hepatitis, NCHHSTP, Centers for Disease Control and Prevention, 1600 Clifton Road, NE, Atlanta, GA 30333, USA</GBReference_journal>
+      </GBReference>
+    </GBSeq_references>
+    <GBSeq_feature-table>
+      <GBFeature>
+        <GBFeature_key>source</GBFeature_key>
+        <GBFeature_location>1..2053</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>2053</GBInterval_to>
+            <GBInterval_accession>JN370951.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>organism</GBQualifier_name>
+            <GBQualifier_value>Hepatitis B virus</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>mol_type</GBQualifier_name>
+            <GBQualifier_value>genomic DNA</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>isolate</GBQualifier_name>
+            <GBQualifier_value>NYX3</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>host</GBQualifier_name>
+            <GBQualifier_value>Homo sapiens</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>db_xref</GBQualifier_name>
+            <GBQualifier_value>taxon:10407</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>country</GBQualifier_name>
+            <GBQualifier_value>USA: New York</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>PCR_primers</GBQualifier_name>
+            <GBQualifier_value>fwd_name: hbv1798flong, fwd_seq: ctgcgcaccagcaccatgcaactttttc, rev_name: hbv1801rlong, rev_seq: cagaccaatttatgcctacagcctccta</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>CDS</GBFeature_key>
+        <GBFeature_location>&lt;1..1953</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>1953</GBInterval_to>
+            <GBInterval_accession>JN370951.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_partial5 value="true"/>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>codon_start</GBQualifier_name>
+            <GBQualifier_value>1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>transl_table</GBQualifier_name>
+            <GBQualifier_value>1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>product</GBQualifier_name>
+            <GBQualifier_value>polymerase</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>protein_id</GBQualifier_name>
+            <GBQualifier_value>AEV54346.1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>translation</GBQualifier_name>
+            <GBQualifier_value>AESFHQQSSGILSRPPVGSSLQSKHRKSRLGLQSQQGHLARRQQGRSWSIRAGFHPTARRPFGVEPSGSGHTTNFASKSASCLHQSPVRKAAYPTVSTFEKHSSSGHAVELHNLPPNSARSQSERPVFPCWWLQFRNSKPCSDYCLSLIVNLLEDWGPCAEHGEHHIRIPRTPSRVTGGVFLVDKNPHNTAESRLVVDFSQFSRGNYRVSWPKFAVPNLQSLTNLLSSNLSWLSLDVSAAFYHLPLHPAAMPHLLVGSSGLSRYVARLSSNSRILNHQHGTMQNLHDSCSRNLYVSLLLLYQTFGRKLHLYSHPIILGFRKIPMGVGLSPFLLAQFTSAICSVVRRAFPHCLAFSYMDDVVLGAKSVQHLESLFTAVTNFLLSLGIHLNPNKTKRWGYSLNFMGYVIGCYGSLPQEHIIQKIKECFRKLPVNRPIDWKVCQRIVGLLGFAAPFTQCGYPALMPLYACIQSKQAFTFSPTYKAFLCKQYLNLYPVARQRPGLCQVFADATPTGWGLVMGHQRMRGTFMAPLPIHTAELLAACFARSRSGANLIGTDNSVVLSRKYTSFPWLLGCAANWILRGTSFVYVPSALNPADDPSRGRLGLSRPLLRLPFRPTTGRTSLYADSPSVPSHLPVRVHFASPLHVAWRPP</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+    </GBSeq_feature-table>
+    <GBSeq_sequence>gcagaatctttccaccagcaatcctctgggattctttcccgaccaccagttggatccagccttcaaagcaaacaccgcaaatccagactgggacttcaatcccaacaaggacacctggccagacgccaacaaggtaggagctggagcattcgggctgggtttcaccccaccgcacggaggccttttggggtggagccctcaggctcagggcatactacaaactttgccagcaaatccgcctcctgcctccaccaatcgccagtcaggaaggctgcctaccccactgtctccacctttgagaaacactcatcctcaggccatgcagtggaactccacaaccttccaccaaactctgcaagatcccagagtgagaggcctgtatttccctgctggtggctccagttcaggaacagtaaaccctgttccgactactgcctctcacttatcgtcaatcttctcgaggattggggaccctgcgctgaacatggagaacatcacatcaggattcctaggaccccttctcgtgttacaggcggggtttttcttgttgacaagaatcctcacaataccgcagagtctagactcgtggtggacttctctcaattttctagggggaactaccgtgtgtcttggccaaaattcgcagtccccaacctccaatcactcaccaacctcctgtcctccaacttgtcctggttatcgctggatgtgtctgcggcgttttatcatcttcctcttcatcctgctgctatgcctcatcttcttgttggttcttctggactatcaaggtatgttgcccgtttgtcctctaattccaggatcctcaaccaccagcacgggaccatgcagaacctgcacgactcctgctcaaggaacctctatgtatccctcctgttgctgtaccaaaccttcggacggaaattgcacctgtattcccatcccatcatcctgggctttcggaaaattcctatgggagtgggcctcagcccgtttctcctggctcagtttactagtgccatttgttcagtggttcgtagggctttcccccactgtttggctttcagttatatggatgatgtggtattgggggccaagtctgtacagcatcttgagtccctttttaccgctgttaccaattttcttttgtctttgggtatacatttaaaccctaacaaaacaaagagatggggttactctctgaattttatgggctatgtcattggatgttatgggtcattgccacaagaacacatcatacaaaaaatcaaagaatgttttcgaaaacttcctgttaacaggcccattgattggaaagtgtgtcaacgaattgtgggtcttttgggttttgctgccccttttacacaatgtggttatcctgctttaatgcccttgtatgcatgtattcaatctaagcaggctttcactttctcgccaacttacaaggcctttctgtgtaaacaatacctgaacctttaccccgttgcccggcaacggccaggtctgtgccaagtgtttgctgacgcaacccccactggctggggcttggtcatgggccatcagcgcatgcgtggaacctttatggctcctctgccgatccatactgcggaactcctagccgcttgttttgctcgcagcaggtctggagcaaaccttatcgggactgataactctgttgtcctctcccgcaaatatacatcgtttccatggctgctaggctgtgctgccaactggatcctgcgcgggacgtcctttgtttacgtcccgtcagcgctgaatcccgcggacgacccttctcggggtcgcttgggactctctcgtccccttctccgtctgccgtttcgaccgaccacggggcgcacctctctttacgcggactccccgtctgtgccttctcatctgccggtccgtgtgcacttcgcttcacctctgcacgtcgcatggagaccaccgtgaacgcccaccacttcttgcccaaggtcttacataagaggactcttggactctctgcaatgtcaacgaccgaccttgaggcatacttcaaagactgtttgtt</GBSeq_sequence>
+  </GBSeq>

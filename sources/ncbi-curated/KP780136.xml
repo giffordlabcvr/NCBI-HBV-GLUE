@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<GBSeq>
+
+    <GBSeq_locus>KP780136</GBSeq_locus>
+    <GBSeq_length>357</GBSeq_length>
+    <GBSeq_strandedness>double</GBSeq_strandedness>
+    <GBSeq_moltype>DNA</GBSeq_moltype>
+    <GBSeq_topology>linear</GBSeq_topology>
+    <GBSeq_division>VRL</GBSeq_division>
+    <GBSeq_update-date>29-JUL-2015</GBSeq_update-date>
+    <GBSeq_create-date>29-JUL-2015</GBSeq_create-date>
+    <GBSeq_definition>Hepatitis B virus isolate NGR_IBGP_30_C6 HBsAg gene, partial cds</GBSeq_definition>
+    <GBSeq_primary-accession>KP780136</GBSeq_primary-accession>
+    <GBSeq_accession-version>KP780136.1</GBSeq_accession-version>
+    <GBSeq_other-seqids>
+      <GBSeqid>gb|KP780136.1|</GBSeqid>
+      <GBSeqid>gi|902941210</GBSeqid>
+    </GBSeq_other-seqids>
+    <GBSeq_source>Hepatitis B virus</GBSeq_source>
+    <GBSeq_organism>Hepatitis B virus</GBSeq_organism>
+    <GBSeq_taxonomy>Viruses; Retro-transcribing viruses; Hepadnaviridae; Orthohepadnavirus</GBSeq_taxonomy>
+    <GBSeq_references>
+      <GBReference>
+        <GBReference_reference>1</GBReference_reference>
+        <GBReference_position>1..357</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Faleye,T.O.C.</GBAuthor>
+          <GBAuthor>Adewumi,M.O.</GBAuthor>
+          <GBAuthor>Ifeorah,I.M.</GBAuthor>
+          <GBAuthor>Akere,A.</GBAuthor>
+          <GBAuthor>Bakarey,S.A.</GBAuthor>
+          <GBAuthor>Omoruyi,E.C.</GBAuthor>
+          <GBAuthor>Oketunde,K.</GBAuthor>
+          <GBAuthor>Awonusi,B.O.</GBAuthor>
+          <GBAuthor>Ajayi,M.R.</GBAuthor>
+          <GBAuthor>Adeniji,J.A.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>Circulation of hepatitis B virus immune escape mutants in Ibadan, southwestern Nigeria</GBReference_title>
+        <GBReference_journal>Unpublished</GBReference_journal>
+      </GBReference>
+      <GBReference>
+        <GBReference_reference>2</GBReference_reference>
+        <GBReference_position>1..357</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Faleye,T.O.C.</GBAuthor>
+          <GBAuthor>Adewumi,M.O.</GBAuthor>
+          <GBAuthor>Ifeorah,I.M.</GBAuthor>
+          <GBAuthor>Akere,A.</GBAuthor>
+          <GBAuthor>Bakarey,S.A.</GBAuthor>
+          <GBAuthor>Omoruyi,E.C.</GBAuthor>
+          <GBAuthor>Oketunde,K.</GBAuthor>
+          <GBAuthor>Awonusi,B.O.</GBAuthor>
+          <GBAuthor>Ajayi,M.R.</GBAuthor>
+          <GBAuthor>Adeniji,J.A.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>Direct Submission</GBReference_title>
+        <GBReference_journal>Submitted (15-FEB-2015) Department of Virology, University of Ibadan, UCH, Ibadan, Oyo +23402, Nigeria</GBReference_journal>
+      </GBReference>
+    </GBSeq_references>
+    <GBSeq_comment>##Assembly-Data-START## ; Sequencing Technology :: Sanger dideoxy sequencing ; ##Assembly-Data-END##</GBSeq_comment>
+    <GBSeq_feature-table>
+      <GBFeature>
+        <GBFeature_key>source</GBFeature_key>
+        <GBFeature_location>1..357</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>357</GBInterval_to>
+            <GBInterval_accession>KP780136.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>organism</GBQualifier_name>
+            <GBQualifier_value>Hepatitis B virus</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>mol_type</GBQualifier_name>
+            <GBQualifier_value>genomic DNA</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>isolate</GBQualifier_name>
+            <GBQualifier_value>NGR_IBGP_30_C6</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>isolation_source</GBQualifier_name>
+            <GBQualifier_value>blood</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>host</GBQualifier_name>
+            <GBQualifier_value>Homo sapiens</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>db_xref</GBQualifier_name>
+            <GBQualifier_value>taxon:10407</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>country</GBQualifier_name>
+            <GBQualifier_value>Nigeria</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>collection_date</GBQualifier_name>
+            <GBQualifier_value>2013</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>note</GBQualifier_name>
+            <GBQualifier_value>genotype: E</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>CDS</GBFeature_key>
+        <GBFeature_location>&lt;1..&gt;357</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>357</GBInterval_to>
+            <GBInterval_accession>KP780136.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_partial5 value="true"/>
+        <GBFeature_partial3 value="true"/>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>codon_start</GBQualifier_name>
+            <GBQualifier_value>1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>transl_table</GBQualifier_name>
+            <GBQualifier_value>1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>product</GBQualifier_name>
+            <GBQualifier_value>HBsAg</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>protein_id</GBQualifier_name>
+            <GBQualifier_value>AKS25209.1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>translation</GBQualifier_name>
+            <GBQualifier_value>GGAPVCLGQNSQSPTSNHSPTSCPPICPGYRWMCLRRFIIFLFILLLCLIFLLVLLDYQGMLPVCPLIPGSSTTSTGPCRTCTTLAQGTSMFPSCCCSKPSDGNCTCIPIPSSWAFGKF</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+    </GBSeq_feature-table>
+    <GBSeq_sequence>gggggagctcccgtgtgtcttggccaaaattcgcagtccccaacctccaatcactcaccaacctcttgtcctccaatttgtcctggctatcgttggatgtgtctgcggcgttttatcatcttcctcttcatcctgctgctatgcctcatcttcttgttggttcttctggactatcaaggtatgttgcccgtttgtcctctaattccaggatcatcaaccaccagtacgggaccctgccgaacctgcacgactcttgctcaaggaacctctatgtttccctcatgttgctgttcaaaaccttcggacggaaattgcacttgtattcccatcccatcatcatgggctttcggaaaattc</GBSeq_sequence>
+  </GBSeq>

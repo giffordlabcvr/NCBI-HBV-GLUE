@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<GBSeq>
+
+    <GBSeq_locus>MH014067</GBSeq_locus>
+    <GBSeq_length>316</GBSeq_length>
+    <GBSeq_strandedness>double</GBSeq_strandedness>
+    <GBSeq_moltype>DNA</GBSeq_moltype>
+    <GBSeq_topology>linear</GBSeq_topology>
+    <GBSeq_division>VRL</GBSeq_division>
+    <GBSeq_update-date>28-NOV-2018</GBSeq_update-date>
+    <GBSeq_create-date>28-NOV-2018</GBSeq_create-date>
+    <GBSeq_definition>Hepatitis B virus isolate patient HP113 nonfunctional precore/core protein (C) gene, complete sequence</GBSeq_definition>
+    <GBSeq_primary-accession>MH014067</GBSeq_primary-accession>
+    <GBSeq_accession-version>MH014067.1</GBSeq_accession-version>
+    <GBSeq_other-seqids>
+      <GBSeqid>gb|MH014067.1|</GBSeqid>
+      <GBSeqid>gi|1519317648</GBSeqid>
+    </GBSeq_other-seqids>
+    <GBSeq_source>Hepatitis B virus</GBSeq_source>
+    <GBSeq_organism>Hepatitis B virus</GBSeq_organism>
+    <GBSeq_taxonomy>Viruses; Retro-transcribing viruses; Hepadnaviridae; Orthohepadnavirus</GBSeq_taxonomy>
+    <GBSeq_references>
+      <GBReference>
+        <GBReference_reference>1</GBReference_reference>
+        <GBReference_position>1..316</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Deressa,T.</GBAuthor>
+          <GBAuthor>Damtie,D.</GBAuthor>
+          <GBAuthor>Fonseca,K.</GBAuthor>
+          <GBAuthor>Gao,S.</GBAuthor>
+          <GBAuthor>Abate,E.</GBAuthor>
+          <GBAuthor>Alemu,S.</GBAuthor>
+          <GBAuthor>Aleka,Y.</GBAuthor>
+          <GBAuthor>Swain,M.G.</GBAuthor>
+          <GBAuthor>van Marle,G.</GBAuthor>
+          <GBAuthor>Coffin,C.S.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>The burden of hepatitis B virus (HBV) infection, genotypes and drug resistance mutations in human immunodeficiency virus-positive patients in Northwest Ethiopia</GBReference_title>
+        <GBReference_journal>PLoS ONE 12 (12), e0190149 (2017)</GBReference_journal>
+        <GBReference_xref>
+          <GBXref>
+            <GBXref_dbname>doi</GBXref_dbname>
+            <GBXref_id>10.1371/journal.pone.0190149</GBXref_id>
+          </GBXref>
+        </GBReference_xref>
+        <GBReference_pubmed>29281718</GBReference_pubmed>
+        <GBReference_remark>Publication Status: Online-Only</GBReference_remark>
+      </GBReference>
+      <GBReference>
+        <GBReference_reference>2</GBReference_reference>
+        <GBReference_position>1..316</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Deressa,T.</GBAuthor>
+          <GBAuthor>Damtie,D.</GBAuthor>
+          <GBAuthor>Fonseca,K.</GBAuthor>
+          <GBAuthor>Abate,E.</GBAuthor>
+          <GBAuthor>Alemu,S.</GBAuthor>
+          <GBAuthor>Aleka,Y.</GBAuthor>
+          <GBAuthor>Swain,M.G.</GBAuthor>
+          <GBAuthor>van Marle,G.</GBAuthor>
+          <GBAuthor>Coffin,C.S.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>Direct Submission</GBReference_title>
+        <GBReference_journal>Submitted (01-MAR-2018) Medicine/Microbiology Immunology &amp; Infectious Diseases, University of Calgary, 3330 Hospital Drive NW, Calgary, Alberta T2N 4N1, Canada</GBReference_journal>
+      </GBReference>
+    </GBSeq_references>
+    <GBSeq_comment>##Assembly-Data-START## ; Sequencing Technology :: Sanger dideoxy sequencing ; ##Assembly-Data-END##</GBSeq_comment>
+    <GBSeq_feature-table>
+      <GBFeature>
+        <GBFeature_key>source</GBFeature_key>
+        <GBFeature_location>1..316</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>316</GBInterval_to>
+            <GBInterval_accession>MH014067.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>organism</GBQualifier_name>
+            <GBQualifier_value>Hepatitis B virus</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>mol_type</GBQualifier_name>
+            <GBQualifier_value>genomic DNA</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>isolate</GBQualifier_name>
+            <GBQualifier_value>patient HP113</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>isolation_source</GBQualifier_name>
+            <GBQualifier_value>blood</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>db_xref</GBQualifier_name>
+            <GBQualifier_value>taxon:10407</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>country</GBQualifier_name>
+            <GBQualifier_value>Ethiopia</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>collection_date</GBQualifier_name>
+            <GBQualifier_value>Jul-2016</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>note</GBQualifier_name>
+            <GBQualifier_value>genotype: C</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>gene</GBFeature_key>
+        <GBFeature_location>1..316</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>316</GBInterval_to>
+            <GBInterval_accession>MH014067.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>gene</GBQualifier_name>
+            <GBQualifier_value>C</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>misc_feature</GBFeature_key>
+        <GBFeature_location>1..316</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>316</GBInterval_to>
+            <GBInterval_accession>MH014067.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>gene</GBQualifier_name>
+            <GBQualifier_value>C</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>note</GBQualifier_name>
+            <GBQualifier_value>nonfunctional precore/core protein due to mutation</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+    </GBSeq_feature-table>
+    <GBSeq_sequence>tcataagaggactcttggactctcagcaatgtcaacgaccgaccttgaggcatacttcaaagactgtgtatttaaagactgggaggagttgggggaggagaccaggttaatgatctttgtactgggaggctgtaggcataaattggtctgttcaccagcaccgatgtaactttttcaaccttctgcctaatcatctcttgttcaatgtcccactgttcaagcccttccaagctgtgccctttgggtggctttgggacatggacattgacccgtataaagaatttggagcttctgtggagttactctcttttttgcc</GBSeq_sequence>
+  </GBSeq>

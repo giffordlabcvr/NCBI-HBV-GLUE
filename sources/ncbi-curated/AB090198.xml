@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<GBSeq>
+
+    <GBSeq_locus>AB090198</GBSeq_locus>
+    <GBSeq_length>216</GBSeq_length>
+    <GBSeq_strandedness>double</GBSeq_strandedness>
+    <GBSeq_moltype>DNA</GBSeq_moltype>
+    <GBSeq_topology>linear</GBSeq_topology>
+    <GBSeq_division>VRL</GBSeq_division>
+    <GBSeq_update-date>08-JUL-2003</GBSeq_update-date>
+    <GBSeq_create-date>08-JUL-2003</GBSeq_create-date>
+    <GBSeq_definition>Hepatitis B virus gene for core protein, promoter region, clone:EX3</GBSeq_definition>
+    <GBSeq_primary-accession>AB090198</GBSeq_primary-accession>
+    <GBSeq_accession-version>AB090198.1</GBSeq_accession-version>
+    <GBSeq_other-seqids>
+      <GBSeqid>dbj|AB090198.1|</GBSeqid>
+      <GBSeqid>gi|32468899</GBSeqid>
+    </GBSeq_other-seqids>
+    <GBSeq_source>Hepatitis B virus</GBSeq_source>
+    <GBSeq_organism>Hepatitis B virus</GBSeq_organism>
+    <GBSeq_taxonomy>Viruses; Retro-transcribing viruses; Hepadnaviridae; Orthohepadnavirus</GBSeq_taxonomy>
+    <GBSeq_references>
+      <GBReference>
+        <GBReference_reference>1</GBReference_reference>
+        <GBReference_position>1..216</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Imamura,T.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>Distribution of Hepatitis B Viral Genotypes and Mutations in the Core Promoter and Precore Regions in Acute Form of Liver Diseases in Japan</GBReference_title>
+        <GBReference_journal>Unpublished</GBReference_journal>
+      </GBReference>
+      <GBReference>
+        <GBReference_reference>2</GBReference_reference>
+        <GBReference_position>1..216</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Imamura,T.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>Direct Submission</GBReference_title>
+        <GBReference_journal>Submitted (19-AUG-2002) Takaaki Imamura, Graduate School of Medicine,Chiba University, Department of Medicine and Clinical Oncology; 1-8-1 Inohana Chuo-ku, Chiba 2600870, Japan (E-mail:ta.imamura@mx8.ttcn.ne.jp, Tel:81-43-222-7171, Fax:81-43-226-2086)</GBReference_journal>
+      </GBReference>
+    </GBSeq_references>
+    <GBSeq_feature-table>
+      <GBFeature>
+        <GBFeature_key>source</GBFeature_key>
+        <GBFeature_location>1..216</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>216</GBInterval_to>
+            <GBInterval_accession>AB090198.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>organism</GBQualifier_name>
+            <GBQualifier_value>Hepatitis B virus</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>mol_type</GBQualifier_name>
+            <GBQualifier_value>genomic DNA</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>db_xref</GBQualifier_name>
+            <GBQualifier_value>taxon:10407</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>clone</GBQualifier_name>
+            <GBQualifier_value>EX3</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>note</GBQualifier_name>
+            <GBQualifier_value>genotype B</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>regulatory</GBFeature_key>
+        <GBFeature_location>56..163</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>56</GBInterval_from>
+            <GBInterval_to>163</GBInterval_to>
+            <GBInterval_accession>AB090198.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>regulatory_class</GBQualifier_name>
+            <GBQualifier_value>promoter</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>note</GBQualifier_name>
+            <GBQualifier_value>core protein</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+    </GBSeq_feature-table>
+    <GBSeq_sequence>gaccgaccttgaggcatacttcaaagacagtgtgtttactgagtgggaggagctgggggaggagatgaggttaaaggtctttgtactaggaggctgtaggcataaattggtctgttcaccagcaccatgcaactttttcacctctgcctagtcatctcttgttcatgtcctactgttcaagcctccaaactgtgccttgggtggctttaggacatg</GBSeq_sequence>
+  </GBSeq>

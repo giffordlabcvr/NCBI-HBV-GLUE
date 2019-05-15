@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<GBSeq>
+
+    <GBSeq_locus>KJ810843</GBSeq_locus>
+    <GBSeq_length>666</GBSeq_length>
+    <GBSeq_strandedness>double</GBSeq_strandedness>
+    <GBSeq_moltype>DNA</GBSeq_moltype>
+    <GBSeq_topology>linear</GBSeq_topology>
+    <GBSeq_division>VRL</GBSeq_division>
+    <GBSeq_update-date>21-APR-2015</GBSeq_update-date>
+    <GBSeq_create-date>21-APR-2015</GBSeq_create-date>
+    <GBSeq_definition>Hepatitis B virus isolate CAH_103 nonfunctional precore/core protein (C) gene, partial sequence</GBSeq_definition>
+    <GBSeq_primary-accession>KJ810843</GBSeq_primary-accession>
+    <GBSeq_accession-version>KJ810843.1</GBSeq_accession-version>
+    <GBSeq_other-seqids>
+      <GBSeqid>gb|KJ810843.1|</GBSeqid>
+      <GBSeqid>gi|761896003</GBSeqid>
+    </GBSeq_other-seqids>
+    <GBSeq_source>Hepatitis B virus</GBSeq_source>
+    <GBSeq_organism>Hepatitis B virus</GBSeq_organism>
+    <GBSeq_taxonomy>Viruses; Retro-transcribing viruses; Hepadnaviridae; Orthohepadnavirus</GBSeq_taxonomy>
+    <GBSeq_references>
+      <GBReference>
+        <GBReference_reference>1</GBReference_reference>
+        <GBReference_position>1..666</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Gonzalez Lopez Ledesma,M.M.</GBAuthor>
+          <GBAuthor>Mojsiejczuk,L.N.</GBAuthor>
+          <GBAuthor>Rodrigo,B.</GBAuthor>
+          <GBAuthor>Sevic,I.</GBAuthor>
+          <GBAuthor>Mammana,L.</GBAuthor>
+          <GBAuthor>Galdame,O.</GBAuthor>
+          <GBAuthor>Gadano,A.</GBAuthor>
+          <GBAuthor>Fainboim,H.</GBAuthor>
+          <GBAuthor>Campos,R.</GBAuthor>
+          <GBAuthor>Flichman,D.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>Hepatitis B Virus Genotype Distribution and Genotype-Specific BCP/preCore Substitutions in Acute and Chronic Infections in Argentina</GBReference_title>
+        <GBReference_journal>PLoS ONE 10 (3), E0121436 (2015)</GBReference_journal>
+        <GBReference_xref>
+          <GBXref>
+            <GBXref_dbname>doi</GBXref_dbname>
+            <GBXref_id>10.1371/journal.pone.0121436</GBXref_id>
+          </GBXref>
+        </GBReference_xref>
+        <GBReference_pubmed>25822666</GBReference_pubmed>
+        <GBReference_remark>Publication Status: Online-Only</GBReference_remark>
+      </GBReference>
+      <GBReference>
+        <GBReference_reference>2</GBReference_reference>
+        <GBReference_position>1..666</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Gonzalez Lopez Ledesma,M.M.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>Direct Submission</GBReference_title>
+        <GBReference_journal>Submitted (09-MAY-2014) Virology, School of Pharmacy and Biochemistry, Buenos Aires University, Junin 956, Buenos Aires, Buenos Aires 1113, Argentina</GBReference_journal>
+      </GBReference>
+    </GBSeq_references>
+    <GBSeq_comment>##Assembly-Data-START## ; Assembly Method :: BioEdit v. 7.2.0 ; Sequencing Technology :: Sanger dideoxy sequencing ; ##Assembly-Data-END##</GBSeq_comment>
+    <GBSeq_feature-table>
+      <GBFeature>
+        <GBFeature_key>source</GBFeature_key>
+        <GBFeature_location>1..666</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>666</GBInterval_to>
+            <GBInterval_accession>KJ810843.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>organism</GBQualifier_name>
+            <GBQualifier_value>Hepatitis B virus</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>mol_type</GBQualifier_name>
+            <GBQualifier_value>genomic DNA</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>isolate</GBQualifier_name>
+            <GBQualifier_value>CAH_103</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>host</GBQualifier_name>
+            <GBQualifier_value>Homo sapiens</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>db_xref</GBQualifier_name>
+            <GBQualifier_value>taxon:10407</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>country</GBQualifier_name>
+            <GBQualifier_value>Argentina</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>collection_date</GBQualifier_name>
+            <GBQualifier_value>Feb-2011</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>note</GBQualifier_name>
+            <GBQualifier_value>genotype: D</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>gene</GBFeature_key>
+        <GBFeature_location>128..&gt;666</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>128</GBInterval_from>
+            <GBInterval_to>666</GBInterval_to>
+            <GBInterval_accession>KJ810843.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_partial3 value="true"/>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>gene</GBQualifier_name>
+            <GBQualifier_value>C</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>misc_feature</GBFeature_key>
+        <GBFeature_location>128..&gt;666</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>128</GBInterval_from>
+            <GBInterval_to>666</GBInterval_to>
+            <GBInterval_accession>KJ810843.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_partial3 value="true"/>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>gene</GBQualifier_name>
+            <GBQualifier_value>C</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>note</GBQualifier_name>
+            <GBQualifier_value>nonfunctional precore/core protein due to mutation; soluble antigen; HBeAg</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+    </GBSeq_feature-table>
+    <GBSeq_sequence>cgaccgaccttgaggcatacttcaaagactgtttgtttaaagactgggaggagttgggggaggagattagattaaagttgtttgtattaggaggctgtaggcataaattggtctgcgcaccagcaccatgcaactttttcacctctgcctaatcatctcttgttcatgtcctactgttcaagcctccaagctgtgccttgggtggctttaggacatggacattgacccttataaagaatttggagctaccgtggagttactctcgtttttgccttctgacttctatccttcagtacgagatcttctagataccgcctcagctctgtatcgggaagccttagagtctcctgagcattgttcacctcaccatactgctatcaggcaagcagctctttgctggggggaattaatgtctctagctacctgggtgggagctaatttggaagatcaagcatctagggacctagtagtcagttatgtcaacactaatatgggcctaaagttcagacaactcttgtggtttcacatttcttgtctcacttttggaagagaaacagttatagagtatttggtgtctttcggggtgtggattcgcactcctccagcttatagaccaccaaatgcccctatcctatcaacacttccggagactactgttrttagacg</GBSeq_sequence>
+  </GBSeq>

@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<GBSeq>
+
+    <GBSeq_locus>DQ988414</GBSeq_locus>
+    <GBSeq_length>648</GBSeq_length>
+    <GBSeq_strandedness>double</GBSeq_strandedness>
+    <GBSeq_moltype>DNA</GBSeq_moltype>
+    <GBSeq_topology>linear</GBSeq_topology>
+    <GBSeq_division>VRL</GBSeq_division>
+    <GBSeq_update-date>14-JUL-2016</GBSeq_update-date>
+    <GBSeq_create-date>05-JUN-2007</GBSeq_create-date>
+    <GBSeq_definition>Hepatitis B virus isolate hetero28-04 HBsAg gene, partial cds</GBSeq_definition>
+    <GBSeq_primary-accession>DQ988414</GBSeq_primary-accession>
+    <GBSeq_accession-version>DQ988414.1</GBSeq_accession-version>
+    <GBSeq_other-seqids>
+      <GBSeqid>gb|DQ988414.1|</GBSeqid>
+      <GBSeqid>gi|124108175</GBSeqid>
+    </GBSeq_other-seqids>
+    <GBSeq_source>Hepatitis B virus</GBSeq_source>
+    <GBSeq_organism>Hepatitis B virus</GBSeq_organism>
+    <GBSeq_taxonomy>Viruses; Retro-transcribing viruses; Hepadnaviridae; Orthohepadnavirus</GBSeq_taxonomy>
+    <GBSeq_references>
+      <GBReference>
+        <GBReference_reference>1</GBReference_reference>
+        <GBReference_position>1..648</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>van Houdt,R.</GBAuthor>
+          <GBAuthor>Bruisten,S.M.</GBAuthor>
+          <GBAuthor>Koedijk,F.D.</GBAuthor>
+          <GBAuthor>Dukers,N.H.</GBAuthor>
+          <GBAuthor>Op de Coul,E.L.</GBAuthor>
+          <GBAuthor>Mostert,M.C.</GBAuthor>
+          <GBAuthor>Niesters,H.G.</GBAuthor>
+          <GBAuthor>Richardus,J.H.</GBAuthor>
+          <GBAuthor>de Man,R.A.</GBAuthor>
+          <GBAuthor>van Doornum,G.J.</GBAuthor>
+          <GBAuthor>van den Hoek,J.A.</GBAuthor>
+          <GBAuthor>Coutinho,R.A.</GBAuthor>
+          <GBAuthor>van de Laar,M.J.</GBAuthor>
+          <GBAuthor>Boot,H.J.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>Molecular epidemiology of acute hepatitis B in the Netherlands in 2004: nationwide survey</GBReference_title>
+        <GBReference_journal>J. Med. Virol. 79 (7), 895-901 (2007)</GBReference_journal>
+        <GBReference_xref>
+          <GBXref>
+            <GBXref_dbname>doi</GBXref_dbname>
+            <GBXref_id>10.1002/jmv.20820</GBXref_id>
+          </GBXref>
+        </GBReference_xref>
+        <GBReference_pubmed>17516528</GBReference_pubmed>
+      </GBReference>
+      <GBReference>
+        <GBReference_reference>2</GBReference_reference>
+        <GBReference_position>1..648</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>van Houdt,R.</GBAuthor>
+          <GBAuthor>Bruisten,S.M.</GBAuthor>
+          <GBAuthor>Koedijk,F.D.H.</GBAuthor>
+          <GBAuthor>Dukers,N.H.T.M.</GBAuthor>
+          <GBAuthor>Op de Coul,E.L.M.</GBAuthor>
+          <GBAuthor>Moster,M.C.</GBAuthor>
+          <GBAuthor>Niesters,B.G.M.</GBAuthor>
+          <GBAuthor>Richardus,J.H.</GBAuthor>
+          <GBAuthor>de Man,R.A.</GBAuthor>
+          <GBAuthor>van Doornum,G.J.J.</GBAuthor>
+          <GBAuthor>van den Hoek,A.</GBAuthor>
+          <GBAuthor>Coutinho,R.A.</GBAuthor>
+          <GBAuthor>van de Laar,M.J.W.</GBAuthor>
+          <GBAuthor>Boot,H.J.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>Direct Submission</GBReference_title>
+        <GBReference_journal>Submitted (08-SEP-2006) Infectious Diseases, Public Health Service Amsterdam, Nieuwe Achtergracht 100, Amsterdam 1018 WT, The Netherlands</GBReference_journal>
+      </GBReference>
+    </GBSeq_references>
+    <GBSeq_feature-table>
+      <GBFeature>
+        <GBFeature_key>source</GBFeature_key>
+        <GBFeature_location>1..648</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>648</GBInterval_to>
+            <GBInterval_accession>DQ988414.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>organism</GBQualifier_name>
+            <GBQualifier_value>Hepatitis B virus</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>mol_type</GBQualifier_name>
+            <GBQualifier_value>genomic DNA</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>isolate</GBQualifier_name>
+            <GBQualifier_value>hetero28-04</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>db_xref</GBQualifier_name>
+            <GBQualifier_value>taxon:10407</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>country</GBQualifier_name>
+            <GBQualifier_value>Netherlands</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>CDS</GBFeature_key>
+        <GBFeature_location>&lt;1..&gt;648</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>648</GBInterval_to>
+            <GBInterval_accession>DQ988414.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_partial5 value="true"/>
+        <GBFeature_partial3 value="true"/>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>note</GBQualifier_name>
+            <GBQualifier_value>pre-S2 and S region</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>codon_start</GBQualifier_name>
+            <GBQualifier_value>1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>transl_table</GBQualifier_name>
+            <GBQualifier_value>1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>product</GBQualifier_name>
+            <GBQualifier_value>HBsAg</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>protein_id</GBQualifier_name>
+            <GBQualifier_value>ABM90694.1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>translation</GBQualifier_name>
+            <GBQualifier_value>SISSRIGDPATNMENITSGFLGPLLVLQAGFFLLTRILTIPQSLDSWWTSLNFLGGSPVCLGQNSQSPTSNHSPTSCPPICPGYRWMCLRRFIIFLFILLLCLIFLLVLLDYQGMLPVCPLIPGSTTTSTGTCKTCTTPAQGNSMFPSCCCTKPTDGNCTCIPIPSSWAFAKYLWEWASVRFSWLSLLVPFVQWFVGLSPTVWLSAIWMMWYWGPS</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+    </GBSeq_feature-table>
+    <GBSeq_sequence>tcaatctcctcgaggattggggaccctgcgacgaacatggagaacatcacatcaggattcctaggacccctgctcgtgttacaggcggggtttttcttgttgacaagaatcctcacaataccgcagagtctagactcgtggtggacttctctcaattttctagggggatcacccgtgtgtcttggccaaaattcgcagtccccaacctccaatcactcaccaacctcttgtcctccaatttgtcctggttatcgctggatgtgtctgcggcgttttatcatattcctcttcatcctgctgctatgcctcatcttcttattggttcttctggattatcaaggtatgttgcccgtttgtcctctaattccaggatcaacaacaaccagcacgggaacctgcaaaacctgcacgactcctgctcaaggcaactctatgtttccctcatgttgctgtacaaaacctacggatggaaattgcacctgtattcccatcccatcatcttgggctttcgcaaaatacctatgggagtgggcctcagtccgtttctcttggctcagtttactagtgccatttgttcagtggttcgtagggctttcccccactgtttggctttcagctatatggatgatgtggtactgggggccaagt</GBSeq_sequence>
+  </GBSeq>

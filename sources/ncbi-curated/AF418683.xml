@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<GBSeq>
+
+    <GBSeq_locus>AF418683</GBSeq_locus>
+    <GBSeq_length>3215</GBSeq_length>
+    <GBSeq_strandedness>double</GBSeq_strandedness>
+    <GBSeq_moltype>DNA</GBSeq_moltype>
+    <GBSeq_topology>circular</GBSeq_topology>
+    <GBSeq_division>VRL</GBSeq_division>
+    <GBSeq_update-date>15-NOV-2002</GBSeq_update-date>
+    <GBSeq_create-date>15-NOV-2002</GBSeq_create-date>
+    <GBSeq_definition>Hepatitis B virus patient 4727 clone 2, complete genome</GBSeq_definition>
+    <GBSeq_primary-accession>AF418683</GBSeq_primary-accession>
+    <GBSeq_accession-version>AF418683.1</GBSeq_accession-version>
+    <GBSeq_other-seqids>
+      <GBSeqid>gb|AF418683.1|</GBSeqid>
+      <GBSeqid>gi|25005055</GBSeqid>
+    </GBSeq_other-seqids>
+    <GBSeq_source>Hepatitis B virus</GBSeq_source>
+    <GBSeq_organism>Hepatitis B virus</GBSeq_organism>
+    <GBSeq_taxonomy>Viruses; Retro-transcribing viruses; Hepadnaviridae; Orthohepadnavirus</GBSeq_taxonomy>
+    <GBSeq_references>
+      <GBReference>
+        <GBReference_reference>1</GBReference_reference>
+        <GBReference_position>1..3215</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Chaudhuri,V.</GBAuthor>
+          <GBAuthor>Acharya,S.K.</GBAuthor>
+          <GBAuthor>Panda,S.K.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>Cryptic Hepatitis B virus infection: Analysis of the complete genomic sequence of HBV from five patients with seronegative viral hepatitis</GBReference_title>
+        <GBReference_journal>Unpublished</GBReference_journal>
+      </GBReference>
+      <GBReference>
+        <GBReference_reference>2</GBReference_reference>
+        <GBReference_position>1..3215</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Chaudhuri,V.</GBAuthor>
+          <GBAuthor>Acharya,S.K.</GBAuthor>
+          <GBAuthor>Panda,S.K.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>Direct Submission</GBReference_title>
+        <GBReference_journal>Submitted (13-SEP-2001) Pathology, All India Institute of Medical Sciences, Ansari Nagar, New Delhi, Delhi 110029, India</GBReference_journal>
+      </GBReference>
+    </GBSeq_references>
+    <GBSeq_feature-table>
+      <GBFeature>
+        <GBFeature_key>source</GBFeature_key>
+        <GBFeature_location>1..3215</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>3215</GBInterval_to>
+            <GBInterval_accession>AF418683.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>organism</GBQualifier_name>
+            <GBQualifier_value>Hepatitis B virus</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>mol_type</GBQualifier_name>
+            <GBQualifier_value>genomic DNA</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>isolate</GBQualifier_name>
+            <GBQualifier_value>patient 4727</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>db_xref</GBQualifier_name>
+            <GBQualifier_value>taxon:10407</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>clone</GBQualifier_name>
+            <GBQualifier_value>2</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>note</GBQualifier_name>
+            <GBQualifier_value>amplified from serum of patient who was negative for all serum markers of viral hepatitis</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+    </GBSeq_feature-table>
+    <GBSeq_sequence>aattccacaactttccaccaagctctacaagatcccagagtcaggggcctgtattttcctgctggtggctccagttcaggaacactcaaccctgttccaaatattgcctctcacatctcgtcaatctcctcgaggactggggaccctgcgccgaacatggagaacatcacatcaggattcctaggacccctgctcgtgttacaggcggggtttttcttgttgacaagcttcctcacaataccgcagagtctagactcgtggtggacttctctcaattttctagggggatcacccgtgtgtcttggccaaaattcgcagtccccaacctccaatcactcaccaacctcctgtcctccaatttgtcctggttatcgctggatgtgtctgcggcgttttatcatatacctcttcatcctgcatgcatgcctcatcttcttattagttcttctggattatcaaggtatgttgcccgtttgtcctctaattccaggatccacaacaaccagcacgggaccctgcaaaacctgcacgactcctgctcaaggcaactctatgtttccctcatgttgctgtacaaaacctacggatggaaattgcacctgtattcccatcccatcatcttgggctttcgcaaaatacctatgggagtgggcctcagtccgtttctcatggctcagtttactagtgccatttgttcagtggttcgtagggctttcccccactgtttggctttcagctatgtggatgatctggtactgggggccaagtctgtacaacatcttgagtccctttatatcgctgttaccaattttcttttgtctttgggtatacatttaaaccctaacaaaacaaagagatggggttattccctgaatttcatggggtatgtaattggaagttggggaacattgccacaggatcatattgtacaaaaaatcaaaaattgttttagaaaacttcctgtcaactgacctattgattggaaagtatgtcagagaattgtgggtcttttgggctttgccgctccatttacacaatgtggttatcctgcattaatgcctttatatgcatgcatacaagcgaaacaggctttcactttctcgccaacttacaaggcctttctaagtaaacagtatatgaacctttaccccgttgcccggcaacggcctggtctgtgccaagtgttcgctgacgcaacccccactggctggggcttggccatcggccatcagtgcatgcgtggaacctttgtggctcctctgccgatccatactgcggaactcctagccgcttgttttgctcgcagccggtctggagcaaaactcatcgggactgataattctgtcgttctttctcggaaatatacatcttttccatggctgctaggttgtactgccaactggattcttcgcgggacgtcctttgtttacgtcccgtcggcgctgaatcccgcggacgacccctcgcgaggccgcttgggactgtatcgtccccttctccgtctgccgtacccgtccgaccacggggcgcacctctctttacgcggtctccccgtctgtgccttctcatctgccggtccgtgtgcacttcgcttcacctctgcacgttgcatggagaccaccgtgacgcccatcagatcctgcccaaggtcttacataagaggactcttggaccccccgcaatgtcaacgaccgaccttgaggcctacttcaaagactgtgtgtttaaagactgggaggagttgggggaggagattagattaaaggtctttgtattaggaggctgtaggcataaattggtctgcgcaccagcaccatgcaactttttcacctctgcctaatcatctcttgttcatgtcctactgttcaagcctccaagctgtgccttgggtggctttggggcatggacattgatccttataaagaatttggagctactgtggagttactctcgtttttgccttctgacttctttccttcagtacgagatctcctagataccgcctcagctctatatcgggaagccttagagtctcctgagcattgctcacctcaccatactgcactcaggcaagcaattctttgctggggggaactaatgactctagccacctgggtgggtggtaatttggaagatccaatatccagggacctagtggtcagttatgttaacactaatatgggcctaaagttcaggcaactattgtggtttcacatttcttgtctcacttttggaagagaaacggtcatagagtatttggtgtctttcggagtgtggattcgcactcctccagcatatagaccaccaaatgcccctatcttatcaacacttccggagactactgttgttagacgacgaggcaggtcccctagaagaagaactccctcgcctcgcagacgaaggtctcaatcgccgcgtcgcagaagatctcaatctcgggaatctcaatgttagtattccttggactcataaggtgggaaattttactgggccttattcttcatctgtccctatctttaatcctgaatggcaaaccccttcgtttcctaaaattcatttacatgaagatattatcaataggtgtcaacaatttgtaggccctctcactgtaaatgaaaagagaagactaaaattaattatgcctgctaggttttaccctaacagcactaaatatttgcctctagacaaagggattaaaccttattatcctgatcaggtatttaatcattactttcaagcccgacattatttatatactctttggaaggctgggattctatataagagggaaactacacgtagcgcttcattttgcgggtcactatattcttgggaacaagagctacatcatgggaggttggacatcaaaacctcgcaaaggcatggggacgaacctttctgttcccaaccctctgggattctttcccgatcatcagttggaccctgcattcggagccaattcaaacaatccagattgggacttcaaccccatcaaggaccactggccacaagccaaccaggtaggagtgggagcatttgggccagggttcactcccccacacggaggtgttttggggtggagccctcaggctcagggcatattggccacagtgccagcagtgcctccttctgcctccaccaatcggcagtcaggaaggcagcctactcccatctctccacctctaagagacagtcatcctcaggccatgcagtgg</GBSeq_sequence>
+  </GBSeq>

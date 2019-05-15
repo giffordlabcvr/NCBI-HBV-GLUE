@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<GBSeq>
+
+    <GBSeq_locus>HQ589458</GBSeq_locus>
+    <GBSeq_length>606</GBSeq_length>
+    <GBSeq_strandedness>double</GBSeq_strandedness>
+    <GBSeq_moltype>DNA</GBSeq_moltype>
+    <GBSeq_topology>linear</GBSeq_topology>
+    <GBSeq_division>VRL</GBSeq_division>
+    <GBSeq_update-date>19-APR-2012</GBSeq_update-date>
+    <GBSeq_create-date>08-DEC-2010</GBSeq_create-date>
+    <GBSeq_definition>Hepatitis B virus isolate M4T3-1 from Argentina polymerase gene, partial cds</GBSeq_definition>
+    <GBSeq_primary-accession>HQ589458</GBSeq_primary-accession>
+    <GBSeq_accession-version>HQ589458.1</GBSeq_accession-version>
+    <GBSeq_other-seqids>
+      <GBSeqid>gb|HQ589458.1|</GBSeqid>
+      <GBSeqid>gi|313501510</GBSeqid>
+    </GBSeq_other-seqids>
+    <GBSeq_source>Hepatitis B virus</GBSeq_source>
+    <GBSeq_organism>Hepatitis B virus</GBSeq_organism>
+    <GBSeq_taxonomy>Viruses; Retro-transcribing viruses; Hepadnaviridae; Orthohepadnavirus</GBSeq_taxonomy>
+    <GBSeq_references>
+      <GBReference>
+        <GBReference_reference>1</GBReference_reference>
+        <GBReference_position>1..606</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Cassino,L.</GBAuthor>
+          <GBAuthor>Torres,C.</GBAuthor>
+          <GBAuthor>Mbayed,V.</GBAuthor>
+          <GBAuthor>Laufer,N.</GBAuthor>
+          <GBAuthor>Campos,R.H.</GBAuthor>
+          <GBAuthor>Quarleri,J.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>Comparative analysis of hepatitis B virus genotype a molecular evolution in patients infected with HBV and in patients co-infected with HBV and HIV</GBReference_title>
+        <GBReference_journal>J. Med. Virol. 84 (4), 562-569 (2012)</GBReference_journal>
+        <GBReference_xref>
+          <GBXref>
+            <GBXref_dbname>doi</GBXref_dbname>
+            <GBXref_id>10.1002/jmv.23233</GBXref_id>
+          </GBXref>
+        </GBReference_xref>
+        <GBReference_pubmed>22337294</GBReference_pubmed>
+      </GBReference>
+      <GBReference>
+        <GBReference_reference>2</GBReference_reference>
+        <GBReference_position>1..606</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Cassino,L.</GBAuthor>
+          <GBAuthor>Torres,C.</GBAuthor>
+          <GBAuthor>Laufer,N.</GBAuthor>
+          <GBAuthor>Campos,R.</GBAuthor>
+          <GBAuthor>Mbayed,V.</GBAuthor>
+          <GBAuthor>Quarleri,J.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>Direct Submission</GBReference_title>
+        <GBReference_journal>Submitted (04-NOV-2010) Microbiology Dept, School of Medicine, University of Buenos Aires, Argentinean National Reference Center for AIDS, Paraguay 2155, Buenos Aires C1121ABG, Argentina</GBReference_journal>
+      </GBReference>
+    </GBSeq_references>
+    <GBSeq_feature-table>
+      <GBFeature>
+        <GBFeature_key>source</GBFeature_key>
+        <GBFeature_location>1..606</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>606</GBInterval_to>
+            <GBInterval_accession>HQ589458.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>organism</GBQualifier_name>
+            <GBQualifier_value>Hepatitis B virus</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>mol_type</GBQualifier_name>
+            <GBQualifier_value>genomic DNA</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>isolate</GBQualifier_name>
+            <GBQualifier_value>M4T3-1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>host</GBQualifier_name>
+            <GBQualifier_value>Homo sapiens</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>db_xref</GBQualifier_name>
+            <GBQualifier_value>taxon:10407</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>country</GBQualifier_name>
+            <GBQualifier_value>Argentina</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>collection_date</GBQualifier_name>
+            <GBQualifier_value>Jul-2007</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>note</GBQualifier_name>
+            <GBQualifier_value>genotype: A</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>CDS</GBFeature_key>
+        <GBFeature_location>&lt;1..&gt;606</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>606</GBInterval_to>
+            <GBInterval_accession>HQ589458.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_partial5 value="true"/>
+        <GBFeature_partial3 value="true"/>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>codon_start</GBQualifier_name>
+            <GBQualifier_value>1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>transl_table</GBQualifier_name>
+            <GBQualifier_value>1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>product</GBQualifier_name>
+            <GBQualifier_value>polymerase</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>protein_id</GBQualifier_name>
+            <GBQualifier_value>ADR62772.1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>translation</GBQualifier_name>
+            <GBQualifier_value>RSPARVTGGVYLVDKNPHNTAESRLVVDLSQFSRGITRVSWPKFAVPNLQSLTNLLSSNLSWVSLDVSAAFYHIPLHPAAMPHLLVGSSGLSRYVARLSSNSRINNNQYGTMQNLHDSCSRQLYVSLMLLYKTYGWKLHLYSHPIVLGFRKIPMGLGLSPFLMAQFTSAICSVVRRAFPHCLAFSYVDDVVLGPKSVQHRES</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+    </GBSeq_feature-table>
+    <GBSeq_sequence>aggagccctgctcgtgttacaggcggggtttatcttgttgacaagaatcctcacaataccgcagagtctagactcgtggtggacttgtctcaattttctagggggatcacccgtgtgtcttggccaaaattcgcagtccccaacctccaatcactcaccaacctcctgtcctccaatttgtcctgggtatcgctggatgtgtctgcggcgttttatcatattcctcttcatcctgctgctatgcctcatcttcttgttggttcttctggattatcaaggtatgttgcccgtttgtcctctaattccaggatcaacaacaaccagtacggcaccatgcaaaacctgcacgactcctgctcaaggcaactctatgtttccctcatgttgctgtacaaaacctacggatggaaattgcacctgtattcccatcccatcgtcctgggctttcgcaaaatacctatgggactgggcctcagtccgtttctcatggctcagtttactagtgccatttgttcagtggttcgtagggctttcccccactgtttggctttcagctatgtggatgatgtggtattggggcccaagtctgtacagcatcgtgagtcc</GBSeq_sequence>
+  </GBSeq>

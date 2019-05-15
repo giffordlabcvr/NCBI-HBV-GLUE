@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<GBSeq>
+
+    <GBSeq_locus>DJ349637</GBSeq_locus>
+    <GBSeq_length>549</GBSeq_length>
+    <GBSeq_strandedness>double</GBSeq_strandedness>
+    <GBSeq_moltype>DNA</GBSeq_moltype>
+    <GBSeq_topology>linear</GBSeq_topology>
+    <GBSeq_division>PAT</GBSeq_division>
+    <GBSeq_update-date>24-APR-2008</GBSeq_update-date>
+    <GBSeq_create-date>24-APR-2008</GBSeq_create-date>
+    <GBSeq_definition>STABILIZED HBc CHIMER PARTICLES AS THERAPEUTIC VACCINE FOR CHRONIC HEPATITIS</GBSeq_definition>
+    <GBSeq_primary-accession>DJ349637</GBSeq_primary-accession>
+    <GBSeq_accession-version>DJ349637.1</GBSeq_accession-version>
+    <GBSeq_other-seqids>
+      <GBSeqid>dbj|DJ349637.1|</GBSeqid>
+      <GBSeqid>pat|JP|2007525421|6</GBSeqid>
+      <GBSeqid>gi|186935958</GBSeqid>
+    </GBSeq_other-seqids>
+    <GBSeq_keywords>
+      <GBKeyword>JP 2007525421-A/6</GBKeyword>
+    </GBSeq_keywords>
+    <GBSeq_source>Hepatitis B virus</GBSeq_source>
+    <GBSeq_organism>Hepatitis B virus</GBSeq_organism>
+    <GBSeq_taxonomy>Viruses; Retro-transcribing viruses; Hepadnaviridae; Orthohepadnavirus</GBSeq_taxonomy>
+    <GBSeq_references>
+      <GBReference>
+        <GBReference_reference>1</GBReference_reference>
+        <GBReference_position>1..549</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Friede,M.</GBAuthor>
+          <GBAuthor>Schmidt,A.E.</GBAuthor>
+          <GBAuthor>Stober,D.</GBAuthor>
+          <GBAuthor>Page,M.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>STABILIZED HBc CHIMER PARTICLES AS THERAPEUTIC VACCINE FOR CHRONIC HEPATITIS</GBReference_title>
+        <GBReference_journal>JP2007525421-A 6 06-SEP-2007 Mark Page,Martin Friede,Annette Elisabeth Schmidt,Detlef Stober</GBReference_journal>
+      </GBReference>
+    </GBSeq_references>
+    <GBSeq_comment>OS Hepatitis B virus~PN JP 2007525421-A/6~PD 06-SEP-2007~PF 20-FEB-2004 JP 2006503739~PR 21-FEB-2003 US 10/372076,01-OCT-2003 US 10/677074 PI martin friede,annette elisabeth schmidt,detlef stober,mark PI page~CC~FH Key Location/Qualifiers.</GBSeq_comment>
+    <GBSeq_feature-table>
+      <GBFeature>
+        <GBFeature_key>source</GBFeature_key>
+        <GBFeature_location>1..549</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>549</GBInterval_to>
+            <GBInterval_accession>DJ349637.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>organism</GBQualifier_name>
+            <GBQualifier_value>Hepatitis B virus</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>mol_type</GBQualifier_name>
+            <GBQualifier_value>unassigned DNA</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>db_xref</GBQualifier_name>
+            <GBQualifier_value>taxon:10407</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+    </GBSeq_feature-table>
+    <GBSeq_sequence>atggacattgacccttataaagaatttggagctactgtggagttactctcgtttttgccttctgacttctttccttccgtacgagatcttctagataccgccgcagctctgtatcgggatgccttagagtctcctgagcattgttcacctcaccatactgcactcaggcaagcaattctttgctggggagacttaatgactctagctacctgggtgggtactaatttagaagatccagcatctagggacctagtagtcagttatgtcaacactaatgtgggcctaaagttcagacaattattgtggtttcacatttcttgtctcacttttggaagagaaacggttctagagtatttggtgtcttttggagtgtggattcgcactcctccagcttatagaccaccaaatgcccctatcctatcaacgcttccggagactactgttgttagacgacgaggcaggtcccctagaagaagaactccctcgcctcgcagacgaagatctcaatcgccgcgtcgcagaagatctcaatctcgggaatctcaatgt</GBSeq_sequence>
+  </GBSeq>

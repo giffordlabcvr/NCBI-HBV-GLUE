@@ -1,0 +1,23 @@
+schema-project hbv
+
+  run file glue/ncbiHbvSchemaExtensions.glue
+  
+  exit
+
+project hbv
+
+  run file glue/ncbiHbvExtensionSettings.glue
+  run file glue/ncbiHbvModules.glue
+  
+  module hbvGenbankXmlPopulator populate -w "source.name = 'ncbi-curated'"
+
+  multi-set field sequence -w "patent_related = null" patent_related false
+
+  # update collection year bounds
+  module hbvCollectionBoundsPopulator populate -w "source.name = 'ncbi-curated'"
+  
+  multi-set field sequence -a exclude_from_almt_tree false
+  multi-set field sequence -w "patent_related = true" exclude_from_almt_tree true
+  multi-set field sequence -w "gb_length < 200" exclude_from_almt_tree true
+  
+  exit

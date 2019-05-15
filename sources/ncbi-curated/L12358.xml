@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<GBSeq>
+
+    <GBSeq_locus>HPBHBEC</GBSeq_locus>
+    <GBSeq_length>333</GBSeq_length>
+    <GBSeq_strandedness>double</GBSeq_strandedness>
+    <GBSeq_moltype>DNA</GBSeq_moltype>
+    <GBSeq_topology>linear</GBSeq_topology>
+    <GBSeq_division>VRL</GBSeq_division>
+    <GBSeq_update-date>01-JAN-1900</GBSeq_update-date>
+    <GBSeq_create-date>26-JUL-1993</GBSeq_create-date>
+    <GBSeq_definition>Hepatitis B virus precore and core protein gene, 5' end of cds</GBSeq_definition>
+    <GBSeq_primary-accession>L12358</GBSeq_primary-accession>
+    <GBSeq_accession-version>L12358.1</GBSeq_accession-version>
+    <GBSeq_other-seqids>
+      <GBSeqid>gb|L12358.1|HPBHBEC</GBSeqid>
+      <GBSeqid>gi|306264</GBSeqid>
+    </GBSeq_other-seqids>
+    <GBSeq_keywords>
+      <GBKeyword>HBcAg protein</GBKeyword>
+      <GBKeyword>HBeAg protein</GBKeyword>
+      <GBKeyword>core protein</GBKeyword>
+      <GBKeyword>nucleotide binding protein</GBKeyword>
+      <GBKeyword>precore protein</GBKeyword>
+    </GBSeq_keywords>
+    <GBSeq_source>Hepatitis B virus</GBSeq_source>
+    <GBSeq_organism>Hepatitis B virus</GBSeq_organism>
+    <GBSeq_taxonomy>Viruses; Retro-transcribing viruses; Hepadnaviridae; Orthohepadnavirus</GBSeq_taxonomy>
+    <GBSeq_references>
+      <GBReference>
+        <GBReference_reference>1</GBReference_reference>
+        <GBReference_position>1..333</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Tong,S.P.</GBAuthor>
+          <GBAuthor>Li,J.S.</GBAuthor>
+          <GBAuthor>Vitvitski,L.</GBAuthor>
+          <GBAuthor>Trepo,C.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>Active hepatitis B virus replication in the presence of anti-HBe is associated with viral variants containing an inactive pre-C region</GBReference_title>
+        <GBReference_journal>Virology 176 (2), 596-603 (1990)</GBReference_journal>
+        <GBReference_pubmed>2345966</GBReference_pubmed>
+      </GBReference>
+      <GBReference>
+        <GBReference_reference>2</GBReference_reference>
+        <GBReference_position>1..333</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Li,J.S.</GBAuthor>
+          <GBAuthor>Tong,S.P.</GBAuthor>
+          <GBAuthor>Wen,Y.M.</GBAuthor>
+          <GBAuthor>Vitvitski,L.</GBAuthor>
+          <GBAuthor>Zhang,Q.</GBAuthor>
+          <GBAuthor>Trepo,C.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>Hepatitis B virus genotype A rarely circulates as an HBe-minus mutant: possible contribution of a single nucleotide in the precore region</GBReference_title>
+        <GBReference_journal>J. Virol. 67 (9), 5402-5410 (1993)</GBReference_journal>
+        <GBReference_pubmed>8350403</GBReference_pubmed>
+      </GBReference>
+    </GBSeq_references>
+    <GBSeq_feature-table>
+      <GBFeature>
+        <GBFeature_key>source</GBFeature_key>
+        <GBFeature_location>1..333</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>333</GBInterval_to>
+            <GBInterval_accession>L12358.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>organism</GBQualifier_name>
+            <GBQualifier_value>Hepatitis B virus</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>mol_type</GBQualifier_name>
+            <GBQualifier_value>unassigned DNA</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>db_xref</GBQualifier_name>
+            <GBQualifier_value>taxon:10407</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>note</GBQualifier_name>
+            <GBQualifier_value>genotype D; from French HBeAg+ patient</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>CDS</GBFeature_key>
+        <GBFeature_location>1..&gt;333</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>333</GBInterval_to>
+            <GBInterval_accession>L12358.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_partial3 value="true"/>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>standard_name</GBQualifier_name>
+            <GBQualifier_value>HBeAg</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>codon_start</GBQualifier_name>
+            <GBQualifier_value>1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>transl_table</GBQualifier_name>
+            <GBQualifier_value>1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>product</GBQualifier_name>
+            <GBQualifier_value>precore protein</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>protein_id</GBQualifier_name>
+            <GBQualifier_value>AAA02846.1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>translation</GBQualifier_name>
+            <GBQualifier_value>MQLFHLCLIISCSCPTVQASKLCLGWLWGMDIDPYKEFGATVELLSFLPSDFFPSVRDLLDTAAALYRDALESPEHCSPHHTALRQAILCWGELMTLATWVGTNLEDPASR</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>CDS</GBFeature_key>
+        <GBFeature_location>88..&gt;333</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>88</GBInterval_from>
+            <GBInterval_to>333</GBInterval_to>
+            <GBInterval_accession>L12358.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_partial3 value="true"/>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>standard_name</GBQualifier_name>
+            <GBQualifier_value>HBcAg</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>codon_start</GBQualifier_name>
+            <GBQualifier_value>1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>transl_table</GBQualifier_name>
+            <GBQualifier_value>1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>product</GBQualifier_name>
+            <GBQualifier_value>core protein</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>protein_id</GBQualifier_name>
+            <GBQualifier_value>AAA02847.1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>translation</GBQualifier_name>
+            <GBQualifier_value>MDIDPYKEFGATVELLSFLPSDFFPSVRDLLDTAAALYRDALESPEHCSPHHTALRQAILCWGELMTLATWVGTNLEDPASR</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+    </GBSeq_feature-table>
+    <GBSeq_sequence>atgcaactttttcacctctgcctaatcatctcttgttcatgtcctactgttcaagcctccaagctgtgccttgggtggctttggggcatggacattgacccttataaagaatttggagctactgtggagttactctcgtttttgccttctgacttctttccttccgtacgagatcttctagataccgccgcagctctgtatcgggatgccttagaatctcctgagcattgttcacctcaccatactgcactcaggcaagcaattctttgctggggagaactaatgactctagctacctgggtgggtactaatttagaagatccagcatctagg</GBSeq_sequence>
+  </GBSeq>

@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<GBSeq>
+
+    <GBSeq_locus>HW250535</GBSeq_locus>
+    <GBSeq_length>3215</GBSeq_length>
+    <GBSeq_strandedness>double</GBSeq_strandedness>
+    <GBSeq_moltype>DNA</GBSeq_moltype>
+    <GBSeq_topology>linear</GBSeq_topology>
+    <GBSeq_division>PAT</GBSeq_division>
+    <GBSeq_update-date>26-SEP-2013</GBSeq_update-date>
+    <GBSeq_create-date>26-SEP-2013</GBSeq_create-date>
+    <GBSeq_definition>WO 2013093992-A/1: Oligonucleotide set for detection hepatitis B virus and evaluating gene diversity, and method for using the same</GBSeq_definition>
+    <GBSeq_primary-accession>HW250535</GBSeq_primary-accession>
+    <GBSeq_accession-version>HW250535.1</GBSeq_accession-version>
+    <GBSeq_other-seqids>
+      <GBSeqid>dbj|HW250535.1|</GBSeqid>
+      <GBSeqid>pat|WO|2013093992|1</GBSeqid>
+      <GBSeqid>gi|546198185</GBSeqid>
+    </GBSeq_other-seqids>
+    <GBSeq_keywords>
+      <GBKeyword>WO 2013093992-A/1</GBKeyword>
+    </GBSeq_keywords>
+    <GBSeq_source>Hepatitis B virus</GBSeq_source>
+    <GBSeq_organism>Hepatitis B virus</GBSeq_organism>
+    <GBSeq_taxonomy>Viruses; Retro-transcribing viruses; Hepadnaviridae; Orthohepadnavirus</GBSeq_taxonomy>
+    <GBSeq_references>
+      <GBReference>
+        <GBReference_reference>1</GBReference_reference>
+        <GBReference_position>1..3215</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Arai,O.</GBAuthor>
+          <GBAuthor>Sugiyama,S.</GBAuthor>
+          <GBAuthor>Mizokami,M.</GBAuthor>
+          <GBAuthor>Tamura,T.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>Oligonucleotide set for detection hepatitis B virus and evaluating gene diversity, and method for using the same</GBReference_title>
+        <GBReference_journal>WO2013093992-A 1 27-JUN-2013 BITS Co Ltd, The Research Center for Hepatitis and Immunology Kohnodai Hospital National Center for Global Health and Medicine</GBReference_journal>
+      </GBReference>
+    </GBSeq_references>
+    <GBSeq_comment>OS Hepatitis B virus~PN WO 2013093992-A/1~PD 27-JUN-2013~PF 19-DEC-2011 WO 2011JP079353~PR~PA BITS Co Ltd,~PA The Research Center for Hepatitis and Immunology Kohnodai PA Hospital National~PA Center for Global Health and Medicine~PI osamu arai,shinya sugiyama,masafumi mizokami,takuro tamura PT 'Oligonucleotide set for detection hepatitis B virus and PT evaluating gene~PT diversity, and method for using the same'~PS N1~CC~FH Key Location/Qualifiers.</GBSeq_comment>
+    <GBSeq_feature-table>
+      <GBFeature>
+        <GBFeature_key>source</GBFeature_key>
+        <GBFeature_location>1..3215</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>3215</GBInterval_to>
+            <GBInterval_accession>HW250535.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>organism</GBQualifier_name>
+            <GBQualifier_value>Hepatitis B virus</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>mol_type</GBQualifier_name>
+            <GBQualifier_value>unassigned DNA</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>db_xref</GBQualifier_name>
+            <GBQualifier_value>taxon:10407</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+    </GBSeq_feature-table>
+    <GBSeq_sequence>ctccaccactttccaccaaactcttcaagatcccagagtcagggctctgtactttcctgctggtggctccagttcaggaacagtaagccctgctcagaatactgtctcagccatatcgtcaatcttatcgaagactggggaccctgtgccgaacatggagaacatcgcatcaggactcctaggacccctgctcgtgttacaggcggggtttttcttgttgacaaaaatcctcacaataccacagagtctagactcgtggtggacttctctcaattttctagggggaacacccgtgtgtcttggccaaaattcgcagtcccaaatctccagtcactcaccaacctgttgtcctccaatttgtcctggttatcgctggatgtgtctgcggcgttttatcatcttcctctgcatcctgctgctatgcctcatcttcttgttggttcttctggactatcaaggtatgttgcccgtttgtcctctaattccaggatcatcaaccaccagcacgggaccatgcaagacctgcacaactcctgctcaaggaacctctatgtttccctcatgttgctgtacaaaacctatggatggaaactgcacctgtattcccatcccatcatcttgggctttcgcaaaatacctatgggagtgggcctcagtccgtttctcttggctcagtttactagtgccatttgttcagtggttcgtagggctttcccccactgtctggctttcagttatatggatgatgtggtattgggggccaagtctgtacaacatcttgagtccctttatgccgctgttaccaattttcttttgtctttgggtatacatttaaaccctaacaaaacaaaaagatggggatattcccttaacttcatgggatatgtaattgggagttggggcacatggccacaggatcatattgtacaaaacttcaaactatgttttagaaaacttcctgtaaacaggcctattgattggaaagtttgtcaacgaattgtgggtcttttggggtttgctgccccttttacgcaatgtggatatcctgctttaatgcctttatatgcatgtatacaagcaaaacaggcttttactttctcgccaacttacaaggcctttctcagtaaacagtatatgaccctttaccccgttgctcggcaacggcctggtctgtgccaagtgtttgctgacgcaacccccactggttggggcttggccataggccatcagcgcatgcgtggaacctttgtgtctcctctgccgatccatactgcggaactcctagccgcttgttttgctcgcagcaggtctggagcaaacctcatcgggaccgacaattctgtcgtactctcccgcaagtatacatcgtttccatggctgctaggctgtgctgccaactggatcctgcgcgggacgtcctttgtttacgtcccgtcggcgctgaatcccgcggacgacccctcccggggccgcttggggctctaccgcccgcttctccgtctgccgtaccgtccgaccacggggcgcacctctctttacgcggactccccgtctgtgccttctcatctgccggaccgtgtgcacttcgcttcacctctgcacgtcgcatggagaccaccgtgaacgcccaccggaacctgcccaaggtcttgcataagaggactcttggactttcagcaatgtcaacgaccgaccttgaggcatacttcaaagactgtgtgtttaatgagtgggaggagctgggggaggagattaggttaaaggtctttgtactcggaggctgtaggcataaattggtctgttcaccagcaccatgcaactttttcacctctgcctagtcatctcttgttcatgtcctactgttcaagcctccaagctgtgccttgggtggctttggggcatggacattgacccctataaagaatttggagctactgtggagttactctcttttttgccttctgacttctttccgtcggtgcgggacctcctagataccgtctctgctctgtatcgggaagccttaaaatctcctgagcattgctcacctcaccacacagcactcaggcaagctattctgtgctggggggaattaatgactctagctacctgggtgggtaataatttggaagatccagcatcccgggatctagtagtcaattatgttaacactaacatgggcctaaagatcaggcaactatggtggtttcacatttcctgtcttacttttggaagagaaactgttctggaatatttggtatcttttggagtgtggattcgcactcctcctgcctacagaccaccaaatgcccctatcttatcaacacttccggaaactactgttgttagacgacgaggcaggtcccctagaagaagaactccctcgcctcgcagacgaaggtctcaatcaccgcgtcgcagaagatctcaatctcgggaatcccaatgttagtatcccttggactcataaggtgggaaactttacggggctttattcttctacagtacctgtctttaatcctgaatggcaaactccttcttttccagacattcatttacaggaggacattgttgatagatgtaagcaatttgtgggaccccttacagtaaatgaaaacaggagactaaaattaataatgcctgctagattttatcccaatgttaccaaatatttgcccttagataaaggtatcaaaccttattatccagagcatgtagttaatcattacttccagactagacattatttgcatactctttggaaggcgggtatcttatataaaagagagtcaacacatagcgcctcattttgcgggtcaccttattcttgggaacaagatctacagcatgggaggttggtcttccaaacctcgaaaaggcatggggacaaatctttctgtccccaatcccctgggattcttccccgatcatcagttggaccctgcattcaaagccaactcagaaaatccagattgggacctcaacccacacaaggacaactggccggacgcccacaaggtgggagtgggagcattcgggccaggattcacccctccccatgggggactgttggggtggagccctcaggctcagggcatactcacatctgtgccagcagctcctcctcctgcctccaccaatcggcagtcaggacggcagcctactcccctatctccacctctaagggacactcatcctcaggccatgcagtggaa</GBSeq_sequence>
+  </GBSeq>

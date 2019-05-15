@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<GBSeq>
+
+    <GBSeq_locus>MA623203</GBSeq_locus>
+    <GBSeq_length>556</GBSeq_length>
+    <GBSeq_strandedness>double</GBSeq_strandedness>
+    <GBSeq_moltype>DNA</GBSeq_moltype>
+    <GBSeq_topology>linear</GBSeq_topology>
+    <GBSeq_division>PAT</GBSeq_division>
+    <GBSeq_update-date>26-DEC-2018</GBSeq_update-date>
+    <GBSeq_create-date>26-DEC-2018</GBSeq_create-date>
+    <GBSeq_definition>JP 2018138573-A/1: DNA vaccine comprising specific epitope in VEGF and/or angiopoietin-2</GBSeq_definition>
+    <GBSeq_primary-accession>MA623203</GBSeq_primary-accession>
+    <GBSeq_accession-version>MA623203.1</GBSeq_accession-version>
+    <GBSeq_other-seqids>
+      <GBSeqid>dbj|MA623203.1|</GBSeqid>
+      <GBSeqid>pat|JP|2018138573|1</GBSeqid>
+      <GBSeqid>gi|1543373608</GBSeqid>
+    </GBSeq_other-seqids>
+    <GBSeq_keywords>
+      <GBKeyword>JP 2018138573-A/1</GBKeyword>
+    </GBSeq_keywords>
+    <GBSeq_source>Hepatitis B virus</GBSeq_source>
+    <GBSeq_organism>Hepatitis B virus</GBSeq_organism>
+    <GBSeq_taxonomy>Viruses; Retro-transcribing viruses; Hepadnaviridae; Orthohepadnavirus</GBSeq_taxonomy>
+    <GBSeq_references>
+      <GBReference>
+        <GBReference_reference>1</GBReference_reference>
+        <GBReference_position>1..556</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Nakagami,H.</GBAuthor>
+          <GBAuthor>Kyutoku,M.</GBAuthor>
+          <GBAuthor>Morishita,R.</GBAuthor>
+          <GBAuthor>Tomioka,H.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>DNA vaccine comprising specific epitope in VEGF and/or angiopoietin-2</GBReference_title>
+        <GBReference_journal>JP2018138573-A 1 06-SEP-2018 Osaka University,AnGes MG Inc</GBReference_journal>
+      </GBReference>
+    </GBSeq_references>
+    <GBSeq_comment>OS Hepatitis B virus~PN JP 2018138573-A/1~PD 06-SEP-2018~PF 16-APR-2018 JP 2018078757~PR~PA Osaka University,AnGes MG Inc~PI hironori nakagami,mariko kyutoku,ryuichi morishita,hideki~PI tomioka~PT 'DNA vaccine comprising specific epitope in VEGF and/or~PT angiopoietin-2'~PS N5~CC~FH Key Location/Qualifiers~FT CDS (2)..(553).</GBSeq_comment>
+    <GBSeq_feature-table>
+      <GBFeature>
+        <GBFeature_key>source</GBFeature_key>
+        <GBFeature_location>1..556</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>556</GBInterval_to>
+            <GBInterval_accession>MA623203.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>organism</GBQualifier_name>
+            <GBQualifier_value>Hepatitis B virus</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>mol_type</GBQualifier_name>
+            <GBQualifier_value>unassigned DNA</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>db_xref</GBQualifier_name>
+            <GBQualifier_value>taxon:10407</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+    </GBSeq_feature-table>
+    <GBSeq_sequence>catggatatcgatccttataaagaattcggagctactgtggagttactctcgtttctcccgagtgacttctttccttcagtacgagatcttctggataccgccagcgcgctgtatcgggaagccttggagtctcctgagcactgcagccctcaccatactgccctcaggcaagcaattctttgctggggggagctcatgactctggccacgtgggtgggtgttaacttggaagatccagctagcagggacctggtagtcagttatgtcaacactaatatgggtttaaagttcaggcaactcttgtggtttcacattagctgcctcactttcggccgagaaacagttctagaatatttggtgtctttcggagtgtggatccgcactcctccagcttataggcctccgaatgcccctatcctgtcgacactcccggagactactgttgttagacgtcgaggcaggtcacctagaagaagaactccttcgcctcgcaggcgaaggtctcaatcgccgcggcgccgaagatctcaatctcgggaatctcaatgttagtga</GBSeq_sequence>
+  </GBSeq>

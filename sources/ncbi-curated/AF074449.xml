@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<GBSeq>
+
+    <GBSeq_locus>AF074449</GBSeq_locus>
+    <GBSeq_length>720</GBSeq_length>
+    <GBSeq_strandedness>double</GBSeq_strandedness>
+    <GBSeq_moltype>DNA</GBSeq_moltype>
+    <GBSeq_topology>linear</GBSeq_topology>
+    <GBSeq_division>VRL</GBSeq_division>
+    <GBSeq_update-date>25-JUL-2016</GBSeq_update-date>
+    <GBSeq_create-date>23-JUL-1998</GBSeq_create-date>
+    <GBSeq_definition>Hepatitis B virus surface antigen gene, complete cds; and DNA polymerase gene, partial cds</GBSeq_definition>
+    <GBSeq_primary-accession>AF074449</GBSeq_primary-accession>
+    <GBSeq_accession-version>AF074449.1</GBSeq_accession-version>
+    <GBSeq_other-seqids>
+      <GBSeqid>gb|AF074449.1|</GBSeqid>
+      <GBSeqid>gi|3335625</GBSeqid>
+    </GBSeq_other-seqids>
+    <GBSeq_source>Hepatitis B virus</GBSeq_source>
+    <GBSeq_organism>Hepatitis B virus</GBSeq_organism>
+    <GBSeq_taxonomy>Viruses; Retro-transcribing viruses; Hepadnaviridae; Orthohepadnavirus</GBSeq_taxonomy>
+    <GBSeq_references>
+      <GBReference>
+        <GBReference_reference>1</GBReference_reference>
+        <GBReference_position>1..720</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Poovorawan,Y.</GBAuthor>
+          <GBAuthor>Sripattanawat,R.</GBAuthor>
+          <GBAuthor>Theamboonlers,A.</GBAuthor>
+          <GBAuthor>Chongsrisawat,V.</GBAuthor>
+          <GBAuthor>Nuchprayoon,I.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>Hepatocellular carcinoma: significance of HBV vertical transmission</GBReference_title>
+        <GBReference_journal>Asian Pac. J. Allergy Immunol. 16 (2-3), 93-103 (1998)</GBReference_journal>
+        <GBReference_pubmed>9876947</GBReference_pubmed>
+      </GBReference>
+      <GBReference>
+        <GBReference_reference>2</GBReference_reference>
+        <GBReference_position>1..720</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Poovorawan,Y.</GBAuthor>
+          <GBAuthor>Theamboonlers,A.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>Direct Submission</GBReference_title>
+        <GBReference_journal>Submitted (25-JUN-1998) Viral Hepatitis Research Unit, Dept. of Pediatrics, Faculty of Medicine, Chulalongkorn University, Rama IV St., Bangkok 10330, Thailand</GBReference_journal>
+      </GBReference>
+    </GBSeq_references>
+    <GBSeq_feature-table>
+      <GBFeature>
+        <GBFeature_key>source</GBFeature_key>
+        <GBFeature_location>1..720</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>720</GBInterval_to>
+            <GBInterval_accession>AF074449.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>organism</GBQualifier_name>
+            <GBQualifier_value>Hepatitis B virus</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>mol_type</GBQualifier_name>
+            <GBQualifier_value>genomic DNA</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>strain</GBQualifier_name>
+            <GBQualifier_value>M-2004</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>db_xref</GBQualifier_name>
+            <GBQualifier_value>taxon:10407</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>note</GBQualifier_name>
+            <GBQualifier_value>obtained from serum of asymptomatic chronic HBV carrier</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>CDS</GBFeature_key>
+        <GBFeature_location>&lt;1..&gt;720</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>720</GBInterval_to>
+            <GBInterval_accession>AF074449.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_partial5 value="true"/>
+        <GBFeature_partial3 value="true"/>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>codon_start</GBQualifier_name>
+            <GBQualifier_value>3</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>transl_table</GBQualifier_name>
+            <GBQualifier_value>1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>product</GBQualifier_name>
+            <GBQualifier_value>DNA polymerase</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>protein_id</GBQualifier_name>
+            <GBQualifier_value>AAD13662.1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>translation</GBQualifier_name>
+            <GBQualifier_value>GEHRIRIPRTPARVTGGVFLVERNLYNTTESRLVVDFSQFSRGSTNVSWPKFAVPNLQSLTNLLSSNLSWLSLDVSAAFYHLPLHPAAMPHPLVGSSGLSRYVARLSSNSRNNKNQYGTMQNLHDSCSRNLYVSLLLLYKTYGRKLHLYSHPIILGFRKIPMGVGLSPFLLAQFTSAICSVVRRAFPHCLAFSYLDDVVLGAKSVQHLESLFTSITNFLLSLGIHLNPNKTKRWGYSLN</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>CDS</GBFeature_key>
+        <GBFeature_location>1..681</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>681</GBInterval_to>
+            <GBInterval_accession>AF074449.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>codon_start</GBQualifier_name>
+            <GBQualifier_value>1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>transl_table</GBQualifier_name>
+            <GBQualifier_value>1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>product</GBQualifier_name>
+            <GBQualifier_value>surface antigen</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>protein_id</GBQualifier_name>
+            <GBQualifier_value>AAD13661.1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>translation</GBQualifier_name>
+            <GBQualifier_value>MENIASGFLGPLLVLQAGFFLLKGISTIPQSLDSWWTSLNFLGGAPTCPGQNLQSQTSNHSPTCCPPICPGYRWMCLRRFIIFLFILLLCLILLLGLLDYQGMLPVCPLIPGTTRTSTGPCKTCTIPAQGTSMFPSCCCTKPTDGNCTCIPIPSSWAFARFLWEWASVRFSWLSLLVPFVQWFVGLSPTVWLSVIWMMWYWGPSLYNILNPFLPLLPIFFCLWVYI</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+    </GBSeq_feature-table>
+    <GBSeq_sequence>atggagaacatcgcatcaggattcctaggacccctgctcgtgttacaggcggggtttttcttgttgaaaggaatctctacaataccacagagtctagactcgtggtggacttctctcaattttctagggggagcaccaacgtgtcctggccaaaatttgcagtcccaaacctccaatcactcaccaacctgttgtcctccaatttgtcctggttatcgctggatgtgtctgcggcgttttatcatcttcctcttcatcctgctgctatgcctcatcctcttgttgggtcttctggattatcaaggtatgttgcccgtttgtcctctaattccaggaacaacaagaaccagtacgggaccatgcaaaacctgcacgattcctgctcaaggaacctctatgtttccctcttgttgctgtacaaaacctacggacggaaattgcacttgtattcccatcccatcatcttgggctttcgcaagattcctatgggagtgggcctcagtccgtttctcttggctcagtttactagtgccatttgttcagtggttcgtagggctttcccccactgtttggctttcagttatttggatgatgtggtattgggggccaagtctgtacaacatcttgaatccctttttacctctattaccaattttcttttgtctttgggtatacatttaaaccctaataaaaccaaacgatggggctactcccttaact</GBSeq_sequence>
+  </GBSeq>

@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<GBSeq>
+
+    <GBSeq_locus>JQ341753</GBSeq_locus>
+    <GBSeq_length>1200</GBSeq_length>
+    <GBSeq_strandedness>double</GBSeq_strandedness>
+    <GBSeq_moltype>DNA</GBSeq_moltype>
+    <GBSeq_topology>linear</GBSeq_topology>
+    <GBSeq_division>VRL</GBSeq_division>
+    <GBSeq_update-date>22-APR-2012</GBSeq_update-date>
+    <GBSeq_create-date>22-APR-2012</GBSeq_create-date>
+    <GBSeq_definition>Hepatitis B virus isolate Cgeno22 large S protein (S) gene, partial cds</GBSeq_definition>
+    <GBSeq_primary-accession>JQ341753</GBSeq_primary-accession>
+    <GBSeq_accession-version>JQ341753.1</GBSeq_accession-version>
+    <GBSeq_other-seqids>
+      <GBSeqid>gb|JQ341753.1|</GBSeqid>
+      <GBSeqid>gi|384403899</GBSeqid>
+    </GBSeq_other-seqids>
+    <GBSeq_source>Hepatitis B virus</GBSeq_source>
+    <GBSeq_organism>Hepatitis B virus</GBSeq_organism>
+    <GBSeq_taxonomy>Viruses; Retro-transcribing viruses; Hepadnaviridae; Orthohepadnavirus</GBSeq_taxonomy>
+    <GBSeq_references>
+      <GBReference>
+        <GBReference_reference>1</GBReference_reference>
+        <GBReference_position>1..1200</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Desmond,C.P.</GBAuthor>
+          <GBAuthor>Gaudieri,S.</GBAuthor>
+          <GBAuthor>James,I.R.</GBAuthor>
+          <GBAuthor>Pfafferott,K.</GBAuthor>
+          <GBAuthor>Chopra,A.</GBAuthor>
+          <GBAuthor>Lau,G.K.</GBAuthor>
+          <GBAuthor>Audsley,J.</GBAuthor>
+          <GBAuthor>Day,C.</GBAuthor>
+          <GBAuthor>Chivers,S.</GBAuthor>
+          <GBAuthor>Gordon,A.</GBAuthor>
+          <GBAuthor>Revill,P.A.</GBAuthor>
+          <GBAuthor>Bowden,S.</GBAuthor>
+          <GBAuthor>Ayres,A.</GBAuthor>
+          <GBAuthor>Desmond,P.V.</GBAuthor>
+          <GBAuthor>Thompson,A.J.</GBAuthor>
+          <GBAuthor>Roberts,S.K.</GBAuthor>
+          <GBAuthor>Locarnini,S.A.</GBAuthor>
+          <GBAuthor>Mallal,S.A.</GBAuthor>
+          <GBAuthor>Lewin,S.R.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>Viral adaptation to host immune responses occurs in chronic hepatitis B virus infection and adaptation is greatest in HBeAg negative disease</GBReference_title>
+        <GBReference_journal>Unpublished</GBReference_journal>
+      </GBReference>
+      <GBReference>
+        <GBReference_reference>2</GBReference_reference>
+        <GBReference_position>1..1200</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Desmond,C.P.</GBAuthor>
+          <GBAuthor>Gaudieri,S.</GBAuthor>
+          <GBAuthor>James,I.R.</GBAuthor>
+          <GBAuthor>Pfafferott,K.</GBAuthor>
+          <GBAuthor>Chopra,A.</GBAuthor>
+          <GBAuthor>Lau,G.K.</GBAuthor>
+          <GBAuthor>Audsley,J.</GBAuthor>
+          <GBAuthor>Day,C.</GBAuthor>
+          <GBAuthor>Chivers,S.</GBAuthor>
+          <GBAuthor>Gordon,A.</GBAuthor>
+          <GBAuthor>Revill,P.A.</GBAuthor>
+          <GBAuthor>Bowden,S.</GBAuthor>
+          <GBAuthor>Ayres,A.</GBAuthor>
+          <GBAuthor>Desmond,P.V.</GBAuthor>
+          <GBAuthor>Thompson,A.J.</GBAuthor>
+          <GBAuthor>Roberts,S.K.</GBAuthor>
+          <GBAuthor>Locarnini,S.A.</GBAuthor>
+          <GBAuthor>Mallal,S.A.</GBAuthor>
+          <GBAuthor>Lewin,S.R.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>Direct Submission</GBReference_title>
+        <GBReference_journal>Submitted (29-DEC-2011) Alfred Hospital, Infectious Diseases Unit, Melbourne, Victoria 3181, Australia</GBReference_journal>
+      </GBReference>
+    </GBSeq_references>
+    <GBSeq_feature-table>
+      <GBFeature>
+        <GBFeature_key>source</GBFeature_key>
+        <GBFeature_location>1..1200</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>1200</GBInterval_to>
+            <GBInterval_accession>JQ341753.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>organism</GBQualifier_name>
+            <GBQualifier_value>Hepatitis B virus</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>mol_type</GBQualifier_name>
+            <GBQualifier_value>genomic DNA</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>isolate</GBQualifier_name>
+            <GBQualifier_value>Cgeno22</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>db_xref</GBQualifier_name>
+            <GBQualifier_value>taxon:10407</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>country</GBQualifier_name>
+            <GBQualifier_value>Hong Kong</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>note</GBQualifier_name>
+            <GBQualifier_value>genotype: C</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>gene</GBFeature_key>
+        <GBFeature_location>1..&gt;1200</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>1200</GBInterval_to>
+            <GBInterval_accession>JQ341753.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_partial3 value="true"/>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>gene</GBQualifier_name>
+            <GBQualifier_value>S</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>CDS</GBFeature_key>
+        <GBFeature_location>1..&gt;1200</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>1200</GBInterval_to>
+            <GBInterval_accession>JQ341753.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_partial3 value="true"/>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>gene</GBQualifier_name>
+            <GBQualifier_value>S</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>codon_start</GBQualifier_name>
+            <GBQualifier_value>1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>transl_table</GBQualifier_name>
+            <GBQualifier_value>1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>product</GBQualifier_name>
+            <GBQualifier_value>large S protein</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>protein_id</GBQualifier_name>
+            <GBQualifier_value>AFH89315.1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>translation</GBQualifier_name>
+            <GBQualifier_value>MGGWSSKPRKGMGTNLXVPNPLGFFPDHQLDLAFRANSNNPDWDFNPNKDPWPEANQVGVGSFGPGFTPPHGXLLGWSPQAQGILTTVPAAPPPASTNRQSGRQPTPISPPLRDSHPQAMQXNSSTFHQALLDPRVRGLYFPAGGSSSGTVNPVPTTASPISSIFSRTGDPAPNMESTTSGFLGPLLVLQAGFFLLTRILTIPQSLDSWWTSLNFLGGAPTCPGQNLQSPTSNHXPTSCPPICPGYRWMCLRRFIIFLFILLLCLIFLXVLLDYXGMLPVCPLLPGTSTTSTGPCKTCTXPAQGTSMFPSCCCTKPSDGNCTCIPIPSSWAFARFLWEWASVRFSWLSLLVPFVQWFVGLSPTVWLSVIWMMWYWGPSLYNILNPFLPLLPIFFCLWVYI</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+    </GBSeq_feature-table>
+    <GBSeq_sequence>atgggaggttggtcttccaaacctcgaaaaggcatggggacgaatcttkctgttcccaatcctctgggattctttcccgatcaccagttggacctggcattcagagccaattcaaacaatccagattgggacttcaaccccaacaaggatccatggccagaggcaaaccaggtaggagtgggatccttcgggccagggttcactccaccacacggcrrtcttttggggtggagccctcaggctcagggcatattgacaacagtaccagcagcgcctcctcctgcctccaccaatcggcagtcaggaagacagcctactcccatctctccacctctaagagacagtcatcctcaggccatgcagtgsaactccagcacattccaccaagctctgctagatcccagagtgaggggcctatactttcctgctggtggctccagttccggaacagtaaaccctgttccgactactgcctctcccatatcgtcaatcttctcgaggactggggaccctgcaccgaatatggagagcaccacatcaggattcctaggacccctgctcgtgttacaggcggggtttttcttgttgacaagaatcctcacaataccacagagtctagactcgtggtggacttctctcaattttctagggggagcacccacgtgtcctggccaaaatttgcagtccccaacctccaatcactyaccaacctcttgtcctccaatttgtcctggttatcgctggatgtgtctgcggcgttttatcatcttcctcttcatcctgctgctatgcctcatcttcttgtkggttcttctggactacmaaggtatgttgcccgtttgtcctctacttccaggaacgtcaaccaccagcacgggaccatgcaagacctgcacarttcctgctcaaggaacctctatgtttccctcttgttgctgtacaaaaccttcggacggaaattgcacttgtattcccatcccatcatcttgggctttcgcaagattcctatgggagtgggcctcagtccgtttctcctggctcagtttactagtgccatttgttcagtggttcgtagggctttcccccactgtttggctttcagttatatggatgatgtggtattgggggccaagtctgtacaacatcttgaatccctttttaccgctattaccaattttcttttgtctttgggtatacatt</GBSeq_sequence>
+  </GBSeq>

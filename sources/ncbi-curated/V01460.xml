@@ -1,0 +1,479 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<GBSeq>
+
+    <GBSeq_locus>V01460</GBSeq_locus>
+    <GBSeq_length>3182</GBSeq_length>
+    <GBSeq_strandedness>double</GBSeq_strandedness>
+    <GBSeq_moltype>DNA</GBSeq_moltype>
+    <GBSeq_topology>linear</GBSeq_topology>
+    <GBSeq_division>VRL</GBSeq_division>
+    <GBSeq_update-date>28-JAN-2003</GBSeq_update-date>
+    <GBSeq_create-date>09-JUN-1982</GBSeq_create-date>
+    <GBSeq_definition>Hepatitis B virus (strain ayw) genome</GBSeq_definition>
+    <GBSeq_primary-accession>V01460</GBSeq_primary-accession>
+    <GBSeq_accession-version>V01460.1</GBSeq_accession-version>
+    <GBSeq_other-seqids>
+      <GBSeqid>emb|V01460.1|</GBSeqid>
+      <GBSeqid>gi|62276</GBSeqid>
+    </GBSeq_other-seqids>
+    <GBSeq_secondary-accessions>
+      <GBSecondary-accn>J02203</GBSecondary-accn>
+    </GBSeq_secondary-accessions>
+    <GBSeq_keywords>
+      <GBKeyword>antigen</GBKeyword>
+      <GBKeyword>core antigen</GBKeyword>
+      <GBKeyword>genome</GBKeyword>
+      <GBKeyword>signal peptide</GBKeyword>
+    </GBSeq_keywords>
+    <GBSeq_source>Hepatitis B virus</GBSeq_source>
+    <GBSeq_organism>Hepatitis B virus</GBSeq_organism>
+    <GBSeq_taxonomy>Viruses; Retro-transcribing viruses; Hepadnaviridae; Orthohepadnavirus</GBSeq_taxonomy>
+    <GBSeq_references>
+      <GBReference>
+        <GBReference_reference>1</GBReference_reference>
+        <GBReference_position>1..3182</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Galibert,F.</GBAuthor>
+          <GBAuthor>Mandart,E.</GBAuthor>
+          <GBAuthor>Fitoussi,F.</GBAuthor>
+          <GBAuthor>Tiollais,P.</GBAuthor>
+          <GBAuthor>Charnay,P.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>Nucleotide sequence of the hepatitis B virus genome (subtype ayw) cloned in E. coli</GBReference_title>
+        <GBReference_journal>Nature 281 (5733), 646-650 (1979)</GBReference_journal>
+        <GBReference_pubmed>399327</GBReference_pubmed>
+      </GBReference>
+      <GBReference>
+        <GBReference_reference>2</GBReference_reference>
+        <GBReference_position>709..1414</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Borisova,G.P.</GBAuthor>
+          <GBAuthor>Pumpen,P.P.</GBAuthor>
+          <GBAuthor>Bychko,V.V.</GBAuthor>
+          <GBAuthor>Pushko,P.M.</GBAuthor>
+          <GBAuthor>Kalis,Y.V.</GBAuthor>
+          <GBAuthor>Dishler,A.V.</GBAuthor>
+          <GBAuthor>Gren,E.Y.</GBAuthor>
+          <GBAuthor>Tsibinogin,V.V.</GBAuthor>
+          <GBAuthor>Kukain,R.A.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>Structure and expression of the gene of the core antigen of human hepatitis B virus (HBV) in Escherichia coli cells</GBReference_title>
+        <GBReference_journal>Dokl. Biochem. 279, 386-390 (1985)</GBReference_journal>
+      </GBReference>
+    </GBSeq_references>
+    <GBSeq_comment>On Jan 11, 2002 this sequence version replaced J02203.1.</GBSeq_comment>
+    <GBSeq_feature-table>
+      <GBFeature>
+        <GBFeature_key>source</GBFeature_key>
+        <GBFeature_location>1..3182</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>3182</GBInterval_to>
+            <GBInterval_accession>V01460.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>organism</GBQualifier_name>
+            <GBQualifier_value>Hepatitis B virus</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>mol_type</GBQualifier_name>
+            <GBQualifier_value>genomic DNA</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>db_xref</GBQualifier_name>
+            <GBQualifier_value>taxon:10407</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>CDS</GBFeature_key>
+        <GBFeature_location>complement(733..1371)</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1371</GBInterval_from>
+            <GBInterval_to>733</GBInterval_to>
+            <GBInterval_iscomp value="true"/>
+            <GBInterval_accession>V01460.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>note</GBQualifier_name>
+            <GBQualifier_value>unnamed protein product; precursor</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>codon_start</GBQualifier_name>
+            <GBQualifier_value>1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>transl_table</GBQualifier_name>
+            <GBQualifier_value>1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>protein_id</GBQualifier_name>
+            <GBQualifier_value>CAA24706.1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>db_xref</GBQualifier_name>
+            <GBQualifier_value>GOA:P03146</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>db_xref</GBQualifier_name>
+            <GBQualifier_value>InterPro:IPR002006</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>db_xref</GBQualifier_name>
+            <GBQualifier_value>UniProtKB/Swiss-Prot:P03146</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>translation</GBQualifier_name>
+            <GBQualifier_value>MQLFHLCLIISCSCPTVQASKLCLGWLWGMDIDPYKEFGATVELLSFLPSDFFPSVRDLLDTASALYREALESPEHCSPHHTALRQAILCWGELMTLATWVGVNLEDPASRDLVVSYVNTNMGLKFRQLLWFHISCLTFGRETVIEYLVSFGVWIRTPPAYRPPNAPILSTLPETTVVRRRGRSPRRRTPSPRRRRSQSPRRRRSQSRESQC</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>sig_peptide</GBFeature_key>
+        <GBFeature_location>complement(1285..1371)</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1371</GBInterval_from>
+            <GBInterval_to>1285</GBInterval_to>
+            <GBInterval_iscomp value="true"/>
+            <GBInterval_accession>V01460.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>note</GBQualifier_name>
+            <GBQualifier_value>signal peptide (aa -29 to -1)</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>peptide</GBQualifier_name>
+            <GBQualifier_value>MQLFHLCLIISCSCPTVQASKLCLGWLWG</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>mat_peptide</GBFeature_key>
+        <GBFeature_location>complement(736..1284)</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1284</GBInterval_from>
+            <GBInterval_to>736</GBInterval_to>
+            <GBInterval_iscomp value="true"/>
+            <GBInterval_accession>V01460.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>product</GBQualifier_name>
+            <GBQualifier_value>core antigen HBcAG (aa 1-183)</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>peptide</GBQualifier_name>
+            <GBQualifier_value>MDIDPYKEFGATVELLSFLPSDFFPSVRDLLDTASALYREALESPEHCSPHHTALRQAILCWGELMTLATWVGVNLEDPASRDLVVSYVNTNMGLKFRQLLWFHISCLTFGRETVIEYLVSFGVWIRTPPAYRPPNAPILSTLPETTVVRRRGRSPRRRTPSPRRRRSQSPRRRRSQSRESQC</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>misc_difference</GBFeature_key>
+        <GBFeature_location>868</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_point>868</GBInterval_point>
+            <GBInterval_accession>V01460.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>note</GBQualifier_name>
+            <GBQualifier_value>G is A in ref[2];
+conflict</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>citation</GBQualifier_name>
+            <GBQualifier_value>[2]</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>misc_difference</GBFeature_key>
+        <GBFeature_location>920</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_point>920</GBInterval_point>
+            <GBInterval_accession>V01460.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>note</GBQualifier_name>
+            <GBQualifier_value>G is A in ref[2];
+conflict</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>citation</GBQualifier_name>
+            <GBQualifier_value>[2]</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>misc_difference</GBFeature_key>
+        <GBFeature_location>986</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_point>986</GBInterval_point>
+            <GBInterval_accession>V01460.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>note</GBQualifier_name>
+            <GBQualifier_value>G is T in ref[2];
+conflict</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>citation</GBQualifier_name>
+            <GBQualifier_value>[2]</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>misc_difference</GBFeature_key>
+        <GBFeature_location>999</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_point>999</GBInterval_point>
+            <GBInterval_accession>V01460.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>note</GBQualifier_name>
+            <GBQualifier_value>C is T in ref[2];
+conflict</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>citation</GBQualifier_name>
+            <GBQualifier_value>[2]</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>misc_difference</GBFeature_key>
+        <GBFeature_location>1040</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_point>1040</GBInterval_point>
+            <GBInterval_accession>V01460.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>note</GBQualifier_name>
+            <GBQualifier_value>T is C in ref[2];
+conflict</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>citation</GBQualifier_name>
+            <GBQualifier_value>[2]</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>misc_difference</GBFeature_key>
+        <GBFeature_location>1043</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_point>1043</GBInterval_point>
+            <GBInterval_accession>V01460.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>note</GBQualifier_name>
+            <GBQualifier_value>A is G in ref[2];
+conflict</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>citation</GBQualifier_name>
+            <GBQualifier_value>[2]</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>misc_difference</GBFeature_key>
+        <GBFeature_location>1046..1048</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1046</GBInterval_from>
+            <GBInterval_to>1048</GBInterval_to>
+            <GBInterval_accession>V01460.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>note</GBQualifier_name>
+            <GBQualifier_value>CGC(Ala) is TAT(Ile) in ref[2];
+conflict</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>citation</GBQualifier_name>
+            <GBQualifier_value>[2]</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>misc_difference</GBFeature_key>
+        <GBFeature_location>1064</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_point>1064</GBInterval_point>
+            <GBInterval_accession>V01460.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>note</GBQualifier_name>
+            <GBQualifier_value>AAC(Val) is ACC(Gly) in ref[2];
+conflict</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>citation</GBQualifier_name>
+            <GBQualifier_value>[2]</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>misc_difference</GBFeature_key>
+        <GBFeature_location>1106</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_point>1106</GBInterval_point>
+            <GBInterval_accession>V01460.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>note</GBQualifier_name>
+            <GBQualifier_value>A is C in ref[2];
+conflict</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>citation</GBQualifier_name>
+            <GBQualifier_value>[2]</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>misc_difference</GBFeature_key>
+        <GBFeature_location>1109</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_point>1109</GBInterval_point>
+            <GBInterval_accession>V01460.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>note</GBQualifier_name>
+            <GBQualifier_value>A is T in ref[2];
+conflict</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>citation</GBQualifier_name>
+            <GBQualifier_value>[2]</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>misc_difference</GBFeature_key>
+        <GBFeature_location>1187..1189</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1187</GBInterval_from>
+            <GBInterval_to>1189</GBInterval_to>
+            <GBInterval_accession>V01460.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>note</GBQualifier_name>
+            <GBQualifier_value>GGT(Thr) is GTT(Asn) in ref[2];
+conflict</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>citation</GBQualifier_name>
+            <GBQualifier_value>[2]</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>misc_difference</GBFeature_key>
+        <GBFeature_location>1274</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_point>1274</GBInterval_point>
+            <GBInterval_accession>V01460.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>note</GBQualifier_name>
+            <GBQualifier_value>G is A in ref[2];
+conflict</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>citation</GBQualifier_name>
+            <GBQualifier_value>[2]</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>misc_difference</GBFeature_key>
+        <GBFeature_location>1277</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_point>1277</GBInterval_point>
+            <GBInterval_accession>V01460.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>note</GBQualifier_name>
+            <GBQualifier_value>G is A in ref[2];
+conflict</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>citation</GBQualifier_name>
+            <GBQualifier_value>[2]</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>misc_difference</GBFeature_key>
+        <GBFeature_location>1412</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_point>1412</GBInterval_point>
+            <GBInterval_accession>V01460.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>note</GBQualifier_name>
+            <GBQualifier_value>G is A in ref[2];
+conflict</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>citation</GBQualifier_name>
+            <GBQualifier_value>[2]</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+    </GBSeq_feature-table>
+    <GBSeq_sequence>aattccactgcatggcctgaggatgagtgtttctcaaaggtggagacagcggggtaggctgccttcctgactggcgattggtggaggcaggaggcggatttgctggcaaagtttgtagtatgccctgagcctgagggctccaccccaaaaggcctccgtgcggtggggtgaaacccagcccgaatgctccagctcctaccttgttggcgtctggccaggtgtccttgttgggattgaagtcccaatctggatttgcggtgtttgctctgaaggctggatccaactggtggtcgggaaagaatcccagaggattgctggtggaaagattctgccccatgctgtagatcttgttcccaagaatatggtgacccacaaaatgaggcgctatgtgttgtttctctcttatataatatacccgccttccatagagtgtgtaaatagtgtctagtttggaagtaatgattaactagatgttctggataataaggtttaatacccttatccaatggtaaatatttggtaacctttggataaaacctggcaggcataatcaattgcaatcttcttttctcattaactgtgagtgggcctacaaactgttcacattttttgataatgtcttggtgtaaatgtatattaggaaaagatggtgttttccaatgaggattaaagacaggtacagtagaagaataaagcccagtaaagttccccaccttatgagtccaaggaatactaacattgagattcccgagattgagatcttctgcgacgcggcgattgagaccttcgtctgcgaggcgagggagttcttcttctaggggacctgcctcgtcgtctaacaacagtagtctccggaagtgttgataggataggggcatttggtggtctataagctggaggagtgcgaatccacactccgaaagacaccaaatactctataactgtttctcttccaaaagtgagacaagaaatgtgaaaccacaagagttgcctgaactttaggcccatattagtgttgacataactgactactaggtctctagacgctggatcttccaaattaacacccacccaggtagctagagtcattagttccccccagcaaagaattgcttgcctgagtgcagtatggtgaggtgaacaatgctcaggagactctaaggcttcccgatacagagctgaggcggtatctagaagatctcgtactgaaggaaagaagtcagaaggcaaaaacgagagtaactccacagtagctccaaattctttataagggtcgatgtccatgccccaaagccacccaaggcacagcttggaggcttgaacagtaggacatgaacaagagatgattaggcagaggtgaaaaagttgcatggtgctggtgcgcagaccaatttatgcctacagcctcctagtacaaagacctttaacctaatctcctcccccaactcctcccagtctttaaacaaacagtctttgaagtatgcctcaaggtcggtcgttgacattgctgagagtccaagagtcctcttatgtaagaccttgggcaatatttggtgggcgttcacggtggtctccatgcgacgtgcagaggtgaagcgaagtgcacacggtccggcagatgagaaggcacagacggggagtccgcgtaaagagaggtgcgccccgtggtcggtcggaacggcagacggagaaggggacgagagagtcccaagcgaccccgagaagggtcgtccgcaggattcagcgccgacgggacgtaaacaaaggacgtcccgcgcaggatccagttggcagcacagcctagcagccatggaaacgatgtatatttgcgggataggacaacagagttatcagtcccgataatgtttgctccagacctgctgcgagcaaaacaagcggctaggagttccgcagtatggatcggcagaggagccgaaaaggttccacgcatgcgctgatggcccatgaccaagccccagccagtgggggttgcgtcagcaaacacttggcacagacctggccgttgccgggcaacggggtaaaggttcaggtattgtttacacagaaaggccttgtaagttggcgagaaagtgaaagcctgcttagattgaatacatgcatacaaaggcatcaacgcaggataaccacattgtgtaaaaggggcagcaaaacccaaaagacccacaattcgttgacatactttccaatcaataggcctgttaataggaagttttctaaaacattctttgattttttgtatgatgtgttcttgtggcaaggacccataacatccaatgacataacccataaaatttagagagtaaccccatctctttgttttgttagggtttaaatgtatacccaaagacaaaagaaaattggtaacagcggtaaaaagggactcaagatgctgtacagacttggcccccaataccacatcatccatataactgaaagccaaacagtgggggaaagccctacgaaccactgaacaaatggcactagtaaactgagccaggagaaacgggctgaggcccactcccataggaattttccgaaagcccaggatgatgggatgggaatacaggtgcaatttccgtccgaaggtttggtacagcaacaggagggatacatagaggttccttgagcagtagtcatgcaggtccggcatggtcccgtgctggttgttgaggatcctggaattagaggacaaacgggcaacataccttgatagtccagaagaaccaacaagaagatgaggcatagcagcaggatgaagaggaagatgataaaacgccgcagacacatccagcgataaccaggacaagttggaggacaagaggttggtgagtgattggaggttggggactgcgaattttggccaagacacacggtagttccccctagaaaattgagagaagtccaccacgagtctagactctgcggtattgtgaggattcttgtcaacaagaaaaaccccgcctgtaacacgagaaggggtcctaggaatcctgatgtgatgttctccatgttcagcgcagggtccccaatcctcgagaagattgacgataagggagaggcagtagtcagaacagggtttactgttcctgaactggagccaccagcagggaaatacaggcctctcactctgggatcttgcagagtttggtggaaggttgtgg</GBSeq_sequence>
+  </GBSeq>

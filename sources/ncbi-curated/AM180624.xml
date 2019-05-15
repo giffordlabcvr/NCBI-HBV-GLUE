@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<GBSeq>
+
+    <GBSeq_locus>AM180624</GBSeq_locus>
+    <GBSeq_length>3221</GBSeq_length>
+    <GBSeq_strandedness>double</GBSeq_strandedness>
+    <GBSeq_moltype>DNA</GBSeq_moltype>
+    <GBSeq_topology>circular</GBSeq_topology>
+    <GBSeq_division>VRL</GBSeq_division>
+    <GBSeq_update-date>18-MAY-2006</GBSeq_update-date>
+    <GBSeq_create-date>01-MAY-2006</GBSeq_create-date>
+    <GBSeq_definition>Hepatitis B virus complete genome, isolate CAE168</GBSeq_definition>
+    <GBSeq_primary-accession>AM180624</GBSeq_primary-accession>
+    <GBSeq_accession-version>AM180624.1</GBSeq_accession-version>
+    <GBSeq_other-seqids>
+      <GBSeqid>emb|AM180624.1|</GBSeqid>
+      <GBSeqid>gi|94466779</GBSeqid>
+    </GBSeq_other-seqids>
+    <GBSeq_keywords>
+      <GBKeyword>complete genome</GBKeyword>
+      <GBKeyword>hepatitis surface antigen</GBKeyword>
+      <GBKeyword>sAg gene</GBKeyword>
+    </GBSeq_keywords>
+    <GBSeq_source>Hepatitis B virus</GBSeq_source>
+    <GBSeq_organism>Hepatitis B virus</GBSeq_organism>
+    <GBSeq_taxonomy>Viruses; Retro-transcribing viruses; Hepadnaviridae; Orthohepadnavirus</GBSeq_taxonomy>
+    <GBSeq_references>
+      <GBReference>
+        <GBReference_reference>1</GBReference_reference>
+        <GBReference_position>1..3221</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Olinger,C.M.</GBAuthor>
+          <GBAuthor>Venard,V.</GBAuthor>
+          <GBAuthor>Njayou,M.</GBAuthor>
+          <GBAuthor>Oyefolu,A.O.</GBAuthor>
+          <GBAuthor>Maiga,I.</GBAuthor>
+          <GBAuthor>Kemp,A.J.</GBAuthor>
+          <GBAuthor>Omilabu,S.A.</GBAuthor>
+          <GBAuthor>le Faou,A.</GBAuthor>
+          <GBAuthor>Muller,C.P.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>Phylogenetic analysis of the precore/core gene of hepatitis B virus genotypes E and A in West Africa: new subtypes, mixed infections and recombinations</GBReference_title>
+        <GBReference_journal>J. Gen. Virol. 87 (PT 5), 1163-1173 (2006)</GBReference_journal>
+        <GBReference_xref>
+          <GBXref>
+            <GBXref_dbname>doi</GBXref_dbname>
+            <GBXref_id>10.1099/vir.0.81614-0</GBXref_id>
+          </GBXref>
+        </GBReference_xref>
+        <GBReference_pubmed>16603517</GBReference_pubmed>
+      </GBReference>
+      <GBReference>
+        <GBReference_reference>2</GBReference_reference>
+        <GBReference_position>1..3221</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Olinger,C.M.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>Direct Submission</GBReference_title>
+        <GBReference_journal>Submitted (21-DEC-2005) Olinger C.M., Immunologie, Laboratoire National de Sante, 20A, rue Auguste-Lumiere, Luxembourg, L-1950, LUXEMBOURG</GBReference_journal>
+      </GBReference>
+    </GBSeq_references>
+    <GBSeq_feature-table>
+      <GBFeature>
+        <GBFeature_key>source</GBFeature_key>
+        <GBFeature_location>1..3221</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>3221</GBInterval_to>
+            <GBInterval_accession>AM180624.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>organism</GBQualifier_name>
+            <GBQualifier_value>Hepatitis B virus</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>mol_type</GBQualifier_name>
+            <GBQualifier_value>genomic DNA</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>isolate</GBQualifier_name>
+            <GBQualifier_value>CAE168</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>db_xref</GBQualifier_name>
+            <GBQualifier_value>taxon:10407</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>country</GBQualifier_name>
+            <GBQualifier_value>Cameroon</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>note</GBQualifier_name>
+            <GBQualifier_value>A3 subtype</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>gene</GBFeature_key>
+        <GBFeature_location>155..835</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>155</GBInterval_from>
+            <GBInterval_to>835</GBInterval_to>
+            <GBInterval_accession>AM180624.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>gene</GBQualifier_name>
+            <GBQualifier_value>sAg</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>CDS</GBFeature_key>
+        <GBFeature_location>155..835</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>155</GBInterval_from>
+            <GBInterval_to>835</GBInterval_to>
+            <GBInterval_accession>AM180624.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>gene</GBQualifier_name>
+            <GBQualifier_value>sAg</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>codon_start</GBQualifier_name>
+            <GBQualifier_value>1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>transl_table</GBQualifier_name>
+            <GBQualifier_value>1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>product</GBQualifier_name>
+            <GBQualifier_value>hepatitis surface antigen</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>protein_id</GBQualifier_name>
+            <GBQualifier_value>CAJ55525.1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>db_xref</GBQualifier_name>
+            <GBQualifier_value>GOA:Q1MNM5</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>db_xref</GBQualifier_name>
+            <GBQualifier_value>InterPro:IPR000349</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>db_xref</GBQualifier_name>
+            <GBQualifier_value>UniProtKB/TrEMBL:Q1MNM5</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>translation</GBQualifier_name>
+            <GBQualifier_value>MENITSGFLKPLLVLQAGFFLLTRILTIPQSLDSWWTSLNFLGGSPVCLGQNSQSPTSNHSPTSCPPICPGYRWMCLRRFIIFLFILLLCLIFLLVLLDCQGMLXVCPLIPGSXTTSTGPCRTCTTPAQGNSMFPSCCCTKPTDGNCTCIPIPSSWAFAKYLWEWASVRFSWLSLLVPFVQWFVGLSPTVWLSVIWMMWYWGPSLYNILSPFIPLLPIFFCLWAYI</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+    </GBSeq_feature-table>
+    <GBSeq_sequence>ttccacagctttccaccaagctctgcaagatcccagagtcaggggcctgtattttcctgctggtggctccagttcaggaacagtaagccctgttccgaatattgcctctcacatctcgtcaatctcctcgaggactggggaccctgcaccgaccatggagaacatcacatcaggattcctaaaacccctgctcgtgttacaggcggggtttttcttgttgacaagaatcctcacaataccgcagagtctagactcgtggtggacttctctcaattttctagggggatcacccgtgtgtcttggccaaaattcgcagtccccaacctccaatcactcaccaacctcctgtcctccaatttgtcctggttatcgctggatgtgtctgcggcgttttatcatattcctcttcatcctgctgctatgcctcatcttcttattggttcttctggattgtcarggtatgttgcycgtttgtcctctaattccaggatccamaaccaccagtacgggaccctgcagaacctgcacgactcctgcacaaggcaactctatgtttccctcatgttgctgtacaaaacctacggacggaaattgcacttgtattcccatcccatcatcctgggctttcgcaaaatacctatgggagtgggcctcagtccgtttctcctggctcagtttactagtgccatttgttcagtggttcgtagggctttcccccactgtttggctttcagttatatggatgatgtggtattgggggccaagtctgtacaacatcttgagtccctttataccgctgttaccaattttcttttgtctttgggcatacatttaaaccctaacaaaacaaaaagatggggttattctctaaatttcatgggttacataattggaagttggggatcattgccacaagaycatattgttcaaaaamtcaaagactgttttagaaaacttcctgttaacagacctattgattggaaagtttgtcaacgcattgtgggtcttttgggctttgccgctccgttcacacaatgtggataccctgctttaatgcctttgtacgcatgtatacaagctaaacaggcttttactttctcgccaacttacaaggcctttctaagtaaacagtatatgaacctttaccccgttgcccggcaacggcctggtctgtgccaagtgtttgctgacgcaacccccactggctggggcttggccatgggccatcagcgcatgcgtggaacctttgtggctcctctgccgatccatactgcggaactcctagccgcttgttttgctcgcagccggtctggagcaaaactcatcgggactgataattctgtcgtcctttctcggaaatatacatcttttccatggctgctaggctgtactgccaactggatacttcgcgggacgtcctttgtttacgtcccgtcggcgctgaatcccgcggacgacccctctcggggccgcttgggrmtctaccgtccccttctccgtctgccgttccgaccgaccacggggcgcacctctctttacgcggtctccccgtctgtgccttctcatctgccggaccgtgtgcacttcgcttcacctctgcacgttgcatggcgaccaccgtgaacgcccatcagatcttgcccaaggtcttacataagaggactcttggactcccagcaatgtcaacgaccgaccttgaggcttacttcaaagactgtgtgtttaaagactgggaggagttgggggaggagattaggctaaaggtgtttgtattaggaggctgtaggcataaattggtctgcgcaccatcatcctgcaactttttcacctctgcctaatcatctcttgtacatgtcccactcttcaagcctccaagctgtgccttgggtggctttggggcatggacattgacccttataaagaatttggagctactgtggagttactctcgtttttgccttctgacttctttccttccgttcgagatctcctagataccgcctcagctctatttcgggaagcactagagtctcctgagcatggttctsctcaccatacagcamtcaggcaagccattctttgctggggggakgtaatgactctagccacctgggtgggtrmtaatttggaagatccagcatcccgggatctagtagtcaattatgtcaatactaatatgggcctaaagatcaggcaactattgtggtttcatatttcttgccttacttttggaagagaaactgttcttgagtatttggtctcttttggagtgtggattcgcactcctccagcctatagaccaccaaatgcccctatcttatcaacacttccggaaactactgttgttagacgacgggaccgaggcaggtcccctagaagaagaactccctcgcctcgcagacgcagatctcaatcgccgcgtcgcagaagatctcaatctcgggamtctcaatgttagtattccttggactcataaggtgggaaattttactgggctttattcctctactgtacctatctttaatcctgaatggcaaactccttcttttccaaagattcatttacatgaggacattattaatagatgtcaacaatttgtaggccctctcactgtaaatgaaaagagaagattgaaattaattatgcctgcgagattttatcctaacagtaccaaatatttgccattagacaaagggattaaaccttattatcctgatcatgtagttaatcattacttccaggcccgacattatttacatactctttggaaggctggtattctatataagagggaaactacacgtagcgcttcattttgcgggtcaccatattcttgggaacaagagctacatcatgggaggttggttaccaaaacctcgcaaaggcatggggacgaatctttctgttcccaaycctctgggattctttcccgatcatcagttggaccctgcattcggagccaactcaaacaatccagattgggacttcaaccccatcaaggaccactggccacaagccaatcaggtaggagtgggagcatttggaccagggttcacccctccacacggaggtgttctggggtggagccctcaggctcagggcacattgactatggtgccagcggttcctcctcctgcctccaccaatcggcagtcaggaaggcagcctactcccatctctccacctctaagagacagtcatcctcaggccatgcagtggaa</GBSeq_sequence>
+  </GBSeq>

@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<GBSeq>
+
+    <GBSeq_locus>S76114</GBSeq_locus>
+    <GBSeq_length>569</GBSeq_length>
+    <GBSeq_strandedness>double</GBSeq_strandedness>
+    <GBSeq_moltype>DNA</GBSeq_moltype>
+    <GBSeq_topology>linear</GBSeq_topology>
+    <GBSeq_division>PRI</GBSeq_division>
+    <GBSeq_update-date>03-OCT-2002</GBSeq_update-date>
+    <GBSeq_create-date>10-JUL-1992</GBSeq_create-date>
+    <GBSeq_definition>{right virus-host integration site} [hepatitis B virus HBV, Genomic, 569 nt]</GBSeq_definition>
+    <GBSeq_primary-accession>S76114</GBSeq_primary-accession>
+    <GBSeq_accession-version>S76114.1</GBSeq_accession-version>
+    <GBSeq_other-seqids>
+      <GBSeqid>bbm|177276</GBSeqid>
+      <GBSeqid>bbs|76114</GBSeqid>
+      <GBSeqid>gb|S76114.1|</GBSeqid>
+      <GBSeqid>gi|242996</GBSeqid>
+    </GBSeq_other-seqids>
+    <GBSeq_source>Homo sapiens (human)</GBSeq_source>
+    <GBSeq_organism>Homo sapiens</GBSeq_organism>
+    <GBSeq_taxonomy>Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi; Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini; Catarrhini; Hominidae; Homo</GBSeq_taxonomy>
+    <GBSeq_references>
+      <GBReference>
+        <GBReference_reference>1</GBReference_reference>
+        <GBReference_position>1..569</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Quade,K.</GBAuthor>
+          <GBAuthor>Saldanha,J.</GBAuthor>
+          <GBAuthor>Thomas,H.</GBAuthor>
+          <GBAuthor>Monjardino,J.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>Integration of hepatitis B virus DNA through a mutational hot spot within the cohesive region in a case of hepatocellular carcinoma</GBReference_title>
+        <GBReference_journal>J. Gen. Virol. 73 (Pt 1), 179-182 (1992)</GBReference_journal>
+        <GBReference_pubmed>1309858</GBReference_pubmed>
+        <GBReference_remark>GenBank staff at the National Library of Medicine created this entry [NCBI gibbsq 76114] from the original journal article.; This sequence comes from fig2a.</GBReference_remark>
+      </GBReference>
+    </GBSeq_references>
+    <GBSeq_feature-table>
+      <GBFeature>
+        <GBFeature_key>source</GBFeature_key>
+        <GBFeature_location>397..569</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>397</GBInterval_from>
+            <GBInterval_to>569</GBInterval_to>
+            <GBInterval_accession>S76114.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>organism</GBQualifier_name>
+            <GBQualifier_value>Homo sapiens</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>mol_type</GBQualifier_name>
+            <GBQualifier_value>genomic DNA</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>db_xref</GBQualifier_name>
+            <GBQualifier_value>taxon:9606</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>focus</GBQualifier_name>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>source</GBFeature_key>
+        <GBFeature_location>1..396</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>396</GBInterval_to>
+            <GBInterval_accession>S76114.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>organism</GBQualifier_name>
+            <GBQualifier_value>Hepatitis B virus</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>mol_type</GBQualifier_name>
+            <GBQualifier_value>genomic DNA</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>db_xref</GBQualifier_name>
+            <GBQualifier_value>taxon:10407</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+    </GBSeq_feature-table>
+    <GBSeq_sequence>ggatcctgcgcgggacgtcctttgtctacgtcccgtcggcgctgaatcccgcggacgacccgtctcggggccgtttgggactctaccgtccccttcttcatctgccgttccggccgaccacggggcgcacctctctttacgcggtctccccgtctgtgccttctcatctgccggaccgtgtgcacttcgcttcacctctgcacgtcgcatggagaccaccgtgaacgcccgccaggtcttgcccaaggtcttacataagaggactcttggactctcagcaatgtcaacgacgaccttgaggcatacttcaaagactgtgtgtttaaagactgggaggagttgggggaggagattaggttaaaggtctttgtactaggaggctgtaggctgtaggctatgttgaaatatgtttcttcttcttcctctttcccttccccttccccttccactcctcctccacttcctcctcctcctcctcctcccttctccctccctcctccctcctcctcctcctccttctaatcaaggggggcctggtnnggtggccaagccgggaagaaaagtaaaag</GBSeq_sequence>
+  </GBSeq>

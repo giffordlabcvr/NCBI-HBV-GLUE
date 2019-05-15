@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<GBSeq>
+
+    <GBSeq_locus>HW673134</GBSeq_locus>
+    <GBSeq_length>447</GBSeq_length>
+    <GBSeq_strandedness>double</GBSeq_strandedness>
+    <GBSeq_moltype>DNA</GBSeq_moltype>
+    <GBSeq_topology>linear</GBSeq_topology>
+    <GBSeq_division>PAT</GBSeq_division>
+    <GBSeq_update-date>24-FEB-2015</GBSeq_update-date>
+    <GBSeq_create-date>24-FEB-2015</GBSeq_create-date>
+    <GBSeq_definition>JP 2014212722-A/1: Crystal of hepatitis B virus core fusion protein corresponding to octahedral particles</GBSeq_definition>
+    <GBSeq_primary-accession>HW673134</GBSeq_primary-accession>
+    <GBSeq_accession-version>HW673134.1</GBSeq_accession-version>
+    <GBSeq_other-seqids>
+      <GBSeqid>dbj|HW673134.1|</GBSeqid>
+      <GBSeqid>pat|JP|2014212722|1</GBSeqid>
+      <GBSeqid>gi|930968470</GBSeqid>
+    </GBSeq_other-seqids>
+    <GBSeq_keywords>
+      <GBKeyword>JP 2014212722-A/1</GBKeyword>
+    </GBSeq_keywords>
+    <GBSeq_source>Hepatitis B virus</GBSeq_source>
+    <GBSeq_organism>Hepatitis B virus</GBSeq_organism>
+    <GBSeq_taxonomy>Viruses; Retro-transcribing viruses; Hepadnaviridae; Orthohepadnavirus</GBSeq_taxonomy>
+    <GBSeq_references>
+      <GBReference>
+        <GBReference_reference>1</GBReference_reference>
+        <GBReference_position>1..447</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Kikuchi,M.</GBAuthor>
+          <GBAuthor>Kikko,T.</GBAuthor>
+          <GBAuthor>Iwabuchi,S.</GBAuthor>
+          <GBAuthor>Matsumoto,O.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>Crystal of hepatitis B virus core fusion protein corresponding to octahedral particles</GBReference_title>
+        <GBReference_journal>JP2014212722-A 1 17-NOV-2014 Kake Educational Institution</GBReference_journal>
+      </GBReference>
+    </GBSeq_references>
+    <GBSeq_comment>OS Hepatitis B virus~PN JP 2014212722-A/1~PD 17-NOV-2014~PF 24-APR-2013 JP 2013091823~PR~PA Kake Educational Institution~PI masaki kikuchi,tatsuhiko kikko,shinichiro iwabuchi,osamu~PI matsumoto~PT 'Crystal of hepatitis B virus core fusion protein~PT corresponding to~PT octahedral particles'~PS N7~CC~FH Key Location/Qualifiers.</GBSeq_comment>
+    <GBSeq_feature-table>
+      <GBFeature>
+        <GBFeature_key>source</GBFeature_key>
+        <GBFeature_location>1..447</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>447</GBInterval_to>
+            <GBInterval_accession>HW673134.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>organism</GBQualifier_name>
+            <GBQualifier_value>Hepatitis B virus</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>mol_type</GBQualifier_name>
+            <GBQualifier_value>unassigned DNA</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>db_xref</GBQualifier_name>
+            <GBQualifier_value>taxon:10407</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+    </GBSeq_feature-table>
+    <GBSeq_sequence>atggatatcgatccttataaagaatttggagctactgtggagttactctcgtttttgccttctgacttctttccttccgtcagagatctcctagacaccgcctcagctctgtatcgagaagccttagagtctcctgagcattgctcacctcaccatactgcactcaggcaagccattctctgctggggggaattgatgactctagctacctgggtgggtaataatttggaagatccagcatccagggatctagtagtcaattatgttaatactaacatgggtttaaagatcaggcaactattgtggtttcatatatcttgccttacttttggaagagagactgtacttgaatatttggtctctttcggagtgtggattcgcactcctccagcctatagaccaccaaatgcccctatcttatcaacacttccggagactactgttgtt</GBSeq_sequence>
+  </GBSeq>

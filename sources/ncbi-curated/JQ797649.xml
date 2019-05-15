@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<GBSeq>
+
+    <GBSeq_locus>JQ797649</GBSeq_locus>
+    <GBSeq_length>689</GBSeq_length>
+    <GBSeq_strandedness>double</GBSeq_strandedness>
+    <GBSeq_moltype>DNA</GBSeq_moltype>
+    <GBSeq_topology>linear</GBSeq_topology>
+    <GBSeq_division>VRL</GBSeq_division>
+    <GBSeq_update-date>17-JAN-2013</GBSeq_update-date>
+    <GBSeq_create-date>12-JUN-2012</GBSeq_create-date>
+    <GBSeq_definition>Hepatitis B virus isolate S-3806-3 polymerase (Pol) gene, partial cds</GBSeq_definition>
+    <GBSeq_primary-accession>JQ797649</GBSeq_primary-accession>
+    <GBSeq_accession-version>JQ797649.1</GBSeq_accession-version>
+    <GBSeq_other-seqids>
+      <GBSeqid>gb|JQ797649.1|</GBSeqid>
+      <GBSeqid>gi|390190641</GBSeqid>
+    </GBSeq_other-seqids>
+    <GBSeq_source>Hepatitis B virus</GBSeq_source>
+    <GBSeq_organism>Hepatitis B virus</GBSeq_organism>
+    <GBSeq_taxonomy>Viruses; Retro-transcribing viruses; Hepadnaviridae; Orthohepadnavirus</GBSeq_taxonomy>
+    <GBSeq_references>
+      <GBReference>
+        <GBReference_reference>1</GBReference_reference>
+        <GBReference_position>1..689</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Lee,G.H.</GBAuthor>
+          <GBAuthor>Aung,M.O.</GBAuthor>
+          <GBAuthor>Dan,Y.Y.</GBAuthor>
+          <GBAuthor>Lee,Y.M.</GBAuthor>
+          <GBAuthor>Mak,B.</GBAuthor>
+          <GBAuthor>Low,H.C.</GBAuthor>
+          <GBAuthor>Lim,K.</GBAuthor>
+          <GBAuthor>Thwin,M.A.</GBAuthor>
+          <GBAuthor>Tan,P.S.</GBAuthor>
+          <GBAuthor>Lim,S.G.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>Do different lamivudine-resistant hepatitis B genotypes carry the same risk of entecavir resistance?</GBReference_title>
+        <GBReference_journal>J. Med. Virol. 85 (1), 26-33 (2013)</GBReference_journal>
+        <GBReference_xref>
+          <GBXref>
+            <GBXref_dbname>doi</GBXref_dbname>
+            <GBXref_id>10.1002/jmv.23392</GBXref_id>
+          </GBXref>
+        </GBReference_xref>
+        <GBReference_pubmed>23023992</GBReference_pubmed>
+      </GBReference>
+      <GBReference>
+        <GBReference_reference>2</GBReference_reference>
+        <GBReference_position>1..689</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Lee,G.H.</GBAuthor>
+          <GBAuthor>Aung,M.O.</GBAuthor>
+          <GBAuthor>Dan,Y.Y.</GBAuthor>
+          <GBAuthor>Lee,Y.M.</GBAuthor>
+          <GBAuthor>Mak,B.</GBAuthor>
+          <GBAuthor>Lim,S.G.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>Direct Submission</GBReference_title>
+        <GBReference_journal>Submitted (19-MAR-2012) Gastroenterology &amp; Hepatology, National University Health System, 1E Kent Ridge Road, Level 10, Singapore 119228, Singapore</GBReference_journal>
+      </GBReference>
+    </GBSeq_references>
+    <GBSeq_comment>##Assembly-Data-START## ; Assembly Method :: Seqman Pro v. 7.1.0 ; Sequencing Technology :: Sanger dideoxy sequencing ; ##Assembly-Data-END##</GBSeq_comment>
+    <GBSeq_feature-table>
+      <GBFeature>
+        <GBFeature_key>source</GBFeature_key>
+        <GBFeature_location>1..689</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>689</GBInterval_to>
+            <GBInterval_accession>JQ797649.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>organism</GBQualifier_name>
+            <GBQualifier_value>Hepatitis B virus</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>mol_type</GBQualifier_name>
+            <GBQualifier_value>genomic DNA</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>isolate</GBQualifier_name>
+            <GBQualifier_value>S-3806-3</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>host</GBQualifier_name>
+            <GBQualifier_value>Homo sapiens</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>db_xref</GBQualifier_name>
+            <GBQualifier_value>taxon:10407</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>country</GBQualifier_name>
+            <GBQualifier_value>Singapore</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>collection_date</GBQualifier_name>
+            <GBQualifier_value>21-Oct-2008</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>note</GBQualifier_name>
+            <GBQualifier_value>genotype: C</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>gene</GBFeature_key>
+        <GBFeature_location>&lt;1..&gt;689</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>689</GBInterval_to>
+            <GBInterval_accession>JQ797649.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_partial5 value="true"/>
+        <GBFeature_partial3 value="true"/>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>gene</GBQualifier_name>
+            <GBQualifier_value>Pol</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>CDS</GBFeature_key>
+        <GBFeature_location>&lt;1..&gt;689</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>689</GBInterval_to>
+            <GBInterval_accession>JQ797649.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_partial5 value="true"/>
+        <GBFeature_partial3 value="true"/>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>gene</GBQualifier_name>
+            <GBQualifier_value>Pol</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>note</GBQualifier_name>
+            <GBQualifier_value>contains entecavir resistant mutations</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>codon_start</GBQualifier_name>
+            <GBQualifier_value>3</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>transl_table</GBQualifier_name>
+            <GBQualifier_value>1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>product</GBQualifier_name>
+            <GBQualifier_value>polymerase</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>protein_id</GBQualifier_name>
+            <GBQualifier_value>AFL65819.1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>translation</GBQualifier_name>
+            <GBQualifier_value>STRVSWPKFAVPNLQSLTNLLSSNLSWLSLDVSAAFYHIPLHPAAMPHLLVGSCGLSRYVARLSSTSRNINHQHGAMQDLHDSCSRNLYVSLLLLYKTFGRKLHLYSHPIVLGFRKIPMGVGLSPFLMAQFLSAICSVVRRAFPHCLVFSYVDDVVLGAKSVQHLESLYTAITNFLLSLGIHLNPNKTKRWGYSLNFMGYVIGSWGTLPQEHIVQKIKQCFRKLPVNRP</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+    </GBSeq_feature-table>
+    <GBSeq_sequence>ggagcacccgcgtgtcctggccaaaattcgcagtccccaacctccaatcactcaccaacctcttgtcctccaacttgtcctggctatcgctggatgtgtctgcggcgttttatcatattcctcttcatcctgctgctatgcctcatcttcttgttggttcttgtggactatcaaggtatgttgcccgtttgtcctctacttccaggaacatcaaccaccagcacggggccatgcaagacctgcacgattcctgctcaaggaacctctatgtttccctcttgttgctgtacaaaaccttcggacggaaactgcacttgtattcccatcccatcgtcctgggctttcgcaaaattcctatgggagtgggcctcagtccgtttctcatggctcagtttcttagtgccatttgttcagtggttcgtagggctttcccccactgtttggttttcagttatgttgatgatgtggtattgggggccaaatctgtacaacatcttgagtccctttataccgctattaccaattttcttttatctttgggtatacatttaaaccctaataaaaccaaacgttggggctactcccttaacttcatgggatatgtaattggaagttggggtactttaccgcaggaacatattgtacaaaaaatcaagcaatgttttcgaaaattgcctgtaaatagacct</GBSeq_sequence>
+  </GBSeq>

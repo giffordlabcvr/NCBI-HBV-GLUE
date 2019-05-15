@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<GBSeq>
+
+    <GBSeq_locus>GN365745</GBSeq_locus>
+    <GBSeq_length>447</GBSeq_length>
+    <GBSeq_strandedness>double</GBSeq_strandedness>
+    <GBSeq_moltype>DNA</GBSeq_moltype>
+    <GBSeq_topology>linear</GBSeq_topology>
+    <GBSeq_division>PAT</GBSeq_division>
+    <GBSeq_update-date>12-MAY-2009</GBSeq_update-date>
+    <GBSeq_create-date>12-MAY-2009</GBSeq_create-date>
+    <GBSeq_definition>Sequence 156 from Patent EP2055312</GBSeq_definition>
+    <GBSeq_primary-accession>GN365745</GBSeq_primary-accession>
+    <GBSeq_accession-version>GN365745.1</GBSeq_accession-version>
+    <GBSeq_other-seqids>
+      <GBSeqid>emb|GN365745.1|</GBSeqid>
+      <GBSeqid>pat|EP|2055312|156</GBSeqid>
+      <GBSeqid>gi|236167078</GBSeqid>
+    </GBSeq_other-seqids>
+    <GBSeq_source>Hepatitis B virus</GBSeq_source>
+    <GBSeq_organism>Hepatitis B virus</GBSeq_organism>
+    <GBSeq_taxonomy>Viruses; Retro-transcribing viruses; Hepadnaviridae; Orthohepadnavirus</GBSeq_taxonomy>
+    <GBSeq_references>
+      <GBReference>
+        <GBReference_reference>1</GBReference_reference>
+        <GBReference_position>1..447</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Renner,W.</GBAuthor>
+          <GBAuthor>Bachmann,M.F.</GBAuthor>
+          <GBAuthor>Tissot,A.</GBAuthor>
+          <GBAuthor>Maurer,P.</GBAuthor>
+          <GBAuthor>Lechner,F.</GBAuthor>
+          <GBAuthor>Sebbel,P.</GBAuthor>
+          <GBAuthor>Piossek,C.</GBAuthor>
+          <GBAuthor>Ortmann,R.</GBAuthor>
+          <GBAuthor>Luond,R.</GBAuthor>
+          <GBAuthor>Staufenbiel,M.</GBAuthor>
+          <GBAuthor>Frey,P.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>Molecular antigen array presenting amyloid beta</GBReference_title>
+        <GBReference_journal>EP2055312-A1 156 06-MAY-2009 Cytos Biotechnology AG (CH); Novartis Pharma AG (CH)</GBReference_journal>
+      </GBReference>
+    </GBSeq_references>
+    <GBSeq_feature-table>
+      <GBFeature>
+        <GBFeature_key>source</GBFeature_key>
+        <GBFeature_location>1..447</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>447</GBInterval_to>
+            <GBInterval_accession>GN365745.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>organism</GBQualifier_name>
+            <GBQualifier_value>Hepatitis B virus</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>mol_type</GBQualifier_name>
+            <GBQualifier_value>unassigned DNA</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>db_xref</GBQualifier_name>
+            <GBQualifier_value>taxon:10407</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>CDS</GBFeature_key>
+        <GBFeature_location>1..&gt;447</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>447</GBInterval_to>
+            <GBInterval_accession>GN365745.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_partial3 value="true"/>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>note</GBQualifier_name>
+            <GBQualifier_value>unnamed protein product</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>codon_start</GBQualifier_name>
+            <GBQualifier_value>1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>transl_table</GBQualifier_name>
+            <GBQualifier_value>1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>protein_id</GBQualifier_name>
+            <GBQualifier_value>CAY77152.1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>translation</GBQualifier_name>
+            <GBQualifier_value>MDIDPYKEFGATVELLSFLPSDFFPSVRDLLDTAAALYRDALESPEHCSPHHTALRQAILCWGDLMTLATWVGTNLEDPASRDLVVSYVNTNVGLKFRQLLWFHISCLTFGRETVLEYLVSFGVWIRTPPAYRPPNAPILSTLPETTVV</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+    </GBSeq_feature-table>
+    <GBSeq_sequence>atggacattgacccttataaagaatttggagctactgtggagttactctcgtttttgccttctgacttctttccttccgtacgagatcttctagataccgccgcagctctgtatcgggatgccttagagtctcctgagcattgttcacctcaccatactgcactcaggcaagcaattctttgctggggagacttaatgactctagctacctgggtgggtactaatttagaagatccagcatctagggacctagtagtcagttatgtcaacactaatgtgggcctaaagttcagacaattattgtggtttcacatttcttgtctcacttttggaagagaaacggttctagagtatttggtctcttttggagtgtggattcgcactcctccagcctatagaccaccaaatgcccctatcctatcaacgcttccggagactactgttgtt</GBSeq_sequence>
+  </GBSeq>
