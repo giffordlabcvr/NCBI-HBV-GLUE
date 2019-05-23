@@ -16,8 +16,17 @@ project hbv
   # update collection year bounds
   module hbvCollectionBoundsPopulator populate -w "source.name = 'ncbi-curated'"
   
-  multi-set field sequence -a exclude_from_almt_tree false
-  multi-set field sequence -w "patent_related = true" exclude_from_almt_tree true
-  multi-set field sequence -w "gb_length < 200" exclude_from_almt_tree true
+  multi-set field sequence -w "source.name = 'ncbi-curated'" exclude_from_almt_tree false
+  multi-set field sequence -w "source.name = 'ncbi-curated' and patent_related = true" exclude_from_almt_tree true
+  multi-set field sequence -w "source.name = 'ncbi-curated' and gb_length < 200" exclude_from_almt_tree true
+  # some wierd stuff such as human genome with HBV in it, longer than 3800
+  multi-set field sequence -w "source.name = 'ncbi-curated' and gb_length > 3800" exclude_from_almt_tree true
+
+  # non-human  
+  multi-set field sequence -w "source.name = 'ncbi-curated' and host_species != null and host_species != 'Homo sapiens'" exclude_from_almt_tree true
+  
+  run script glue/ncbiHbvApplyGenotypeRecogniser.js
+  
+  run script glue/ncbiHbvApplyRotations.js
   
   exit
