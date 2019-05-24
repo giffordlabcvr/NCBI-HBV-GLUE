@@ -8,14 +8,32 @@ glue.inMode("module/hbvBlastSequenceRotator", function() {
 	rotationResultObjs = glue.tableToObjects(glue.command(["rotate", "sequence", "-w", whereClause]));
 }); 
 
+var processed = 0;
+
 _.each(rotationResultObjs, function(rotationResultObj) {
+	var rotationNts;
 	if(rotationResultObj.status == "NO_ROTATION_NECESSARY") {
-		// do nothing.
+		rotationNts = 0;
 	} else if(rotationResultObj.status == "ROTATION_NECESSARY") {
-		glue.inMode("sequence/"+rotationResultObj.querySequenceId, function() {
-			glue.command(["set", "field", "rotation", rotationResultObj.rotationNts]);
-		});
+		rotationNts = rotationResultObj.rotationNts;
 	} else {
-		throw new Error("Unexpected rotation status '"+rotationResultObj.status+"' for sequence "+rotationResultObj.querySequenceId);
+		rotationNts = null;
+	}
+	if(rotationNts != null) {
+		glue.inMode("sequence/"+rotationResultObj.querySequenceId, function() {
+			glue.command(["set", "field", "--noCommit", "rotation", rotationNts]);
+		});
+		// leave null if rotator could not resolve sequence.
+	}
+	processed++;
+
+	if(processed % 250 == 0) {
+		glue.command(["commit"]);
+		glue.command(["new-context"]);
+		glue.log("FINEST", "Updated "+processed+" of "+rotationResultObjs.length+" sequences");
 	}
 });
+
+glue.command(["commit"]);
+glue.command(["new-context"]);
+glue.log("FINEST", "Updated "+processed+" of "+rotationResultObjs.length+" sequences");

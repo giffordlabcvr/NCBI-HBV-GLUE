@@ -27,6 +27,14 @@ project hbv
   
   run script glue/ncbiHbvApplyGenotypeRecogniser.js
   
+  multi-set field sequence -w "source.name = 'ncbi-curated' and recogniser_genotypes = null" exclude_from_almt_tree true
+  
   run script glue/ncbiHbvApplyRotations.js
+
+  multi-set field sequence -w "source.name = 'ncbi-curated' and rotation = null" exclude_from_almt_tree true
+  
+  # some subgenomic sequences appear to be full length as they have long sections of Ns.
+  # this script computes the non-n length of each so that we can determine the true full-genome sequences.
+  run script glue/ncbiHbvComputeNonNLengths.js
   
   exit

@@ -3,7 +3,6 @@
 var processed = 0;
 
 var whereClause = "source.name = 'ncbi-curated'";
-//var whereClause = "source.name = 'ncbi-curated' and sequenceID like '%9%5%'";
 
 glue.command(["multi-unset", "field", "sequence", "-w", whereClause, "non_n_length"]);
 
