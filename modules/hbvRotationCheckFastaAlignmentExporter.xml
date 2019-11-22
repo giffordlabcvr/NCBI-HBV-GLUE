@@ -1,4 +1,0 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<fastaAlignmentExporter>
-    <idTemplate>${sequence.sequenceID}_rot_${sequence.rotation?c}_rev_&lt;#if sequence.reverse_complement??&gt;${sequence.reverse_complement?c}&lt;#else&gt;null&lt;/#if&gt;</idTemplate>
-</fastaAlignmentExporter>
