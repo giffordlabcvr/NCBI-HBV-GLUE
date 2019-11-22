@@ -1,1 +1,2 @@
 create module --fileName modules/ncbiHbvCuratedNcbiImporter.xml
+create module --fileName modules/ncbiHbvUpdateCuratedSequences.xml --loadResources

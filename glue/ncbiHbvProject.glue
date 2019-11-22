@@ -25,9 +25,9 @@ project hbv
   # non-human  
   multi-set field sequence -w "source.name = 'ncbi-curated' and host_species != null and host_species != 'Homo sapiens'" exclude_from_almt_tree true
   
-  run script glue/ncbiHbvApplyGenotypeRecogniser.js
+  run script glue/ncbiHbvApplySequenceRecogniser.js
   
-  multi-set field sequence -w "source.name = 'ncbi-curated' and recogniser_genotypes = null" exclude_from_almt_tree true
+  multi-set field sequence -w "source.name = 'ncbi-curated' and is_hbv = false" exclude_from_almt_tree true
   
   run script glue/ncbiHbvApplyRotations.js
 
@@ -36,5 +36,16 @@ project hbv
   # some subgenomic sequences appear to be full length as they have long sections of Ns.
   # this script computes the non-n length of each so that we can determine the true full-genome sequences.
   run script glue/ncbiHbvComputeNonNLengths.js
+  
+  # for each curated sequence, determine the genotype/subgenotype from the placement on 
+  # disk, set metadata accordingly, add to the appropriate alignment tree node, 
+  # then recompute the constrained alignment at that node.
+
+  module ncbiHbvUpdateCuratedSequences invoke-function genotypeCurated
+  
+  module hbvFeaturePresenceRecorder 
+    record feature-presence AL_MASTER --recursive --whereClause "sequence.source.name = 'ncbi-curated'" --featureName whole_genome --descendentFeatures
+    exit
+  
   
   exit
