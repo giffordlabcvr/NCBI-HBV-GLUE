@@ -1,0 +1,2478 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<detailedMaxLikelihoodPlacerResult>
+    <queryResults glueType="Object[]">
+        <queryName glueType="String">ncbi-curated/MG839212</queryName>
+        <singlePlacement glueType="Object[]">
+            <placementIndex glueType="Integer">1</placementIndex>
+            <edgeIndex glueType="Integer">71</edgeIndex>
+            <likeWeightRatio glueType="Double">0.999998</likeWeightRatio>
+            <logLikelihood glueType="Double">-24475.102304</logLikelihood>
+            <distalLength glueType="Double">0.008051</distalLength>
+            <pendantLength glueType="Double">0.006223</pendantLength>
+        </singlePlacement>
+    </queryResults>
+    <queryResults glueType="Object[]">
+        <queryName glueType="String">ncbi-curated/MG839213</queryName>
+        <singlePlacement glueType="Object[]">
+            <placementIndex glueType="Integer">1</placementIndex>
+            <edgeIndex glueType="Integer">59</edgeIndex>
+            <likeWeightRatio glueType="Double">0.995759</likeWeightRatio>
+            <logLikelihood glueType="Double">-24458.272839</logLikelihood>
+            <distalLength glueType="Double">0.022708</distalLength>
+            <pendantLength glueType="Double">1.0E-6</pendantLength>
+        </singlePlacement>
+    </queryResults>
+    <queryResults glueType="Object[]">
+        <queryName glueType="String">ncbi-curated/MG845879</queryName>
+        <singlePlacement glueType="Object[]">
+            <placementIndex glueType="Integer">1</placementIndex>
+            <edgeIndex glueType="Integer">46</edgeIndex>
+            <likeWeightRatio glueType="Double">0.981465</likeWeightRatio>
+            <logLikelihood glueType="Double">-24548.928158</logLikelihood>
+            <distalLength glueType="Double">0.008391</distalLength>
+            <pendantLength glueType="Double">0.041633</pendantLength>
+        </singlePlacement>
+    </queryResults>
+    <queryResults glueType="Object[]">
+        <queryName glueType="String">ncbi-curated/MG845880</queryName>
+        <singlePlacement glueType="Object[]">
+            <placementIndex glueType="Integer">1</placementIndex>
+            <edgeIndex glueType="Integer">75</edgeIndex>
+            <likeWeightRatio glueType="Double">0.895171</likeWeightRatio>
+            <logLikelihood glueType="Double">-24518.795826</logLikelihood>
+            <distalLength glueType="Double">0.009984</distalLength>
+            <pendantLength glueType="Double">0.024483</pendantLength>
+        </singlePlacement>
+        <singlePlacement glueType="Object[]">
+            <placementIndex glueType="Integer">2</placementIndex>
+            <edgeIndex glueType="Integer">76</edgeIndex>
+            <likeWeightRatio glueType="Double">0.052235</likeWeightRatio>
+            <logLikelihood glueType="Double">-24521.637087</logLikelihood>
+            <distalLength glueType="Double">0.006718</distalLength>
+            <pendantLength glueType="Double">0.026745</pendantLength>
+        </singlePlacement>
+        <singlePlacement glueType="Object[]">
+            <placementIndex glueType="Integer">3</placementIndex>
+            <edgeIndex glueType="Integer">74</edgeIndex>
+            <likeWeightRatio glueType="Double">0.052044</likeWeightRatio>
+            <logLikelihood glueType="Double">-24521.640753</logLikelihood>
+            <distalLength glueType="Double">1.0E-6</distalLength>
+            <pendantLength glueType="Double">0.026754</pendantLength>
+        </singlePlacement>
+    </queryResults>
+    <queryResults glueType="Object[]">
+        <queryName glueType="String">ncbi-curated/MG845881</queryName>
+        <singlePlacement glueType="Object[]">
+            <placementIndex glueType="Integer">1</placementIndex>
+            <edgeIndex glueType="Integer">75</edgeIndex>
+            <likeWeightRatio glueType="Double">0.704591</likeWeightRatio>
+            <logLikelihood glueType="Double">-24542.120907</logLikelihood>
+            <distalLength glueType="Double">0.007191</distalLength>
+            <pendantLength glueType="Double">0.037256</pendantLength>
+        </singlePlacement>
+        <singlePlacement glueType="Object[]">
+            <placementIndex glueType="Integer">2</placementIndex>
+            <edgeIndex glueType="Integer">74</edgeIndex>
+            <likeWeightRatio glueType="Double">0.156772</likeWeightRatio>
+            <logLikelihood glueType="Double">-24543.623731</logLikelihood>
+            <distalLength glueType="Double">0.002867</distalLength>
+            <pendantLength glueType="Double">0.036441</pendantLength>
+        </singlePlacement>
+        <singlePlacement glueType="Object[]">
+            <placementIndex glueType="Integer">3</placementIndex>
+            <edgeIndex glueType="Integer">76</edgeIndex>
+            <likeWeightRatio glueType="Double">0.099052</likeWeightRatio>
+            <logLikelihood glueType="Double">-24544.082878</logLikelihood>
+            <distalLength glueType="Double">0.00537</distalLength>
+            <pendantLength glueType="Double">0.038939</pendantLength>
+        </singlePlacement>
+        <singlePlacement glueType="Object[]">
+            <placementIndex glueType="Integer">4</placementIndex>
+            <edgeIndex glueType="Integer">73</edgeIndex>
+            <likeWeightRatio glueType="Double">0.016038</likeWeightRatio>
+            <logLikelihood glueType="Double">-24545.903585</logLikelihood>
+            <distalLength glueType="Double">1.0E-6</distalLength>
+            <pendantLength glueType="Double">0.042263</pendantLength>
+        </singlePlacement>
+        <singlePlacement glueType="Object[]">
+            <placementIndex glueType="Integer">5</placementIndex>
+            <edgeIndex glueType="Integer">77</edgeIndex>
+            <likeWeightRatio glueType="Double">0.015852</likeWeightRatio>
+            <logLikelihood glueType="Double">-24545.915223</logLikelihood>
+            <distalLength glueType="Double">0.005513</distalLength>
+            <pendantLength glueType="Double">0.042279</pendantLength>
+        </singlePlacement>
+    </queryResults>
+    <queryResults glueType="Object[]">
+        <queryName glueType="String">ncbi-curated/MG845882</queryName>
+        <singlePlacement glueType="Object[]">
+            <placementIndex glueType="Integer">1</placementIndex>
+            <edgeIndex glueType="Integer">46</edgeIndex>
+            <likeWeightRatio glueType="Double">0.571387</likeWeightRatio>
+            <logLikelihood glueType="Double">-24540.452246</logLikelihood>
+            <distalLength glueType="Double">0.003775</distalLength>
+            <pendantLength glueType="Double">0.032078</pendantLength>
+        </singlePlacement>
+        <singlePlacement glueType="Object[]">
+            <placementIndex glueType="Integer">2</placementIndex>
+            <edgeIndex glueType="Integer">47</edgeIndex>
+            <likeWeightRatio glueType="Double">0.318123</likeWeightRatio>
+            <logLikelihood glueType="Double">-24541.037876</logLikelihood>
+            <distalLength glueType="Double">0.008534</distalLength>
+            <pendantLength glueType="Double">0.03513</pendantLength>
+        </singlePlacement>
+        <singlePlacement glueType="Object[]">
+            <placementIndex glueType="Integer">3</placementIndex>
+            <edgeIndex glueType="Integer">48</edgeIndex>
+            <likeWeightRatio glueType="Double">0.0961</likeWeightRatio>
+            <logLikelihood glueType="Double">-24542.234923</logLikelihood>
+            <distalLength glueType="Double">0.011877</distalLength>
+            <pendantLength glueType="Double">0.034551</pendantLength>
+        </singlePlacement>
+    </queryResults>
+    <queryResults glueType="Object[]">
+        <queryName glueType="String">ncbi-curated/MG845883</queryName>
+        <singlePlacement glueType="Object[]">
+            <placementIndex glueType="Integer">1</placementIndex>
+            <edgeIndex glueType="Integer">46</edgeIndex>
+            <likeWeightRatio glueType="Double">0.956754</likeWeightRatio>
+            <logLikelihood glueType="Double">-24593.62924</logLikelihood>
+            <distalLength glueType="Double">0.009073</distalLength>
+            <pendantLength glueType="Double">0.071752</pendantLength>
+        </singlePlacement>
+        <singlePlacement glueType="Object[]">
+            <placementIndex glueType="Integer">2</placementIndex>
+            <edgeIndex glueType="Integer">47</edgeIndex>
+            <likeWeightRatio glueType="Double">0.013589</likeWeightRatio>
+            <logLikelihood glueType="Double">-24597.883502</logLikelihood>
+            <distalLength glueType="Double">1.0E-6</distalLength>
+            <pendantLength glueType="Double">0.077773</pendantLength>
+        </singlePlacement>
+        <singlePlacement glueType="Object[]">
+            <placementIndex glueType="Integer">3</placementIndex>
+            <edgeIndex glueType="Integer">48</edgeIndex>
+            <likeWeightRatio glueType="Double">0.013549</likeWeightRatio>
+            <logLikelihood glueType="Double">-24597.886463</logLikelihood>
+            <distalLength glueType="Double">0.011878</distalLength>
+            <pendantLength glueType="Double">0.077783</pendantLength>
+        </singlePlacement>
+    </queryResults>
+    <queryResults glueType="Object[]">
+        <queryName glueType="String">ncbi-curated/MG845884</queryName>
+        <singlePlacement glueType="Object[]">
+            <placementIndex glueType="Integer">1</placementIndex>
+            <edgeIndex glueType="Integer">79</edgeIndex>
+            <likeWeightRatio glueType="Double">0.343616</likeWeightRatio>
+            <logLikelihood glueType="Double">-24505.316958</logLikelihood>
+            <distalLength glueType="Double">0.028903</distalLength>
+            <pendantLength glueType="Double">0.048981</pendantLength>
+        </singlePlacement>
+        <singlePlacement glueType="Object[]">
+            <placementIndex glueType="Integer">2</placementIndex>
+            <edgeIndex glueType="Integer">78</edgeIndex>
+            <likeWeightRatio glueType="Double">0.313147</likeWeightRatio>
+            <logLikelihood glueType="Double">-24505.409808</logLikelihood>
+            <distalLength glueType="Double">2.0E-6</distalLength>
+            <pendantLength glueType="Double">0.049402</pendantLength>
+        </singlePlacement>
+        <singlePlacement glueType="Object[]">
+            <placementIndex glueType="Integer">3</placementIndex>
+            <edgeIndex glueType="Integer">80</edgeIndex>
+            <likeWeightRatio glueType="Double">0.313091</likeWeightRatio>
+            <logLikelihood glueType="Double">-24505.409989</logLikelihood>
+            <distalLength glueType="Double">0.023884</distalLength>
+            <pendantLength glueType="Double">0.049403</pendantLength>
+        </singlePlacement>
+        <singlePlacement glueType="Object[]">
+            <placementIndex glueType="Integer">4</placementIndex>
+            <edgeIndex glueType="Integer">77</edgeIndex>
+            <likeWeightRatio glueType="Double">0.019278</likeWeightRatio>
+            <logLikelihood glueType="Double">-24508.197531</logLikelihood>
+            <distalLength glueType="Double">1.0E-6</distalLength>
+            <pendantLength glueType="Double">0.055343</pendantLength>
+        </singlePlacement>
+        <singlePlacement glueType="Object[]">
+            <placementIndex glueType="Integer">5</placementIndex>
+            <edgeIndex glueType="Integer">65</edgeIndex>
+            <likeWeightRatio glueType="Double">0.009176</likeWeightRatio>
+            <logLikelihood glueType="Double">-24508.939869</logLikelihood>
+            <distalLength glueType="Double">1.0E-6</distalLength>
+            <pendantLength glueType="Double">0.052922</pendantLength>
+        </singlePlacement>
+    </queryResults>
+    <queryResults glueType="Object[]">
+        <queryName glueType="String">ncbi-curated/MG845885</queryName>
+        <singlePlacement glueType="Object[]">
+            <placementIndex glueType="Integer">1</placementIndex>
+            <edgeIndex glueType="Integer">80</edgeIndex>
+            <likeWeightRatio glueType="Double">0.24159</likeWeightRatio>
+            <logLikelihood glueType="Double">-24497.324783</logLikelihood>
+            <distalLength glueType="Double">0.021915</distalLength>
+            <pendantLength glueType="Double">0.044652</pendantLength>
+        </singlePlacement>
+        <singlePlacement glueType="Object[]">
+            <placementIndex glueType="Integer">2</placementIndex>
+            <edgeIndex glueType="Integer">79</edgeIndex>
+            <likeWeightRatio glueType="Double">0.238174</likeWeightRatio>
+            <logLikelihood glueType="Double">-24497.339025</logLikelihood>
+            <distalLength glueType="Double">0.025788</distalLength>
+            <pendantLength glueType="Double">0.045746</pendantLength>
+        </singlePlacement>
+        <singlePlacement glueType="Object[]">
+            <placementIndex glueType="Integer">3</placementIndex>
+            <edgeIndex glueType="Integer">78</edgeIndex>
+            <likeWeightRatio glueType="Double">0.227166</likeWeightRatio>
+            <logLikelihood glueType="Double">-24497.386345</logLikelihood>
+            <distalLength glueType="Double">0.015232</distalLength>
+            <pendantLength glueType="Double">0.04588</pendantLength>
+        </singlePlacement>
+        <singlePlacement glueType="Object[]">
+            <placementIndex glueType="Integer">4</placementIndex>
+            <edgeIndex glueType="Integer">77</edgeIndex>
+            <likeWeightRatio glueType="Double">0.223632</likeWeightRatio>
+            <logLikelihood glueType="Double">-24497.402022</logLikelihood>
+            <distalLength glueType="Double">1.0E-6</distalLength>
+            <pendantLength glueType="Double">0.046499</pendantLength>
+        </singlePlacement>
+        <singlePlacement glueType="Object[]">
+            <placementIndex glueType="Integer">5</placementIndex>
+            <edgeIndex glueType="Integer">65</edgeIndex>
+            <likeWeightRatio glueType="Double">0.051717</likeWeightRatio>
+            <logLikelihood glueType="Double">-24498.866237</logLikelihood>
+            <distalLength glueType="Double">0.005368</distalLength>
+            <pendantLength glueType="Double">0.041489</pendantLength>
+        </singlePlacement>
+        <singlePlacement glueType="Object[]">
+            <placementIndex glueType="Integer">6</placementIndex>
+            <edgeIndex glueType="Integer">73</edgeIndex>
+            <likeWeightRatio glueType="Double">0.006137</likeWeightRatio>
+            <logLikelihood glueType="Double">-24500.997733</logLikelihood>
+            <distalLength glueType="Double">5.27E-4</distalLength>
+            <pendantLength glueType="Double">0.052459</pendantLength>
+        </singlePlacement>
+        <singlePlacement glueType="Object[]">
+            <placementIndex glueType="Integer">7</placementIndex>
+            <edgeIndex glueType="Integer">76</edgeIndex>
+            <likeWeightRatio glueType="Double">0.006086</likeWeightRatio>
+            <logLikelihood glueType="Double">-24501.006102</logLikelihood>
+            <distalLength glueType="Double">0.001306</distalLength>
+            <pendantLength glueType="Double">0.052524</pendantLength>
+        </singlePlacement>
+    </queryResults>
+    <queryResults glueType="Object[]">
+        <queryName glueType="String">ncbi-curated/MG845886</queryName>
+        <singlePlacement glueType="Object[]">
+            <placementIndex glueType="Integer">1</placementIndex>
+            <edgeIndex glueType="Integer">79</edgeIndex>
+            <likeWeightRatio glueType="Double">0.238744</likeWeightRatio>
+            <logLikelihood glueType="Double">-24518.536951</logLikelihood>
+            <distalLength glueType="Double">0.026616</distalLength>
+            <pendantLength glueType="Double">0.075478</pendantLength>
+        </singlePlacement>
+        <singlePlacement glueType="Object[]">
+            <placementIndex glueType="Integer">2</placementIndex>
+            <edgeIndex glueType="Integer">80</edgeIndex>
+            <likeWeightRatio glueType="Double">0.236834</likeWeightRatio>
+            <logLikelihood glueType="Double">-24518.544986</logLikelihood>
+            <distalLength glueType="Double">0.023884</distalLength>
+            <pendantLength glueType="Double">0.075512</pendantLength>
+        </singlePlacement>
+        <singlePlacement glueType="Object[]">
+            <placementIndex glueType="Integer">3</placementIndex>
+            <edgeIndex glueType="Integer">77</edgeIndex>
+            <likeWeightRatio glueType="Double">0.229761</likeWeightRatio>
+            <logLikelihood glueType="Double">-24518.575302</logLikelihood>
+            <distalLength glueType="Double">1.0E-6</distalLength>
+            <pendantLength glueType="Double">0.076021</pendantLength>
+        </singlePlacement>
+        <singlePlacement glueType="Object[]">
+            <placementIndex glueType="Integer">4</placementIndex>
+            <edgeIndex glueType="Integer">78</edgeIndex>
+            <likeWeightRatio glueType="Double">0.227246</likeWeightRatio>
+            <logLikelihood glueType="Double">-24518.586311</logLikelihood>
+            <distalLength glueType="Double">0.016179</distalLength>
+            <pendantLength glueType="Double">0.075629</pendantLength>
+        </singlePlacement>
+        <singlePlacement glueType="Object[]">
+            <placementIndex glueType="Integer">5</placementIndex>
+            <edgeIndex glueType="Integer">65</edgeIndex>
+            <likeWeightRatio glueType="Double">0.040538</likeWeightRatio>
+            <logLikelihood glueType="Double">-24520.310108</logLikelihood>
+            <distalLength glueType="Double">0.005461</distalLength>
+            <pendantLength glueType="Double">0.073237</pendantLength>
+        </singlePlacement>
+        <singlePlacement glueType="Object[]">
+            <placementIndex glueType="Integer">6</placementIndex>
+            <edgeIndex glueType="Integer">76</edgeIndex>
+            <likeWeightRatio glueType="Double">0.009138</likeWeightRatio>
+            <logLikelihood glueType="Double">-24521.799913</logLikelihood>
+            <distalLength glueType="Double">0.002065</distalLength>
+            <pendantLength glueType="Double">0.082693</pendantLength>
+        </singlePlacement>
+        <singlePlacement glueType="Object[]">
+            <placementIndex glueType="Integer">7</placementIndex>
+            <edgeIndex glueType="Integer">73</edgeIndex>
+            <likeWeightRatio glueType="Double">0.009125</likeWeightRatio>
+            <logLikelihood glueType="Double">-24521.801345</logLikelihood>
+            <distalLength glueType="Double">0.001364</distalLength>
+            <pendantLength glueType="Double">0.082666</pendantLength>
+        </singlePlacement>
+    </queryResults>
+    <queryResults glueType="Object[]">
+        <queryName glueType="String">ncbi-curated/MG893553</queryName>
+        <singlePlacement glueType="Object[]">
+            <placementIndex glueType="Integer">1</placementIndex>
+            <edgeIndex glueType="Integer">20</edgeIndex>
+            <likeWeightRatio glueType="Double">1.0</likeWeightRatio>
+            <logLikelihood glueType="Double">-24627.211022</logLikelihood>
+            <distalLength glueType="Double">0.005129</distalLength>
+            <pendantLength glueType="Double">0.008959</pendantLength>
+        </singlePlacement>
+    </queryResults>
+    <queryResults glueType="Object[]">
+        <queryName glueType="String">ncbi-curated/MG893554</queryName>
+        <singlePlacement glueType="Object[]">
+            <placementIndex glueType="Integer">1</placementIndex>
+            <edgeIndex glueType="Integer">20</edgeIndex>
+            <likeWeightRatio glueType="Double">0.468697</likeWeightRatio>
+            <logLikelihood glueType="Double">-24667.918601</logLikelihood>
+            <distalLength glueType="Double">3.17E-4</distalLength>
+            <pendantLength glueType="Double">0.014016</pendantLength>
+        </singlePlacement>
+        <singlePlacement glueType="Object[]">
+            <placementIndex glueType="Integer">2</placementIndex>
+            <edgeIndex glueType="Integer">19</edgeIndex>
+            <likeWeightRatio glueType="Double">0.265171</likeWeightRatio>
+            <logLikelihood glueType="Double">-24668.488182</logLikelihood>
+            <distalLength glueType="Double">1.0E-6</distalLength>
+            <pendantLength glueType="Double">0.0143</pendantLength>
+        </singlePlacement>
+        <singlePlacement glueType="Object[]">
+            <placementIndex glueType="Integer">3</placementIndex>
+            <edgeIndex glueType="Integer">21</edgeIndex>
+            <likeWeightRatio glueType="Double">0.264956</likeWeightRatio>
+            <logLikelihood glueType="Double">-24668.488993</logLikelihood>
+            <distalLength glueType="Double">0.003429</distalLength>
+            <pendantLength glueType="Double">0.014299</pendantLength>
+        </singlePlacement>
+    </queryResults>
+    <queryResults glueType="Object[]">
+        <queryName glueType="String">ncbi-curated/MG893555</queryName>
+        <singlePlacement glueType="Object[]">
+            <placementIndex glueType="Integer">1</placementIndex>
+            <edgeIndex glueType="Integer">20</edgeIndex>
+            <likeWeightRatio glueType="Double">0.46859</likeWeightRatio>
+            <logLikelihood glueType="Double">-24667.514987</logLikelihood>
+            <distalLength glueType="Double">3.17E-4</distalLength>
+            <pendantLength glueType="Double">0.014028</pendantLength>
+        </singlePlacement>
+        <singlePlacement glueType="Object[]">
+            <placementIndex glueType="Integer">2</placementIndex>
+            <edgeIndex glueType="Integer">19</edgeIndex>
+            <likeWeightRatio glueType="Double">0.265226</likeWeightRatio>
+            <logLikelihood glueType="Double">-24668.084132</logLikelihood>
+            <distalLength glueType="Double">1.0E-6</distalLength>
+            <pendantLength glueType="Double">0.014312</pendantLength>
+        </singlePlacement>
+        <singlePlacement glueType="Object[]">
+            <placementIndex glueType="Integer">3</placementIndex>
+            <edgeIndex glueType="Integer">21</edgeIndex>
+            <likeWeightRatio glueType="Double">0.265007</likeWeightRatio>
+            <logLikelihood glueType="Double">-24668.084956</logLikelihood>
+            <distalLength glueType="Double">0.003429</distalLength>
+            <pendantLength glueType="Double">0.014311</pendantLength>
+        </singlePlacement>
+    </queryResults>
+    <queryResults glueType="Object[]">
+        <queryName glueType="String">ncbi-curated/MG893556</queryName>
+        <singlePlacement glueType="Object[]">
+            <placementIndex glueType="Integer">1</placementIndex>
+            <edgeIndex glueType="Integer">17</edgeIndex>
+            <likeWeightRatio glueType="Double">0.924121</likeWeightRatio>
+            <logLikelihood glueType="Double">-24667.518411</logLikelihood>
+            <distalLength glueType="Double">0.001884</distalLength>
+            <pendantLength glueType="Double">0.013303</pendantLength>
+        </singlePlacement>
+        <singlePlacement glueType="Object[]">
+            <placementIndex glueType="Integer">2</placementIndex>
+            <edgeIndex glueType="Integer">19</edgeIndex>
+            <likeWeightRatio glueType="Double">0.038711</likeWeightRatio>
+            <logLikelihood glueType="Double">-24670.691142</logLikelihood>
+            <distalLength glueType="Double">4.13E-4</distalLength>
+            <pendantLength glueType="Double">0.014445</pendantLength>
+        </singlePlacement>
+        <singlePlacement glueType="Object[]">
+            <placementIndex glueType="Integer">3</placementIndex>
+            <edgeIndex glueType="Integer">21</edgeIndex>
+            <likeWeightRatio glueType="Double">0.016548</likeWeightRatio>
+            <logLikelihood glueType="Double">-24671.540987</logLikelihood>
+            <distalLength glueType="Double">0.003429</distalLength>
+            <pendantLength glueType="Double">0.014584</pendantLength>
+        </singlePlacement>
+        <singlePlacement glueType="Object[]">
+            <placementIndex glueType="Integer">4</placementIndex>
+            <edgeIndex glueType="Integer">20</edgeIndex>
+            <likeWeightRatio glueType="Double">0.014825</likeWeightRatio>
+            <logLikelihood glueType="Double">-24671.650961</logLikelihood>
+            <distalLength glueType="Double">1.0E-6</distalLength>
+            <pendantLength glueType="Double">0.014616</pendantLength>
+        </singlePlacement>
+    </queryResults>
+    <queryResults glueType="Object[]">
+        <queryName glueType="String">ncbi-curated/MG893557</queryName>
+        <singlePlacement glueType="Object[]">
+            <placementIndex glueType="Integer">1</placementIndex>
+            <edgeIndex glueType="Integer">17</edgeIndex>
+            <likeWeightRatio glueType="Double">1.0</likeWeightRatio>
+            <logLikelihood glueType="Double">-24592.339147</logLikelihood>
+            <distalLength glueType="Double">0.004505</distalLength>
+            <pendantLength glueType="Double">0.007202</pendantLength>
+        </singlePlacement>
+    </queryResults>
+    <queryResults glueType="Object[]">
+        <queryName glueType="String">ncbi-curated/MG893558</queryName>
+        <singlePlacement glueType="Object[]">
+            <placementIndex glueType="Integer">1</placementIndex>
+            <edgeIndex glueType="Integer">20</edgeIndex>
+            <likeWeightRatio glueType="Double">1.0</likeWeightRatio>
+            <logLikelihood glueType="Double">-24684.543912</logLikelihood>
+            <distalLength glueType="Double">0.004735</distalLength>
+            <pendantLength glueType="Double">0.012495</pendantLength>
+        </singlePlacement>
+    </queryResults>
+    <queryResults glueType="Object[]">
+        <queryName glueType="String">ncbi-curated/MG893559</queryName>
+        <singlePlacement glueType="Object[]">
+            <placementIndex glueType="Integer">1</placementIndex>
+            <edgeIndex glueType="Integer">17</edgeIndex>
+            <likeWeightRatio glueType="Double">0.934543</likeWeightRatio>
+            <logLikelihood glueType="Double">-24646.330281</logLikelihood>
+            <distalLength glueType="Double">0.00146</distalLength>
+            <pendantLength glueType="Double">0.012175</pendantLength>
+        </singlePlacement>
+        <singlePlacement glueType="Object[]">
+            <placementIndex glueType="Integer">2</placementIndex>
+            <edgeIndex glueType="Integer">20</edgeIndex>
+            <likeWeightRatio glueType="Double">0.02537</likeWeightRatio>
+            <logLikelihood glueType="Double">-24649.936779</logLikelihood>
+            <distalLength glueType="Double">0.001573</distalLength>
+            <pendantLength glueType="Double">0.011918</pendantLength>
+        </singlePlacement>
+        <singlePlacement glueType="Object[]">
+            <placementIndex glueType="Integer">3</placementIndex>
+            <edgeIndex glueType="Integer">19</edgeIndex>
+            <likeWeightRatio glueType="Double">0.021084</likeWeightRatio>
+            <logLikelihood glueType="Double">-24650.121819</logLikelihood>
+            <distalLength glueType="Double">7.79E-4</distalLength>
+            <pendantLength glueType="Double">0.012864</pendantLength>
+        </singlePlacement>
+        <singlePlacement glueType="Object[]">
+            <placementIndex glueType="Integer">4</placementIndex>
+            <edgeIndex glueType="Integer">18</edgeIndex>
+            <likeWeightRatio glueType="Double">0.018465</likeWeightRatio>
+            <logLikelihood glueType="Double">-24650.254466</logLikelihood>
+            <distalLength glueType="Double">1.0E-6</distalLength>
+            <pendantLength glueType="Double">0.012879</pendantLength>
+        </singlePlacement>
+    </queryResults>
+    <queryResults glueType="Object[]">
+        <queryName glueType="String">ncbi-curated/MG893560</queryName>
+        <singlePlacement glueType="Object[]">
+            <placementIndex glueType="Integer">1</placementIndex>
+            <edgeIndex glueType="Integer">20</edgeIndex>
+            <likeWeightRatio glueType="Double">0.999975</likeWeightRatio>
+            <logLikelihood glueType="Double">-24663.705919</logLikelihood>
+            <distalLength glueType="Double">0.002739</distalLength>
+            <pendantLength glueType="Double">0.011781</pendantLength>
+        </singlePlacement>
+    </queryResults>
+    <queryResults glueType="Object[]">
+        <queryName glueType="String">ncbi-curated/MG893561</queryName>
+        <singlePlacement glueType="Object[]">
+            <placementIndex glueType="Integer">1</placementIndex>
+            <edgeIndex glueType="Integer">20</edgeIndex>
+            <likeWeightRatio glueType="Double">1.0</likeWeightRatio>
+            <logLikelihood glueType="Double">-24652.540721</logLikelihood>
+            <distalLength glueType="Double">0.00503</distalLength>
+            <pendantLength glueType="Double">0.010668</pendantLength>
+        </singlePlacement>
+    </queryResults>
+    <queryResults glueType="Object[]">
+        <queryName glueType="String">ncbi-curated/MG940897</queryName>
+        <singlePlacement glueType="Object[]">
+            <placementIndex glueType="Integer">1</placementIndex>
+            <edgeIndex glueType="Integer">71</edgeIndex>
+            <likeWeightRatio glueType="Double">0.235152</likeWeightRatio>
+            <logLikelihood glueType="Double">-24863.440117</logLikelihood>
+            <distalLength glueType="Double">1.0E-6</distalLength>
+            <pendantLength glueType="Double">0.876031</pendantLength>
+        </singlePlacement>
+        <singlePlacement glueType="Object[]">
+            <placementIndex glueType="Integer">2</placementIndex>
+            <edgeIndex glueType="Integer">72</edgeIndex>
+            <likeWeightRatio glueType="Double">0.235069</likeWeightRatio>
+            <logLikelihood glueType="Double">-24863.440471</logLikelihood>
+            <distalLength glueType="Double">0.005282</distalLength>
+            <pendantLength glueType="Double">0.876015</pendantLength>
+        </singlePlacement>
+        <singlePlacement glueType="Object[]">
+            <placementIndex glueType="Integer">3</placementIndex>
+            <edgeIndex glueType="Integer">70</edgeIndex>
+            <likeWeightRatio glueType="Double">0.23506</likeWeightRatio>
+            <logLikelihood glueType="Double">-24863.440511</logLikelihood>
+            <distalLength glueType="Double">1.0E-6</distalLength>
+            <pendantLength glueType="Double">0.876007</pendantLength>
+        </singlePlacement>
+        <singlePlacement glueType="Object[]">
+            <placementIndex glueType="Integer">4</placementIndex>
+            <edgeIndex glueType="Integer">68</edgeIndex>
+            <likeWeightRatio glueType="Double">0.088339</likeWeightRatio>
+            <logLikelihood glueType="Double">-24864.419165</logLikelihood>
+            <distalLength glueType="Double">0.001434</distalLength>
+            <pendantLength glueType="Double">0.906789</pendantLength>
+        </singlePlacement>
+        <singlePlacement glueType="Object[]">
+            <placementIndex glueType="Integer">5</placementIndex>
+            <edgeIndex glueType="Integer">69</edgeIndex>
+            <likeWeightRatio glueType="Double">0.087702</likeWeightRatio>
+            <logLikelihood glueType="Double">-24864.426402</logLikelihood>
+            <distalLength glueType="Double">0.001904</distalLength>
+            <pendantLength glueType="Double">0.907751</pendantLength>
+        </singlePlacement>
+        <singlePlacement glueType="Object[]">
+            <placementIndex glueType="Integer">6</placementIndex>
+            <edgeIndex glueType="Integer">73</edgeIndex>
+            <likeWeightRatio glueType="Double">0.040402</likeWeightRatio>
+            <logLikelihood glueType="Double">-24865.201468</logLikelihood>
+            <distalLength glueType="Double">0.003808</distalLength>
+            <pendantLength glueType="Double">0.940165</pendantLength>
+        </singlePlacement>
+        <singlePlacement glueType="Object[]">
+            <placementIndex glueType="Integer">7</placementIndex>
+            <edgeIndex glueType="Integer">76</edgeIndex>
+            <likeWeightRatio glueType="Double">0.039903</likeWeightRatio>
+            <logLikelihood glueType="Double">-24865.213898</logLikelihood>
+            <distalLength glueType="Double">8.0E-6</distalLength>
+            <pendantLength glueType="Double">0.941118</pendantLength>
+        </singlePlacement>
+    </queryResults>
+    <queryResults glueType="Object[]">
+        <queryName glueType="String">ncbi-curated/MG940898</queryName>
+        <singlePlacement glueType="Object[]">
+            <placementIndex glueType="Integer">1</placementIndex>
+            <edgeIndex glueType="Integer">68</edgeIndex>
+            <likeWeightRatio glueType="Double">0.149361</likeWeightRatio>
+            <logLikelihood glueType="Double">-24726.217899</logLikelihood>
+            <distalLength glueType="Double">0.003604</distalLength>
+            <pendantLength glueType="Double">0.992556</pendantLength>
+        </singlePlacement>
+        <singlePlacement glueType="Object[]">
+            <placementIndex glueType="Integer">2</placementIndex>
+            <edgeIndex glueType="Integer">69</edgeIndex>
+            <likeWeightRatio glueType="Double">0.137484</likeWeightRatio>
+            <logLikelihood glueType="Double">-24726.300752</logLikelihood>
+            <distalLength glueType="Double">0.00278</distalLength>
+            <pendantLength glueType="Double">1.009896</pendantLength>
+        </singlePlacement>
+        <singlePlacement glueType="Object[]">
+            <placementIndex glueType="Integer">3</placementIndex>
+            <edgeIndex glueType="Integer">70</edgeIndex>
+            <likeWeightRatio glueType="Double">0.135374</likeWeightRatio>
+            <logLikelihood glueType="Double">-24726.31622</logLikelihood>
+            <distalLength glueType="Double">0.001585</distalLength>
+            <pendantLength glueType="Double">1.010837</pendantLength>
+        </singlePlacement>
+        <singlePlacement glueType="Object[]">
+            <placementIndex glueType="Integer">4</placementIndex>
+            <edgeIndex glueType="Integer">72</edgeIndex>
+            <likeWeightRatio glueType="Double">0.135218</likeWeightRatio>
+            <logLikelihood glueType="Double">-24726.317378</logLikelihood>
+            <distalLength glueType="Double">0.005282</distalLength>
+            <pendantLength glueType="Double">1.011086</pendantLength>
+        </singlePlacement>
+        <singlePlacement glueType="Object[]">
+            <placementIndex glueType="Integer">5</placementIndex>
+            <edgeIndex glueType="Integer">71</edgeIndex>
+            <likeWeightRatio glueType="Double">0.130953</likeWeightRatio>
+            <logLikelihood glueType="Double">-24726.349423</logLikelihood>
+            <distalLength glueType="Double">0.003357</distalLength>
+            <pendantLength glueType="Double">1.017138</pendantLength>
+        </singlePlacement>
+        <singlePlacement glueType="Object[]">
+            <placementIndex glueType="Integer">6</placementIndex>
+            <edgeIndex glueType="Integer">67</edgeIndex>
+            <likeWeightRatio glueType="Double">0.104125</likeWeightRatio>
+            <logLikelihood glueType="Double">-24726.578666</logLikelihood>
+            <distalLength glueType="Double">0.008402</distalLength>
+            <pendantLength glueType="Double">1.045352</pendantLength>
+        </singlePlacement>
+        <singlePlacement glueType="Object[]">
+            <placementIndex glueType="Integer">7</placementIndex>
+            <edgeIndex glueType="Integer">73</edgeIndex>
+            <likeWeightRatio glueType="Double">0.103992</likeWeightRatio>
+            <logLikelihood glueType="Double">-24726.579949</logLikelihood>
+            <distalLength glueType="Double">0.003401</distalLength>
+            <pendantLength glueType="Double">1.045354</pendantLength>
+        </singlePlacement>
+    </queryResults>
+    <queryResults glueType="Object[]">
+        <queryName glueType="String">ncbi-curated/MG940899</queryName>
+        <singlePlacement glueType="Object[]">
+            <placementIndex glueType="Integer">1</placementIndex>
+            <edgeIndex glueType="Integer">69</edgeIndex>
+            <likeWeightRatio glueType="Double">0.206494</likeWeightRatio>
+            <logLikelihood glueType="Double">-24718.826157</logLikelihood>
+            <distalLength glueType="Double">0.003065</distalLength>
+            <pendantLength glueType="Double">0.285635</pendantLength>
+        </singlePlacement>
+        <singlePlacement glueType="Object[]">
+            <placementIndex glueType="Integer">2</placementIndex>
+            <edgeIndex glueType="Integer">68</edgeIndex>
+            <likeWeightRatio glueType="Double">0.196861</likeWeightRatio>
+            <logLikelihood glueType="Double">-24718.873932</logLikelihood>
+            <distalLength glueType="Double">1.0E-6</distalLength>
+            <pendantLength glueType="Double">0.289051</pendantLength>
+        </singlePlacement>
+        <singlePlacement glueType="Object[]">
+            <placementIndex glueType="Integer">3</placementIndex>
+            <edgeIndex glueType="Integer">70</edgeIndex>
+            <likeWeightRatio glueType="Double">0.195838</likeWeightRatio>
+            <logLikelihood glueType="Double">-24718.879141</logLikelihood>
+            <distalLength glueType="Double">0.001586</distalLength>
+            <pendantLength glueType="Double">0.289102</pendantLength>
+        </singlePlacement>
+        <singlePlacement glueType="Object[]">
+            <placementIndex glueType="Integer">4</placementIndex>
+            <edgeIndex glueType="Integer">71</edgeIndex>
+            <likeWeightRatio glueType="Double">0.194849</likeWeightRatio>
+            <logLikelihood glueType="Double">-24718.884202</logLikelihood>
+            <distalLength glueType="Double">1.0E-6</distalLength>
+            <pendantLength glueType="Double">0.289156</pendantLength>
+        </singlePlacement>
+        <singlePlacement glueType="Object[]">
+            <placementIndex glueType="Integer">5</placementIndex>
+            <edgeIndex glueType="Integer">72</edgeIndex>
+            <likeWeightRatio glueType="Double">0.194773</likeWeightRatio>
+            <logLikelihood glueType="Double">-24718.884594</logLikelihood>
+            <distalLength glueType="Double">0.005282</distalLength>
+            <pendantLength glueType="Double">0.289166</pendantLength>
+        </singlePlacement>
+        <singlePlacement glueType="Object[]">
+            <placementIndex glueType="Integer">6</placementIndex>
+            <edgeIndex glueType="Integer">73</edgeIndex>
+            <likeWeightRatio glueType="Double">0.003857</likeWeightRatio>
+            <logLikelihood glueType="Double">-24722.806658</logLikelihood>
+            <distalLength glueType="Double">0.00506</distalLength>
+            <pendantLength glueType="Double">0.323116</pendantLength>
+        </singlePlacement>
+        <singlePlacement glueType="Object[]">
+            <placementIndex glueType="Integer">7</placementIndex>
+            <edgeIndex glueType="Integer">67</edgeIndex>
+            <likeWeightRatio glueType="Double">0.00377</likeWeightRatio>
+            <logLikelihood glueType="Double">-24722.829371</logLikelihood>
+            <distalLength glueType="Double">0.007092</distalLength>
+            <pendantLength glueType="Double">0.323539</pendantLength>
+        </singlePlacement>
+    </queryResults>
+    <queryResults glueType="Object[]">
+        <queryName glueType="String">ncbi-curated/MG940900</queryName>
+        <singlePlacement glueType="Object[]">
+            <placementIndex glueType="Integer">1</placementIndex>
+            <edgeIndex glueType="Integer">68</edgeIndex>
+            <likeWeightRatio glueType="Double">0.354476</likeWeightRatio>
+            <logLikelihood glueType="Double">-24704.81814</logLikelihood>
+            <distalLength glueType="Double">0.003604</distalLength>
+            <pendantLength glueType="Double">0.246649</pendantLength>
+        </singlePlacement>
+        <singlePlacement glueType="Object[]">
+            <placementIndex glueType="Integer">2</placementIndex>
+            <edgeIndex glueType="Integer">69</edgeIndex>
+            <likeWeightRatio glueType="Double">0.17291</likeWeightRatio>
+            <logLikelihood glueType="Double">-24705.536012</logLikelihood>
+            <distalLength glueType="Double">0.003093</distalLength>
+            <pendantLength glueType="Double">0.252726</pendantLength>
+        </singlePlacement>
+        <singlePlacement glueType="Object[]">
+            <placementIndex glueType="Integer">3</placementIndex>
+            <edgeIndex glueType="Integer">70</edgeIndex>
+            <likeWeightRatio glueType="Double">0.157376</likeWeightRatio>
+            <logLikelihood glueType="Double">-24705.630145</logLikelihood>
+            <distalLength glueType="Double">0.00197</distalLength>
+            <pendantLength glueType="Double">0.254641</pendantLength>
+        </singlePlacement>
+        <singlePlacement glueType="Object[]">
+            <placementIndex glueType="Integer">4</placementIndex>
+            <edgeIndex glueType="Integer">71</edgeIndex>
+            <likeWeightRatio glueType="Double">0.154405</likeWeightRatio>
+            <logLikelihood glueType="Double">-24705.6492</logLikelihood>
+            <distalLength glueType="Double">1.0E-6</distalLength>
+            <pendantLength glueType="Double">0.254864</pendantLength>
+        </singlePlacement>
+        <singlePlacement glueType="Object[]">
+            <placementIndex glueType="Integer">5</placementIndex>
+            <edgeIndex glueType="Integer">72</edgeIndex>
+            <likeWeightRatio glueType="Double">0.154368</likeWeightRatio>
+            <logLikelihood glueType="Double">-24705.649442</logLikelihood>
+            <distalLength glueType="Double">0.005282</distalLength>
+            <pendantLength glueType="Double">0.254866</pendantLength>
+        </singlePlacement>
+    </queryResults>
+    <queryResults glueType="Object[]">
+        <queryName glueType="String">ncbi-curated/MG940901</queryName>
+        <singlePlacement glueType="Object[]">
+            <placementIndex glueType="Integer">1</placementIndex>
+            <edgeIndex glueType="Integer">70</edgeIndex>
+            <likeWeightRatio glueType="Double">0.331157</likeWeightRatio>
+            <logLikelihood glueType="Double">-24687.970127</logLikelihood>
+            <distalLength glueType="Double">1.0E-6</distalLength>
+            <pendantLength glueType="Double">0.197216</pendantLength>
+        </singlePlacement>
+        <singlePlacement glueType="Object[]">
+            <placementIndex glueType="Integer">2</placementIndex>
+            <edgeIndex glueType="Integer">71</edgeIndex>
+            <likeWeightRatio glueType="Double">0.331147</likeWeightRatio>
+            <logLikelihood glueType="Double">-24687.970154</logLikelihood>
+            <distalLength glueType="Double">1.0E-6</distalLength>
+            <pendantLength glueType="Double">0.197231</pendantLength>
+        </singlePlacement>
+        <singlePlacement glueType="Object[]">
+            <placementIndex glueType="Integer">3</placementIndex>
+            <edgeIndex glueType="Integer">72</edgeIndex>
+            <likeWeightRatio glueType="Double">0.331063</likeWeightRatio>
+            <logLikelihood glueType="Double">-24687.97041</logLikelihood>
+            <distalLength glueType="Double">0.005282</distalLength>
+            <pendantLength glueType="Double">0.197231</pendantLength>
+        </singlePlacement>
+    </queryResults>
+    <queryResults glueType="Object[]">
+        <queryName glueType="String">ncbi-curated/MG940902</queryName>
+        <singlePlacement glueType="Object[]">
+            <placementIndex glueType="Integer">1</placementIndex>
+            <edgeIndex glueType="Integer">69</edgeIndex>
+            <likeWeightRatio glueType="Double">0.218625</likeWeightRatio>
+            <logLikelihood glueType="Double">-24578.412482</logLikelihood>
+            <distalLength glueType="Double">6.94E-4</distalLength>
+            <pendantLength glueType="Double">0.07844</pendantLength>
+        </singlePlacement>
+        <singlePlacement glueType="Object[]">
+            <placementIndex glueType="Integer">2</placementIndex>
+            <edgeIndex glueType="Integer">68</edgeIndex>
+            <likeWeightRatio glueType="Double">0.202322</likeWeightRatio>
+            <logLikelihood glueType="Double">-24578.489979</logLikelihood>
+            <distalLength glueType="Double">1.0E-6</distalLength>
+            <pendantLength glueType="Double">0.079697</pendantLength>
+        </singlePlacement>
+        <singlePlacement glueType="Object[]">
+            <placementIndex glueType="Integer">3</placementIndex>
+            <edgeIndex glueType="Integer">70</edgeIndex>
+            <likeWeightRatio glueType="Double">0.199495</likeWeightRatio>
+            <logLikelihood glueType="Double">-24578.50405</logLikelihood>
+            <distalLength glueType="Double">0.002423</distalLength>
+            <pendantLength glueType="Double">0.079722</pendantLength>
+        </singlePlacement>
+        <singlePlacement glueType="Object[]">
+            <placementIndex glueType="Integer">4</placementIndex>
+            <edgeIndex glueType="Integer">71</edgeIndex>
+            <likeWeightRatio glueType="Double">0.18963</likeWeightRatio>
+            <logLikelihood glueType="Double">-24578.554767</logLikelihood>
+            <distalLength glueType="Double">1.0E-6</distalLength>
+            <pendantLength glueType="Double">0.079817</pendantLength>
+        </singlePlacement>
+        <singlePlacement glueType="Object[]">
+            <placementIndex glueType="Integer">5</placementIndex>
+            <edgeIndex glueType="Integer">72</edgeIndex>
+            <likeWeightRatio glueType="Double">0.189585</likeWeightRatio>
+            <logLikelihood glueType="Double">-24578.555005</logLikelihood>
+            <distalLength glueType="Double">0.005282</distalLength>
+            <pendantLength glueType="Double">0.079817</pendantLength>
+        </singlePlacement>
+    </queryResults>
+    <queryResults glueType="Object[]">
+        <queryName glueType="String">ncbi-curated/MG940903</queryName>
+        <singlePlacement glueType="Object[]">
+            <placementIndex glueType="Integer">1</placementIndex>
+            <edgeIndex glueType="Integer">68</edgeIndex>
+            <likeWeightRatio glueType="Double">0.225069</likeWeightRatio>
+            <logLikelihood glueType="Double">-24772.763364</logLikelihood>
+            <distalLength glueType="Double">0.003604</distalLength>
+            <pendantLength glueType="Double">0.653444</pendantLength>
+        </singlePlacement>
+        <singlePlacement glueType="Object[]">
+            <placementIndex glueType="Integer">2</placementIndex>
+            <edgeIndex glueType="Integer">70</edgeIndex>
+            <likeWeightRatio glueType="Double">0.179275</likeWeightRatio>
+            <logLikelihood glueType="Double">-24772.990847</logLikelihood>
+            <distalLength glueType="Double">0.001608</distalLength>
+            <pendantLength glueType="Double">0.672146</pendantLength>
+        </singlePlacement>
+        <singlePlacement glueType="Object[]">
+            <placementIndex glueType="Integer">3</placementIndex>
+            <edgeIndex glueType="Integer">71</edgeIndex>
+            <likeWeightRatio glueType="Double">0.178618</likeWeightRatio>
+            <logLikelihood glueType="Double">-24772.994519</logLikelihood>
+            <distalLength glueType="Double">1.0E-6</distalLength>
+            <pendantLength glueType="Double">0.672489</pendantLength>
+        </singlePlacement>
+        <singlePlacement glueType="Object[]">
+            <placementIndex glueType="Integer">4</placementIndex>
+            <edgeIndex glueType="Integer">72</edgeIndex>
+            <likeWeightRatio glueType="Double">0.178573</likeWeightRatio>
+            <logLikelihood glueType="Double">-24772.994775</logLikelihood>
+            <distalLength glueType="Double">0.005282</distalLength>
+            <pendantLength glueType="Double">0.672479</pendantLength>
+        </singlePlacement>
+        <singlePlacement glueType="Object[]">
+            <placementIndex glueType="Integer">5</placementIndex>
+            <edgeIndex glueType="Integer">69</edgeIndex>
+            <likeWeightRatio glueType="Double">0.175444</likeWeightRatio>
+            <logLikelihood glueType="Double">-24773.012451</logLikelihood>
+            <distalLength glueType="Double">0.002682</distalLength>
+            <pendantLength glueType="Double">0.67059</pendantLength>
+        </singlePlacement>
+        <singlePlacement glueType="Object[]">
+            <placementIndex glueType="Integer">6</placementIndex>
+            <edgeIndex glueType="Integer">73</edgeIndex>
+            <likeWeightRatio glueType="Double">0.021139</likeWeightRatio>
+            <logLikelihood glueType="Double">-24775.128636</logLikelihood>
+            <distalLength glueType="Double">0.003901</distalLength>
+            <pendantLength glueType="Double">0.749084</pendantLength>
+        </singlePlacement>
+        <singlePlacement glueType="Object[]">
+            <placementIndex glueType="Integer">7</placementIndex>
+            <edgeIndex glueType="Integer">67</edgeIndex>
+            <likeWeightRatio glueType="Double">0.021096</likeWeightRatio>
+            <logLikelihood glueType="Double">-24775.130688</logLikelihood>
+            <distalLength glueType="Double">0.008002</distalLength>
+            <pendantLength glueType="Double">0.7493</pendantLength>
+        </singlePlacement>
+    </queryResults>
+    <queryResults glueType="Object[]">
+        <queryName glueType="String">ncbi-curated/MG940904</queryName>
+        <singlePlacement glueType="Object[]">
+            <placementIndex glueType="Integer">1</placementIndex>
+            <edgeIndex glueType="Integer">68</edgeIndex>
+            <likeWeightRatio glueType="Double">0.767831</likeWeightRatio>
+            <logLikelihood glueType="Double">-24508.86085</logLikelihood>
+            <distalLength glueType="Double">0.003604</distalLength>
+            <pendantLength glueType="Double">0.026676</pendantLength>
+        </singlePlacement>
+        <singlePlacement glueType="Object[]">
+            <placementIndex glueType="Integer">2</placementIndex>
+            <edgeIndex glueType="Integer">69</edgeIndex>
+            <likeWeightRatio glueType="Double">0.097394</likeWeightRatio>
+            <logLikelihood glueType="Double">-24510.92566</logLikelihood>
+            <distalLength glueType="Double">0.001217</distalLength>
+            <pendantLength glueType="Double">0.026972</pendantLength>
+        </singlePlacement>
+        <singlePlacement glueType="Object[]">
+            <placementIndex glueType="Integer">3</placementIndex>
+            <edgeIndex glueType="Integer">70</edgeIndex>
+            <likeWeightRatio glueType="Double">0.053548</likeWeightRatio>
+            <logLikelihood glueType="Double">-24511.523834</logLikelihood>
+            <distalLength glueType="Double">0.003105</distalLength>
+            <pendantLength glueType="Double">0.029365</pendantLength>
+        </singlePlacement>
+        <singlePlacement glueType="Object[]">
+            <placementIndex glueType="Integer">4</placementIndex>
+            <edgeIndex glueType="Integer">71</edgeIndex>
+            <likeWeightRatio glueType="Double">0.040612</likeWeightRatio>
+            <logLikelihood glueType="Double">-24511.800363</logLikelihood>
+            <distalLength glueType="Double">1.0E-6</distalLength>
+            <pendantLength glueType="Double">0.030136</pendantLength>
+        </singlePlacement>
+        <singlePlacement glueType="Object[]">
+            <placementIndex glueType="Integer">5</placementIndex>
+            <edgeIndex glueType="Integer">72</edgeIndex>
+            <likeWeightRatio glueType="Double">0.040596</likeWeightRatio>
+            <logLikelihood glueType="Double">-24511.800741</logLikelihood>
+            <distalLength glueType="Double">0.005282</distalLength>
+            <pendantLength glueType="Double">0.030136</pendantLength>
+        </singlePlacement>
+    </queryResults>
+    <queryResults glueType="Object[]">
+        <queryName glueType="String">ncbi-curated/MG940905</queryName>
+        <singlePlacement glueType="Object[]">
+            <placementIndex glueType="Integer">1</placementIndex>
+            <edgeIndex glueType="Integer">69</edgeIndex>
+            <likeWeightRatio glueType="Double">0.832978</likeWeightRatio>
+            <logLikelihood glueType="Double">-24511.642385</logLikelihood>
+            <distalLength glueType="Double">0.003042</distalLength>
+            <pendantLength glueType="Double">0.024056</pendantLength>
+        </singlePlacement>
+        <singlePlacement glueType="Object[]">
+            <placementIndex glueType="Integer">2</placementIndex>
+            <edgeIndex glueType="Integer">70</edgeIndex>
+            <likeWeightRatio glueType="Double">0.04518</likeWeightRatio>
+            <logLikelihood glueType="Double">-24514.556732</logLikelihood>
+            <distalLength glueType="Double">0.003106</distalLength>
+            <pendantLength glueType="Double">0.030079</pendantLength>
+        </singlePlacement>
+        <singlePlacement glueType="Object[]">
+            <placementIndex glueType="Integer">3</placementIndex>
+            <edgeIndex glueType="Integer">68</edgeIndex>
+            <likeWeightRatio glueType="Double">0.045163</likeWeightRatio>
+            <logLikelihood glueType="Double">-24514.557112</logLikelihood>
+            <distalLength glueType="Double">1.0E-6</distalLength>
+            <pendantLength glueType="Double">0.03008</pendantLength>
+        </singlePlacement>
+        <singlePlacement glueType="Object[]">
+            <placementIndex glueType="Integer">4</placementIndex>
+            <edgeIndex glueType="Integer">71</edgeIndex>
+            <likeWeightRatio glueType="Double">0.038342</likeWeightRatio>
+            <logLikelihood glueType="Double">-24514.720841</logLikelihood>
+            <distalLength glueType="Double">1.0E-6</distalLength>
+            <pendantLength glueType="Double">0.030495</pendantLength>
+        </singlePlacement>
+        <singlePlacement glueType="Object[]">
+            <placementIndex glueType="Integer">5</placementIndex>
+            <edgeIndex glueType="Integer">72</edgeIndex>
+            <likeWeightRatio glueType="Double">0.038329</likeWeightRatio>
+            <logLikelihood glueType="Double">-24514.721193</logLikelihood>
+            <distalLength glueType="Double">0.005282</distalLength>
+            <pendantLength glueType="Double">0.030495</pendantLength>
+        </singlePlacement>
+    </queryResults>
+    <queryResults glueType="Object[]">
+        <queryName glueType="String">ncbi-curated/MG973012</queryName>
+        <singlePlacement glueType="Object[]">
+            <placementIndex glueType="Integer">1</placementIndex>
+            <edgeIndex glueType="Integer">55</edgeIndex>
+            <likeWeightRatio glueType="Double">0.984681</likeWeightRatio>
+            <logLikelihood glueType="Double">-24511.305122</logLikelihood>
+            <distalLength glueType="Double">0.037451</distalLength>
+            <pendantLength glueType="Double">0.04684</pendantLength>
+        </singlePlacement>
+    </queryResults>
+    <queryResults glueType="Object[]">
+        <queryName glueType="String">ncbi-curated/MG973013</queryName>
+        <singlePlacement glueType="Object[]">
+            <placementIndex glueType="Integer">1</placementIndex>
+            <edgeIndex glueType="Integer">55</edgeIndex>
+            <likeWeightRatio glueType="Double">0.984589</likeWeightRatio>
+            <logLikelihood glueType="Double">-24510.258599</logLikelihood>
+            <distalLength glueType="Double">0.037451</distalLength>
+            <pendantLength glueType="Double">0.047014</pendantLength>
+        </singlePlacement>
+    </queryResults>
+    <queryResults glueType="Object[]">
+        <queryName glueType="String">ncbi-curated/MG973014</queryName>
+        <singlePlacement glueType="Object[]">
+            <placementIndex glueType="Integer">1</placementIndex>
+            <edgeIndex glueType="Integer">55</edgeIndex>
+            <likeWeightRatio glueType="Double">0.685669</likeWeightRatio>
+            <logLikelihood glueType="Double">-24533.220285</logLikelihood>
+            <distalLength glueType="Double">0.030843</distalLength>
+            <pendantLength glueType="Double">0.072727</pendantLength>
+        </singlePlacement>
+        <singlePlacement glueType="Object[]">
+            <placementIndex glueType="Integer">2</placementIndex>
+            <edgeIndex glueType="Integer">60</edgeIndex>
+            <likeWeightRatio glueType="Double">0.090131</likeWeightRatio>
+            <logLikelihood glueType="Double">-24535.249417</logLikelihood>
+            <distalLength glueType="Double">1.0E-6</distalLength>
+            <pendantLength glueType="Double">0.081074</pendantLength>
+        </singlePlacement>
+        <singlePlacement glueType="Object[]">
+            <placementIndex glueType="Integer">3</placementIndex>
+            <edgeIndex glueType="Integer">61</edgeIndex>
+            <likeWeightRatio glueType="Double">0.09</likeWeightRatio>
+            <logLikelihood glueType="Double">-24535.250867</logLikelihood>
+            <distalLength glueType="Double">0.033053</distalLength>
+            <pendantLength glueType="Double">0.081099</pendantLength>
+        </singlePlacement>
+        <singlePlacement glueType="Object[]">
+            <placementIndex glueType="Integer">4</placementIndex>
+            <edgeIndex glueType="Integer">58</edgeIndex>
+            <likeWeightRatio glueType="Double">0.034875</likeWeightRatio>
+            <logLikelihood glueType="Double">-24536.19891</logLikelihood>
+            <distalLength glueType="Double">0.001314</distalLength>
+            <pendantLength glueType="Double">0.088388</pendantLength>
+        </singlePlacement>
+        <singlePlacement glueType="Object[]">
+            <placementIndex glueType="Integer">5</placementIndex>
+            <edgeIndex glueType="Integer">57</edgeIndex>
+            <likeWeightRatio glueType="Double">0.033374</likeWeightRatio>
+            <logLikelihood glueType="Double">-24536.242891</logLikelihood>
+            <distalLength glueType="Double">1.0E-6</distalLength>
+            <pendantLength glueType="Double">0.088655</pendantLength>
+        </singlePlacement>
+        <singlePlacement glueType="Object[]">
+            <placementIndex glueType="Integer">6</placementIndex>
+            <edgeIndex glueType="Integer">56</edgeIndex>
+            <likeWeightRatio glueType="Double">0.033374</likeWeightRatio>
+            <logLikelihood glueType="Double">-24536.242894</logLikelihood>
+            <distalLength glueType="Double">1.0E-6</distalLength>
+            <pendantLength glueType="Double">0.088649</pendantLength>
+        </singlePlacement>
+        <singlePlacement glueType="Object[]">
+            <placementIndex glueType="Integer">7</placementIndex>
+            <edgeIndex glueType="Integer">59</edgeIndex>
+            <likeWeightRatio glueType="Double">0.032572</likeWeightRatio>
+            <logLikelihood glueType="Double">-24536.267233</logLikelihood>
+            <distalLength glueType="Double">0.007781</distalLength>
+            <pendantLength glueType="Double">0.089011</pendantLength>
+        </singlePlacement>
+    </queryResults>
+    <queryResults glueType="Object[]">
+        <queryName glueType="String">ncbi-curated/MG973015</queryName>
+        <singlePlacement glueType="Object[]">
+            <placementIndex glueType="Integer">1</placementIndex>
+            <edgeIndex glueType="Integer">55</edgeIndex>
+            <likeWeightRatio glueType="Double">0.984486</likeWeightRatio>
+            <logLikelihood glueType="Double">-24511.496871</logLikelihood>
+            <distalLength glueType="Double">0.037451</distalLength>
+            <pendantLength glueType="Double">0.047185</pendantLength>
+        </singlePlacement>
+    </queryResults>
+    <queryResults glueType="Object[]">
+        <queryName glueType="String">ncbi-curated/MG973016</queryName>
+        <singlePlacement glueType="Object[]">
+            <placementIndex glueType="Integer">1</placementIndex>
+            <edgeIndex glueType="Integer">55</edgeIndex>
+            <likeWeightRatio glueType="Double">0.965048</likeWeightRatio>
+            <logLikelihood glueType="Double">-24534.749492</logLikelihood>
+            <distalLength glueType="Double">0.037451</distalLength>
+            <pendantLength glueType="Double">0.073861</pendantLength>
+        </singlePlacement>
+        <singlePlacement glueType="Object[]">
+            <placementIndex glueType="Integer">2</placementIndex>
+            <edgeIndex glueType="Integer">60</edgeIndex>
+            <likeWeightRatio glueType="Double">0.014282</likeWeightRatio>
+            <logLikelihood glueType="Double">-24538.962701</logLikelihood>
+            <distalLength glueType="Double">1.0E-6</distalLength>
+            <pendantLength glueType="Double">0.087714</pendantLength>
+        </singlePlacement>
+        <singlePlacement glueType="Object[]">
+            <placementIndex glueType="Integer">3</placementIndex>
+            <edgeIndex glueType="Integer">61</edgeIndex>
+            <likeWeightRatio glueType="Double">0.013858</likeWeightRatio>
+            <logLikelihood glueType="Double">-24538.992811</logLikelihood>
+            <distalLength glueType="Double">0.033052</distalLength>
+            <pendantLength glueType="Double">0.087963</pendantLength>
+        </singlePlacement>
+    </queryResults>
+    <queryResults glueType="Object[]">
+        <queryName glueType="String">ncbi-curated/MG973017</queryName>
+        <singlePlacement glueType="Object[]">
+            <placementIndex glueType="Integer">1</placementIndex>
+            <edgeIndex glueType="Integer">55</edgeIndex>
+            <likeWeightRatio glueType="Double">0.988184</likeWeightRatio>
+            <logLikelihood glueType="Double">-24497.285279</logLikelihood>
+            <distalLength glueType="Double">0.037451</distalLength>
+            <pendantLength glueType="Double">0.038391</pendantLength>
+        </singlePlacement>
+    </queryResults>
+    <queryResults glueType="Object[]">
+        <queryName glueType="String">ncbi-curated/MG973018</queryName>
+        <singlePlacement glueType="Object[]">
+            <placementIndex glueType="Integer">1</placementIndex>
+            <edgeIndex glueType="Integer">55</edgeIndex>
+            <likeWeightRatio glueType="Double">0.970636</likeWeightRatio>
+            <logLikelihood glueType="Double">-24527.108938</logLikelihood>
+            <distalLength glueType="Double">0.037452</distalLength>
+            <pendantLength glueType="Double">0.067407</pendantLength>
+        </singlePlacement>
+        <singlePlacement glueType="Object[]">
+            <placementIndex glueType="Integer">2</placementIndex>
+            <edgeIndex glueType="Integer">60</edgeIndex>
+            <likeWeightRatio glueType="Double">0.012326</likeWeightRatio>
+            <logLikelihood glueType="Double">-24531.475197</logLikelihood>
+            <distalLength glueType="Double">1.0E-6</distalLength>
+            <pendantLength glueType="Double">0.080539</pendantLength>
+        </singlePlacement>
+        <singlePlacement glueType="Object[]">
+            <placementIndex glueType="Integer">3</placementIndex>
+            <edgeIndex glueType="Integer">61</edgeIndex>
+            <likeWeightRatio glueType="Double">0.011909</likeWeightRatio>
+            <logLikelihood glueType="Double">-24531.509555</logLikelihood>
+            <distalLength glueType="Double">0.033052</distalLength>
+            <pendantLength glueType="Double">0.080803</pendantLength>
+        </singlePlacement>
+    </queryResults>
+    <queryResults glueType="Object[]">
+        <queryName glueType="String">ncbi-curated/MG973019</queryName>
+        <singlePlacement glueType="Object[]">
+            <placementIndex glueType="Integer">1</placementIndex>
+            <edgeIndex glueType="Integer">55</edgeIndex>
+            <likeWeightRatio glueType="Double">0.975628</likeWeightRatio>
+            <logLikelihood glueType="Double">-24514.542813</logLikelihood>
+            <distalLength glueType="Double">0.03745</distalLength>
+            <pendantLength glueType="Double">0.060615</pendantLength>
+        </singlePlacement>
+        <singlePlacement glueType="Object[]">
+            <placementIndex glueType="Integer">2</placementIndex>
+            <edgeIndex glueType="Integer">60</edgeIndex>
+            <likeWeightRatio glueType="Double">0.010545</likeWeightRatio>
+            <logLikelihood glueType="Double">-24519.070232</logLikelihood>
+            <distalLength glueType="Double">1.0E-6</distalLength>
+            <pendantLength glueType="Double">0.072785</pendantLength>
+        </singlePlacement>
+        <singlePlacement glueType="Object[]">
+            <placementIndex glueType="Integer">3</placementIndex>
+            <edgeIndex glueType="Integer">61</edgeIndex>
+            <likeWeightRatio glueType="Double">0.010138</likeWeightRatio>
+            <logLikelihood glueType="Double">-24519.109596</logLikelihood>
+            <distalLength glueType="Double">0.033054</distalLength>
+            <pendantLength glueType="Double">0.073072</pendantLength>
+        </singlePlacement>
+    </queryResults>
+    <queryResults glueType="Object[]">
+        <queryName glueType="String">ncbi-curated/MG977689</queryName>
+        <singlePlacement glueType="Object[]">
+            <placementIndex glueType="Integer">1</placementIndex>
+            <edgeIndex glueType="Integer">67</edgeIndex>
+            <likeWeightRatio glueType="Double">0.933517</likeWeightRatio>
+            <logLikelihood glueType="Double">-24485.594303</logLikelihood>
+            <distalLength glueType="Double">0.008556</distalLength>
+            <pendantLength glueType="Double">0.02085</pendantLength>
+        </singlePlacement>
+        <singlePlacement glueType="Object[]">
+            <placementIndex glueType="Integer">2</placementIndex>
+            <edgeIndex glueType="Integer">78</edgeIndex>
+            <likeWeightRatio glueType="Double">0.02154</likeWeightRatio>
+            <logLikelihood glueType="Double">-24489.363352</logLikelihood>
+            <distalLength glueType="Double">0.026463</distalLength>
+            <pendantLength glueType="Double">0.02232</pendantLength>
+        </singlePlacement>
+    </queryResults>
+    <queryResults glueType="Object[]">
+        <queryName glueType="String">ncbi-curated/MG977690</queryName>
+        <singlePlacement glueType="Object[]">
+            <placementIndex glueType="Integer">1</placementIndex>
+            <edgeIndex glueType="Integer">47</edgeIndex>
+            <likeWeightRatio glueType="Double">0.27433</likeWeightRatio>
+            <logLikelihood glueType="Double">-24482.963216</logLikelihood>
+            <distalLength glueType="Double">0.007076</distalLength>
+            <pendantLength glueType="Double">0.024587</pendantLength>
+        </singlePlacement>
+        <singlePlacement glueType="Object[]">
+            <placementIndex glueType="Integer">2</placementIndex>
+            <edgeIndex glueType="Integer">46</edgeIndex>
+            <likeWeightRatio glueType="Double">0.26686</likeWeightRatio>
+            <logLikelihood glueType="Double">-24482.990822</logLikelihood>
+            <distalLength glueType="Double">1.0E-6</distalLength>
+            <pendantLength glueType="Double">0.024648</pendantLength>
+        </singlePlacement>
+        <singlePlacement glueType="Object[]">
+            <placementIndex glueType="Integer">3</placementIndex>
+            <edgeIndex glueType="Integer">48</edgeIndex>
+            <likeWeightRatio glueType="Double">0.266803</likeWeightRatio>
+            <logLikelihood glueType="Double">-24482.991034</logLikelihood>
+            <distalLength glueType="Double">0.011876</distalLength>
+            <pendantLength glueType="Double">0.024648</pendantLength>
+        </singlePlacement>
+        <singlePlacement glueType="Object[]">
+            <placementIndex glueType="Integer">4</placementIndex>
+            <edgeIndex glueType="Integer">45</edgeIndex>
+            <likeWeightRatio glueType="Double">0.05137</likeWeightRatio>
+            <logLikelihood glueType="Double">-24484.63849</logLikelihood>
+            <distalLength glueType="Double">1.0E-6</distalLength>
+            <pendantLength glueType="Double">0.025329</pendantLength>
+        </singlePlacement>
+        <singlePlacement glueType="Object[]">
+            <placementIndex glueType="Integer">5</placementIndex>
+            <edgeIndex glueType="Integer">49</edgeIndex>
+            <likeWeightRatio glueType="Double">0.048124</likeWeightRatio>
+            <logLikelihood glueType="Double">-24484.703766</logLikelihood>
+            <distalLength glueType="Double">0.003926</distalLength>
+            <pendantLength glueType="Double">0.025361</pendantLength>
+        </singlePlacement>
+        <singlePlacement glueType="Object[]">
+            <placementIndex glueType="Integer">6</placementIndex>
+            <edgeIndex glueType="Integer">40</edgeIndex>
+            <likeWeightRatio glueType="Double">0.046214</likeWeightRatio>
+            <logLikelihood glueType="Double">-24484.744267</logLikelihood>
+            <distalLength glueType="Double">1.0E-6</distalLength>
+            <pendantLength glueType="Double">0.025363</pendantLength>
+        </singlePlacement>
+        <singlePlacement glueType="Object[]">
+            <placementIndex glueType="Integer">7</placementIndex>
+            <edgeIndex glueType="Integer">50</edgeIndex>
+            <likeWeightRatio glueType="Double">0.046208</likeWeightRatio>
+            <logLikelihood glueType="Double">-24484.744387</logLikelihood>
+            <distalLength glueType="Double">0.004209</distalLength>
+            <pendantLength glueType="Double">0.02536</pendantLength>
+        </singlePlacement>
+    </queryResults>
+    <queryResults glueType="Object[]">
+        <queryName glueType="String">ncbi-curated/MG977691</queryName>
+        <singlePlacement glueType="Object[]">
+            <placementIndex glueType="Integer">1</placementIndex>
+            <edgeIndex glueType="Integer">67</edgeIndex>
+            <likeWeightRatio glueType="Double">0.933517</likeWeightRatio>
+            <logLikelihood glueType="Double">-24485.594303</logLikelihood>
+            <distalLength glueType="Double">0.008556</distalLength>
+            <pendantLength glueType="Double">0.02085</pendantLength>
+        </singlePlacement>
+        <singlePlacement glueType="Object[]">
+            <placementIndex glueType="Integer">2</placementIndex>
+            <edgeIndex glueType="Integer">78</edgeIndex>
+            <likeWeightRatio glueType="Double">0.02154</likeWeightRatio>
+            <logLikelihood glueType="Double">-24489.363352</logLikelihood>
+            <distalLength glueType="Double">0.026463</distalLength>
+            <pendantLength glueType="Double">0.02232</pendantLength>
+        </singlePlacement>
+    </queryResults>
+    <queryResults glueType="Object[]">
+        <queryName glueType="String">ncbi-curated/MG977692</queryName>
+        <singlePlacement glueType="Object[]">
+            <placementIndex glueType="Integer">1</placementIndex>
+            <edgeIndex glueType="Integer">47</edgeIndex>
+            <likeWeightRatio glueType="Double">0.27367</likeWeightRatio>
+            <logLikelihood glueType="Double">-24488.514615</logLikelihood>
+            <distalLength glueType="Double">0.00709</distalLength>
+            <pendantLength glueType="Double">0.024788</pendantLength>
+        </singlePlacement>
+        <singlePlacement glueType="Object[]">
+            <placementIndex glueType="Integer">2</placementIndex>
+            <edgeIndex glueType="Integer">46</edgeIndex>
+            <likeWeightRatio glueType="Double">0.267028</likeWeightRatio>
+            <logLikelihood glueType="Double">-24488.539187</logLikelihood>
+            <distalLength glueType="Double">1.0E-6</distalLength>
+            <pendantLength glueType="Double">0.024832</pendantLength>
+        </singlePlacement>
+        <singlePlacement glueType="Object[]">
+            <placementIndex glueType="Integer">3</placementIndex>
+            <edgeIndex glueType="Integer">48</edgeIndex>
+            <likeWeightRatio glueType="Double">0.266972</likeWeightRatio>
+            <logLikelihood glueType="Double">-24488.539396</logLikelihood>
+            <distalLength glueType="Double">0.011876</distalLength>
+            <pendantLength glueType="Double">0.024832</pendantLength>
+        </singlePlacement>
+        <singlePlacement glueType="Object[]">
+            <placementIndex glueType="Integer">4</placementIndex>
+            <edgeIndex glueType="Integer">45</edgeIndex>
+            <likeWeightRatio glueType="Double">0.051461</likeWeightRatio>
+            <logLikelihood glueType="Double">-24490.185711</logLikelihood>
+            <distalLength glueType="Double">1.0E-6</distalLength>
+            <pendantLength glueType="Double">0.025523</pendantLength>
+        </singlePlacement>
+        <singlePlacement glueType="Object[]">
+            <placementIndex glueType="Integer">5</placementIndex>
+            <edgeIndex glueType="Integer">49</edgeIndex>
+            <likeWeightRatio glueType="Double">0.048195</likeWeightRatio>
+            <logLikelihood glueType="Double">-24490.251288</logLikelihood>
+            <distalLength glueType="Double">0.003939</distalLength>
+            <pendantLength glueType="Double">0.025558</pendantLength>
+        </singlePlacement>
+        <singlePlacement glueType="Object[]">
+            <placementIndex glueType="Integer">6</placementIndex>
+            <edgeIndex glueType="Integer">40</edgeIndex>
+            <likeWeightRatio glueType="Double">0.046293</likeWeightRatio>
+            <logLikelihood glueType="Double">-24490.291552</logLikelihood>
+            <distalLength glueType="Double">1.0E-6</distalLength>
+            <pendantLength glueType="Double">0.025559</pendantLength>
+        </singlePlacement>
+        <singlePlacement glueType="Object[]">
+            <placementIndex glueType="Integer">7</placementIndex>
+            <edgeIndex glueType="Integer">50</edgeIndex>
+            <likeWeightRatio glueType="Double">0.046288</likeWeightRatio>
+            <logLikelihood glueType="Double">-24490.291649</logLikelihood>
+            <distalLength glueType="Double">0.004209</distalLength>
+            <pendantLength glueType="Double">0.025556</pendantLength>
+        </singlePlacement>
+    </queryResults>
+    <queryResults glueType="Object[]">
+        <queryName glueType="String">ncbi-curated/MG977693</queryName>
+        <singlePlacement glueType="Object[]">
+            <placementIndex glueType="Integer">1</placementIndex>
+            <edgeIndex glueType="Integer">47</edgeIndex>
+            <likeWeightRatio glueType="Double">0.27367</likeWeightRatio>
+            <logLikelihood glueType="Double">-24488.514615</logLikelihood>
+            <distalLength glueType="Double">0.00709</distalLength>
+            <pendantLength glueType="Double">0.024788</pendantLength>
+        </singlePlacement>
+        <singlePlacement glueType="Object[]">
+            <placementIndex glueType="Integer">2</placementIndex>
+            <edgeIndex glueType="Integer">46</edgeIndex>
+            <likeWeightRatio glueType="Double">0.267028</likeWeightRatio>
+            <logLikelihood glueType="Double">-24488.539187</logLikelihood>
+            <distalLength glueType="Double">1.0E-6</distalLength>
+            <pendantLength glueType="Double">0.024832</pendantLength>
+        </singlePlacement>
+        <singlePlacement glueType="Object[]">
+            <placementIndex glueType="Integer">3</placementIndex>
+            <edgeIndex glueType="Integer">48</edgeIndex>
+            <likeWeightRatio glueType="Double">0.266972</likeWeightRatio>
+            <logLikelihood glueType="Double">-24488.539396</logLikelihood>
+            <distalLength glueType="Double">0.011876</distalLength>
+            <pendantLength glueType="Double">0.024832</pendantLength>
+        </singlePlacement>
+        <singlePlacement glueType="Object[]">
+            <placementIndex glueType="Integer">4</placementIndex>
+            <edgeIndex glueType="Integer">45</edgeIndex>
+            <likeWeightRatio glueType="Double">0.051461</likeWeightRatio>
+            <logLikelihood glueType="Double">-24490.185711</logLikelihood>
+            <distalLength glueType="Double">1.0E-6</distalLength>
+            <pendantLength glueType="Double">0.025523</pendantLength>
+        </singlePlacement>
+        <singlePlacement glueType="Object[]">
+            <placementIndex glueType="Integer">5</placementIndex>
+            <edgeIndex glueType="Integer">49</edgeIndex>
+            <likeWeightRatio glueType="Double">0.048195</likeWeightRatio>
+            <logLikelihood glueType="Double">-24490.251288</logLikelihood>
+            <distalLength glueType="Double">0.003939</distalLength>
+            <pendantLength glueType="Double">0.025558</pendantLength>
+        </singlePlacement>
+        <singlePlacement glueType="Object[]">
+            <placementIndex glueType="Integer">6</placementIndex>
+            <edgeIndex glueType="Integer">40</edgeIndex>
+            <likeWeightRatio glueType="Double">0.046293</likeWeightRatio>
+            <logLikelihood glueType="Double">-24490.291552</logLikelihood>
+            <distalLength glueType="Double">1.0E-6</distalLength>
+            <pendantLength glueType="Double">0.025559</pendantLength>
+        </singlePlacement>
+        <singlePlacement glueType="Object[]">
+            <placementIndex glueType="Integer">7</placementIndex>
+            <edgeIndex glueType="Integer">50</edgeIndex>
+            <likeWeightRatio glueType="Double">0.046288</likeWeightRatio>
+            <logLikelihood glueType="Double">-24490.291649</logLikelihood>
+            <distalLength glueType="Double">0.004209</distalLength>
+            <pendantLength glueType="Double">0.025556</pendantLength>
+        </singlePlacement>
+    </queryResults>
+    <queryResults glueType="Object[]">
+        <queryName glueType="String">ncbi-curated/MG977694</queryName>
+        <singlePlacement glueType="Object[]">
+            <placementIndex glueType="Integer">1</placementIndex>
+            <edgeIndex glueType="Integer">47</edgeIndex>
+            <likeWeightRatio glueType="Double">0.270071</likeWeightRatio>
+            <logLikelihood glueType="Double">-24502.722836</logLikelihood>
+            <distalLength glueType="Double">0.007078</distalLength>
+            <pendantLength glueType="Double">0.035355</pendantLength>
+        </singlePlacement>
+        <singlePlacement glueType="Object[]">
+            <placementIndex glueType="Integer">2</placementIndex>
+            <edgeIndex glueType="Integer">46</edgeIndex>
+            <likeWeightRatio glueType="Double">0.26417</likeWeightRatio>
+            <logLikelihood glueType="Double">-24502.744928</logLikelihood>
+            <distalLength glueType="Double">1.0E-6</distalLength>
+            <pendantLength glueType="Double">0.035394</pendantLength>
+        </singlePlacement>
+        <singlePlacement glueType="Object[]">
+            <placementIndex glueType="Integer">3</placementIndex>
+            <edgeIndex glueType="Integer">48</edgeIndex>
+            <likeWeightRatio glueType="Double">0.264104</likeWeightRatio>
+            <logLikelihood glueType="Double">-24502.745176</logLikelihood>
+            <distalLength glueType="Double">0.011876</distalLength>
+            <pendantLength glueType="Double">0.035394</pendantLength>
+        </singlePlacement>
+        <singlePlacement glueType="Object[]">
+            <placementIndex glueType="Integer">4</placementIndex>
+            <edgeIndex glueType="Integer">45</edgeIndex>
+            <likeWeightRatio glueType="Double">0.053787</likeWeightRatio>
+            <logLikelihood glueType="Double">-24504.336481</logLikelihood>
+            <distalLength glueType="Double">1.0E-6</distalLength>
+            <pendantLength glueType="Double">0.036404</pendantLength>
+        </singlePlacement>
+        <singlePlacement glueType="Object[]">
+            <placementIndex glueType="Integer">5</placementIndex>
+            <edgeIndex glueType="Integer">49</edgeIndex>
+            <likeWeightRatio glueType="Double">0.050555</likeWeightRatio>
+            <logLikelihood glueType="Double">-24504.398457</logLikelihood>
+            <distalLength glueType="Double">0.00395</distalLength>
+            <pendantLength glueType="Double">0.036462</pendantLength>
+        </singlePlacement>
+        <singlePlacement glueType="Object[]">
+            <placementIndex glueType="Integer">6</placementIndex>
+            <edgeIndex glueType="Integer">40</edgeIndex>
+            <likeWeightRatio glueType="Double">0.048557</likeWeightRatio>
+            <logLikelihood glueType="Double">-24504.438772</logLikelihood>
+            <distalLength glueType="Double">1.0E-6</distalLength>
+            <pendantLength glueType="Double">0.036469</pendantLength>
+        </singlePlacement>
+        <singlePlacement glueType="Object[]">
+            <placementIndex glueType="Integer">7</placementIndex>
+            <edgeIndex glueType="Integer">50</edgeIndex>
+            <likeWeightRatio glueType="Double">0.048552</likeWeightRatio>
+            <logLikelihood glueType="Double">-24504.438878</logLikelihood>
+            <distalLength glueType="Double">0.004209</distalLength>
+            <pendantLength glueType="Double">0.036466</pendantLength>
+        </singlePlacement>
+    </queryResults>
+    <queryResults glueType="Object[]">
+        <queryName glueType="String">ncbi-curated/MG977695</queryName>
+        <singlePlacement glueType="Object[]">
+            <placementIndex glueType="Integer">1</placementIndex>
+            <edgeIndex glueType="Integer">46</edgeIndex>
+            <likeWeightRatio glueType="Double">0.795064</likeWeightRatio>
+            <logLikelihood glueType="Double">-24481.299211</logLikelihood>
+            <distalLength glueType="Double">0.010237</distalLength>
+            <pendantLength glueType="Double">0.024879</pendantLength>
+        </singlePlacement>
+        <singlePlacement glueType="Object[]">
+            <placementIndex glueType="Integer">2</placementIndex>
+            <edgeIndex glueType="Integer">39</edgeIndex>
+            <likeWeightRatio glueType="Double">0.050149</likeWeightRatio>
+            <logLikelihood glueType="Double">-24484.062636</logLikelihood>
+            <distalLength glueType="Double">0.002587</distalLength>
+            <pendantLength glueType="Double">0.021339</pendantLength>
+        </singlePlacement>
+        <singlePlacement glueType="Object[]">
+            <placementIndex glueType="Integer">3</placementIndex>
+            <edgeIndex glueType="Integer">50</edgeIndex>
+            <likeWeightRatio glueType="Double">0.046875</likeWeightRatio>
+            <logLikelihood glueType="Double">-24484.130142</logLikelihood>
+            <distalLength glueType="Double">0.001274</distalLength>
+            <pendantLength glueType="Double">0.023923</pendantLength>
+        </singlePlacement>
+        <singlePlacement glueType="Object[]">
+            <placementIndex glueType="Integer">4</placementIndex>
+            <edgeIndex glueType="Integer">48</edgeIndex>
+            <likeWeightRatio glueType="Double">0.032111</likeWeightRatio>
+            <logLikelihood glueType="Double">-24484.508431</logLikelihood>
+            <distalLength glueType="Double">0.011877</distalLength>
+            <pendantLength glueType="Double">0.027969</pendantLength>
+        </singlePlacement>
+        <singlePlacement glueType="Object[]">
+            <placementIndex glueType="Integer">5</placementIndex>
+            <edgeIndex glueType="Integer">40</edgeIndex>
+            <likeWeightRatio glueType="Double">0.031506</likeWeightRatio>
+            <logLikelihood glueType="Double">-24484.527458</logLikelihood>
+            <distalLength glueType="Double">0.006247</distalLength>
+            <pendantLength glueType="Double">0.02281</pendantLength>
+        </singlePlacement>
+        <singlePlacement glueType="Object[]">
+            <placementIndex glueType="Integer">6</placementIndex>
+            <edgeIndex glueType="Integer">47</edgeIndex>
+            <likeWeightRatio glueType="Double">0.030819</likeWeightRatio>
+            <logLikelihood glueType="Double">-24484.549512</logLikelihood>
+            <distalLength glueType="Double">0.00156</distalLength>
+            <pendantLength glueType="Double">0.028137</pendantLength>
+        </singlePlacement>
+        <singlePlacement glueType="Object[]">
+            <placementIndex glueType="Integer">7</placementIndex>
+            <edgeIndex glueType="Integer">49</edgeIndex>
+            <likeWeightRatio glueType="Double">0.009159</likeWeightRatio>
+            <logLikelihood glueType="Double">-24485.762876</logLikelihood>
+            <distalLength glueType="Double">1.0E-6</distalLength>
+            <pendantLength glueType="Double">0.027024</pendantLength>
+        </singlePlacement>
+    </queryResults>
+    <queryResults glueType="Object[]">
+        <queryName glueType="String">ncbi-curated/MG977696</queryName>
+        <singlePlacement glueType="Object[]">
+            <placementIndex glueType="Integer">1</placementIndex>
+            <edgeIndex glueType="Integer">67</edgeIndex>
+            <likeWeightRatio glueType="Double">0.991012</likeWeightRatio>
+            <logLikelihood glueType="Double">-24470.269448</logLikelihood>
+            <distalLength glueType="Double">0.008502</distalLength>
+            <pendantLength glueType="Double">0.005044</pendantLength>
+        </singlePlacement>
+    </queryResults>
+    <queryResults glueType="Object[]">
+        <queryName glueType="String">ncbi-curated/MG977697</queryName>
+        <singlePlacement glueType="Object[]">
+            <placementIndex glueType="Integer">1</placementIndex>
+            <edgeIndex glueType="Integer">46</edgeIndex>
+            <likeWeightRatio glueType="Double">0.795064</likeWeightRatio>
+            <logLikelihood glueType="Double">-24481.299211</logLikelihood>
+            <distalLength glueType="Double">0.010237</distalLength>
+            <pendantLength glueType="Double">0.024879</pendantLength>
+        </singlePlacement>
+        <singlePlacement glueType="Object[]">
+            <placementIndex glueType="Integer">2</placementIndex>
+            <edgeIndex glueType="Integer">39</edgeIndex>
+            <likeWeightRatio glueType="Double">0.050149</likeWeightRatio>
+            <logLikelihood glueType="Double">-24484.062636</logLikelihood>
+            <distalLength glueType="Double">0.002587</distalLength>
+            <pendantLength glueType="Double">0.021339</pendantLength>
+        </singlePlacement>
+        <singlePlacement glueType="Object[]">
+            <placementIndex glueType="Integer">3</placementIndex>
+            <edgeIndex glueType="Integer">50</edgeIndex>
+            <likeWeightRatio glueType="Double">0.046875</likeWeightRatio>
+            <logLikelihood glueType="Double">-24484.130142</logLikelihood>
+            <distalLength glueType="Double">0.001274</distalLength>
+            <pendantLength glueType="Double">0.023923</pendantLength>
+        </singlePlacement>
+        <singlePlacement glueType="Object[]">
+            <placementIndex glueType="Integer">4</placementIndex>
+            <edgeIndex glueType="Integer">48</edgeIndex>
+            <likeWeightRatio glueType="Double">0.032111</likeWeightRatio>
+            <logLikelihood glueType="Double">-24484.508431</logLikelihood>
+            <distalLength glueType="Double">0.011877</distalLength>
+            <pendantLength glueType="Double">0.027969</pendantLength>
+        </singlePlacement>
+        <singlePlacement glueType="Object[]">
+            <placementIndex glueType="Integer">5</placementIndex>
+            <edgeIndex glueType="Integer">40</edgeIndex>
+            <likeWeightRatio glueType="Double">0.031506</likeWeightRatio>
+            <logLikelihood glueType="Double">-24484.527458</logLikelihood>
+            <distalLength glueType="Double">0.006247</distalLength>
+            <pendantLength glueType="Double">0.02281</pendantLength>
+        </singlePlacement>
+        <singlePlacement glueType="Object[]">
+            <placementIndex glueType="Integer">6</placementIndex>
+            <edgeIndex glueType="Integer">47</edgeIndex>
+            <likeWeightRatio glueType="Double">0.030819</likeWeightRatio>
+            <logLikelihood glueType="Double">-24484.549512</logLikelihood>
+            <distalLength glueType="Double">0.00156</distalLength>
+            <pendantLength glueType="Double">0.028137</pendantLength>
+        </singlePlacement>
+        <singlePlacement glueType="Object[]">
+            <placementIndex glueType="Integer">7</placementIndex>
+            <edgeIndex glueType="Integer">49</edgeIndex>
+            <likeWeightRatio glueType="Double">0.009159</likeWeightRatio>
+            <logLikelihood glueType="Double">-24485.762876</logLikelihood>
+            <distalLength glueType="Double">1.0E-6</distalLength>
+            <pendantLength glueType="Double">0.027024</pendantLength>
+        </singlePlacement>
+    </queryResults>
+    <queryResults glueType="Object[]">
+        <queryName glueType="String">ncbi-curated/MG977698</queryName>
+        <singlePlacement glueType="Object[]">
+            <placementIndex glueType="Integer">1</placementIndex>
+            <edgeIndex glueType="Integer">67</edgeIndex>
+            <likeWeightRatio glueType="Double">0.96885</likeWeightRatio>
+            <logLikelihood glueType="Double">-24475.52406</logLikelihood>
+            <distalLength glueType="Double">0.008522</distalLength>
+            <pendantLength glueType="Double">0.010262</pendantLength>
+        </singlePlacement>
+        <singlePlacement glueType="Object[]">
+            <placementIndex glueType="Integer">2</placementIndex>
+            <edgeIndex glueType="Integer">78</edgeIndex>
+            <likeWeightRatio glueType="Double">0.01304</likeWeightRatio>
+            <logLikelihood glueType="Double">-24479.832159</logLikelihood>
+            <distalLength glueType="Double">0.025689</distalLength>
+            <pendantLength glueType="Double">0.010287</pendantLength>
+        </singlePlacement>
+    </queryResults>
+    <queryResults glueType="Object[]">
+        <queryName glueType="String">ncbi-curated/MG977699</queryName>
+        <singlePlacement glueType="Object[]">
+            <placementIndex glueType="Integer">1</placementIndex>
+            <edgeIndex glueType="Integer">79</edgeIndex>
+            <likeWeightRatio glueType="Double">1.0</likeWeightRatio>
+            <logLikelihood glueType="Double">-24458.272588</logLikelihood>
+            <distalLength glueType="Double">0.048397</distalLength>
+            <pendantLength glueType="Double">1.0E-6</pendantLength>
+        </singlePlacement>
+    </queryResults>
+    <queryResults glueType="Object[]">
+        <queryName glueType="String">ncbi-curated/MG977700</queryName>
+        <singlePlacement glueType="Object[]">
+            <placementIndex glueType="Integer">1</placementIndex>
+            <edgeIndex glueType="Integer">67</edgeIndex>
+            <likeWeightRatio glueType="Double">0.96885</likeWeightRatio>
+            <logLikelihood glueType="Double">-24475.52406</logLikelihood>
+            <distalLength glueType="Double">0.008522</distalLength>
+            <pendantLength glueType="Double">0.010262</pendantLength>
+        </singlePlacement>
+        <singlePlacement glueType="Object[]">
+            <placementIndex glueType="Integer">2</placementIndex>
+            <edgeIndex glueType="Integer">78</edgeIndex>
+            <likeWeightRatio glueType="Double">0.01304</likeWeightRatio>
+            <logLikelihood glueType="Double">-24479.832159</logLikelihood>
+            <distalLength glueType="Double">0.025689</distalLength>
+            <pendantLength glueType="Double">0.010287</pendantLength>
+        </singlePlacement>
+    </queryResults>
+    <queryResults glueType="Object[]">
+        <queryName glueType="String">ncbi-curated/MG977701</queryName>
+        <singlePlacement glueType="Object[]">
+            <placementIndex glueType="Integer">1</placementIndex>
+            <edgeIndex glueType="Integer">67</edgeIndex>
+            <likeWeightRatio glueType="Double">0.96885</likeWeightRatio>
+            <logLikelihood glueType="Double">-24475.52406</logLikelihood>
+            <distalLength glueType="Double">0.008522</distalLength>
+            <pendantLength glueType="Double">0.010262</pendantLength>
+        </singlePlacement>
+        <singlePlacement glueType="Object[]">
+            <placementIndex glueType="Integer">2</placementIndex>
+            <edgeIndex glueType="Integer">78</edgeIndex>
+            <likeWeightRatio glueType="Double">0.01304</likeWeightRatio>
+            <logLikelihood glueType="Double">-24479.832159</logLikelihood>
+            <distalLength glueType="Double">0.025689</distalLength>
+            <pendantLength glueType="Double">0.010287</pendantLength>
+        </singlePlacement>
+    </queryResults>
+    <queryResults glueType="Object[]">
+        <queryName glueType="String">ncbi-curated/MH006603</queryName>
+        <singlePlacement glueType="Object[]">
+            <placementIndex glueType="Integer">1</placementIndex>
+            <edgeIndex glueType="Integer">72</edgeIndex>
+            <likeWeightRatio glueType="Double">0.433695</likeWeightRatio>
+            <logLikelihood glueType="Double">-24519.162984</logLikelihood>
+            <distalLength glueType="Double">0.003424</distalLength>
+            <pendantLength glueType="Double">0.036878</pendantLength>
+        </singlePlacement>
+        <singlePlacement glueType="Object[]">
+            <placementIndex glueType="Integer">2</placementIndex>
+            <edgeIndex glueType="Integer">69</edgeIndex>
+            <likeWeightRatio glueType="Double">0.41894</likeWeightRatio>
+            <logLikelihood glueType="Double">-24519.1976</logLikelihood>
+            <distalLength glueType="Double">0.003013</distalLength>
+            <pendantLength glueType="Double">0.034134</pendantLength>
+        </singlePlacement>
+        <singlePlacement glueType="Object[]">
+            <placementIndex glueType="Integer">3</placementIndex>
+            <edgeIndex glueType="Integer">71</edgeIndex>
+            <likeWeightRatio glueType="Double">0.039014</likeWeightRatio>
+            <logLikelihood glueType="Double">-24521.571416</logLikelihood>
+            <distalLength glueType="Double">1.0E-6</distalLength>
+            <pendantLength glueType="Double">0.039286</pendantLength>
+        </singlePlacement>
+        <singlePlacement glueType="Object[]">
+            <placementIndex glueType="Integer">4</placementIndex>
+            <edgeIndex glueType="Integer">70</edgeIndex>
+            <likeWeightRatio glueType="Double">0.038693</likeWeightRatio>
+            <logLikelihood glueType="Double">-24521.579658</logLikelihood>
+            <distalLength glueType="Double">0.001115</distalLength>
+            <pendantLength glueType="Double">0.039341</pendantLength>
+        </singlePlacement>
+        <singlePlacement glueType="Object[]">
+            <placementIndex glueType="Integer">5</placementIndex>
+            <edgeIndex glueType="Integer">68</edgeIndex>
+            <likeWeightRatio glueType="Double">0.037731</likeWeightRatio>
+            <logLikelihood glueType="Double">-24521.604838</logLikelihood>
+            <distalLength glueType="Double">1.0E-6</distalLength>
+            <pendantLength glueType="Double">0.039512</pendantLength>
+        </singlePlacement>
+        <singlePlacement glueType="Object[]">
+            <placementIndex glueType="Integer">6</placementIndex>
+            <edgeIndex glueType="Integer">73</edgeIndex>
+            <likeWeightRatio glueType="Double">0.01596</likeWeightRatio>
+            <logLikelihood glueType="Double">-24522.465239</logLikelihood>
+            <distalLength glueType="Double">0.00654</distalLength>
+            <pendantLength glueType="Double">0.041285</pendantLength>
+        </singlePlacement>
+        <singlePlacement glueType="Object[]">
+            <placementIndex glueType="Integer">7</placementIndex>
+            <edgeIndex glueType="Integer">67</edgeIndex>
+            <likeWeightRatio glueType="Double">0.015814</likeWeightRatio>
+            <logLikelihood glueType="Double">-24522.474441</logLikelihood>
+            <distalLength glueType="Double">1.0E-6</distalLength>
+            <pendantLength glueType="Double">0.041332</pendantLength>
+        </singlePlacement>
+    </queryResults>
+    <labelledPhyloTree glueType="Object">
+        <root glueType="Object">
+            <internal glueType="Object">
+                <userData glueType="Object"/>
+                <branch glueType="Object[]">
+                    <userData glueType="Object">
+                        <length glueType="String">0.05117080628244303347</length>
+                        <jPlaceBranchLabel glueType="Integer">0</jPlaceBranchLabel>
+                    </userData>
+                    <leaf glueType="Object">
+                        <userData glueType="Object">
+                            <name glueType="String">alignment/AL_G/member/ncbi-refseqs/AB056513</name>
+                        </userData>
+                    </leaf>
+                </branch>
+                <branch glueType="Object[]">
+                    <userData glueType="Object">
+                        <length glueType="String">0.05117080628244303347</length>
+                        <jPlaceBranchLabel glueType="Integer">81</jPlaceBranchLabel>
+                    </userData>
+                    <internal glueType="Object">
+                        <userData glueType="Object"/>
+                        <branch glueType="Object[]">
+                            <userData glueType="Object">
+                                <length glueType="String">0.02003824005604336322</length>
+                                <jPlaceBranchLabel glueType="Integer">65</jPlaceBranchLabel>
+                            </userData>
+                            <internal glueType="Object">
+                                <userData glueType="Object"/>
+                                <branch glueType="Object[]">
+                                    <userData glueType="Object">
+                                        <length glueType="String">0.01270069178002013709</length>
+                                        <jPlaceBranchLabel glueType="Integer">53</jPlaceBranchLabel>
+                                    </userData>
+                                    <internal glueType="Object">
+                                        <userData glueType="Object"/>
+                                        <branch glueType="Object[]">
+                                            <userData glueType="Object">
+                                                <length glueType="String">0.04249894049564012510</length>
+                                                <jPlaceBranchLabel glueType="Integer">11</jPlaceBranchLabel>
+                                            </userData>
+                                            <internal glueType="Object">
+                                                <userData glueType="Object"/>
+                                                <branch glueType="Object[]">
+                                                    <userData glueType="Object">
+                                                        <length glueType="String">0.03502517709240526855</length>
+                                                        <jPlaceBranchLabel glueType="Integer">1</jPlaceBranchLabel>
+                                                    </userData>
+                                                    <leaf glueType="Object">
+                                                        <userData glueType="Object">
+                                                            <name glueType="String">alignment/AL_B6/member/ncbi-refseqs/AB287314</name>
+                                                        </userData>
+                                                    </leaf>
+                                                </branch>
+                                                <branch glueType="Object[]">
+                                                    <userData glueType="Object">
+                                                        <length glueType="String">0.00943651152006669269</length>
+                                                        <jPlaceBranchLabel glueType="Integer">10</jPlaceBranchLabel>
+                                                    </userData>
+                                                    <internal glueType="Object">
+                                                        <userData glueType="Object"/>
+                                                        <branch glueType="Object[]">
+                                                            <userData glueType="Object">
+                                                                <length glueType="String">0.02005798347950745950</length>
+                                                                <jPlaceBranchLabel glueType="Integer">2</jPlaceBranchLabel>
+                                                            </userData>
+                                                            <leaf glueType="Object">
+                                                                <userData glueType="Object">
+                                                                    <name glueType="String">alignment/AL_B3/member/ncbi-refseqs/AP011085</name>
+                                                                </userData>
+                                                            </leaf>
+                                                        </branch>
+                                                        <branch glueType="Object[]">
+                                                            <userData glueType="Object">
+                                                                <length glueType="String">0.01160974063804555770</length>
+                                                                <jPlaceBranchLabel glueType="Integer">9</jPlaceBranchLabel>
+                                                            </userData>
+                                                            <internal glueType="Object">
+                                                                <userData glueType="Object"/>
+                                                                <branch glueType="Object[]">
+                                                                    <userData glueType="Object">
+                                                                        <length glueType="String">0.02263432394336943945</length>
+                                                                        <jPlaceBranchLabel glueType="Integer">3</jPlaceBranchLabel>
+                                                                    </userData>
+                                                                    <leaf glueType="Object">
+                                                                        <userData glueType="Object">
+                                                                            <name glueType="String">alignment/AL_B4/member/ncbi-refseqs/AB073835</name>
+                                                                        </userData>
+                                                                    </leaf>
+                                                                </branch>
+                                                                <branch glueType="Object[]">
+                                                                    <userData glueType="Object">
+                                                                        <length glueType="String">0.00299683678411943660</length>
+                                                                        <jPlaceBranchLabel glueType="Integer">8</jPlaceBranchLabel>
+                                                                    </userData>
+                                                                    <internal glueType="Object">
+                                                                        <userData glueType="Object"/>
+                                                                        <branch glueType="Object[]">
+                                                                            <userData glueType="Object">
+                                                                                <length glueType="String">0.01053128355506202478</length>
+                                                                                <jPlaceBranchLabel glueType="Integer">6</jPlaceBranchLabel>
+                                                                            </userData>
+                                                                            <internal glueType="Object">
+                                                                                <userData glueType="Object"/>
+                                                                                <branch glueType="Object[]">
+                                                                                    <userData glueType="Object">
+                                                                                        <length glueType="String">0.00634892186431981666</length>
+                                                                                        <jPlaceBranchLabel glueType="Integer">4</jPlaceBranchLabel>
+                                                                                    </userData>
+                                                                                    <leaf glueType="Object">
+                                                                                        <userData glueType="Object">
+                                                                                            <name glueType="String">alignment/AL_B2_2/member/ncbi-refseqs/GU815637</name>
+                                                                                        </userData>
+                                                                                    </leaf>
+                                                                                </branch>
+                                                                                <branch glueType="Object[]">
+                                                                                    <userData glueType="Object">
+                                                                                        <length glueType="String">0.00518715680725920138</length>
+                                                                                        <jPlaceBranchLabel glueType="Integer">5</jPlaceBranchLabel>
+                                                                                    </userData>
+                                                                                    <leaf glueType="Object">
+                                                                                        <userData glueType="Object">
+                                                                                            <name glueType="String">alignment/AL_B2_1/member/ncbi-refseqs/JQ801514</name>
+                                                                                        </userData>
+                                                                                    </leaf>
+                                                                                </branch>
+                                                                            </internal>
+                                                                        </branch>
+                                                                        <branch glueType="Object[]">
+                                                                            <userData glueType="Object">
+                                                                                <length glueType="String">0.03162297061612350663</length>
+                                                                                <jPlaceBranchLabel glueType="Integer">7</jPlaceBranchLabel>
+                                                                            </userData>
+                                                                            <leaf glueType="Object">
+                                                                                <userData glueType="Object">
+                                                                                    <name glueType="String">alignment/AL_B1/member/ncbi-refseqs/D23679</name>
+                                                                                </userData>
+                                                                            </leaf>
+                                                                        </branch>
+                                                                    </internal>
+                                                                </branch>
+                                                            </internal>
+                                                        </branch>
+                                                    </internal>
+                                                </branch>
+                                            </internal>
+                                        </branch>
+                                        <branch glueType="Object[]">
+                                            <userData glueType="Object">
+                                                <length glueType="String">0.00899976479605764206</length>
+                                                <jPlaceBranchLabel glueType="Integer">52</jPlaceBranchLabel>
+                                            </userData>
+                                            <internal glueType="Object">
+                                                <userData glueType="Object"/>
+                                                <branch glueType="Object[]">
+                                                    <userData glueType="Object">
+                                                        <length glueType="String">0.01300674684933747667</length>
+                                                        <jPlaceBranchLabel glueType="Integer">38</jPlaceBranchLabel>
+                                                    </userData>
+                                                    <internal glueType="Object">
+                                                        <userData glueType="Object"/>
+                                                        <branch glueType="Object[]">
+                                                            <userData glueType="Object">
+                                                                <length glueType="String">0.01936773187843371727</length>
+                                                                <jPlaceBranchLabel glueType="Integer">34</jPlaceBranchLabel>
+                                                            </userData>
+                                                            <internal glueType="Object">
+                                                                <userData glueType="Object"/>
+                                                                <branch glueType="Object[]">
+                                                                    <userData glueType="Object">
+                                                                        <length glueType="String">0.01345838693710952987</length>
+                                                                        <jPlaceBranchLabel glueType="Integer">32</jPlaceBranchLabel>
+                                                                    </userData>
+                                                                    <internal glueType="Object">
+                                                                        <userData glueType="Object"/>
+                                                                        <branch glueType="Object[]">
+                                                                            <userData glueType="Object">
+                                                                                <length glueType="String">0.03041969225295628604</length>
+                                                                                <jPlaceBranchLabel glueType="Integer">12</jPlaceBranchLabel>
+                                                                            </userData>
+                                                                            <leaf glueType="Object">
+                                                                                <userData glueType="Object">
+                                                                                    <name glueType="String">alignment/AL_C11/member/ncbi-refseqs/AB554015</name>
+                                                                                </userData>
+                                                                            </leaf>
+                                                                        </branch>
+                                                                        <branch glueType="Object[]">
+                                                                            <userData glueType="Object">
+                                                                                <length glueType="String">0.00505601227610546437</length>
+                                                                                <jPlaceBranchLabel glueType="Integer">31</jPlaceBranchLabel>
+                                                                            </userData>
+                                                                            <internal glueType="Object">
+                                                                                <userData glueType="Object"/>
+                                                                                <branch glueType="Object[]">
+                                                                                    <userData glueType="Object">
+                                                                                        <length glueType="String">0.03157394751520346127</length>
+                                                                                        <jPlaceBranchLabel glueType="Integer">13</jPlaceBranchLabel>
+                                                                                    </userData>
+                                                                                    <leaf glueType="Object">
+                                                                                        <userData glueType="Object">
+                                                                                            <name glueType="String">alignment/AL_C8/member/ncbi-refseqs/AP011107</name>
+                                                                                        </userData>
+                                                                                    </leaf>
+                                                                                </branch>
+                                                                                <branch glueType="Object[]">
+                                                                                    <userData glueType="Object">
+                                                                                        <length glueType="String">0.00253414221568434980</length>
+                                                                                        <jPlaceBranchLabel glueType="Integer">30</jPlaceBranchLabel>
+                                                                                    </userData>
+                                                                                    <internal glueType="Object">
+                                                                                        <userData glueType="Object"/>
+                                                                                        <branch glueType="Object[]">
+                                                                                            <userData glueType="Object">
+                                                                                                <length glueType="String">0.02736422965349092143</length>
+                                                                                                <jPlaceBranchLabel glueType="Integer">14</jPlaceBranchLabel>
+                                                                                            </userData>
+                                                                                            <leaf glueType="Object">
+                                                                                                <userData glueType="Object">
+                                                                                                    <name glueType="String">alignment/AL_C6/member/ncbi-refseqs/EU670263</name>
+                                                                                                </userData>
+                                                                                            </leaf>
+                                                                                        </branch>
+                                                                                        <branch glueType="Object[]">
+                                                                                            <userData glueType="Object">
+                                                                                                <length glueType="String">0.00421811840677356435</length>
+                                                                                                <jPlaceBranchLabel glueType="Integer">29</jPlaceBranchLabel>
+                                                                                            </userData>
+                                                                                            <internal glueType="Object">
+                                                                                                <userData glueType="Object"/>
+                                                                                                <branch glueType="Object[]">
+                                                                                                    <userData glueType="Object">
+                                                                                                        <length glueType="String">0.01604854442816624691</length>
+                                                                                                        <jPlaceBranchLabel glueType="Integer">15</jPlaceBranchLabel>
+                                                                                                    </userData>
+                                                                                                    <leaf glueType="Object">
+                                                                                                        <userData glueType="Object">
+                                                                                                            <name glueType="String">alignment/AL_C_UA_1/member/ncbi-refseqs/KC774298</name>
+                                                                                                        </userData>
+                                                                                                    </leaf>
+                                                                                                </branch>
+                                                                                                <branch glueType="Object[]">
+                                                                                                    <userData glueType="Object">
+                                                                                                        <length glueType="String">0.00180088688278733956</length>
+                                                                                                        <jPlaceBranchLabel glueType="Integer">28</jPlaceBranchLabel>
+                                                                                                    </userData>
+                                                                                                    <internal glueType="Object">
+                                                                                                        <userData glueType="Object"/>
+                                                                                                        <branch glueType="Object[]">
+                                                                                                            <userData glueType="Object">
+                                                                                                                <length glueType="String">0.00248905101823203734</length>
+                                                                                                                <jPlaceBranchLabel glueType="Integer">22</jPlaceBranchLabel>
+                                                                                                            </userData>
+                                                                                                            <internal glueType="Object">
+                                                                                                                <userData glueType="Object"/>
+                                                                                                                <branch glueType="Object[]">
+                                                                                                                    <userData glueType="Object">
+                                                                                                                        <length glueType="String">0.02258150624439371132</length>
+                                                                                                                        <jPlaceBranchLabel glueType="Integer">16</jPlaceBranchLabel>
+                                                                                                                    </userData>
+                                                                                                                    <leaf glueType="Object">
+                                                                                                                        <userData glueType="Object">
+                                                                                                                            <name glueType="String">alignment/AL_C_UA_2/member/ncbi-refseqs/DQ089802</name>
+                                                                                                                        </userData>
+                                                                                                                    </leaf>
+                                                                                                                </branch>
+                                                                                                                <branch glueType="Object[]">
+                                                                                                                    <userData glueType="Object">
+                                                                                                                        <length glueType="String">0.00343054865108620302</length>
+                                                                                                                        <jPlaceBranchLabel glueType="Integer">21</jPlaceBranchLabel>
+                                                                                                                    </userData>
+                                                                                                                    <internal glueType="Object">
+                                                                                                                        <userData glueType="Object"/>
+                                                                                                                        <branch glueType="Object[]">
+                                                                                                                            <userData glueType="Object">
+                                                                                                                                <length glueType="String">0.00108496007188373361</length>
+                                                                                                                                <jPlaceBranchLabel glueType="Integer">19</jPlaceBranchLabel>
+                                                                                                                            </userData>
+                                                                                                                            <internal glueType="Object">
+                                                                                                                                <userData glueType="Object"/>
+                                                                                                                                <branch glueType="Object[]">
+                                                                                                                                    <userData glueType="Object">
+                                                                                                                                        <length glueType="String">0.00845949861351509395</length>
+                                                                                                                                        <jPlaceBranchLabel glueType="Integer">17</jPlaceBranchLabel>
+                                                                                                                                    </userData>
+                                                                                                                                    <leaf glueType="Object">
+                                                                                                                                        <userData glueType="Object">
+                                                                                                                                            <name glueType="String">alignment/AL_C2_1/member/ncbi-refseqs/KC774182</name>
+                                                                                                                                        </userData>
+                                                                                                                                    </leaf>
+                                                                                                                                </branch>
+                                                                                                                                <branch glueType="Object[]">
+                                                                                                                                    <userData glueType="Object">
+                                                                                                                                        <length glueType="String">0.00537598088129838305</length>
+                                                                                                                                        <jPlaceBranchLabel glueType="Integer">18</jPlaceBranchLabel>
+                                                                                                                                    </userData>
+                                                                                                                                    <leaf glueType="Object">
+                                                                                                                                        <userData glueType="Object">
+                                                                                                                                            <name glueType="String">alignment/AL_C2_3/member/ncbi-refseqs/AP011098</name>
+                                                                                                                                        </userData>
+                                                                                                                                    </leaf>
+                                                                                                                                </branch>
+                                                                                                                            </internal>
+                                                                                                                        </branch>
+                                                                                                                        <branch glueType="Object[]">
+                                                                                                                            <userData glueType="Object">
+                                                                                                                                <length glueType="String">0.01013807033436846770</length>
+                                                                                                                                <jPlaceBranchLabel glueType="Integer">20</jPlaceBranchLabel>
+                                                                                                                            </userData>
+                                                                                                                            <leaf glueType="Object">
+                                                                                                                                <userData glueType="Object">
+                                                                                                                                    <name glueType="String">alignment/AL_C2_2/member/ncbi-refseqs/GQ377617</name>
+                                                                                                                                </userData>
+                                                                                                                            </leaf>
+                                                                                                                        </branch>
+                                                                                                                    </internal>
+                                                                                                                </branch>
+                                                                                                            </internal>
+                                                                                                        </branch>
+                                                                                                        <branch glueType="Object[]">
+                                                                                                            <userData glueType="Object">
+                                                                                                                <length glueType="String">0.00217053829199789815</length>
+                                                                                                                <jPlaceBranchLabel glueType="Integer">27</jPlaceBranchLabel>
+                                                                                                            </userData>
+                                                                                                            <internal glueType="Object">
+                                                                                                                <userData glueType="Object"/>
+                                                                                                                <branch glueType="Object[]">
+                                                                                                                    <userData glueType="Object">
+                                                                                                                        <length glueType="String">0.04860081459972387385</length>
+                                                                                                                        <jPlaceBranchLabel glueType="Integer">23</jPlaceBranchLabel>
+                                                                                                                    </userData>
+                                                                                                                    <leaf glueType="Object">
+                                                                                                                        <userData glueType="Object">
+                                                                                                                            <name glueType="String">alignment/AL_C5/member/ncbi-refseqs/AP011099</name>
+                                                                                                                        </userData>
+                                                                                                                    </leaf>
+                                                                                                                </branch>
+                                                                                                                <branch glueType="Object[]">
+                                                                                                                    <userData glueType="Object">
+                                                                                                                        <length glueType="String">0.00402464079779238284</length>
+                                                                                                                        <jPlaceBranchLabel glueType="Integer">26</jPlaceBranchLabel>
+                                                                                                                    </userData>
+                                                                                                                    <internal glueType="Object">
+                                                                                                                        <userData glueType="Object"/>
+                                                                                                                        <branch glueType="Object[]">
+                                                                                                                            <userData glueType="Object">
+                                                                                                                                <length glueType="String">0.01972666546018521025</length>
+                                                                                                                                <jPlaceBranchLabel glueType="Integer">24</jPlaceBranchLabel>
+                                                                                                                            </userData>
+                                                                                                                            <leaf glueType="Object">
+                                                                                                                                <userData glueType="Object">
+                                                                                                                                    <name glueType="String">alignment/AL_C10/member/ncbi-refseqs/KJ173333</name>
+                                                                                                                                </userData>
+                                                                                                                            </leaf>
+                                                                                                                        </branch>
+                                                                                                                        <branch glueType="Object[]">
+                                                                                                                            <userData glueType="Object">
+                                                                                                                                <length glueType="String">0.02449896174438001908</length>
+                                                                                                                                <jPlaceBranchLabel glueType="Integer">25</jPlaceBranchLabel>
+                                                                                                                            </userData>
+                                                                                                                            <leaf glueType="Object">
+                                                                                                                                <userData glueType="Object">
+                                                                                                                                    <name glueType="String">alignment/AL_C1/member/ncbi-refseqs/DQ089781</name>
+                                                                                                                                </userData>
+                                                                                                                            </leaf>
+                                                                                                                        </branch>
+                                                                                                                    </internal>
+                                                                                                                </branch>
+                                                                                                            </internal>
+                                                                                                        </branch>
+                                                                                                    </internal>
+                                                                                                </branch>
+                                                                                            </internal>
+                                                                                        </branch>
+                                                                                    </internal>
+                                                                                </branch>
+                                                                            </internal>
+                                                                        </branch>
+                                                                    </internal>
+                                                                </branch>
+                                                                <branch glueType="Object[]">
+                                                                    <userData glueType="Object">
+                                                                        <length glueType="String">0.04020870843098455633</length>
+                                                                        <jPlaceBranchLabel glueType="Integer">33</jPlaceBranchLabel>
+                                                                    </userData>
+                                                                    <leaf glueType="Object">
+                                                                        <userData glueType="Object">
+                                                                            <name glueType="String">alignment/AL_C4/member/ncbi-refseqs/KF873526</name>
+                                                                        </userData>
+                                                                    </leaf>
+                                                                </branch>
+                                                            </internal>
+                                                        </branch>
+                                                        <branch glueType="Object[]">
+                                                            <userData glueType="Object">
+                                                                <length glueType="String">0.02249591519855393545</length>
+                                                                <jPlaceBranchLabel glueType="Integer">37</jPlaceBranchLabel>
+                                                            </userData>
+                                                            <internal glueType="Object">
+                                                                <userData glueType="Object"/>
+                                                                <branch glueType="Object[]">
+                                                                    <userData glueType="Object">
+                                                                        <length glueType="String">0.01923620876592145243</length>
+                                                                        <jPlaceBranchLabel glueType="Integer">35</jPlaceBranchLabel>
+                                                                    </userData>
+                                                                    <leaf glueType="Object">
+                                                                        <userData glueType="Object">
+                                                                            <name glueType="String">alignment/AL_I2/member/ncbi-refseqs/FJ023669</name>
+                                                                        </userData>
+                                                                    </leaf>
+                                                                </branch>
+                                                                <branch glueType="Object[]">
+                                                                    <userData glueType="Object">
+                                                                        <length glueType="String">0.02138359784130237917</length>
+                                                                        <jPlaceBranchLabel glueType="Integer">36</jPlaceBranchLabel>
+                                                                    </userData>
+                                                                    <leaf glueType="Object">
+                                                                        <userData glueType="Object">
+                                                                            <name glueType="String">alignment/AL_I1/member/ncbi-refseqs/AB562463</name>
+                                                                        </userData>
+                                                                    </leaf>
+                                                                </branch>
+                                                            </internal>
+                                                        </branch>
+                                                    </internal>
+                                                </branch>
+                                                <branch glueType="Object[]">
+                                                    <userData glueType="Object">
+                                                        <length glueType="String">0.03923073783250909108</length>
+                                                        <jPlaceBranchLabel glueType="Integer">51</jPlaceBranchLabel>
+                                                    </userData>
+                                                    <internal glueType="Object">
+                                                        <userData glueType="Object"/>
+                                                        <branch glueType="Object[]">
+                                                            <userData glueType="Object">
+                                                                <length glueType="String">0.02467361890251701384</length>
+                                                                <jPlaceBranchLabel glueType="Integer">39</jPlaceBranchLabel>
+                                                            </userData>
+                                                            <leaf glueType="Object">
+                                                                <userData glueType="Object">
+                                                                    <name glueType="String">alignment/AL_A2/member/ncbi-refseqs/EU594385</name>
+                                                                </userData>
+                                                            </leaf>
+                                                        </branch>
+                                                        <branch glueType="Object[]">
+                                                            <userData glueType="Object">
+                                                                <length glueType="String">0.00421032247795630372</length>
+                                                                <jPlaceBranchLabel glueType="Integer">50</jPlaceBranchLabel>
+                                                            </userData>
+                                                            <internal glueType="Object">
+                                                                <userData glueType="Object"/>
+                                                                <branch glueType="Object[]">
+                                                                    <userData glueType="Object">
+                                                                        <length glueType="String">0.03392186156115888085</length>
+                                                                        <jPlaceBranchLabel glueType="Integer">40</jPlaceBranchLabel>
+                                                                    </userData>
+                                                                    <leaf glueType="Object">
+                                                                        <userData glueType="Object">
+                                                                            <name glueType="String">alignment/AL_A6/member/ncbi-refseqs/GQ331046</name>
+                                                                        </userData>
+                                                                    </leaf>
+                                                                </branch>
+                                                                <branch glueType="Object[]">
+                                                                    <userData glueType="Object">
+                                                                        <length glueType="String">0.00557765728475058051</length>
+                                                                        <jPlaceBranchLabel glueType="Integer">49</jPlaceBranchLabel>
+                                                                    </userData>
+                                                                    <internal glueType="Object">
+                                                                        <userData glueType="Object"/>
+                                                                        <branch glueType="Object[]">
+                                                                            <userData glueType="Object">
+                                                                                <length glueType="String">0.00418560502272196169</length>
+                                                                                <jPlaceBranchLabel glueType="Integer">45</jPlaceBranchLabel>
+                                                                            </userData>
+                                                                            <internal glueType="Object">
+                                                                                <userData glueType="Object"/>
+                                                                                <branch glueType="Object[]">
+                                                                                    <userData glueType="Object">
+                                                                                        <length glueType="String">0.01437218616250785820</length>
+                                                                                        <jPlaceBranchLabel glueType="Integer">41</jPlaceBranchLabel>
+                                                                                    </userData>
+                                                                                    <leaf glueType="Object">
+                                                                                        <userData glueType="Object">
+                                                                                            <name glueType="String">alignment/AL_A5/member/ncbi-refseqs/FJ692601</name>
+                                                                                        </userData>
+                                                                                    </leaf>
+                                                                                </branch>
+                                                                                <branch glueType="Object[]">
+                                                                                    <userData glueType="Object">
+                                                                                        <length glueType="String">0.00209186576819242595</length>
+                                                                                        <jPlaceBranchLabel glueType="Integer">44</jPlaceBranchLabel>
+                                                                                    </userData>
+                                                                                    <internal glueType="Object">
+                                                                                        <userData glueType="Object"/>
+                                                                                        <branch glueType="Object[]">
+                                                                                            <userData glueType="Object">
+                                                                                                <length glueType="String">0.02481906504895308591</length>
+                                                                                                <jPlaceBranchLabel glueType="Integer">42</jPlaceBranchLabel>
+                                                                                            </userData>
+                                                                                            <leaf glueType="Object">
+                                                                                                <userData glueType="Object">
+                                                                                                    <name glueType="String">alignment/AL_A3/member/ncbi-refseqs/AM184126</name>
+                                                                                                </userData>
+                                                                                            </leaf>
+                                                                                        </branch>
+                                                                                        <branch glueType="Object[]">
+                                                                                            <userData glueType="Object">
+                                                                                                <length glueType="String">0.01681846991152445223</length>
+                                                                                                <jPlaceBranchLabel glueType="Integer">43</jPlaceBranchLabel>
+                                                                                            </userData>
+                                                                                            <leaf glueType="Object">
+                                                                                                <userData glueType="Object">
+                                                                                                    <name glueType="String">alignment/AL_A4/member/ncbi-refseqs/KM606737</name>
+                                                                                                </userData>
+                                                                                            </leaf>
+                                                                                        </branch>
+                                                                                    </internal>
+                                                                                </branch>
+                                                                            </internal>
+                                                                        </branch>
+                                                                        <branch glueType="Object[]">
+                                                                            <userData glueType="Object">
+                                                                                <length glueType="String">0.01187905427240544022</length>
+                                                                                <jPlaceBranchLabel glueType="Integer">48</jPlaceBranchLabel>
+                                                                            </userData>
+                                                                            <internal glueType="Object">
+                                                                                <userData glueType="Object"/>
+                                                                                <branch glueType="Object[]">
+                                                                                    <userData glueType="Object">
+                                                                                        <length glueType="String">0.01023753616948360097</length>
+                                                                                        <jPlaceBranchLabel glueType="Integer">46</jPlaceBranchLabel>
+                                                                                    </userData>
+                                                                                    <leaf glueType="Object">
+                                                                                        <userData glueType="Object">
+                                                                                            <name glueType="String">alignment/AL_A1_2/member/ncbi-refseqs/FJ692557</name>
+                                                                                        </userData>
+                                                                                    </leaf>
+                                                                                </branch>
+                                                                                <branch glueType="Object[]">
+                                                                                    <userData glueType="Object">
+                                                                                        <length glueType="String">0.01280891427835432854</length>
+                                                                                        <jPlaceBranchLabel glueType="Integer">47</jPlaceBranchLabel>
+                                                                                    </userData>
+                                                                                    <leaf glueType="Object">
+                                                                                        <userData glueType="Object">
+                                                                                            <name glueType="String">alignment/AL_A1_1/member/ncbi-refseqs/KP168423</name>
+                                                                                        </userData>
+                                                                                    </leaf>
+                                                                                </branch>
+                                                                            </internal>
+                                                                        </branch>
+                                                                    </internal>
+                                                                </branch>
+                                                            </internal>
+                                                        </branch>
+                                                    </internal>
+                                                </branch>
+                                            </internal>
+                                        </branch>
+                                    </internal>
+                                </branch>
+                                <branch glueType="Object[]">
+                                    <userData glueType="Object">
+                                        <length glueType="String">0.01268710561799181978</length>
+                                        <jPlaceBranchLabel glueType="Integer">64</jPlaceBranchLabel>
+                                    </userData>
+                                    <internal glueType="Object">
+                                        <userData glueType="Object"/>
+                                        <branch glueType="Object[]">
+                                            <userData glueType="Object">
+                                                <length glueType="String">0.10954541430555300718</length>
+                                                <jPlaceBranchLabel glueType="Integer">54</jPlaceBranchLabel>
+                                            </userData>
+                                            <leaf glueType="Object">
+                                                <userData glueType="Object">
+                                                    <name glueType="String">alignment/AL_J/member/ncbi-refseqs/AB486012</name>
+                                                </userData>
+                                            </leaf>
+                                        </branch>
+                                        <branch glueType="Object[]">
+                                            <userData glueType="Object">
+                                                <length glueType="String">0.11487201105041906779</length>
+                                                <jPlaceBranchLabel glueType="Integer">63</jPlaceBranchLabel>
+                                            </userData>
+                                            <internal glueType="Object">
+                                                <userData glueType="Object"/>
+                                                <branch glueType="Object[]">
+                                                    <userData glueType="Object">
+                                                        <length glueType="String">0.03305474810589745932</length>
+                                                        <jPlaceBranchLabel glueType="Integer">61</jPlaceBranchLabel>
+                                                    </userData>
+                                                    <internal glueType="Object">
+                                                        <userData glueType="Object"/>
+                                                        <branch glueType="Object[]">
+                                                            <userData glueType="Object">
+                                                                <length glueType="String">0.03745261542396501053</length>
+                                                                <jPlaceBranchLabel glueType="Integer">55</jPlaceBranchLabel>
+                                                            </userData>
+                                                            <leaf glueType="Object">
+                                                                <userData glueType="Object">
+                                                                    <name glueType="String">alignment/AL_F1/member/ncbi-refseqs/HM585194</name>
+                                                                </userData>
+                                                            </leaf>
+                                                        </branch>
+                                                        <branch glueType="Object[]">
+                                                            <userData glueType="Object">
+                                                                <length glueType="String">0.00987033408687242736</length>
+                                                                <jPlaceBranchLabel glueType="Integer">60</jPlaceBranchLabel>
+                                                            </userData>
+                                                            <internal glueType="Object">
+                                                                <userData glueType="Object"/>
+                                                                <branch glueType="Object[]">
+                                                                    <userData glueType="Object">
+                                                                        <length glueType="String">0.00537370774197990994</length>
+                                                                        <jPlaceBranchLabel glueType="Integer">58</jPlaceBranchLabel>
+                                                                    </userData>
+                                                                    <internal glueType="Object">
+                                                                        <userData glueType="Object"/>
+                                                                        <branch glueType="Object[]">
+                                                                            <userData glueType="Object">
+                                                                                <length glueType="String">0.02774041134053126245</length>
+                                                                                <jPlaceBranchLabel glueType="Integer">56</jPlaceBranchLabel>
+                                                                            </userData>
+                                                                            <leaf glueType="Object">
+                                                                                <userData glueType="Object">
+                                                                                    <name glueType="String">alignment/AL_F2/member/ncbi-refseqs/DQ899143</name>
+                                                                                </userData>
+                                                                            </leaf>
+                                                                        </branch>
+                                                                        <branch glueType="Object[]">
+                                                                            <userData glueType="Object">
+                                                                                <length glueType="String">0.02672378613462827665</length>
+                                                                                <jPlaceBranchLabel glueType="Integer">57</jPlaceBranchLabel>
+                                                                            </userData>
+                                                                            <leaf glueType="Object">
+                                                                                <userData glueType="Object">
+                                                                                    <name glueType="String">alignment/AL_F4/member/ncbi-refseqs/KJ843175</name>
+                                                                                </userData>
+                                                                            </leaf>
+                                                                        </branch>
+                                                                    </internal>
+                                                                </branch>
+                                                                <branch glueType="Object[]">
+                                                                    <userData glueType="Object">
+                                                                        <length glueType="String">0.02271144452154672672</length>
+                                                                        <jPlaceBranchLabel glueType="Integer">59</jPlaceBranchLabel>
+                                                                    </userData>
+                                                                    <leaf glueType="Object">
+                                                                        <userData glueType="Object">
+                                                                            <name glueType="String">alignment/AL_F3/member/ncbi-refseqs/MH051986</name>
+                                                                        </userData>
+                                                                    </leaf>
+                                                                </branch>
+                                                            </internal>
+                                                        </branch>
+                                                    </internal>
+                                                </branch>
+                                                <branch glueType="Object[]">
+                                                    <userData glueType="Object">
+                                                        <length glueType="String">0.06004366937362322354</length>
+                                                        <jPlaceBranchLabel glueType="Integer">62</jPlaceBranchLabel>
+                                                    </userData>
+                                                    <leaf glueType="Object">
+                                                        <userData glueType="Object">
+                                                            <name glueType="String">alignment/AL_H/member/ncbi-refseqs/FJ356715</name>
+                                                        </userData>
+                                                    </leaf>
+                                                </branch>
+                                            </internal>
+                                        </branch>
+                                    </internal>
+                                </branch>
+                            </internal>
+                        </branch>
+                        <branch glueType="Object[]">
+                            <userData glueType="Object">
+                                <length glueType="String">0.02388516834674583866</length>
+                                <jPlaceBranchLabel glueType="Integer">80</jPlaceBranchLabel>
+                            </userData>
+                            <internal glueType="Object">
+                                <userData glueType="Object"/>
+                                <branch glueType="Object[]">
+                                    <userData glueType="Object">
+                                        <length glueType="String">0.03378879764728200813</length>
+                                        <jPlaceBranchLabel glueType="Integer">78</jPlaceBranchLabel>
+                                    </userData>
+                                    <internal glueType="Object">
+                                        <userData glueType="Object"/>
+                                        <branch glueType="Object[]">
+                                            <userData glueType="Object">
+                                                <length glueType="String">0.03536935320288715767</length>
+                                                <jPlaceBranchLabel glueType="Integer">66</jPlaceBranchLabel>
+                                            </userData>
+                                            <leaf glueType="Object">
+                                                <userData glueType="Object">
+                                                    <name glueType="String">alignment/AL_D5/member/ncbi-refseqs/GQ205389</name>
+                                                </userData>
+                                            </leaf>
+                                        </branch>
+                                        <branch glueType="Object[]">
+                                            <userData glueType="Object">
+                                                <length glueType="String">0.00551387485052282425</length>
+                                                <jPlaceBranchLabel glueType="Integer">77</jPlaceBranchLabel>
+                                            </userData>
+                                            <internal glueType="Object">
+                                                <userData glueType="Object"/>
+                                                <branch glueType="Object[]">
+                                                    <userData glueType="Object">
+                                                        <length glueType="String">0.00654298439748724012</length>
+                                                        <jPlaceBranchLabel glueType="Integer">73</jPlaceBranchLabel>
+                                                    </userData>
+                                                    <internal glueType="Object">
+                                                        <userData glueType="Object"/>
+                                                        <branch glueType="Object[]">
+                                                            <userData glueType="Object">
+                                                                <length glueType="String">0.01711567526192519367</length>
+                                                                <jPlaceBranchLabel glueType="Integer">67</jPlaceBranchLabel>
+                                                            </userData>
+                                                            <leaf glueType="Object">
+                                                                <userData glueType="Object">
+                                                                    <name glueType="String">alignment/AL_D3/member/ncbi-refseqs/FJ692507</name>
+                                                                </userData>
+                                                            </leaf>
+                                                        </branch>
+                                                        <branch glueType="Object[]">
+                                                            <userData glueType="Object">
+                                                                <length glueType="String">0.00528335284995701433</length>
+                                                                <jPlaceBranchLabel glueType="Integer">72</jPlaceBranchLabel>
+                                                            </userData>
+                                                            <internal glueType="Object">
+                                                                <userData glueType="Object"/>
+                                                                <branch glueType="Object[]">
+                                                                    <userData glueType="Object">
+                                                                        <length glueType="String">0.00310750897382963904</length>
+                                                                        <jPlaceBranchLabel glueType="Integer">70</jPlaceBranchLabel>
+                                                                    </userData>
+                                                                    <internal glueType="Object">
+                                                                        <userData glueType="Object"/>
+                                                                        <branch glueType="Object[]">
+                                                                            <userData glueType="Object">
+                                                                                <length glueType="String">0.00360547805689810132</length>
+                                                                                <jPlaceBranchLabel glueType="Integer">68</jPlaceBranchLabel>
+                                                                            </userData>
+                                                                            <leaf glueType="Object">
+                                                                                <userData glueType="Object">
+                                                                                    <name glueType="String">alignment/AL_D1_2/member/ncbi-refseqs/KC875277</name>
+                                                                                </userData>
+                                                                            </leaf>
+                                                                        </branch>
+                                                                        <branch glueType="Object[]">
+                                                                            <userData glueType="Object">
+                                                                                <length glueType="String">0.00623953013700909252</length>
+                                                                                <jPlaceBranchLabel glueType="Integer">69</jPlaceBranchLabel>
+                                                                            </userData>
+                                                                            <leaf glueType="Object">
+                                                                                <userData glueType="Object">
+                                                                                    <name glueType="String">alignment/AL_D1_1/member/ncbi-refseqs/AB222711</name>
+                                                                                </userData>
+                                                                            </leaf>
+                                                                        </branch>
+                                                                    </internal>
+                                                                </branch>
+                                                                <branch glueType="Object[]">
+                                                                    <userData glueType="Object">
+                                                                        <length glueType="String">0.01224514939881715322</length>
+                                                                        <jPlaceBranchLabel glueType="Integer">71</jPlaceBranchLabel>
+                                                                    </userData>
+                                                                    <leaf glueType="Object">
+                                                                        <userData glueType="Object">
+                                                                            <name glueType="String">alignment/AL_D2/member/ncbi-refseqs/MF925358</name>
+                                                                        </userData>
+                                                                    </leaf>
+                                                                </branch>
+                                                            </internal>
+                                                        </branch>
+                                                    </internal>
+                                                </branch>
+                                                <branch glueType="Object[]">
+                                                    <userData glueType="Object">
+                                                        <length glueType="String">0.00671905718478114228</length>
+                                                        <jPlaceBranchLabel glueType="Integer">76</jPlaceBranchLabel>
+                                                    </userData>
+                                                    <internal glueType="Object">
+                                                        <userData glueType="Object"/>
+                                                        <branch glueType="Object[]">
+                                                            <userData glueType="Object">
+                                                                <length glueType="String">0.01845231432151001744</length>
+                                                                <jPlaceBranchLabel glueType="Integer">74</jPlaceBranchLabel>
+                                                            </userData>
+                                                            <leaf glueType="Object">
+                                                                <userData glueType="Object">
+                                                                    <name glueType="String">alignment/AL_D4/member/ncbi-refseqs/FJ692533</name>
+                                                                </userData>
+                                                            </leaf>
+                                                        </branch>
+                                                        <branch glueType="Object[]">
+                                                            <userData glueType="Object">
+                                                                <length glueType="String">0.02546150740238110541</length>
+                                                                <jPlaceBranchLabel glueType="Integer">75</jPlaceBranchLabel>
+                                                            </userData>
+                                                            <leaf glueType="Object">
+                                                                <userData glueType="Object">
+                                                                    <name glueType="String">alignment/AL_D7/member/ncbi-refseqs/FJ904435</name>
+                                                                </userData>
+                                                            </leaf>
+                                                        </branch>
+                                                    </internal>
+                                                </branch>
+                                            </internal>
+                                        </branch>
+                                    </internal>
+                                </branch>
+                                <branch glueType="Object[]">
+                                    <userData glueType="Object">
+                                        <length glueType="String">0.04839792070229782806</length>
+                                        <jPlaceBranchLabel glueType="Integer">79</jPlaceBranchLabel>
+                                    </userData>
+                                    <leaf glueType="Object">
+                                        <userData glueType="Object">
+                                            <name glueType="String">alignment/AL_E/member/ncbi-refseqs/GQ161817</name>
+                                        </userData>
+                                    </leaf>
+                                </branch>
+                            </internal>
+                        </branch>
+                    </internal>
+                </branch>
+            </internal>
+        </root>
+    </labelledPhyloTree>
+</detailedMaxLikelihoodPlacerResult>
