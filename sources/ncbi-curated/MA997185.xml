@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<GBSeq>
+
+    <GBSeq_locus>MA997185</GBSeq_locus>
+    <GBSeq_length>3215</GBSeq_length>
+    <GBSeq_strandedness>double</GBSeq_strandedness>
+    <GBSeq_moltype>DNA</GBSeq_moltype>
+    <GBSeq_topology>linear</GBSeq_topology>
+    <GBSeq_division>PAT</GBSeq_division>
+    <GBSeq_update-date>31-JUL-2019</GBSeq_update-date>
+    <GBSeq_create-date>31-JUL-2019</GBSeq_create-date>
+    <GBSeq_definition>JP 2017534290-A/3: HEPATITIS D VIRUS (HDV) IRNA COMPOSITIONS AND METHODS OF USE THEREOF</GBSeq_definition>
+    <GBSeq_primary-accession>MA997185</GBSeq_primary-accession>
+    <GBSeq_accession-version>MA997185.1</GBSeq_accession-version>
+    <GBSeq_other-seqids>
+      <GBSeqid>dbj|MA997185.1|</GBSeqid>
+      <GBSeqid>pat|JP|2017534290|3</GBSeqid>
+      <GBSeqid>gi|1711545413</GBSeqid>
+    </GBSeq_other-seqids>
+    <GBSeq_keywords>
+      <GBKeyword>JP 2017534290-A/3</GBKeyword>
+    </GBSeq_keywords>
+    <GBSeq_source>Hepatitis B virus</GBSeq_source>
+    <GBSeq_organism>Hepatitis B virus</GBSeq_organism>
+    <GBSeq_taxonomy>Viruses; Hepadnaviridae; Orthohepadnavirus</GBSeq_taxonomy>
+    <GBSeq_references>
+      <GBReference>
+        <GBReference_reference>1</GBReference_reference>
+        <GBReference_position>1..3215</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Milstein,S.</GBAuthor>
+          <GBAuthor>Shulga-morskaya,S.</GBAuthor>
+          <GBAuthor>Xu,H.</GBAuthor>
+          <GBAuthor>Rajeev,K.G.</GBAuthor>
+          <GBAuthor>Sepp-lorenzino,L.</GBAuthor>
+          <GBAuthor>Manoharan,M.</GBAuthor>
+          <GBAuthor>Maier,M.</GBAuthor>
+          <GBAuthor>Jadhav,V.</GBAuthor>
+          <GBAuthor>Hinkle,G.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>HEPATITIS D VIRUS (HDV) IRNA COMPOSITIONS AND METHODS OF USE THEREOF</GBReference_title>
+        <GBReference_journal>JP2017534290-A 3 24-NOV-2017 ALNYLAM PHARMACEUTICALS INC</GBReference_journal>
+      </GBReference>
+    </GBSeq_references>
+    <GBSeq_comment>OS Hepatitis B virus~PN JP 2017534290-A/3~PD 24-NOV-2017~PF 10-NOV-2015 JP 2017525059~PR 24-MAR-2015 US 62/137464 ,10-NOV-2014 US 62/077799~PR ,~PR 10-NOV-2014 US 62/077672~PA ALNYLAM PHARMACEUTICALS INC~PI stuart milstein,svetlana shulga-morskaya,huilei xu,~PI kallanthottathil g rajeev,laura sepp-lorenzino,muthiah~PI manoharan,~PI martin maier,vasant jadhav,gregory hinkle~PT 'HEPATITIS D VIRUS (HDV) IRNA COMPOSITIONS AND METHODS OF USE~PT THEREOF'~PS N3~CC~FH Key Location/Qualifiers~FT modified_base (2768)..(2768)~FT /note='a, c, t, g, unknown or other'.</GBSeq_comment>
+    <GBSeq_feature-table>
+      <GBFeature>
+        <GBFeature_key>source</GBFeature_key>
+        <GBFeature_location>1..3215</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>3215</GBInterval_to>
+            <GBInterval_accession>MA997185.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>organism</GBQualifier_name>
+            <GBQualifier_value>Hepatitis B virus</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>mol_type</GBQualifier_name>
+            <GBQualifier_value>unassigned DNA</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>db_xref</GBQualifier_name>
+            <GBQualifier_value>taxon:10407</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+    </GBSeq_feature-table>
+    <GBSeq_sequence>ctccaccacattccaccaagctctgctacaccccagagtaaggggcctatactttcctgctggtggctccagttccggaacagtaaaccctgttccgactactgcctctcccatatcgtcaatcttctcgaggactggggaccctgcaccgaacatggagaacacaacatcaggattcctaggacccctgctcgtgttacaggcggggtttttcttgttgacaagaatcctcacaataccacagagtctagactcgtggtggacttctctcaattttctagggggagcacccacgtgtcctggccaaaattcgcagtccccaacctccaatcactcaccaacctcttgtcctccaatttgtcctggctatcgctggatgtgtctgcggcgttttatcatattcctcttcatcctgctgctatgcctcatcttcttgttggttcttctggactaccaaggtatgttgcccgtttgtcctctacttccaggaacatcaactaccagcacgggaccatgcaagacctgcacgattcctgctcaaggcacctctatgtttccctcttgttgctgtacaaaaccttcggacggaaactgcacttgtattcccatcccatcatcctgggctttcgcaagattcctatgggagtgggcctcagtccgtttctcctggctcagtttactagtgccatttgttcagtggttcgtagggctttcccccactgtttggctttcagttatatggatgatgtggtattgggggccaagtctgtacaacatcttgagtccctttttaccgctgttaccaattttcttttgtctttgggtatacatttgaaccctaataaaaccaaacgttggggttactcccttaacttcatgggatatgtaattggaagttggggtactttaccgcaagaccatattgtactaaaaatcaagcaatgttttcgaaaactgcctgtaaatagacctattgattggaaagtatgtcagagaattgtgggtcttttgggctttgctgccccttttacacaatgtggctatcctgccttaatgcctttatatgcatgtatacaatctaagcaggctttcactttctcgccaacttacaaggcctttctgtgtaaacaatatctgaacctttaccccgttgcccggcaacggtcaggtctctgccaagtgtttgctgacgcaacccccactggatggggcttggctattggccatcgccgcatgcgtggaacctttgtggctcctctgccgatccatactgcggaactcctagcagcttgttttgctcgcagccggtctggagcgaaactgatcggaacggacaactctgttgttctctctcggaaatacacctcctttccatggctgctagggtgtgctgccaactggatcctgcgcgggacgtcctttgtttacgtcccgtcggcgctgaatcccgcggacgacccatctcggggccgtttgggtctctaccgtccccttcttcatctgccgttccggccgaccacggggcgcacctctctttacgcggtctccccgtctgtgccttctcatctgccggaccgtgtgcacttcgcttcacctctgcacgtcgcatggagaccaccgtgaacgcccaccaggtcttgcccaaggtcttatataagaggactcttggactctcagcaatgtcaacgaccgaccttgaggcatacttcaaagactgtttgtttaaggactgggaggagttgggggaggagattaggttaatgatctttgtactaggaggctgtaggcataaattggtctgttcaccagcaccatgcaactttttcacctctgcctaatcatctcatgttcatgtcctactgttcaagcctccaagctgtgccttgggtggctttaggacatggacattgacccatataaagaatttggagcttctgtggagttactctcttttttgccttctgacttttttccttctattcgagatctcctcgacaccgcctctgctctgtatcgggaggccttagagtctccggaacattgttcacctcaccatacagcactcagacaagccattctgtgttggggtgagttgatgaatctggccacctgggtgggaagtaatttggaagacccagcatccagggaattagtagtcagctatgtcaatgttaatatgggcctaaaaatcagacaactactgtggtttcacatttcctgtcttacttttggaagagaaactgttcttgagtatttggtgtcttttggagtgtggattcgcactcctcctgcttacagaccatcaaatgcccctatcttatcaacacttccggaaactactgttgttagacgacgaggcaggtcccctagaagaagaactccctcgcctcgcagacgaaggtctcaatcgccgcgtcgcagaagatctcaatctcgggaacctcaatgttagtatcccttggactcataaggtgggaaactttactgggctttattcttctactgtacctgtctttaatcctgagtggcaaactccctcttttcctcatattcatttgcaggaggacattattaatagatgtcaacaatatgtgggccctcttacagttaatgaaaaaaggagattaaaattaattatgcctgctaggttctatcctaaccttaccaaatatttgcccttggacaaaggcattaaaccatattatccggaacatgcagttaatcattacttcaaaactaggcattatttacatactctgtggaaggcnggcattctatataagagagaaactacacgcagcgcctcattttgtgggtcaccatattcttgggaacaagagctacagcatgggaggttggtcttccaaacctcgacaaggcatggggacaaatctttctgttcccaatcctctgggattctttcccgatcaccagttggaccctgcgttcggagccaactcaaacaatccagattgggacttcaaccccaacaaggatcactggccagaggcaaatcaggtaggagcgggagcattcgggccagggttcaccccaccacacggcggtcttttggggtggagccctcaggctcagggcacattgacaacagtgccagtagcacctcctcctgcctccaccaatcggcagtcaggaagacagcctactcccatctctccacctctaagagacagtcatcctcaggccatgcagtggaa</GBSeq_sequence>
+  </GBSeq>

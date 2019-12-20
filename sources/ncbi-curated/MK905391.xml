@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<GBSeq>
+
+    <GBSeq_locus>MK905391</GBSeq_locus>
+    <GBSeq_length>364</GBSeq_length>
+    <GBSeq_strandedness>double</GBSeq_strandedness>
+    <GBSeq_moltype>DNA</GBSeq_moltype>
+    <GBSeq_topology>linear</GBSeq_topology>
+    <GBSeq_division>PRI</GBSeq_division>
+    <GBSeq_update-date>03-JUL-2019</GBSeq_update-date>
+    <GBSeq_create-date>03-JUL-2019</GBSeq_create-date>
+    <GBSeq_definition>Homo sapiens thromboxane A synthase 1 (TBXAS1) gene, partial sequence</GBSeq_definition>
+    <GBSeq_primary-accession>MK905391</GBSeq_primary-accession>
+    <GBSeq_accession-version>MK905391.1</GBSeq_accession-version>
+    <GBSeq_other-seqids>
+      <GBSeqid>gb|MK905391.1|</GBSeqid>
+      <GBSeqid>gi|1694853832</GBSeqid>
+    </GBSeq_other-seqids>
+    <GBSeq_source>Homo sapiens (human)</GBSeq_source>
+    <GBSeq_organism>Homo sapiens</GBSeq_organism>
+    <GBSeq_taxonomy>Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi; Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini; Catarrhini; Hominidae; Homo</GBSeq_taxonomy>
+    <GBSeq_references>
+      <GBReference>
+        <GBReference_reference>1</GBReference_reference>
+        <GBReference_position>1..364</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Pollicino,T.</GBAuthor>
+          <GBAuthor>Musolino,C.</GBAuthor>
+          <GBAuthor>Saitta,C.</GBAuthor>
+          <GBAuthor>Tripodi,G.</GBAuthor>
+          <GBAuthor>Lanza,M.</GBAuthor>
+          <GBAuthor>Raffa,G.</GBAuthor>
+          <GBAuthor>Tocco,F.C.D.</GBAuthor>
+          <GBAuthor>Raggi,C.</GBAuthor>
+          <GBAuthor>Bragazzi,M.C.</GBAuthor>
+          <GBAuthor>Barbera,A.</GBAuthor>
+          <GBAuthor>Navarra,G.</GBAuthor>
+          <GBAuthor>Invernizzi,P.</GBAuthor>
+          <GBAuthor>Alvaro,D.</GBAuthor>
+          <GBAuthor>Raimondo,G.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>Free episomal and integrated HBV DNA in HBsAg-negative patients with intrahepatic cholangiocarcinoma</GBReference_title>
+        <GBReference_journal>Oncotarget 10 (39), 3931-3938 (2019)</GBReference_journal>
+        <GBReference_xref>
+          <GBXref>
+            <GBXref_dbname>doi</GBXref_dbname>
+            <GBXref_id>10.18632/oncotarget.27002</GBXref_id>
+          </GBXref>
+        </GBReference_xref>
+        <GBReference_pubmed>31231470</GBReference_pubmed>
+        <GBReference_remark>Publication Status: Online-Only</GBReference_remark>
+      </GBReference>
+      <GBReference>
+        <GBReference_reference>2</GBReference_reference>
+        <GBReference_position>1..364</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Musolino,C.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>Direct Submission</GBReference_title>
+        <GBReference_journal>Submitted (03-MAY-2019) Human Pathology, University of Messina, Via Consolare Valeria, Messina 98124, Italy</GBReference_journal>
+      </GBReference>
+    </GBSeq_references>
+    <GBSeq_comment>##Assembly-Data-START## ; Sequencing Technology :: Sanger dideoxy sequencing ; ##Assembly-Data-END##</GBSeq_comment>
+    <GBSeq_feature-table>
+      <GBFeature>
+        <GBFeature_key>source</GBFeature_key>
+        <GBFeature_location>267..364</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>267</GBInterval_from>
+            <GBInterval_to>364</GBInterval_to>
+            <GBInterval_accession>MK905391.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>organism</GBQualifier_name>
+            <GBQualifier_value>Homo sapiens</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>mol_type</GBQualifier_name>
+            <GBQualifier_value>genomic DNA</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>isolation_source</GBQualifier_name>
+            <GBQualifier_value>intrahepatic cholangiocarcinoma patient</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>db_xref</GBQualifier_name>
+            <GBQualifier_value>taxon:9606</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>chromosome</GBQualifier_name>
+            <GBQualifier_value>7</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>tissue_type</GBQualifier_name>
+            <GBQualifier_value>liver</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>focus</GBQualifier_name>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>note</GBQualifier_name>
+            <GBQualifier_value>HBVenhII/BCP_TBXAS1</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>source</GBFeature_key>
+        <GBFeature_location>1..266</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>266</GBInterval_to>
+            <GBInterval_accession>MK905391.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>organism</GBQualifier_name>
+            <GBQualifier_value>Hepatitis B virus</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>mol_type</GBQualifier_name>
+            <GBQualifier_value>genomic DNA</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>db_xref</GBQualifier_name>
+            <GBQualifier_value>taxon:10407</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>note</GBQualifier_name>
+            <GBQualifier_value>HBVenhII/BCP_TBXAS1</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>gene</GBFeature_key>
+        <GBFeature_location>&lt;267..&gt;364</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>267</GBInterval_from>
+            <GBInterval_to>364</GBInterval_to>
+            <GBInterval_accession>MK905391.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_partial5 value="true"/>
+        <GBFeature_partial3 value="true"/>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>gene</GBQualifier_name>
+            <GBQualifier_value>TBXAS1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>note</GBQualifier_name>
+            <GBQualifier_value>thromboxane A synthase 1; disrupted</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+    </GBSeq_feature-table>
+    <GBSeq_sequence>tttatgcctacagcctcctagtacaaagacctttaacctaatctcctcccccaactcctcccagtctttaaacaaacagtctttgaagtatgcctcaaggtcggtcgttgacattgctgagagtccaagagtcctcttatgtaagaccttgggcaatatttggtgggcgttcacggtggtctccatgcgacgtgcagaggtgaagcgaagtgcacacggtccggcagatgagaaggcacagacggggagtccgcgtaaagagaggtttatgaacacctaggagcagcatcgctagcccacgagagtaggtgcatggtgggtttttgtacatactgccaaacagttttccaaaggggttgagcca</GBSeq_sequence>
+  </GBSeq>

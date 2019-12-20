@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<GBSeq>
+
+    <GBSeq_locus>MK905389</GBSeq_locus>
+    <GBSeq_length>299</GBSeq_length>
+    <GBSeq_strandedness>double</GBSeq_strandedness>
+    <GBSeq_moltype>DNA</GBSeq_moltype>
+    <GBSeq_topology>linear</GBSeq_topology>
+    <GBSeq_division>PRI</GBSeq_division>
+    <GBSeq_update-date>03-JUL-2019</GBSeq_update-date>
+    <GBSeq_create-date>03-JUL-2019</GBSeq_create-date>
+    <GBSeq_definition>Homo sapiens sequence</GBSeq_definition>
+    <GBSeq_primary-accession>MK905389</GBSeq_primary-accession>
+    <GBSeq_accession-version>MK905389.1</GBSeq_accession-version>
+    <GBSeq_other-seqids>
+      <GBSeqid>gb|MK905389.1|</GBSeqid>
+      <GBSeqid>gi|1694853830</GBSeqid>
+    </GBSeq_other-seqids>
+    <GBSeq_source>Homo sapiens (human)</GBSeq_source>
+    <GBSeq_organism>Homo sapiens</GBSeq_organism>
+    <GBSeq_taxonomy>Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi; Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini; Catarrhini; Hominidae; Homo</GBSeq_taxonomy>
+    <GBSeq_references>
+      <GBReference>
+        <GBReference_reference>1</GBReference_reference>
+        <GBReference_position>1..299</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Pollicino,T.</GBAuthor>
+          <GBAuthor>Musolino,C.</GBAuthor>
+          <GBAuthor>Saitta,C.</GBAuthor>
+          <GBAuthor>Tripodi,G.</GBAuthor>
+          <GBAuthor>Lanza,M.</GBAuthor>
+          <GBAuthor>Raffa,G.</GBAuthor>
+          <GBAuthor>Tocco,F.C.D.</GBAuthor>
+          <GBAuthor>Raggi,C.</GBAuthor>
+          <GBAuthor>Bragazzi,M.C.</GBAuthor>
+          <GBAuthor>Barbera,A.</GBAuthor>
+          <GBAuthor>Navarra,G.</GBAuthor>
+          <GBAuthor>Invernizzi,P.</GBAuthor>
+          <GBAuthor>Alvaro,D.</GBAuthor>
+          <GBAuthor>Raimondo,G.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>Free episomal and integrated HBV DNA in HBsAg-negative patients with intrahepatic cholangiocarcinoma</GBReference_title>
+        <GBReference_journal>Oncotarget 10 (39), 3931-3938 (2019)</GBReference_journal>
+        <GBReference_xref>
+          <GBXref>
+            <GBXref_dbname>doi</GBXref_dbname>
+            <GBXref_id>10.18632/oncotarget.27002</GBXref_id>
+          </GBXref>
+        </GBReference_xref>
+        <GBReference_pubmed>31231470</GBReference_pubmed>
+        <GBReference_remark>Publication Status: Online-Only</GBReference_remark>
+      </GBReference>
+      <GBReference>
+        <GBReference_reference>2</GBReference_reference>
+        <GBReference_position>1..299</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Musolino,C.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>Direct Submission</GBReference_title>
+        <GBReference_journal>Submitted (03-MAY-2019) Human Pathology, University of Messina, Via Consolare Valeria, Messina 98124, Italy</GBReference_journal>
+      </GBReference>
+    </GBSeq_references>
+    <GBSeq_comment>##Assembly-Data-START## ; Sequencing Technology :: Sanger dideoxy sequencing ; ##Assembly-Data-END##</GBSeq_comment>
+    <GBSeq_feature-table>
+      <GBFeature>
+        <GBFeature_key>source</GBFeature_key>
+        <GBFeature_location>226..299</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>226</GBInterval_from>
+            <GBInterval_to>299</GBInterval_to>
+            <GBInterval_accession>MK905389.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>organism</GBQualifier_name>
+            <GBQualifier_value>Homo sapiens</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>mol_type</GBQualifier_name>
+            <GBQualifier_value>genomic DNA</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>isolation_source</GBQualifier_name>
+            <GBQualifier_value>intrahepatic cholangiocarcinoma patient</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>db_xref</GBQualifier_name>
+            <GBQualifier_value>taxon:9606</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>chromosome</GBQualifier_name>
+            <GBQualifier_value>22</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>tissue_type</GBQualifier_name>
+            <GBQualifier_value>liver</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>focus</GBQualifier_name>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>note</GBQualifier_name>
+            <GBQualifier_value>HBVenhI/Xpr_CECR5</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>source</GBFeature_key>
+        <GBFeature_location>&lt;1..225</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>225</GBInterval_to>
+            <GBInterval_accession>MK905389.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_partial5 value="true"/>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>organism</GBQualifier_name>
+            <GBQualifier_value>Hepatitis B virus</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>mol_type</GBQualifier_name>
+            <GBQualifier_value>genomic DNA</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>db_xref</GBQualifier_name>
+            <GBQualifier_value>taxon:10407</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>note</GBQualifier_name>
+            <GBQualifier_value>HBVenhI/Xpr_CECR5</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+    </GBSeq_feature-table>
+    <GBSeq_sequence>gccaacttacaaggcctttctgtgtaaacaatacctgaacctttaccccgttgcccggcaacggccaggtctgtgccaagtgtttgctgacgcaacccccactggctggggcttggctatgggccatcaacgtgtgcgtggaacctttgtggctcccctgccgatccatactgcggaacttcttgctcttgtcttgctcgcagccggtatggagcgaaactttcgcatgcttcccacatgcttagaactctgtcaggggccaggcacgatggctgcagcctgtaatcccagcactttgg</GBSeq_sequence>
+  </GBSeq>

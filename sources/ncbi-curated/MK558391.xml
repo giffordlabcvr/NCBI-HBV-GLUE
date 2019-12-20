@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<GBSeq>
+
+    <GBSeq_locus>MK558391</GBSeq_locus>
+    <GBSeq_length>694</GBSeq_length>
+    <GBSeq_strandedness>double</GBSeq_strandedness>
+    <GBSeq_moltype>DNA</GBSeq_moltype>
+    <GBSeq_topology>linear</GBSeq_topology>
+    <GBSeq_division>VRL</GBSeq_division>
+    <GBSeq_update-date>01-DEC-2019</GBSeq_update-date>
+    <GBSeq_create-date>01-DEC-2019</GBSeq_create-date>
+    <GBSeq_definition>Hepatitis B virus isolate HBV389 X gene, partial cds; and nonfunctional pre-core/core gene, partial sequence</GBSeq_definition>
+    <GBSeq_primary-accession>MK558391</GBSeq_primary-accession>
+    <GBSeq_accession-version>MK558391.1</GBSeq_accession-version>
+    <GBSeq_other-seqids>
+      <GBSeqid>gb|MK558391.1|</GBSeqid>
+      <GBSeqid>gi|1773037029</GBSeqid>
+    </GBSeq_other-seqids>
+    <GBSeq_source>Hepatitis B virus</GBSeq_source>
+    <GBSeq_organism>Hepatitis B virus</GBSeq_organism>
+    <GBSeq_taxonomy>Viruses; Hepadnaviridae; Orthohepadnavirus</GBSeq_taxonomy>
+    <GBSeq_references>
+      <GBReference>
+        <GBReference_reference>1</GBReference_reference>
+        <GBReference_position>1..694</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Marciano,S.</GBAuthor>
+          <GBAuthor>Gadano,A.</GBAuthor>
+          <GBAuthor>Flichman,D.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>Direct Submission</GBReference_title>
+        <GBReference_journal>Submitted (19-FEB-2019) Instituto de Medicina Traslacional E Ingenieria Biomedica, Instituto Universitario del Hospital Italiano - Conicet - Hospital Italiano, 4240 Potosi Str, Buenos Aires C1199ACL, Argentina</GBReference_journal>
+      </GBReference>
+    </GBSeq_references>
+    <GBSeq_comment>##Assembly-Data-START## ; Sequencing Technology :: Sanger dideoxy sequencing ; ##Assembly-Data-END##</GBSeq_comment>
+    <GBSeq_feature-table>
+      <GBFeature>
+        <GBFeature_key>source</GBFeature_key>
+        <GBFeature_location>1..694</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>694</GBInterval_to>
+            <GBInterval_accession>MK558391.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>organism</GBQualifier_name>
+            <GBQualifier_value>Hepatitis B virus</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>mol_type</GBQualifier_name>
+            <GBQualifier_value>genomic DNA</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>isolate</GBQualifier_name>
+            <GBQualifier_value>HBV389</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>db_xref</GBQualifier_name>
+            <GBQualifier_value>taxon:10407</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>country</GBQualifier_name>
+            <GBQualifier_value>Argentina</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>note</GBQualifier_name>
+            <GBQualifier_value>genotype: F1b</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>CDS</GBFeature_key>
+        <GBFeature_location>&lt;1..190</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>190</GBInterval_to>
+            <GBInterval_accession>MK558391.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_partial5 value="true"/>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>codon_start</GBQualifier_name>
+            <GBQualifier_value>2</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>transl_table</GBQualifier_name>
+            <GBQualifier_value>1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>product</GBQualifier_name>
+            <GBQualifier_value>X</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>protein_id</GBQualifier_name>
+            <GBQualifier_value>QGA70998.1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>translation</GBQualifier_name>
+            <GBQualifier_value>LHKRTLGLSGRSITWIEEYIKDCVFKDWEELGEEIRLKIYVLGGCRHKLVCSPAPCNFFTSA</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>misc_feature</GBFeature_key>
+        <GBFeature_location>166..&gt;694</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>166</GBInterval_from>
+            <GBInterval_to>694</GBInterval_to>
+            <GBInterval_accession>MK558391.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_partial3 value="true"/>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>note</GBQualifier_name>
+            <GBQualifier_value>nonfunctional pre-core/core due to mutation</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+    </GBSeq_feature-table>
+    <GBSeq_sequence>cttacataagcggactcttggactttcaggaaggtcaatcacctggatcgaagaatacatcaaagactgtgtatttaaggactgggaggagctgggggaggagattaggttaaagatctatgtattaggaggctgtaggcataaattggtctgttcaccagcaccatgcaactttttcacctctgcctaatcatcttttgttcatgtcctactgttcaagcctccaagctgtgccttgggtggctttagggcatggacattgacccttataaagaatttggagcttctgtggaattactctcttttttgccttctgacttcttcccgtcagtacgggacctactcgacaccgcttcagctctctaccgggatgctttagaatcaccagaacattgcacacctaaccataccgctctcaggcaagctatattgtgctggggtgatttaatgactttggcctcctgggtgggcaataacttggaagatcctgctgctagggacctagtggttaactatgtcaatactaacatgggcctaaaaattagacaattgctgtggtttcacatttcctgccttacttttggaagagaaacagttcttgagtatttggtgtcttttggagtgtggattcgcactcctcctgcttatagaccaccaaatgcccctatcttatccacacttccggaaactactg</GBSeq_sequence>
+  </GBSeq>

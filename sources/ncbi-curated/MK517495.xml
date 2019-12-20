@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<GBSeq>
+
+    <GBSeq_locus>MK517495</GBSeq_locus>
+    <GBSeq_length>230</GBSeq_length>
+    <GBSeq_strandedness>double</GBSeq_strandedness>
+    <GBSeq_moltype>DNA</GBSeq_moltype>
+    <GBSeq_topology>linear</GBSeq_topology>
+    <GBSeq_division>VRL</GBSeq_division>
+    <GBSeq_update-date>11-SEP-2019</GBSeq_update-date>
+    <GBSeq_create-date>11-SEP-2019</GBSeq_create-date>
+    <GBSeq_definition>Hepatitis B virus isolate Br15 small surface protein and polymerase genes, partial cds</GBSeq_definition>
+    <GBSeq_primary-accession>MK517495</GBSeq_primary-accession>
+    <GBSeq_accession-version>MK517495.1</GBSeq_accession-version>
+    <GBSeq_other-seqids>
+      <GBSeqid>gb|MK517495.1|</GBSeqid>
+      <GBSeqid>gi|1735180866</GBSeqid>
+    </GBSeq_other-seqids>
+    <GBSeq_source>Hepatitis B virus</GBSeq_source>
+    <GBSeq_organism>Hepatitis B virus</GBSeq_organism>
+    <GBSeq_taxonomy>Viruses; Hepadnaviridae; Orthohepadnavirus</GBSeq_taxonomy>
+    <GBSeq_references>
+      <GBReference>
+        <GBReference_reference>1</GBReference_reference>
+        <GBReference_position>1..230</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Astbury,S.</GBAuthor>
+          <GBAuthor>Soares,M.M.D.C.N.</GBAuthor>
+          <GBAuthor>Peprah,E.</GBAuthor>
+          <GBAuthor>King,B.J.</GBAuthor>
+          <GBAuthor>Jardim,A.C.G.</GBAuthor>
+          <GBAuthor>Shimizu,J.F.</GBAuthor>
+          <GBAuthor>Jalal,P.J.</GBAuthor>
+          <GBAuthor>Saeed,C.H.</GBAuthor>
+          <GBAuthor>Sabeer,F.T.</GBAuthor>
+          <GBAuthor>Irving,W.L.</GBAuthor>
+          <GBAuthor>Tarr,A.W.</GBAuthor>
+          <GBAuthor>McClure,C.P.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>Extraction-free direct PCR from dried serum spots permits HBV genotyping and RAS identification by Sanger and minION sequencing</GBReference_title>
+        <GBReference_journal>bioRxivorg (2019) In press</GBReference_journal>
+        <GBReference_xref>
+          <GBXref>
+            <GBXref_dbname>doi</GBXref_dbname>
+            <GBXref_id>https://doi.org/10.1101/552539 </GBXref_id>
+          </GBXref>
+        </GBReference_xref>
+      </GBReference>
+      <GBReference>
+        <GBReference_reference>2</GBReference_reference>
+        <GBReference_position>1..230</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Astbury,S.</GBAuthor>
+          <GBAuthor>Soares,M.M.D.N.</GBAuthor>
+          <GBAuthor>Peprah,E.</GBAuthor>
+          <GBAuthor>King,B.</GBAuthor>
+          <GBAuthor>Jardim,A.C.G.</GBAuthor>
+          <GBAuthor>Shimizu,J.F.</GBAuthor>
+          <GBAuthor>Jalal,P.</GBAuthor>
+          <GBAuthor>Saeed,C.H.</GBAuthor>
+          <GBAuthor>Sabeer,F.T.</GBAuthor>
+          <GBAuthor>Irving,W.L.</GBAuthor>
+          <GBAuthor>McClure,C.P.</GBAuthor>
+          <GBAuthor>Tarr,A.W.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>Direct Submission</GBReference_title>
+        <GBReference_journal>Submitted (12-FEB-2019) Nottingham Digestive Diseases Centre, University of Nottingham, Queen's Medical Centre, Derby Road, Nottingham NG7 2UH, United Kingdom</GBReference_journal>
+      </GBReference>
+    </GBSeq_references>
+    <GBSeq_comment>##Assembly-Data-START## ; Sequencing Technology :: Sanger dideoxy sequencing ; ##Assembly-Data-END##</GBSeq_comment>
+    <GBSeq_feature-table>
+      <GBFeature>
+        <GBFeature_key>source</GBFeature_key>
+        <GBFeature_location>1..230</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>230</GBInterval_to>
+            <GBInterval_accession>MK517495.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>organism</GBQualifier_name>
+            <GBQualifier_value>Hepatitis B virus</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>mol_type</GBQualifier_name>
+            <GBQualifier_value>genomic DNA</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>isolate</GBQualifier_name>
+            <GBQualifier_value>Br15</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>host</GBQualifier_name>
+            <GBQualifier_value>Homo sapiens</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>db_xref</GBQualifier_name>
+            <GBQualifier_value>taxon:10407</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>country</GBQualifier_name>
+            <GBQualifier_value>Brazil</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>collection_date</GBQualifier_name>
+            <GBQualifier_value>26-Oct-2016</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>note</GBQualifier_name>
+            <GBQualifier_value>genotype: A1</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>CDS</GBFeature_key>
+        <GBFeature_location>&lt;1..&gt;230</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>230</GBInterval_to>
+            <GBInterval_accession>MK517495.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_partial5 value="true"/>
+        <GBFeature_partial3 value="true"/>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>codon_start</GBQualifier_name>
+            <GBQualifier_value>1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>transl_table</GBQualifier_name>
+            <GBQualifier_value>1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>product</GBQualifier_name>
+            <GBQualifier_value>small surface protein</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>protein_id</GBQualifier_name>
+            <GBQualifier_value>QEM25066.1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>translation</GBQualifier_name>
+            <GBQualifier_value>IFLLVLLDCQGMLPVCPLIPGSTTTSTGPCKTCTTPAQGNSMFPSCCCTKPTDGNCTCIPIPSSWAFAKYLWEWAS</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>CDS</GBFeature_key>
+        <GBFeature_location>&lt;1..&gt;230</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>230</GBInterval_to>
+            <GBInterval_accession>MK517495.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_partial5 value="true"/>
+        <GBFeature_partial3 value="true"/>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>codon_start</GBQualifier_name>
+            <GBQualifier_value>3</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>transl_table</GBQualifier_name>
+            <GBQualifier_value>1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>product</GBQualifier_name>
+            <GBQualifier_value>polymerase</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>protein_id</GBQualifier_name>
+            <GBQualifier_value>QEM25067.1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>translation</GBQualifier_name>
+            <GBQualifier_value>LLIGSSGLSRYVARLSSNSRIHNNQYGTLQNLHDSCSRQLYVSLMLLYKTYGRKLHLYSHPIILGFRKIPMGVGLR</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+    </GBSeq_feature-table>
+    <GBSeq_sequence>atcttcttattggttcttctggattgtcaaggtatgttgcccgtttgtcctctaattccaggatccacaacaaccagtacgggaccctgcaaaacctgcacgactcctgctcaaggcaactctatgtttccctcatgttgctgtacaaaacctacggacggaaattgcacctgtattcccatcccatcatcttgggctttcgcaaaatacctatgggagtgggcctcaga</GBSeq_sequence>
+  </GBSeq>

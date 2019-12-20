@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<GBSeq>
+
+    <GBSeq_locus>MB126162</GBSeq_locus>
+    <GBSeq_length>552</GBSeq_length>
+    <GBSeq_strandedness>double</GBSeq_strandedness>
+    <GBSeq_moltype>DNA</GBSeq_moltype>
+    <GBSeq_topology>linear</GBSeq_topology>
+    <GBSeq_division>PAT</GBSeq_division>
+    <GBSeq_update-date>31-OCT-2019</GBSeq_update-date>
+    <GBSeq_create-date>31-OCT-2019</GBSeq_create-date>
+    <GBSeq_definition>JP 2019112326-A/2: PET Probe for imaging</GBSeq_definition>
+    <GBSeq_primary-accession>MB126162</GBSeq_primary-accession>
+    <GBSeq_accession-version>MB126162.1</GBSeq_accession-version>
+    <GBSeq_other-seqids>
+      <GBSeqid>dbj|MB126162.1|</GBSeqid>
+      <GBSeqid>pat|JP|2019112326|2</GBSeqid>
+      <GBSeqid>gi|1771107054</GBSeqid>
+    </GBSeq_other-seqids>
+    <GBSeq_keywords>
+      <GBKeyword>JP 2019112326-A/2</GBKeyword>
+    </GBSeq_keywords>
+    <GBSeq_source>Hepatitis B virus</GBSeq_source>
+    <GBSeq_organism>Hepatitis B virus</GBSeq_organism>
+    <GBSeq_taxonomy>Viruses; Hepadnaviridae; Orthohepadnavirus</GBSeq_taxonomy>
+    <GBSeq_references>
+      <GBReference>
+        <GBReference_reference>1</GBReference_reference>
+        <GBReference_position>1..552</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Ochiai,H.</GBAuthor>
+          <GBAuthor>Ichikawa,Y.</GBAuthor>
+          <GBAuthor>Watanabe,Y.</GBAuthor>
+          <GBAuthor>Kanayama,Y.</GBAuthor>
+          <GBAuthor>Ogawa,K.</GBAuthor>
+          <GBAuthor>Hosoya,T.</GBAuthor>
+          <GBAuthor>Kojima,S.</GBAuthor>
+          <GBAuthor>Uetake,Y.</GBAuthor>
+          <GBAuthor>Niwa,T.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>PET Probe for imaging</GBReference_title>
+        <GBReference_journal>JP2019112326-A 2 11-JUL-2019 Riken</GBReference_journal>
+      </GBReference>
+    </GBSeq_references>
+    <GBSeq_comment>OS hepatitis B virus~PN JP 2019112326-A/2~PD 11-JUL-2019~PF 21-DEC-2017 JP 2017245355~PR~PA Riken~PI hidenori ochiai,yasue ichikawa,yasuyoshi watanabe,yosuke~PI kanayama,~PI kenji ogawa,takamitsu hosoya,soichi kojima,yuta uetake,takashi~PI niwa~PT 'PET Probe for imaging'~PS N2~CC~FH Key Location/Qualifiers.</GBSeq_comment>
+    <GBSeq_feature-table>
+      <GBFeature>
+        <GBFeature_key>source</GBFeature_key>
+        <GBFeature_location>1..552</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>552</GBInterval_to>
+            <GBInterval_accession>MB126162.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>organism</GBQualifier_name>
+            <GBQualifier_value>Hepatitis B virus</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>mol_type</GBQualifier_name>
+            <GBQualifier_value>unassigned DNA</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>db_xref</GBQualifier_name>
+            <GBQualifier_value>taxon:10407</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+    </GBSeq_feature-table>
+    <GBSeq_sequence>atggacattgacccgtataaagaatttggagcatctgtggagttactctcttttttgccttctgacttctttccttctattcgagatctcctcgacaccgcctctgctctgtatcgggaggccttagagtctccggaacattgttcacctcaccatacagcactcaggcaagctattctgtgttggggtgagttaatgaatctggccacctgggtgggaagtaatttggaagacccagcatccagggaattagtagtcagctatgtcaatgttaatatgggcctaaaaatcagacaactattgtggtttcacatttcctgtcttacttttggaagagaaactgttcttgagtatttggtgtcttttggagtgtggattcgcactcctcccgcttacagaccaccaaatgcccctatcttatcaacacttccggaaactactgttgttagacgacgaggcaggtcccctagaagaagaactccctcgcctcgcagacgaaggtctcaatcgccgcgtcgcagaagatctcaatctcgggaatctcaatgttag</GBSeq_sequence>
+  </GBSeq>

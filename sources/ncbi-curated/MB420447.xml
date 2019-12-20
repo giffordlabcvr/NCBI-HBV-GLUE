@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<GBSeq>
+
+    <GBSeq_locus>MB420447</GBSeq_locus>
+    <GBSeq_length>863</GBSeq_length>
+    <GBSeq_strandedness>double</GBSeq_strandedness>
+    <GBSeq_moltype>DNA</GBSeq_moltype>
+    <GBSeq_topology>linear</GBSeq_topology>
+    <GBSeq_division>PAT</GBSeq_division>
+    <GBSeq_update-date>29-NOV-2019</GBSeq_update-date>
+    <GBSeq_create-date>29-NOV-2019</GBSeq_create-date>
+    <GBSeq_definition>JP 2019520334-A/1: Xanthone derivatives for the treatment and prophylaxis of Hepatitis B Virus disease</GBSeq_definition>
+    <GBSeq_primary-accession>MB420447</GBSeq_primary-accession>
+    <GBSeq_accession-version>MB420447.1</GBSeq_accession-version>
+    <GBSeq_other-seqids>
+      <GBSeqid>dbj|MB420447.1|</GBSeqid>
+      <GBSeqid>pat|JP|2019520334|1</GBSeqid>
+      <GBSeqid>gi|1779062769</GBSeqid>
+    </GBSeq_other-seqids>
+    <GBSeq_keywords>
+      <GBKeyword>JP 2019520334-A/1</GBKeyword>
+    </GBSeq_keywords>
+    <GBSeq_source>Hepatitis B virus</GBSeq_source>
+    <GBSeq_organism>Hepatitis B virus</GBSeq_organism>
+    <GBSeq_taxonomy>Viruses; Hepadnaviridae; Orthohepadnavirus</GBSeq_taxonomy>
+    <GBSeq_references>
+      <GBReference>
+        <GBReference_reference>1</GBReference_reference>
+        <GBReference_position>1..863</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Shen,H.</GBAuthor>
+          <GBAuthor>Chen,D.</GBAuthor>
+          <GBAuthor>Wang,L.</GBAuthor>
+          <GBAuthor>Chen,W.</GBAuthor>
+          <GBAuthor>Tan,X.</GBAuthor>
+          <GBAuthor>Gao,L.</GBAuthor>
+          <GBAuthor>Feng,S.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>Xanthone derivatives for the treatment and prophylaxis of Hepatitis B Virus disease</GBReference_title>
+        <GBReference_journal>JP2019520334-A 1 18-JUL-2019 F Hoffmann-La Roche AG</GBReference_journal>
+      </GBReference>
+    </GBSeq_references>
+    <GBSeq_comment>OS Hepatitis B virus~PN JP 2019520334-A/1~PD 18-JUL-2019~PF 23-MAY-2017 JP 2018561680~PR 18-APR-2017 CN PCT/CN2017/080914 ,26-MAY-2016 CN~PR PCT/CN2016/083472~PA F Hoffmann-La Roche AG~PI hong shen,dongdong chen,li wang,wenming chen,xuefei tan,lu~PI gao,song feng~PT 'Xanthone derivatives for the treatment and prophylaxis of~PT Hepatitis B~PT Virus disease'~PS N1~CC~FH Key Location/Qualifiers.</GBSeq_comment>
+    <GBSeq_feature-table>
+      <GBFeature>
+        <GBFeature_key>source</GBFeature_key>
+        <GBFeature_location>1..863</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>863</GBInterval_to>
+            <GBInterval_accession>MB420447.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>organism</GBQualifier_name>
+            <GBQualifier_value>Hepatitis B virus</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>mol_type</GBQualifier_name>
+            <GBQualifier_value>unassigned DNA</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>db_xref</GBQualifier_name>
+            <GBQualifier_value>taxon:10407</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+    </GBSeq_feature-table>
+    <GBSeq_sequence>tcctctgccgatccatactgcggaactcctagccgcttgttttgctcgcagcaggtctggagcaaacattatcgggactgataactctgttgtcctatcccgcaaatatacatcgtttccatggctgctaggctgtgctgccaactggatcctgcgcgggacgtcctttgtttacgtcccgtcggcgctgaatcctgcggacgacccttctcggggtcgcttgggactctctcgtccccttctccgtctgccgttccgaccgaccacggggcgcacctctctttacgcggactccccgtctgtgccttctcatctgccggaccgtgtgcacttcgcttcacctctgcacgtcgcatggagaccaccgtgaacgcccaccaaatattgcccaaggtcttacataagaggactcttggactctcagcaatgtcaacgaccgaccttgaggcatacttcaaagactgtttgtttaaagactgggaggagttgggggaggagattaggttaaaggtctttgtactaggaggctgtaggcataaattggtctgcgcaccagcaccatgcaactttttcacctctgcctaatcatctcttgttcatgtcctactgttcaagcctccaagctgtgccttgggtggctttggggcatggacatcgacccttataaagaatttggagctactgtggagttactctcgtttttgccttctgacttctttccttcagtacgagatcttctagataccgcctcagctctgtatcgggaagccttagagtctcctgagcattgttcacctcaccatactgcactcaggcaagcaattctttgctggggggaactaatgactctagctacctgggtg</GBSeq_sequence>
+  </GBSeq>

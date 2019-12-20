@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<GBSeq>
+
+    <GBSeq_locus>MB015923</GBSeq_locus>
+    <GBSeq_length>3221</GBSeq_length>
+    <GBSeq_strandedness>double</GBSeq_strandedness>
+    <GBSeq_moltype>DNA</GBSeq_moltype>
+    <GBSeq_topology>linear</GBSeq_topology>
+    <GBSeq_division>PAT</GBSeq_division>
+    <GBSeq_update-date>31-JUL-2019</GBSeq_update-date>
+    <GBSeq_create-date>31-JUL-2019</GBSeq_create-date>
+    <GBSeq_definition>JP 2018502604-A/21: RECOMBINANT HBV CCCDNA, THE METHOD TO GENERATE THEREOF AND THE USE THEREOF</GBSeq_definition>
+    <GBSeq_primary-accession>MB015923</GBSeq_primary-accession>
+    <GBSeq_accession-version>MB015923.1</GBSeq_accession-version>
+    <GBSeq_other-seqids>
+      <GBSeqid>dbj|MB015923.1|</GBSeqid>
+      <GBSeqid>pat|JP|2018502604|21</GBSeqid>
+      <GBSeqid>gi|1711537596</GBSeqid>
+    </GBSeq_other-seqids>
+    <GBSeq_keywords>
+      <GBKeyword>JP 2018502604-A/21</GBKeyword>
+    </GBSeq_keywords>
+    <GBSeq_source>Hepatitis B virus</GBSeq_source>
+    <GBSeq_organism>Hepatitis B virus</GBSeq_organism>
+    <GBSeq_taxonomy>Viruses; Hepadnaviridae; Orthohepadnavirus</GBSeq_taxonomy>
+    <GBSeq_references>
+      <GBReference>
+        <GBReference_reference>1</GBReference_reference>
+        <GBReference_position>1..3221</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Gao,L.</GBAuthor>
+          <GBAuthor>Zeng,J.</GBAuthor>
+          <GBAuthor>Xiang,K.</GBAuthor>
+          <GBAuthor>Yu,Y.</GBAuthor>
+          <GBAuthor>Yan,Z.</GBAuthor>
+          <GBAuthor>Hu,H.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>RECOMBINANT HBV CCCDNA, THE METHOD TO GENERATE THEREOF AND THE USE THEREOF</GBReference_title>
+        <GBReference_journal>JP2018502604-A 21 01-FEB-2018 F Hoffmann-La Roche AG</GBReference_journal>
+      </GBReference>
+    </GBSeq_references>
+    <GBSeq_comment>OS Hepatitis B virus~PN JP 2018502604-A/21~PD 01-FEB-2018~PF 25-JAN-2016 JP 2017557484~PR 27-JAN-2015 CN PCT/CN2015/071604 ,22-SEP-2015 CN~PR PCT/CN2015/090258~PA F Hoffmann-La Roche AG~PI lu gao,jing zeng,kunlun xiang,youjun yu,zhipeng yan,hui hu~PT 'RECOMBINANT HBV CCCDNA, THE METHOD TO GENERATE THEREOF AND~PT THE USE~PT THEREOF'~PS N21~CC~FH Key Location/Qualifiers.</GBSeq_comment>
+    <GBSeq_feature-table>
+      <GBFeature>
+        <GBFeature_key>source</GBFeature_key>
+        <GBFeature_location>1..3221</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>3221</GBInterval_to>
+            <GBInterval_accession>MB015923.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>organism</GBQualifier_name>
+            <GBQualifier_value>Hepatitis B virus</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>mol_type</GBQualifier_name>
+            <GBQualifier_value>unassigned DNA</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>db_xref</GBQualifier_name>
+            <GBQualifier_value>taxon:10407</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+    </GBSeq_feature-table>
+    <GBSeq_sequence>cccgggcgcgaccatggggcagaatctttccaccagcaatcctctgggattctttcccgaccaccagttggatccagccttcagagcaaacaccgcaaatccagattgggacttcaatcccaacaaggacacctggccagacgccaacaaggtaggagctggagcattcgggctgggtttcaccccaccgcacggaggccttttggggtggagccctcaggctcagggcatactacaaactttgccagcaaatccgcctcctgcctccaccaatcgccagtcaggaaggcagcctaccccgctgtctccacctttgagaaacactcatcctcaggccatgcagtggaattccacaaccttccaccaaactctgcaagatcccagagtgagaggcctgtatttccctgctggtggctccagttcaggaacagtaaaccctgttctgactactgcctctcccttatcgtcaatcttctcgaggattggggaccctgcgctgaacatggagaacatcacatcaggattcctaggaccccttctcgtgttacaggcggggtttttcttgttgacaagaatcctcacaataccgcagagtctagactcgtggtggacttctctcaattttctagggggaactaccgtgtgtcttggccaaaattcgcagtccccaacctccaatcactcaccaacctcttgtcctccaacttgtcctggttatcgctggatgtgtctgcggcgttttatcatcttcctcttcatcctgctgctatgcctcatcttcttgttggttcttctggactatcaaggtatgttgcccgtttgtcctctaattccaggatcctcaacaaccagcacgggaccatgccggacctgcatgactactgctcaaggaacctctatgtatccctcctgttgctgtaccaaaccttcggacggaaattgcacctgtattcccatcccatcatcctgggctttcggaaaattcctatgggagtgggcctcagcccgtttctcctggctcagtttactagtgccatttgttcagtggttcgtagggctttcccccactgtttggctttcagttatatggatgatgtggtattgggggccaagtctgtacagcatcttgagtccctttttaccgctgttaccaattttcttttgtctttgggtatacatttaaaccctaacaaaacaaagagatggggttactctctaaattttatgggttatgtcattggatgttatgggtccttgccacaagaacacatcatacaaaaaatcaaagaatgttttagaaaacttcctattaacaggcctattgattggaaagtatgtcaacgaattgtgggtcttttgggttttgctgccccttttacacaatgtggttatcctgcgttgatgcctttgtatgcatgtattcaatctaagcaggctttcactttctcgccaacttacaaggcctttctgtgtaaacaatacctgaacctttaccccgttgcccggcaacggccaggtctgtgccaagtgtttgctgacgcaacccccactggctggggcttggtcatgggccatcagcgcatgcgtggaaccttttcggctcctctgccgatccatactgcggaactcctagccgcttgttttgctcgcagcaggtctggagcaaacattatcgggactgataactctgttgtcctatcccgcaaatatacatcgtttccatggctgctaggctgtgctgccaactggatcctgcgcgggacgtcctttgtttacgtcccgtcggcgctgaatcctgcggacgacccttctcggggtcgcttgggactctctcgtccccttctccgtctgccgttccgaccgaccacggggcgcacctctctttacgcggactccccgtctgtgccttctcatctgccggaccgtgtgcacttcgcttcacctctgcacgtcgcatggagaccaccgtgaacgcccaccaaatattgcccaaggtcttacataaggagactcttggactctcagcaatgtcaacgaccgaccttgaggcatacttcaaagactgtttgtttaaagactgggaggagttgggggaggagattaggttaaaggtctttgtactaggaggctgtaggcataaattggtctgcgcaccagcaccatgcaactttttcacctctgcctaatcatctcttgttcatgtcctactgttcaagcctccaagctgtgccttgggtggctttggggcatggacatcgacccttataaagaatttggagctactgtggagttactctcgtttttgccttctgacttctttccttcagtacgagatcttctagataccgcctcagctctgtatcgggaagccttagagtctcctgagcattgttcacctcaccatactgcactcaggcaagcaattctttgctggggggaactaatgactctagctacctgggtgggtgttaatttggaagatccagcgtctagagacctagtagtcagttatgtcaacactaatatgggcctaaagttcaggcaactcttgtggtttcacatttcttgtctcacttttggaagagaaacagttatagagtatttggtgtctttcggagtgtggattcgcactcctccagcttatagaccaccaaatgcccctatcctatcaacacttccggagactactgttgttagacgacgaggcaggtcccctagaagaagaactccctcgcctcgcagacgaaggtctcaatcgccgcgtcgcagaagatctcaatctcgggaatctcaatgttagtattccttggactcataaggtggggaactttactgggctttattcttctactgtacctgtctttaatcctcattggaaaacaccatcttttcctaatatacatttacaccaagacattatcaaaaaatgtgaacagtttgtaggcccactcacagttaatgagaaaagaagattgcaattgattatgcctgccaggttttatccaaaggttaccaaatatttaccattggataagggtattaaaccttattatccagaacatctagttaatcattacttccaaactagacactatttacacactctatggaaggcgggtatattatataagagagaaacaacacatagcgcctcattttgtgggtcaccatattcttgggaacaagatctacagcccccaactggggtaacctttgggctc</GBSeq_sequence>
+  </GBSeq>
