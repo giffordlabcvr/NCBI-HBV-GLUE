@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<GBSeq>
+
+    <GBSeq_locus>MH780898</GBSeq_locus>
+    <GBSeq_length>285</GBSeq_length>
+    <GBSeq_strandedness>double</GBSeq_strandedness>
+    <GBSeq_moltype>DNA</GBSeq_moltype>
+    <GBSeq_topology>linear</GBSeq_topology>
+    <GBSeq_division>VRL</GBSeq_division>
+    <GBSeq_update-date>10-DEC-2019</GBSeq_update-date>
+    <GBSeq_create-date>10-DEC-2019</GBSeq_create-date>
+    <GBSeq_definition>Hepatitis B virus genotype H polymerase gene, partial cds</GBSeq_definition>
+    <GBSeq_primary-accession>MH780898</GBSeq_primary-accession>
+    <GBSeq_accession-version>MH780898.1</GBSeq_accession-version>
+    <GBSeq_other-seqids>
+      <GBSeqid>gb|MH780898.1|</GBSeqid>
+      <GBSeqid>gi|1780533530</GBSeqid>
+    </GBSeq_other-seqids>
+    <GBSeq_source>Hepatitis B virus</GBSeq_source>
+    <GBSeq_organism>Hepatitis B virus</GBSeq_organism>
+    <GBSeq_taxonomy>Viruses; Hepadnaviridae; Orthohepadnavirus</GBSeq_taxonomy>
+    <GBSeq_references>
+      <GBReference>
+        <GBReference_reference>1</GBReference_reference>
+        <GBReference_position>1..285</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Jose-Abrego,A.</GBAuthor>
+          <GBAuthor>Roman-Maldonado,S.M.</GBAuthor>
+          <GBAuthor>Panduro-cerda,A.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>Hepatitis B genotype mixtures and liver fibrosis in Mexican patients with HIV co-infected with hepatitis B virus</GBReference_title>
+        <GBReference_journal>Genes (Basel) (2019) In press</GBReference_journal>
+      </GBReference>
+      <GBReference>
+        <GBReference_reference>2</GBReference_reference>
+        <GBReference_position>1..285</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Jose-Abrego,A.</GBAuthor>
+          <GBAuthor>Roman-Maldonado,S.M.</GBAuthor>
+          <GBAuthor>Panduro-cerda,A.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>Direct Submission</GBReference_title>
+        <GBReference_journal>Submitted (20-AUG-2018) Department of Molecular Biology and Genomics, University Center for Health Science, University of Guadalajara, Sierra Mojada 950, Alcalde Barranquitas, Guadalajara, Jalisco 44350, Mexico</GBReference_journal>
+      </GBReference>
+    </GBSeq_references>
+    <GBSeq_comment>##Assembly-Data-START## ; Sequencing Technology :: Sanger dideoxy sequencing ; ##Assembly-Data-END##</GBSeq_comment>
+    <GBSeq_feature-table>
+      <GBFeature>
+        <GBFeature_key>source</GBFeature_key>
+        <GBFeature_location>1..285</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>285</GBInterval_to>
+            <GBInterval_accession>MH780898.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>organism</GBQualifier_name>
+            <GBQualifier_value>Hepatitis B virus</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>mol_type</GBQualifier_name>
+            <GBQualifier_value>genomic DNA</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>isolate</GBQualifier_name>
+            <GBQualifier_value>0.436</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>isolation_source</GBQualifier_name>
+            <GBQualifier_value>serum</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>host</GBQualifier_name>
+            <GBQualifier_value>Homo sapiens</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>db_xref</GBQualifier_name>
+            <GBQualifier_value>taxon:10407</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>country</GBQualifier_name>
+            <GBQualifier_value>Mexico</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>note</GBQualifier_name>
+            <GBQualifier_value>genotype: H</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>CDS</GBFeature_key>
+        <GBFeature_location>&lt;1..&gt;285</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>285</GBInterval_to>
+            <GBInterval_accession>MH780898.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_partial5 value="true"/>
+        <GBFeature_partial3 value="true"/>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>codon_start</GBQualifier_name>
+            <GBQualifier_value>1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>transl_table</GBQualifier_name>
+            <GBQualifier_value>1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>product</GBQualifier_name>
+            <GBQualifier_value>polymerase</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>protein_id</GBQualifier_name>
+            <GBQualifier_value>QGS70122.1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>translation</GBQualifier_name>
+            <GBQualifier_value>LQHGSTSLHGKKGYGTESFCAQSSGILSRPPVGSTIQSKFQQSRLGLQHKQGQLANGKQGRSGRLRSRVHTPTRWPSGVEPSGTGHSDNLATRST</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+    </GBSeq_feature-table>
+    <GBSeq_sequence>ctacagcatgggagcacctctctccacggcaagaaggggtatgggacagaatctttctgtgcccaatcctctgggattctttccagaccaccagttggatccactattcagagcaaattccagcagtcccgattgggacttcaacacaaacaaggacaattggccaatggcaaacaaggtaggagtgggaggcttcggtccagggttcacacccccacacggtggccttctggggtggagccctcaggcacagggcattctgacaacctcgccaccagatccaca</GBSeq_sequence>
+  </GBSeq>
