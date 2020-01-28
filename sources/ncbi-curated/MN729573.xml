@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <GBSeq>
 
-    <GBSeq_locus>MK487134</GBSeq_locus>
-    <GBSeq_length>327</GBSeq_length>
+    <GBSeq_locus>MN729573</GBSeq_locus>
+    <GBSeq_length>700</GBSeq_length>
     <GBSeq_strandedness>double</GBSeq_strandedness>
     <GBSeq_moltype>DNA</GBSeq_moltype>
     <GBSeq_topology>linear</GBSeq_topology>
     <GBSeq_division>VRL</GBSeq_division>
-    <GBSeq_update-date>23-JAN-2020</GBSeq_update-date>
-    <GBSeq_create-date>17-JUL-2019</GBSeq_create-date>
-    <GBSeq_definition>Hepatitis B virus isolate SWM10397 S protein (S) gene, partial cds</GBSeq_definition>
-    <GBSeq_primary-accession>MK487134</GBSeq_primary-accession>
-    <GBSeq_accession-version>MK487134.2</GBSeq_accession-version>
+    <GBSeq_update-date>19-JAN-2020</GBSeq_update-date>
+    <GBSeq_create-date>19-JAN-2020</GBSeq_create-date>
+    <GBSeq_definition>Hepatitis B virus isolate Meshaal2 large S protein (S) gene, partial cds</GBSeq_definition>
+    <GBSeq_primary-accession>MN729573</GBSeq_primary-accession>
+    <GBSeq_accession-version>MN729573.1</GBSeq_accession-version>
     <GBSeq_other-seqids>
-      <GBSeqid>gb|MK487134.2|</GBSeqid>
-      <GBSeqid>gi|1799811209</GBSeqid>
+      <GBSeqid>gb|MN729573.1|</GBSeqid>
+      <GBSeqid>gi|1796903500</GBSeqid>
     </GBSeq_other-seqids>
     <GBSeq_source>Hepatitis B virus</GBSeq_source>
     <GBSeq_organism>Hepatitis B virus</GBSeq_organism>
@@ -22,49 +22,41 @@
     <GBSeq_references>
       <GBReference>
         <GBReference_reference>1</GBReference_reference>
-        <GBReference_position>1..327</GBReference_position>
+        <GBReference_position>1..700</GBReference_position>
         <GBReference_authors>
-          <GBAuthor>Jepkemei,K.B.</GBAuthor>
-          <GBAuthor>Swidinsky,K.</GBAuthor>
-          <GBAuthor>Day,J.</GBAuthor>
-          <GBAuthor>Andonov,A.</GBAuthor>
-          <GBAuthor>Ochwoto,M.</GBAuthor>
-          <GBAuthor>McKinnon,L.</GBAuthor>
-          <GBAuthor>Gachara,G.</GBAuthor>
-          <GBAuthor>Songok,E.M.</GBAuthor>
-          <GBAuthor>Osiowy,C.</GBAuthor>
+          <GBAuthor>Meshaal,A.K.</GBAuthor>
+          <GBAuthor>Eladly,A.M.</GBAuthor>
+          <GBAuthor>Elshanawany,A.A.</GBAuthor>
+          <GBAuthor>Mekky,M.A.</GBAuthor>
+          <GBAuthor>Hetta,H.F.</GBAuthor>
         </GBReference_authors>
-        <GBReference_title>Characterization of occult hepatitis B in high-risk populations in Kenya</GBReference_title>
+        <GBReference_title>Hepatitis B virus DNA extracted from human plasma</GBReference_title>
         <GBReference_journal>Unpublished</GBReference_journal>
       </GBReference>
       <GBReference>
         <GBReference_reference>2</GBReference_reference>
-        <GBReference_position>1..327</GBReference_position>
+        <GBReference_position>1..700</GBReference_position>
         <GBReference_authors>
-          <GBAuthor>Jepkemei,K.B.</GBAuthor>
-          <GBAuthor>Swidinsky,K.</GBAuthor>
-          <GBAuthor>Day,J.</GBAuthor>
-          <GBAuthor>Andonov,A.</GBAuthor>
-          <GBAuthor>Ochwoto,M.</GBAuthor>
-          <GBAuthor>McKinnon,L.</GBAuthor>
-          <GBAuthor>Gachara,G.</GBAuthor>
-          <GBAuthor>Songok,E.M.</GBAuthor>
-          <GBAuthor>Osiowy,C.</GBAuthor>
+          <GBAuthor>Meshaal,A.K.</GBAuthor>
+          <GBAuthor>Eladly,A.M.</GBAuthor>
+          <GBAuthor>Elshanawany,A.A.</GBAuthor>
+          <GBAuthor>Mekky,M.A.</GBAuthor>
+          <GBAuthor>Hetta,H.F.</GBAuthor>
         </GBReference_authors>
         <GBReference_title>Direct Submission</GBReference_title>
-        <GBReference_journal>Submitted (01-FEB-2019) Viral Hepatitis and Bloodborne Pathogens, National Microbiology Laboratory, Public Health Agency of Canada, 1015 Arlington St., Winnipeg, Manitoba R3E 3R2, Canada</GBReference_journal>
+        <GBReference_journal>Submitted (23-NOV-2019) Botany and Microbiology, Al-Azhar University, Faculty of Science, Assiut 71524, Egypt</GBReference_journal>
       </GBReference>
     </GBSeq_references>
-    <GBSeq_comment>On Jan 23, 2020 this sequence version replaced MK487134.1.; ; ##Assembly-Data-START## ; Sequencing Technology :: Sanger dideoxy sequencing ; ##Assembly-Data-END##</GBSeq_comment>
+    <GBSeq_comment>##Assembly-Data-START## ; Sequencing Technology :: Sanger dideoxy sequencing ; ##Assembly-Data-END##</GBSeq_comment>
     <GBSeq_feature-table>
       <GBFeature>
         <GBFeature_key>source</GBFeature_key>
-        <GBFeature_location>1..327</GBFeature_location>
+        <GBFeature_location>1..700</GBFeature_location>
         <GBFeature_intervals>
           <GBInterval>
             <GBInterval_from>1</GBInterval_from>
-            <GBInterval_to>327</GBInterval_to>
-            <GBInterval_accession>MK487134.2</GBInterval_accession>
+            <GBInterval_to>700</GBInterval_to>
+            <GBInterval_accession>MN729573.1</GBInterval_accession>
           </GBInterval>
         </GBFeature_intervals>
         <GBFeature_quals>
@@ -78,7 +70,7 @@
           </GBQualifier>
           <GBQualifier>
             <GBQualifier_name>isolate</GBQualifier_name>
-            <GBQualifier_value>SWM10397</GBQualifier_value>
+            <GBQualifier_value>Meshaal2</GBQualifier_value>
           </GBQualifier>
           <GBQualifier>
             <GBQualifier_name>host</GBQualifier_name>
@@ -90,26 +82,26 @@
           </GBQualifier>
           <GBQualifier>
             <GBQualifier_name>country</GBQualifier_name>
-            <GBQualifier_value>Canada</GBQualifier_value>
+            <GBQualifier_value>Egypt</GBQualifier_value>
           </GBQualifier>
           <GBQualifier>
-            <GBQualifier_name>PCR_primers</GBQualifier_name>
-            <GBQualifier_value>fwd_name: hbpr75, fwd_seq: caaggtatgttgcccgtttgtcc, rev_name: hbpr94, rev_seq: ggyawaaagggactcamgatg</GBQualifier_value>
+            <GBQualifier_name>collection_date</GBQualifier_name>
+            <GBQualifier_value>10-Oct-2018</GBQualifier_value>
           </GBQualifier>
           <GBQualifier>
             <GBQualifier_name>note</GBQualifier_name>
-            <GBQualifier_value>genotype: A</GBQualifier_value>
+            <GBQualifier_value>genotype: D</GBQualifier_value>
           </GBQualifier>
         </GBFeature_quals>
       </GBFeature>
       <GBFeature>
         <GBFeature_key>gene</GBFeature_key>
-        <GBFeature_location>&lt;1..&gt;327</GBFeature_location>
+        <GBFeature_location>&lt;1..&gt;700</GBFeature_location>
         <GBFeature_intervals>
           <GBInterval>
             <GBInterval_from>1</GBInterval_from>
-            <GBInterval_to>327</GBInterval_to>
-            <GBInterval_accession>MK487134.2</GBInterval_accession>
+            <GBInterval_to>700</GBInterval_to>
+            <GBInterval_accession>MN729573.1</GBInterval_accession>
           </GBInterval>
         </GBFeature_intervals>
         <GBFeature_partial5 value="true"/>
@@ -123,12 +115,12 @@
       </GBFeature>
       <GBFeature>
         <GBFeature_key>CDS</GBFeature_key>
-        <GBFeature_location>&lt;1..&gt;327</GBFeature_location>
+        <GBFeature_location>&lt;1..&gt;700</GBFeature_location>
         <GBFeature_intervals>
           <GBInterval>
             <GBInterval_from>1</GBInterval_from>
-            <GBInterval_to>327</GBInterval_to>
-            <GBInterval_accession>MK487134.2</GBInterval_accession>
+            <GBInterval_to>700</GBInterval_to>
+            <GBInterval_accession>MN729573.1</GBInterval_accession>
           </GBInterval>
         </GBFeature_intervals>
         <GBFeature_partial5 value="true"/>
@@ -140,11 +132,11 @@
           </GBQualifier>
           <GBQualifier>
             <GBQualifier_name>note</GBQualifier_name>
-            <GBQualifier_value>HBV surface antigen; HBsAg</GBQualifier_value>
+            <GBQualifier_value>pre-S1/pre-S2/S</GBQualifier_value>
           </GBQualifier>
           <GBQualifier>
             <GBQualifier_name>codon_start</GBQualifier_name>
-            <GBQualifier_value>1</GBQualifier_value>
+            <GBQualifier_value>3</GBQualifier_value>
           </GBQualifier>
           <GBQualifier>
             <GBQualifier_name>transl_table</GBQualifier_name>
@@ -152,18 +144,18 @@
           </GBQualifier>
           <GBQualifier>
             <GBQualifier_name>product</GBQualifier_name>
-            <GBQualifier_value>S protein</GBQualifier_value>
+            <GBQualifier_value>large S protein</GBQualifier_value>
           </GBQualifier>
           <GBQualifier>
             <GBQualifier_name>protein_id</GBQualifier_name>
-            <GBQualifier_value>QDK65048.2</GBQualifier_value>
+            <GBQualifier_value>QHG11705.1</GBQualifier_value>
           </GBQualifier>
           <GBQualifier>
             <GBQualifier_name>translation</GBQualifier_name>
-            <GBQualifier_value>GMLPVCPLIPGSTTTSTGPCKTCTTPAQGNSMFPSCCCTKPTDGNCTCIPIPSSWAFAKYLWEWASVRFSWLSLLVPFVQWFVGLSPTVWLSAIWMMWYWGPSLYSIVS</GBQualifier_value>
+            <GBQualifier_value>TPLSPPLRNTHPQAMQWNSTTFHQTLQDPRVRGLYFPAGGSSSGTVNPVPTTVSHISSIFSRIGDPALNMENITSGFLGPLLVLQAGFFLLTRILTIPQSLDSWWTSLNFLGGTTVCLGQNSQSPTSNHSPTSCPPTCPGYRWMCLRRFIIFLFILLLCLIFLLVLLDYQGMLPVCPLIPGSSTTSTGPCRTCTTPAQGTSMYPSCCCTKPSDGNCTCIPIPSSWAFGKFLW</GBQualifier_value>
           </GBQualifier>
         </GBFeature_quals>
       </GBFeature>
     </GBSeq_feature-table>
-    <GBSeq_sequence>ggtatgttgcccgtttgtcctctaattccaggatcaacaacaaccagtacgggaccatgcaaaacctgcacgactcctgctcaaggcaactctatgtttccctcatgttgctgtacaaaacctacggatggaaattgcacctgtattcccatcccatcgtcctgggctttcgcaaaatacctatgggagtgggcctcagtccgtttctcttggctcagtttactagtgccatttgttcagtggttcgtagggctttcccccactgtttggctttcagctatatggatgatgtggtattgggggccaagtctgtacagcatcgtgagt</GBSeq_sequence>
+    <GBSeq_sequence>ctacccctctgtctccacctttgagaaacactcatcctcaggccatgcagtggaactccacaaccttccaccaaactctgcaagatcccagagtgagaggcctgtatttccctgctggtggctccagttcaggaacagtaaaccctgttccgactactgtctctcacatatcgtcaatcttctcgaggattggggaccctgcgctgaacatggagaacatcacatcaggattcctaggacccctgctcgtgttacaggcggggtttttcttgttgacaagaatcctcacaataccgcagagtctagactcgtggtggacttctctcaattttctagggggaactaccgtgtgtcttggccaaaattcgcagtccccaacctccaatcactcaccaacctcctgtcctccaacttgtcctggttatcgctggatgtgtctgcggcgttttatcatcttcctcttcatcctgctgctatgcctcatcttcttgttggttcttctggactatcaaggtatgttgcccgtttgtcctctaattccaggatcttcaaccaccagcacgggaccatgcagaacctgcacgactcctgctcaaggaacctctatgtatccctcctgttgctgtaccaaaccttcggacggaaattgcacctgtattcccatcccatcatcttgggctttcggaaaattcctatggga</GBSeq_sequence>
   </GBSeq>
