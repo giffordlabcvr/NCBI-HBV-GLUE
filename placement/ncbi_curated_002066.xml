@@ -1,0 +1,843 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<detailedMaxLikelihoodPlacerResult>
+    <queryResults glueType="Object[]">
+        <queryName glueType="String">ncbi-curated/MN147822</queryName>
+        <singlePlacement glueType="Object[]">
+            <placementIndex glueType="Integer">1</placementIndex>
+            <edgeIndex glueType="Integer">39</edgeIndex>
+            <likeWeightRatio glueType="Double">0.999951</likeWeightRatio>
+            <logLikelihood glueType="Double">-24434.005179</logLikelihood>
+            <distalLength glueType="Double">0.0133</distalLength>
+            <pendantLength glueType="Double">0.025018</pendantLength>
+        </singlePlacement>
+    </queryResults>
+    <labelledPhyloTree glueType="Object">
+        <root glueType="Object">
+            <internal glueType="Object">
+                <userData glueType="Object"/>
+                <branch glueType="Object[]">
+                    <userData glueType="Object">
+                        <length glueType="String">0.04704571783844899158</length>
+                        <jPlaceBranchLabel glueType="Integer">0</jPlaceBranchLabel>
+                    </userData>
+                    <leaf glueType="Object">
+                        <userData glueType="Object">
+                            <name glueType="String">alignment/AL_G/member/ncbi-refseqs/AB056513</name>
+                        </userData>
+                    </leaf>
+                </branch>
+                <branch glueType="Object[]">
+                    <userData glueType="Object">
+                        <length glueType="String">0.04704571783844899158</length>
+                        <jPlaceBranchLabel glueType="Integer">81</jPlaceBranchLabel>
+                    </userData>
+                    <internal glueType="Object">
+                        <userData glueType="Object"/>
+                        <branch glueType="Object[]">
+                            <userData glueType="Object">
+                                <length glueType="String">0.01793819824579437686</length>
+                                <jPlaceBranchLabel glueType="Integer">65</jPlaceBranchLabel>
+                            </userData>
+                            <internal glueType="Object">
+                                <userData glueType="Object"/>
+                                <branch glueType="Object[]">
+                                    <userData glueType="Object">
+                                        <length glueType="String">0.01211020055026579452</length>
+                                        <jPlaceBranchLabel glueType="Integer">53</jPlaceBranchLabel>
+                                    </userData>
+                                    <internal glueType="Object">
+                                        <userData glueType="Object"/>
+                                        <branch glueType="Object[]">
+                                            <userData glueType="Object">
+                                                <length glueType="String">0.03908140354338238837</length>
+                                                <jPlaceBranchLabel glueType="Integer">11</jPlaceBranchLabel>
+                                            </userData>
+                                            <internal glueType="Object">
+                                                <userData glueType="Object"/>
+                                                <branch glueType="Object[]">
+                                                    <userData glueType="Object">
+                                                        <length glueType="String">0.03170828969861576307</length>
+                                                        <jPlaceBranchLabel glueType="Integer">1</jPlaceBranchLabel>
+                                                    </userData>
+                                                    <leaf glueType="Object">
+                                                        <userData glueType="Object">
+                                                            <name glueType="String">alignment/AL_B6/member/ncbi-refseqs/AB287314</name>
+                                                        </userData>
+                                                    </leaf>
+                                                </branch>
+                                                <branch glueType="Object[]">
+                                                    <userData glueType="Object">
+                                                        <length glueType="String">0.00826919225157425261</length>
+                                                        <jPlaceBranchLabel glueType="Integer">10</jPlaceBranchLabel>
+                                                    </userData>
+                                                    <internal glueType="Object">
+                                                        <userData glueType="Object"/>
+                                                        <branch glueType="Object[]">
+                                                            <userData glueType="Object">
+                                                                <length glueType="String">0.01785516208849543054</length>
+                                                                <jPlaceBranchLabel glueType="Integer">2</jPlaceBranchLabel>
+                                                            </userData>
+                                                            <leaf glueType="Object">
+                                                                <userData glueType="Object">
+                                                                    <name glueType="String">alignment/AL_B3/member/ncbi-refseqs/AP011085</name>
+                                                                </userData>
+                                                            </leaf>
+                                                        </branch>
+                                                        <branch glueType="Object[]">
+                                                            <userData glueType="Object">
+                                                                <length glueType="String">0.01061168547503715982</length>
+                                                                <jPlaceBranchLabel glueType="Integer">9</jPlaceBranchLabel>
+                                                            </userData>
+                                                            <internal glueType="Object">
+                                                                <userData glueType="Object"/>
+                                                                <branch glueType="Object[]">
+                                                                    <userData glueType="Object">
+                                                                        <length glueType="String">0.02030720121501011430</length>
+                                                                        <jPlaceBranchLabel glueType="Integer">3</jPlaceBranchLabel>
+                                                                    </userData>
+                                                                    <leaf glueType="Object">
+                                                                        <userData glueType="Object">
+                                                                            <name glueType="String">alignment/AL_B4/member/ncbi-refseqs/AB073835</name>
+                                                                        </userData>
+                                                                    </leaf>
+                                                                </branch>
+                                                                <branch glueType="Object[]">
+                                                                    <userData glueType="Object">
+                                                                        <length glueType="String">0.00262631129901533516</length>
+                                                                        <jPlaceBranchLabel glueType="Integer">8</jPlaceBranchLabel>
+                                                                    </userData>
+                                                                    <internal glueType="Object">
+                                                                        <userData glueType="Object"/>
+                                                                        <branch glueType="Object[]">
+                                                                            <userData glueType="Object">
+                                                                                <length glueType="String">0.00946367746970328168</length>
+                                                                                <jPlaceBranchLabel glueType="Integer">6</jPlaceBranchLabel>
+                                                                            </userData>
+                                                                            <internal glueType="Object">
+                                                                                <userData glueType="Object"/>
+                                                                                <branch glueType="Object[]">
+                                                                                    <userData glueType="Object">
+                                                                                        <length glueType="String">0.00567412249978979134</length>
+                                                                                        <jPlaceBranchLabel glueType="Integer">4</jPlaceBranchLabel>
+                                                                                    </userData>
+                                                                                    <leaf glueType="Object">
+                                                                                        <userData glueType="Object">
+                                                                                            <name glueType="String">alignment/AL_B2_2/member/ncbi-refseqs/GU815637</name>
+                                                                                        </userData>
+                                                                                    </leaf>
+                                                                                </branch>
+                                                                                <branch glueType="Object[]">
+                                                                                    <userData glueType="Object">
+                                                                                        <length glueType="String">0.00461541227622582189</length>
+                                                                                        <jPlaceBranchLabel glueType="Integer">5</jPlaceBranchLabel>
+                                                                                    </userData>
+                                                                                    <leaf glueType="Object">
+                                                                                        <userData glueType="Object">
+                                                                                            <name glueType="String">alignment/AL_B2_1/member/ncbi-refseqs/JQ801514</name>
+                                                                                        </userData>
+                                                                                    </leaf>
+                                                                                </branch>
+                                                                            </internal>
+                                                                        </branch>
+                                                                        <branch glueType="Object[]">
+                                                                            <userData glueType="Object">
+                                                                                <length glueType="String">0.02839329224512537886</length>
+                                                                                <jPlaceBranchLabel glueType="Integer">7</jPlaceBranchLabel>
+                                                                            </userData>
+                                                                            <leaf glueType="Object">
+                                                                                <userData glueType="Object">
+                                                                                    <name glueType="String">alignment/AL_B1/member/ncbi-refseqs/D23679</name>
+                                                                                </userData>
+                                                                            </leaf>
+                                                                        </branch>
+                                                                    </internal>
+                                                                </branch>
+                                                            </internal>
+                                                        </branch>
+                                                    </internal>
+                                                </branch>
+                                            </internal>
+                                        </branch>
+                                        <branch glueType="Object[]">
+                                            <userData glueType="Object">
+                                                <length glueType="String">0.00804926097320831681</length>
+                                                <jPlaceBranchLabel glueType="Integer">52</jPlaceBranchLabel>
+                                            </userData>
+                                            <internal glueType="Object">
+                                                <userData glueType="Object"/>
+                                                <branch glueType="Object[]">
+                                                    <userData glueType="Object">
+                                                        <length glueType="String">0.01128890162991236581</length>
+                                                        <jPlaceBranchLabel glueType="Integer">38</jPlaceBranchLabel>
+                                                    </userData>
+                                                    <internal glueType="Object">
+                                                        <userData glueType="Object"/>
+                                                        <branch glueType="Object[]">
+                                                            <userData glueType="Object">
+                                                                <length glueType="String">0.01753908401893947491</length>
+                                                                <jPlaceBranchLabel glueType="Integer">34</jPlaceBranchLabel>
+                                                            </userData>
+                                                            <internal glueType="Object">
+                                                                <userData glueType="Object"/>
+                                                                <branch glueType="Object[]">
+                                                                    <userData glueType="Object">
+                                                                        <length glueType="String">0.01195875883961685163</length>
+                                                                        <jPlaceBranchLabel glueType="Integer">32</jPlaceBranchLabel>
+                                                                    </userData>
+                                                                    <internal glueType="Object">
+                                                                        <userData glueType="Object"/>
+                                                                        <branch glueType="Object[]">
+                                                                            <userData glueType="Object">
+                                                                                <length glueType="String">0.02753917270689082777</length>
+                                                                                <jPlaceBranchLabel glueType="Integer">12</jPlaceBranchLabel>
+                                                                            </userData>
+                                                                            <leaf glueType="Object">
+                                                                                <userData glueType="Object">
+                                                                                    <name glueType="String">alignment/AL_C11/member/ncbi-refseqs/AB554015</name>
+                                                                                </userData>
+                                                                            </leaf>
+                                                                        </branch>
+                                                                        <branch glueType="Object[]">
+                                                                            <userData glueType="Object">
+                                                                                <length glueType="String">0.00432811397702490084</length>
+                                                                                <jPlaceBranchLabel glueType="Integer">31</jPlaceBranchLabel>
+                                                                            </userData>
+                                                                            <internal glueType="Object">
+                                                                                <userData glueType="Object"/>
+                                                                                <branch glueType="Object[]">
+                                                                                    <userData glueType="Object">
+                                                                                        <length glueType="String">0.02853589842002410629</length>
+                                                                                        <jPlaceBranchLabel glueType="Integer">13</jPlaceBranchLabel>
+                                                                                    </userData>
+                                                                                    <leaf glueType="Object">
+                                                                                        <userData glueType="Object">
+                                                                                            <name glueType="String">alignment/AL_C8/member/ncbi-refseqs/AP011107</name>
+                                                                                        </userData>
+                                                                                    </leaf>
+                                                                                </branch>
+                                                                                <branch glueType="Object[]">
+                                                                                    <userData glueType="Object">
+                                                                                        <length glueType="String">0.00218461313796341388</length>
+                                                                                        <jPlaceBranchLabel glueType="Integer">30</jPlaceBranchLabel>
+                                                                                    </userData>
+                                                                                    <internal glueType="Object">
+                                                                                        <userData glueType="Object"/>
+                                                                                        <branch glueType="Object[]">
+                                                                                            <userData glueType="Object">
+                                                                                                <length glueType="String">0.02462836903678538442</length>
+                                                                                                <jPlaceBranchLabel glueType="Integer">14</jPlaceBranchLabel>
+                                                                                            </userData>
+                                                                                            <leaf glueType="Object">
+                                                                                                <userData glueType="Object">
+                                                                                                    <name glueType="String">alignment/AL_C6/member/ncbi-refseqs/EU670263</name>
+                                                                                                </userData>
+                                                                                            </leaf>
+                                                                                        </branch>
+                                                                                        <branch glueType="Object[]">
+                                                                                            <userData glueType="Object">
+                                                                                                <length glueType="String">0.00376708786027792368</length>
+                                                                                                <jPlaceBranchLabel glueType="Integer">29</jPlaceBranchLabel>
+                                                                                            </userData>
+                                                                                            <internal glueType="Object">
+                                                                                                <userData glueType="Object"/>
+                                                                                                <branch glueType="Object[]">
+                                                                                                    <userData glueType="Object">
+                                                                                                        <length glueType="String">0.01443041391155291259</length>
+                                                                                                        <jPlaceBranchLabel glueType="Integer">15</jPlaceBranchLabel>
+                                                                                                    </userData>
+                                                                                                    <leaf glueType="Object">
+                                                                                                        <userData glueType="Object">
+                                                                                                            <name glueType="String">alignment/AL_C_UA_1/member/ncbi-refseqs/KC774298</name>
+                                                                                                        </userData>
+                                                                                                    </leaf>
+                                                                                                </branch>
+                                                                                                <branch glueType="Object[]">
+                                                                                                    <userData glueType="Object">
+                                                                                                        <length glueType="String">0.00155236106442033141</length>
+                                                                                                        <jPlaceBranchLabel glueType="Integer">28</jPlaceBranchLabel>
+                                                                                                    </userData>
+                                                                                                    <internal glueType="Object">
+                                                                                                        <userData glueType="Object"/>
+                                                                                                        <branch glueType="Object[]">
+                                                                                                            <userData glueType="Object">
+                                                                                                                <length glueType="String">0.00217534141189543650</length>
+                                                                                                                <jPlaceBranchLabel glueType="Integer">22</jPlaceBranchLabel>
+                                                                                                            </userData>
+                                                                                                            <internal glueType="Object">
+                                                                                                                <userData glueType="Object"/>
+                                                                                                                <branch glueType="Object[]">
+                                                                                                                    <userData glueType="Object">
+                                                                                                                        <length glueType="String">0.02024926423444046303</length>
+                                                                                                                        <jPlaceBranchLabel glueType="Integer">16</jPlaceBranchLabel>
+                                                                                                                    </userData>
+                                                                                                                    <leaf glueType="Object">
+                                                                                                                        <userData glueType="Object">
+                                                                                                                            <name glueType="String">alignment/AL_C_UA_2/member/ncbi-refseqs/DQ089802</name>
+                                                                                                                        </userData>
+                                                                                                                    </leaf>
+                                                                                                                </branch>
+                                                                                                                <branch glueType="Object[]">
+                                                                                                                    <userData glueType="Object">
+                                                                                                                        <length glueType="String">0.00308230458911322707</length>
+                                                                                                                        <jPlaceBranchLabel glueType="Integer">21</jPlaceBranchLabel>
+                                                                                                                    </userData>
+                                                                                                                    <internal glueType="Object">
+                                                                                                                        <userData glueType="Object"/>
+                                                                                                                        <branch glueType="Object[]">
+                                                                                                                            <userData glueType="Object">
+                                                                                                                                <length glueType="String">0.00095506672485038118</length>
+                                                                                                                                <jPlaceBranchLabel glueType="Integer">19</jPlaceBranchLabel>
+                                                                                                                            </userData>
+                                                                                                                            <internal glueType="Object">
+                                                                                                                                <userData glueType="Object"/>
+                                                                                                                                <branch glueType="Object[]">
+                                                                                                                                    <userData glueType="Object">
+                                                                                                                                        <length glueType="String">0.00756537298576854655</length>
+                                                                                                                                        <jPlaceBranchLabel glueType="Integer">17</jPlaceBranchLabel>
+                                                                                                                                    </userData>
+                                                                                                                                    <leaf glueType="Object">
+                                                                                                                                        <userData glueType="Object">
+                                                                                                                                            <name glueType="String">alignment/AL_C2_1/member/ncbi-refseqs/KC774182</name>
+                                                                                                                                        </userData>
+                                                                                                                                    </leaf>
+                                                                                                                                </branch>
+                                                                                                                                <branch glueType="Object[]">
+                                                                                                                                    <userData glueType="Object">
+                                                                                                                                        <length glueType="String">0.00477710841490171755</length>
+                                                                                                                                        <jPlaceBranchLabel glueType="Integer">18</jPlaceBranchLabel>
+                                                                                                                                    </userData>
+                                                                                                                                    <leaf glueType="Object">
+                                                                                                                                        <userData glueType="Object">
+                                                                                                                                            <name glueType="String">alignment/AL_C2_3/member/ncbi-refseqs/AP011098</name>
+                                                                                                                                        </userData>
+                                                                                                                                    </leaf>
+                                                                                                                                </branch>
+                                                                                                                            </internal>
+                                                                                                                        </branch>
+                                                                                                                        <branch glueType="Object[]">
+                                                                                                                            <userData glueType="Object">
+                                                                                                                                <length glueType="String">0.00907521109698891139</length>
+                                                                                                                                <jPlaceBranchLabel glueType="Integer">20</jPlaceBranchLabel>
+                                                                                                                            </userData>
+                                                                                                                            <leaf glueType="Object">
+                                                                                                                                <userData glueType="Object">
+                                                                                                                                    <name glueType="String">alignment/AL_C2_2/member/ncbi-refseqs/GQ377617</name>
+                                                                                                                                </userData>
+                                                                                                                            </leaf>
+                                                                                                                        </branch>
+                                                                                                                    </internal>
+                                                                                                                </branch>
+                                                                                                            </internal>
+                                                                                                        </branch>
+                                                                                                        <branch glueType="Object[]">
+                                                                                                            <userData glueType="Object">
+                                                                                                                <length glueType="String">0.00184783514723598202</length>
+                                                                                                                <jPlaceBranchLabel glueType="Integer">27</jPlaceBranchLabel>
+                                                                                                            </userData>
+                                                                                                            <internal glueType="Object">
+                                                                                                                <userData glueType="Object"/>
+                                                                                                                <branch glueType="Object[]">
+                                                                                                                    <userData glueType="Object">
+                                                                                                                        <length glueType="String">0.04381045557831939746</length>
+                                                                                                                        <jPlaceBranchLabel glueType="Integer">23</jPlaceBranchLabel>
+                                                                                                                    </userData>
+                                                                                                                    <leaf glueType="Object">
+                                                                                                                        <userData glueType="Object">
+                                                                                                                            <name glueType="String">alignment/AL_C5/member/ncbi-refseqs/AP011099</name>
+                                                                                                                        </userData>
+                                                                                                                    </leaf>
+                                                                                                                </branch>
+                                                                                                                <branch glueType="Object[]">
+                                                                                                                    <userData glueType="Object">
+                                                                                                                        <length glueType="String">0.00371311712053749941</length>
+                                                                                                                        <jPlaceBranchLabel glueType="Integer">26</jPlaceBranchLabel>
+                                                                                                                    </userData>
+                                                                                                                    <internal glueType="Object">
+                                                                                                                        <userData glueType="Object"/>
+                                                                                                                        <branch glueType="Object[]">
+                                                                                                                            <userData glueType="Object">
+                                                                                                                                <length glueType="String">0.01765837348243325458</length>
+                                                                                                                                <jPlaceBranchLabel glueType="Integer">24</jPlaceBranchLabel>
+                                                                                                                            </userData>
+                                                                                                                            <leaf glueType="Object">
+                                                                                                                                <userData glueType="Object">
+                                                                                                                                    <name glueType="String">alignment/AL_C10/member/ncbi-refseqs/KJ173333</name>
+                                                                                                                                </userData>
+                                                                                                                            </leaf>
+                                                                                                                        </branch>
+                                                                                                                        <branch glueType="Object[]">
+                                                                                                                            <userData glueType="Object">
+                                                                                                                                <length glueType="String">0.02198009160826358208</length>
+                                                                                                                                <jPlaceBranchLabel glueType="Integer">25</jPlaceBranchLabel>
+                                                                                                                            </userData>
+                                                                                                                            <leaf glueType="Object">
+                                                                                                                                <userData glueType="Object">
+                                                                                                                                    <name glueType="String">alignment/AL_C1/member/ncbi-refseqs/DQ089781</name>
+                                                                                                                                </userData>
+                                                                                                                            </leaf>
+                                                                                                                        </branch>
+                                                                                                                    </internal>
+                                                                                                                </branch>
+                                                                                                            </internal>
+                                                                                                        </branch>
+                                                                                                    </internal>
+                                                                                                </branch>
+                                                                                            </internal>
+                                                                                        </branch>
+                                                                                    </internal>
+                                                                                </branch>
+                                                                            </internal>
+                                                                        </branch>
+                                                                    </internal>
+                                                                </branch>
+                                                                <branch glueType="Object[]">
+                                                                    <userData glueType="Object">
+                                                                        <length glueType="String">0.03666654947506063633</length>
+                                                                        <jPlaceBranchLabel glueType="Integer">33</jPlaceBranchLabel>
+                                                                    </userData>
+                                                                    <leaf glueType="Object">
+                                                                        <userData glueType="Object">
+                                                                            <name glueType="String">alignment/AL_C4/member/ncbi-refseqs/KF873526</name>
+                                                                        </userData>
+                                                                    </leaf>
+                                                                </branch>
+                                                            </internal>
+                                                        </branch>
+                                                        <branch glueType="Object[]">
+                                                            <userData glueType="Object">
+                                                                <length glueType="String">0.02049014620355380303</length>
+                                                                <jPlaceBranchLabel glueType="Integer">37</jPlaceBranchLabel>
+                                                            </userData>
+                                                            <internal glueType="Object">
+                                                                <userData glueType="Object"/>
+                                                                <branch glueType="Object[]">
+                                                                    <userData glueType="Object">
+                                                                        <length glueType="String">0.01728286674226610711</length>
+                                                                        <jPlaceBranchLabel glueType="Integer">35</jPlaceBranchLabel>
+                                                                    </userData>
+                                                                    <leaf glueType="Object">
+                                                                        <userData glueType="Object">
+                                                                            <name glueType="String">alignment/AL_I2/member/ncbi-refseqs/FJ023669</name>
+                                                                        </userData>
+                                                                    </leaf>
+                                                                </branch>
+                                                                <branch glueType="Object[]">
+                                                                    <userData glueType="Object">
+                                                                        <length glueType="String">0.01921039674655054472</length>
+                                                                        <jPlaceBranchLabel glueType="Integer">36</jPlaceBranchLabel>
+                                                                    </userData>
+                                                                    <leaf glueType="Object">
+                                                                        <userData glueType="Object">
+                                                                            <name glueType="String">alignment/AL_I1/member/ncbi-refseqs/AB562463</name>
+                                                                        </userData>
+                                                                    </leaf>
+                                                                </branch>
+                                                            </internal>
+                                                        </branch>
+                                                    </internal>
+                                                </branch>
+                                                <branch glueType="Object[]">
+                                                    <userData glueType="Object">
+                                                        <length glueType="String">0.03598241956437381317</length>
+                                                        <jPlaceBranchLabel glueType="Integer">51</jPlaceBranchLabel>
+                                                    </userData>
+                                                    <internal glueType="Object">
+                                                        <userData glueType="Object"/>
+                                                        <branch glueType="Object[]">
+                                                            <userData glueType="Object">
+                                                                <length glueType="String">0.02232139018472646327</length>
+                                                                <jPlaceBranchLabel glueType="Integer">39</jPlaceBranchLabel>
+                                                            </userData>
+                                                            <leaf glueType="Object">
+                                                                <userData glueType="Object">
+                                                                    <name glueType="String">alignment/AL_A2/member/ncbi-refseqs/EU594385</name>
+                                                                </userData>
+                                                            </leaf>
+                                                        </branch>
+                                                        <branch glueType="Object[]">
+                                                            <userData glueType="Object">
+                                                                <length glueType="String">0.00360631504966434611</length>
+                                                                <jPlaceBranchLabel glueType="Integer">50</jPlaceBranchLabel>
+                                                            </userData>
+                                                            <internal glueType="Object">
+                                                                <userData glueType="Object"/>
+                                                                <branch glueType="Object[]">
+                                                                    <userData glueType="Object">
+                                                                        <length glueType="String">0.03052458258203574401</length>
+                                                                        <jPlaceBranchLabel glueType="Integer">40</jPlaceBranchLabel>
+                                                                    </userData>
+                                                                    <leaf glueType="Object">
+                                                                        <userData glueType="Object">
+                                                                            <name glueType="String">alignment/AL_A6/member/ncbi-refseqs/GQ331046</name>
+                                                                        </userData>
+                                                                    </leaf>
+                                                                </branch>
+                                                                <branch glueType="Object[]">
+                                                                    <userData glueType="Object">
+                                                                        <length glueType="String">0.00488403595500698940</length>
+                                                                        <jPlaceBranchLabel glueType="Integer">49</jPlaceBranchLabel>
+                                                                    </userData>
+                                                                    <internal glueType="Object">
+                                                                        <userData glueType="Object"/>
+                                                                        <branch glueType="Object[]">
+                                                                            <userData glueType="Object">
+                                                                                <length glueType="String">0.00371671195511848011</length>
+                                                                                <jPlaceBranchLabel glueType="Integer">45</jPlaceBranchLabel>
+                                                                            </userData>
+                                                                            <internal glueType="Object">
+                                                                                <userData glueType="Object"/>
+                                                                                <branch glueType="Object[]">
+                                                                                    <userData glueType="Object">
+                                                                                        <length glueType="String">0.01277177805956555660</length>
+                                                                                        <jPlaceBranchLabel glueType="Integer">41</jPlaceBranchLabel>
+                                                                                    </userData>
+                                                                                    <leaf glueType="Object">
+                                                                                        <userData glueType="Object">
+                                                                                            <name glueType="String">alignment/AL_A5/member/ncbi-refseqs/FJ692601</name>
+                                                                                        </userData>
+                                                                                    </leaf>
+                                                                                </branch>
+                                                                                <branch glueType="Object[]">
+                                                                                    <userData glueType="Object">
+                                                                                        <length glueType="String">0.00205159825946542437</length>
+                                                                                        <jPlaceBranchLabel glueType="Integer">44</jPlaceBranchLabel>
+                                                                                    </userData>
+                                                                                    <internal glueType="Object">
+                                                                                        <userData glueType="Object"/>
+                                                                                        <branch glueType="Object[]">
+                                                                                            <userData glueType="Object">
+                                                                                                <length glueType="String">0.02209843633146515995</length>
+                                                                                                <jPlaceBranchLabel glueType="Integer">42</jPlaceBranchLabel>
+                                                                                            </userData>
+                                                                                            <leaf glueType="Object">
+                                                                                                <userData glueType="Object">
+                                                                                                    <name glueType="String">alignment/AL_A3/member/ncbi-refseqs/AM184126</name>
+                                                                                                </userData>
+                                                                                            </leaf>
+                                                                                        </branch>
+                                                                                        <branch glueType="Object[]">
+                                                                                            <userData glueType="Object">
+                                                                                                <length glueType="String">0.01493317444788891737</length>
+                                                                                                <jPlaceBranchLabel glueType="Integer">43</jPlaceBranchLabel>
+                                                                                            </userData>
+                                                                                            <leaf glueType="Object">
+                                                                                                <userData glueType="Object">
+                                                                                                    <name glueType="String">alignment/AL_A4/member/ncbi-refseqs/KM606737</name>
+                                                                                                </userData>
+                                                                                            </leaf>
+                                                                                        </branch>
+                                                                                    </internal>
+                                                                                </branch>
+                                                                            </internal>
+                                                                        </branch>
+                                                                        <branch glueType="Object[]">
+                                                                            <userData glueType="Object">
+                                                                                <length glueType="String">0.01062801321499725130</length>
+                                                                                <jPlaceBranchLabel glueType="Integer">48</jPlaceBranchLabel>
+                                                                            </userData>
+                                                                            <internal glueType="Object">
+                                                                                <userData glueType="Object"/>
+                                                                                <branch glueType="Object[]">
+                                                                                    <userData glueType="Object">
+                                                                                        <length glueType="String">0.00914361078138765070</length>
+                                                                                        <jPlaceBranchLabel glueType="Integer">46</jPlaceBranchLabel>
+                                                                                    </userData>
+                                                                                    <leaf glueType="Object">
+                                                                                        <userData glueType="Object">
+                                                                                            <name glueType="String">alignment/AL_A1_2/member/ncbi-refseqs/FJ692557</name>
+                                                                                        </userData>
+                                                                                    </leaf>
+                                                                                </branch>
+                                                                                <branch glueType="Object[]">
+                                                                                    <userData glueType="Object">
+                                                                                        <length glueType="String">0.01146550989012580339</length>
+                                                                                        <jPlaceBranchLabel glueType="Integer">47</jPlaceBranchLabel>
+                                                                                    </userData>
+                                                                                    <leaf glueType="Object">
+                                                                                        <userData glueType="Object">
+                                                                                            <name glueType="String">alignment/AL_A1_1/member/ncbi-refseqs/KP168423</name>
+                                                                                        </userData>
+                                                                                    </leaf>
+                                                                                </branch>
+                                                                            </internal>
+                                                                        </branch>
+                                                                    </internal>
+                                                                </branch>
+                                                            </internal>
+                                                        </branch>
+                                                    </internal>
+                                                </branch>
+                                            </internal>
+                                        </branch>
+                                    </internal>
+                                </branch>
+                                <branch glueType="Object[]">
+                                    <userData glueType="Object">
+                                        <length glueType="String">0.01146128906157460776</length>
+                                        <jPlaceBranchLabel glueType="Integer">64</jPlaceBranchLabel>
+                                    </userData>
+                                    <internal glueType="Object">
+                                        <userData glueType="Object"/>
+                                        <branch glueType="Object[]">
+                                            <userData glueType="Object">
+                                                <length glueType="String">0.09985067950213517840</length>
+                                                <jPlaceBranchLabel glueType="Integer">54</jPlaceBranchLabel>
+                                            </userData>
+                                            <leaf glueType="Object">
+                                                <userData glueType="Object">
+                                                    <name glueType="String">alignment/AL_J/member/ncbi-refseqs/AB486012</name>
+                                                </userData>
+                                            </leaf>
+                                        </branch>
+                                        <branch glueType="Object[]">
+                                            <userData glueType="Object">
+                                                <length glueType="String">0.10705813245749265517</length>
+                                                <jPlaceBranchLabel glueType="Integer">63</jPlaceBranchLabel>
+                                            </userData>
+                                            <internal glueType="Object">
+                                                <userData glueType="Object"/>
+                                                <branch glueType="Object[]">
+                                                    <userData glueType="Object">
+                                                        <length glueType="String">0.02996512745306557923</length>
+                                                        <jPlaceBranchLabel glueType="Integer">61</jPlaceBranchLabel>
+                                                    </userData>
+                                                    <internal glueType="Object">
+                                                        <userData glueType="Object"/>
+                                                        <branch glueType="Object[]">
+                                                            <userData glueType="Object">
+                                                                <length glueType="String">0.03414784132720530274</length>
+                                                                <jPlaceBranchLabel glueType="Integer">55</jPlaceBranchLabel>
+                                                            </userData>
+                                                            <leaf glueType="Object">
+                                                                <userData glueType="Object">
+                                                                    <name glueType="String">alignment/AL_F1/member/ncbi-refseqs/HM585194</name>
+                                                                </userData>
+                                                            </leaf>
+                                                        </branch>
+                                                        <branch glueType="Object[]">
+                                                            <userData glueType="Object">
+                                                                <length glueType="String">0.00851796325645093333</length>
+                                                                <jPlaceBranchLabel glueType="Integer">60</jPlaceBranchLabel>
+                                                            </userData>
+                                                            <internal glueType="Object">
+                                                                <userData glueType="Object"/>
+                                                                <branch glueType="Object[]">
+                                                                    <userData glueType="Object">
+                                                                        <length glueType="String">0.00450026647151668350</length>
+                                                                        <jPlaceBranchLabel glueType="Integer">58</jPlaceBranchLabel>
+                                                                    </userData>
+                                                                    <internal glueType="Object">
+                                                                        <userData glueType="Object"/>
+                                                                        <branch glueType="Object[]">
+                                                                            <userData glueType="Object">
+                                                                                <length glueType="String">0.02496232710188846932</length>
+                                                                                <jPlaceBranchLabel glueType="Integer">56</jPlaceBranchLabel>
+                                                                            </userData>
+                                                                            <leaf glueType="Object">
+                                                                                <userData glueType="Object">
+                                                                                    <name glueType="String">alignment/AL_F2/member/ncbi-refseqs/DQ899143</name>
+                                                                                </userData>
+                                                                            </leaf>
+                                                                        </branch>
+                                                                        <branch glueType="Object[]">
+                                                                            <userData glueType="Object">
+                                                                                <length glueType="String">0.02416209639386978844</length>
+                                                                                <jPlaceBranchLabel glueType="Integer">57</jPlaceBranchLabel>
+                                                                            </userData>
+                                                                            <leaf glueType="Object">
+                                                                                <userData glueType="Object">
+                                                                                    <name glueType="String">alignment/AL_F4/member/ncbi-refseqs/KJ843175</name>
+                                                                                </userData>
+                                                                            </leaf>
+                                                                        </branch>
+                                                                    </internal>
+                                                                </branch>
+                                                                <branch glueType="Object[]">
+                                                                    <userData glueType="Object">
+                                                                        <length glueType="String">0.02062161987177507302</length>
+                                                                        <jPlaceBranchLabel glueType="Integer">59</jPlaceBranchLabel>
+                                                                    </userData>
+                                                                    <leaf glueType="Object">
+                                                                        <userData glueType="Object">
+                                                                            <name glueType="String">alignment/AL_F3/member/ncbi-refseqs/MH051986</name>
+                                                                        </userData>
+                                                                    </leaf>
+                                                                </branch>
+                                                            </internal>
+                                                        </branch>
+                                                    </internal>
+                                                </branch>
+                                                <branch glueType="Object[]">
+                                                    <userData glueType="Object">
+                                                        <length glueType="String">0.05497393038095545886</length>
+                                                        <jPlaceBranchLabel glueType="Integer">62</jPlaceBranchLabel>
+                                                    </userData>
+                                                    <leaf glueType="Object">
+                                                        <userData glueType="Object">
+                                                            <name glueType="String">alignment/AL_H/member/ncbi-refseqs/FJ356715</name>
+                                                        </userData>
+                                                    </leaf>
+                                                </branch>
+                                            </internal>
+                                        </branch>
+                                    </internal>
+                                </branch>
+                            </internal>
+                        </branch>
+                        <branch glueType="Object[]">
+                            <userData glueType="Object">
+                                <length glueType="String">0.02151832523917339424</length>
+                                <jPlaceBranchLabel glueType="Integer">80</jPlaceBranchLabel>
+                            </userData>
+                            <internal glueType="Object">
+                                <userData glueType="Object"/>
+                                <branch glueType="Object[]">
+                                    <userData glueType="Object">
+                                        <length glueType="String">0.03097177490575609912</length>
+                                        <jPlaceBranchLabel glueType="Integer">78</jPlaceBranchLabel>
+                                    </userData>
+                                    <internal glueType="Object">
+                                        <userData glueType="Object"/>
+                                        <branch glueType="Object[]">
+                                            <userData glueType="Object">
+                                                <length glueType="String">0.03204686216476094335</length>
+                                                <jPlaceBranchLabel glueType="Integer">66</jPlaceBranchLabel>
+                                            </userData>
+                                            <leaf glueType="Object">
+                                                <userData glueType="Object">
+                                                    <name glueType="String">alignment/AL_D5/member/ncbi-refseqs/GQ205389</name>
+                                                </userData>
+                                            </leaf>
+                                        </branch>
+                                        <branch glueType="Object[]">
+                                            <userData glueType="Object">
+                                                <length glueType="String">0.00455786789326220222</length>
+                                                <jPlaceBranchLabel glueType="Integer">77</jPlaceBranchLabel>
+                                            </userData>
+                                            <internal glueType="Object">
+                                                <userData glueType="Object"/>
+                                                <branch glueType="Object[]">
+                                                    <userData glueType="Object">
+                                                        <length glueType="String">0.00580175606818932130</length>
+                                                        <jPlaceBranchLabel glueType="Integer">73</jPlaceBranchLabel>
+                                                    </userData>
+                                                    <internal glueType="Object">
+                                                        <userData glueType="Object"/>
+                                                        <branch glueType="Object[]">
+                                                            <userData glueType="Object">
+                                                                <length glueType="String">0.01527357936538882403</length>
+                                                                <jPlaceBranchLabel glueType="Integer">67</jPlaceBranchLabel>
+                                                            </userData>
+                                                            <leaf glueType="Object">
+                                                                <userData glueType="Object">
+                                                                    <name glueType="String">alignment/AL_D3/member/ncbi-refseqs/FJ692507</name>
+                                                                </userData>
+                                                            </leaf>
+                                                        </branch>
+                                                        <branch glueType="Object[]">
+                                                            <userData glueType="Object">
+                                                                <length glueType="String">0.00473409937498550908</length>
+                                                                <jPlaceBranchLabel glueType="Integer">72</jPlaceBranchLabel>
+                                                            </userData>
+                                                            <internal glueType="Object">
+                                                                <userData glueType="Object"/>
+                                                                <branch glueType="Object[]">
+                                                                    <userData glueType="Object">
+                                                                        <length glueType="String">0.00275180924528794450</length>
+                                                                        <jPlaceBranchLabel glueType="Integer">70</jPlaceBranchLabel>
+                                                                    </userData>
+                                                                    <internal glueType="Object">
+                                                                        <userData glueType="Object"/>
+                                                                        <branch glueType="Object[]">
+                                                                            <userData glueType="Object">
+                                                                                <length glueType="String">0.00319630095709565101</length>
+                                                                                <jPlaceBranchLabel glueType="Integer">68</jPlaceBranchLabel>
+                                                                            </userData>
+                                                                            <leaf glueType="Object">
+                                                                                <userData glueType="Object">
+                                                                                    <name glueType="String">alignment/AL_D1_2/member/ncbi-refseqs/KC875277</name>
+                                                                                </userData>
+                                                                            </leaf>
+                                                                        </branch>
+                                                                        <branch glueType="Object[]">
+                                                                            <userData glueType="Object">
+                                                                                <length glueType="String">0.00556870709929920427</length>
+                                                                                <jPlaceBranchLabel glueType="Integer">69</jPlaceBranchLabel>
+                                                                            </userData>
+                                                                            <leaf glueType="Object">
+                                                                                <userData glueType="Object">
+                                                                                    <name glueType="String">alignment/AL_D1_1/member/ncbi-refseqs/AB222711</name>
+                                                                                </userData>
+                                                                            </leaf>
+                                                                        </branch>
+                                                                    </internal>
+                                                                </branch>
+                                                                <branch glueType="Object[]">
+                                                                    <userData glueType="Object">
+                                                                        <length glueType="String">0.01093200208322979948</length>
+                                                                        <jPlaceBranchLabel glueType="Integer">71</jPlaceBranchLabel>
+                                                                    </userData>
+                                                                    <leaf glueType="Object">
+                                                                        <userData glueType="Object">
+                                                                            <name glueType="String">alignment/AL_D2/member/ncbi-refseqs/MF925358</name>
+                                                                        </userData>
+                                                                    </leaf>
+                                                                </branch>
+                                                            </internal>
+                                                        </branch>
+                                                    </internal>
+                                                </branch>
+                                                <branch glueType="Object[]">
+                                                    <userData glueType="Object">
+                                                        <length glueType="String">0.00605113748056121219</length>
+                                                        <jPlaceBranchLabel glueType="Integer">76</jPlaceBranchLabel>
+                                                    </userData>
+                                                    <internal glueType="Object">
+                                                        <userData glueType="Object"/>
+                                                        <branch glueType="Object[]">
+                                                            <userData glueType="Object">
+                                                                <length glueType="String">0.01644201155133136888</length>
+                                                                <jPlaceBranchLabel glueType="Integer">74</jPlaceBranchLabel>
+                                                            </userData>
+                                                            <leaf glueType="Object">
+                                                                <userData glueType="Object">
+                                                                    <name glueType="String">alignment/AL_D4/member/ncbi-refseqs/FJ692533</name>
+                                                                </userData>
+                                                            </leaf>
+                                                        </branch>
+                                                        <branch glueType="Object[]">
+                                                            <userData glueType="Object">
+                                                                <length glueType="String">0.02281862490960793674</length>
+                                                                <jPlaceBranchLabel glueType="Integer">75</jPlaceBranchLabel>
+                                                            </userData>
+                                                            <leaf glueType="Object">
+                                                                <userData glueType="Object">
+                                                                    <name glueType="String">alignment/AL_D7/member/ncbi-refseqs/FJ904435</name>
+                                                                </userData>
+                                                            </leaf>
+                                                        </branch>
+                                                    </internal>
+                                                </branch>
+                                            </internal>
+                                        </branch>
+                                    </internal>
+                                </branch>
+                                <branch glueType="Object[]">
+                                    <userData glueType="Object">
+                                        <length glueType="String">0.04385399053487714499</length>
+                                        <jPlaceBranchLabel glueType="Integer">79</jPlaceBranchLabel>
+                                    </userData>
+                                    <leaf glueType="Object">
+                                        <userData glueType="Object">
+                                            <name glueType="String">alignment/AL_E/member/ncbi-refseqs/GQ161817</name>
+                                        </userData>
+                                    </leaf>
+                                </branch>
+                            </internal>
+                        </branch>
+                    </internal>
+                </branch>
+            </internal>
+        </root>
+    </labelledPhyloTree>
+</detailedMaxLikelihoodPlacerResult>
