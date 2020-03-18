@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<GBSeq>
+
+    <GBSeq_locus>LR745602</GBSeq_locus>
+    <GBSeq_length>1067</GBSeq_length>
+    <GBSeq_strandedness>single</GBSeq_strandedness>
+    <GBSeq_moltype>mRNA</GBSeq_moltype>
+    <GBSeq_topology>linear</GBSeq_topology>
+    <GBSeq_division>EST</GBSeq_division>
+    <GBSeq_update-date>11-MAR-2020</GBSeq_update-date>
+    <GBSeq_create-date>11-MAR-2020</GBSeq_create-date>
+    <GBSeq_definition>Hepatitis B virus EST, clone 5_RACE_EST_particle_canonicalHBx_clone_2, mRNA sequence</GBSeq_definition>
+    <GBSeq_primary-accession>LR745602</GBSeq_primary-accession>
+    <GBSeq_accession-version>LR745602.1</GBSeq_accession-version>
+    <GBSeq_other-seqids>
+      <GBSeqid>emb|LR745602.1|</GBSeqid>
+      <GBSeqid>gi|1820521113</GBSeqid>
+    </GBSeq_other-seqids>
+    <GBSeq_project>PRJEB36101</GBSeq_project>
+    <GBSeq_keywords>
+      <GBKeyword>EST</GBKeyword>
+    </GBSeq_keywords>
+    <GBSeq_source>Hepatitis B virus</GBSeq_source>
+    <GBSeq_organism>Hepatitis B virus</GBSeq_organism>
+    <GBSeq_taxonomy>Viruses; Hepadnaviridae; Orthohepadnavirus</GBSeq_taxonomy>
+    <GBSeq_references>
+      <GBReference>
+        <GBReference_reference>1</GBReference_reference>
+        <GBReference_position>1..1067</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Stadelmayer,B.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>Direct Submission</GBReference_title>
+        <GBReference_journal>Submitted (08-JAN-2020) INSERM, 151 cours Albert Thomas, France</GBReference_journal>
+      </GBReference>
+    </GBSeq_references>
+    <GBSeq_comment>RNAs were isolated using a guanidinium thiocyanate phenol chloroform extraction protocol. 5 prime RACE was essentially done as described in the GeneRacer Kit manual (ThermoFisher Scientific).</GBSeq_comment>
+    <GBSeq_feature-table>
+      <GBFeature>
+        <GBFeature_key>source</GBFeature_key>
+        <GBFeature_location>1..1067</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>1067</GBInterval_to>
+            <GBInterval_accession>LR745602.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>organism</GBQualifier_name>
+            <GBQualifier_value>Hepatitis B virus</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>mol_type</GBQualifier_name>
+            <GBQualifier_value>mRNA</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>db_xref</GBQualifier_name>
+            <GBQualifier_value>taxon:10407</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>clone</GBQualifier_name>
+            <GBQualifier_value>5_RACE_EST_particle_canonicalHBx_clone_2</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+    </GBSeq_feature-table>
+    <GBSeq_sequence>ganttgggcccgacgtcgcangctcccggccgccatggccgcgggattcgactggagcacgaggacactgacatggactgaaggagtagaaatctgttgtcctctcccgcaaatatacatcgtatccatggctgctaggctgtgctgccaactggatcctgcgcgggacgtcctttgtttacgtcccgtcggcgctgaatcctgcggacgacccttctcggggtcgcttgggactctctcgtccccttctccgtctgccgttccgaccgaccacggggcgcacctctctttacgcggactccccgtctgtgccttctcatctgccggaccgtgtgcacaatcactagtgcggccgcctgcaggtcgaccatatgggagagctcccaacgcgttggatgcatagcttgagtattctatagtgtcacctaaatagcttggcgtaatcatggtcatagctgtttcctgtgtgaaattgttatccgctcacaattccacacaacatacgagccggaagcataaagtgtaaagcctggggtgcctaatgagtgagctaactcacattaattgcgttgcgctcactgcccgctttccagtcgggaaacctgtcgtgccagctgcattaatgaatcggccaacgcgcggggagaggcggtttgcgtattgggcgctcttccgcttcctcgctcactgactcgctgcgctcggtcgttcggctgcggcgagcggtatcagctcactcaaaggcggtaatacggttatccacagaatcaggggataacgcaggaaagaacatgtgagcaaaaggccagcaaaaggccaggaaccgtaaaaaggccgcgttgctggcgtttttccataggctccgcccccctgacgagcatcacaaaaatcgacgctcaagtcagaggtggcgaaacccgacaggactataaagataccaggcgtttccccctggaagctccctcgtgcgctctcctgttccgaccctgccgcttaccggatacctgtccgcctttctcccttcgggaagcgtggcgctttnncanagctcacgctgtaggtntcnc</GBSeq_sequence>
+    <GBSeq_xrefs>
+      <GBXref>
+        <GBXref_dbname>BioProject</GBXref_dbname>
+        <GBXref_id>PRJEB36101</GBXref_id>
+      </GBXref>
+    </GBSeq_xrefs>
+  </GBSeq>
