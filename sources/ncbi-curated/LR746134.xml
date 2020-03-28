@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<GBSeq>
+
+    <GBSeq_locus>LR746134</GBSeq_locus>
+    <GBSeq_length>681</GBSeq_length>
+    <GBSeq_strandedness>single</GBSeq_strandedness>
+    <GBSeq_moltype>mRNA</GBSeq_moltype>
+    <GBSeq_topology>linear</GBSeq_topology>
+    <GBSeq_division>EST</GBSeq_division>
+    <GBSeq_update-date>17-MAR-2020</GBSeq_update-date>
+    <GBSeq_create-date>17-MAR-2020</GBSeq_create-date>
+    <GBSeq_definition>HBV genotype D EST, isolate Pichia pastoris, clone IDS28, mRNA sequence</GBSeq_definition>
+    <GBSeq_primary-accession>LR746134</GBSeq_primary-accession>
+    <GBSeq_accession-version>LR746134.1</GBSeq_accession-version>
+    <GBSeq_other-seqids>
+      <GBSeqid>emb|LR746134.1|</GBSeqid>
+      <GBSeqid>gi|1823467251</GBSeqid>
+    </GBSeq_other-seqids>
+    <GBSeq_project>PRJEB36259</GBSeq_project>
+    <GBSeq_keywords>
+      <GBKeyword>EST</GBKeyword>
+    </GBSeq_keywords>
+    <GBSeq_source>HBV genotype D</GBSeq_source>
+    <GBSeq_organism>HBV genotype D</GBSeq_organism>
+    <GBSeq_taxonomy>Viruses; Hepadnaviridae; Orthohepadnavirus</GBSeq_taxonomy>
+    <GBSeq_references>
+      <GBReference>
+        <GBReference_reference>1</GBReference_reference>
+        <GBReference_position>1..681</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Ashirov,O.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>Direct Submission</GBReference_title>
+        <GBReference_journal>Submitted (16-JAN-2020) Institute of the Chemistry of Plant Substances, Academy of Sciences of the Republic of Uzbekistan, Molecular genetic, M.Ulugbek Str. 77, 100170, Tashkent, Uzbekistan, Uzbekistan</GBReference_journal>
+      </GBReference>
+    </GBSeq_references>
+    <GBSeq_comment>CLONING AND SEQUENCING OF RECOMBINANT PLASMIDS 9opPIC9-S ENCODING THE S REGION OF THE HUMAN HEPATITIS B VIRUS (HBV).</GBSeq_comment>
+    <GBSeq_feature-table>
+      <GBFeature>
+        <GBFeature_key>source</GBFeature_key>
+        <GBFeature_location>1..681</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>681</GBInterval_to>
+            <GBInterval_accession>LR746134.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>organism</GBQualifier_name>
+            <GBQualifier_value>HBV genotype D</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>mol_type</GBQualifier_name>
+            <GBQualifier_value>mRNA</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>isolate</GBQualifier_name>
+            <GBQualifier_value>Pichia pastoris</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>db_xref</GBQualifier_name>
+            <GBQualifier_value>taxon:489483</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>clone</GBQualifier_name>
+            <GBQualifier_value>IDS28</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>country</GBQualifier_name>
+            <GBQualifier_value>Uzbekistan</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+    </GBSeq_feature-table>
+    <GBSeq_sequence>atggagaacatcacatcaggattcctaggacccctgctcgtgttacaggcggggtttttcttgttgacaagaatcctcacaataccgcagagtctagactcgtggtggacttctctcaattttctagggggaaccaccgtgtgtcttggccaaaattcgcagtccccaacctccaatcactcaccaacctcttgtcctccaacttgtcctggttatcgctggatgtgtctgcggcgttttatcatcttcctcttcatcctgctgctatgcctcatcttcttgttggttcttctggactatcaaggtatgttgcccgtttgtcctctaattccaggatcttcgaccaccagcacgggaccatgcagaacctgcatgactactgctcaaggaacctctatgtatccctcctgttgctgtaccaaaccttcggacggaaattgcacctgtattcccatcccatcatcctgggctttcggaaaattcctatgggagtgggcctcagcccgtttctcctggctcagtttactagtgccatttgttcagtggttcgtagggctttcccccactgtttggctttcagttatatggatgatgtggtattgggggccaagtctgtacagcatcttgagtccctttttaccgctgttaccaattttcttttgtctttgggtatacatttaa</GBSeq_sequence>
+    <GBSeq_xrefs>
+      <GBXref>
+        <GBXref_dbname>BioProject</GBXref_dbname>
+        <GBXref_id>PRJEB36259</GBXref_id>
+      </GBXref>
+    </GBSeq_xrefs>
+  </GBSeq>
