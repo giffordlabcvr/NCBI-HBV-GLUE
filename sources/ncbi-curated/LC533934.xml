@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<GBSeq>
+
+    <GBSeq_locus>LC533934</GBSeq_locus>
+    <GBSeq_length>3213</GBSeq_length>
+    <GBSeq_strandedness>double</GBSeq_strandedness>
+    <GBSeq_moltype>DNA</GBSeq_moltype>
+    <GBSeq_topology>linear</GBSeq_topology>
+    <GBSeq_division>VRL</GBSeq_division>
+    <GBSeq_update-date>28-MAR-2020</GBSeq_update-date>
+    <GBSeq_create-date>28-MAR-2020</GBSeq_create-date>
+    <GBSeq_definition>HBV genotype A proviral DNA, complete genome</GBSeq_definition>
+    <GBSeq_primary-accession>LC533934</GBSeq_primary-accession>
+    <GBSeq_accession-version>LC533934.1</GBSeq_accession-version>
+    <GBSeq_other-seqids>
+      <GBSeqid>dbj|LC533934.1|</GBSeqid>
+      <GBSeqid>gi|1825979606</GBSeqid>
+    </GBSeq_other-seqids>
+    <GBSeq_source>HBV genotype A</GBSeq_source>
+    <GBSeq_organism>HBV genotype A</GBSeq_organism>
+    <GBSeq_taxonomy>Viruses; Hepadnaviridae; Orthohepadnavirus</GBSeq_taxonomy>
+    <GBSeq_references>
+      <GBReference>
+        <GBReference_reference>1</GBReference_reference>
+        <GBReference_position>1..3213</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Ishii,T.</GBAuthor>
+          <GBAuthor>Tamura,A.</GBAuthor>
+          <GBAuthor>Shibata,T.</GBAuthor>
+          <GBAuthor>Kuroda,K.</GBAuthor>
+          <GBAuthor>Kanda,T.</GBAuthor>
+          <GBAuthor>Sugiyama,M.</GBAuthor>
+          <GBAuthor>Mizokami,M.</GBAuthor>
+          <GBAuthor>Moriyama,M.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>Analysis of hepatitis B virus genomes integrated into the genomes of human hepatoma PLC/PRF/5 cells by targeted next-generation sequencing</GBReference_title>
+        <GBReference_journal>Unpublished</GBReference_journal>
+      </GBReference>
+      <GBReference>
+        <GBReference_reference>2</GBReference_reference>
+        <GBReference_position>1..3213</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Ishii,T.</GBAuthor>
+          <GBAuthor>Tamura,A.</GBAuthor>
+          <GBAuthor>Shibata,T.</GBAuthor>
+          <GBAuthor>Kuroda,K.</GBAuthor>
+          <GBAuthor>Kanda,T.</GBAuthor>
+          <GBAuthor>Moriyama,M.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>Direct Submission</GBReference_title>
+        <GBReference_journal>Submitted (17-MAR-2020) Contact:Tatsuo Kanda Nihon University School of Medicine, Division of Gastroenterology and Hepatology, Department of Medicine; 30-1 Oyaguchikamicho, Itabashi-ku, Tokyo 173-8610, Japan</GBReference_journal>
+      </GBReference>
+    </GBSeq_references>
+    <GBSeq_feature-table>
+      <GBFeature>
+        <GBFeature_key>source</GBFeature_key>
+        <GBFeature_location>1..3213</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>3213</GBInterval_to>
+            <GBInterval_accession>LC533934.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>organism</GBQualifier_name>
+            <GBQualifier_value>HBV genotype A</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>proviral</GBQualifier_name>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>mol_type</GBQualifier_name>
+            <GBQualifier_value>genomic DNA</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>host</GBQualifier_name>
+            <GBQualifier_value>Homo sapiens, hepatoma cell line PLC/PRF/5</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>db_xref</GBQualifier_name>
+            <GBQualifier_value>taxon:489455</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>country</GBQualifier_name>
+            <GBQualifier_value>Japan</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>collection_date</GBQualifier_name>
+            <GBQualifier_value>2017-03-31</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>note</GBQualifier_name>
+            <GBQualifier_value>genotype A</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+    </GBSeq_feature-table>
+    <GBSeq_sequence>ttccacagccttccaccaagctctgcaagatcccagagtcaggggcctgtattttcctgctggtggctccagttcaggaacagtaaaccctgctcagaatattgcctctcacatctcgtcaatctcctcgaggactggggaccctgcaccgaacatggagaacattacatcaggattcctaggacccctgctcgtgttacaggcggggtttttcttgttgacaagaatcctcacaataccacagagtctagactcgtggtggacttctctcaattttctagggggatcacccgtgtgtcttggccaaaattcgcagtccccaacctccaatcactcaccaacctcctgtcctccaatttgtcctggttatcgctggatgtgtctgcggcgttttatcatattcctcttcatcctgctgctatgcctcatcttcttattggttcttctggactatcaaggtatgttgcccgtttgtcctctaattccaggatccacaacaaccagtacgggaccctgcaaaacctgcacgactcctgctcaaggcaactctatgtttccctcatgttgctgtacaaaacctacggatggaaattgcacctgtattcccatcccatcatcttgggctttcgcaaaatacctatgggagtggggctcagtccgtttctcttggctcagtttactagtgccatttgttcagtggttcgtagggctttcccccactgtttggctttcagttatatggatgatgtggtattgggggccaaatctgtacaacatcttgagtccctttataccgctgttaccaattttcttttgtctttgggtatacatttaaaccctaacaaaacgaagagatggggttattccctaaacttcatgggatatgtaattggaagttggggtaccttgccacaggatcatattgtacaaaaaatcaaacgctgttttaggaaacttcctgtcaatcgacctattgattggaaagtatgtcaaagaattgtgggtcttttgggctttgccgcgccctttacacaatgtggttaccctgccttaatgcctttatatgcatgtatacaagcaaaacaggcttttactttctcgccaacttacaaggcctttctaagtaaacagtatatgaacctttaccccgttgcccggcaacggcctggcctgtgccaagtgtttgctgacgcaacccccactggctggggcttggctatgggccatcagcgcatgcgtggaacctttgtggctcctctgccgatccatactgcggaacttcttgcagcttgttttgctcgcagccggtctggagcgaaactcatcgggactgataattctgtcgtcctttctcggaaatatacatcatttccatggctgctaggttgtgctgctaactggattcttcgcgggacgtcctttgtctacgtcccgtcggcgctgaatcctgcggacgacccctcccggggccgcttgggactctatcgtccccttcttcgtctgccgtaccgtccgaccacggggcgcacctctctttacgcggtctccccgtctgtgccttctcatctgccggtccgtgtgcacttcgcttcacctctgcacgttgcatggagaccaccgtgaacgcccatcggatcctgcccaaggtcttacataagaggactcttggactcccagcaatgtcaacgaccgaccttgaggcttacttcaaagactgtgtgtttaaagactgggaggagttgggggaggagattaggttaaatattaggaggctgtaggcataaattggtctgcgcaccatcatcatgcaactttttcacctctgcctattcatctctcgttcatgtcctactgttcaagcctccaagctgtgccttgggtggctttagggcatggacattgacccttataaagaatttggagctactgtggagttactctcgtttttgccttctgacttctttccttcggtccgagatctcctagacaccgcctcagctctatatcgggaagccttagagtctcctgagcattgttcccctcatcatacagcactcaggcaagcaattctttgctggggggaattaatgactctagctacctgggtgggtaataatttggaagatccagcatccagggatctagtagtcaattatgtgaatactaacatgggcctaaagatcagacaactattgtggtttcatatttcttgccttacttttggaagagaaacagtgcttgagtatttggtctccttcggagtgtggattcgcactcctccagcctatagaccaccaaatgcccctatcttatcaacacttccggaaactactgttgttagacgacgagaccgaggcaggtcccctagaagaagaactccctcgcctcgcagacgaagatctcaatcgccgcgtcgcagaagatctcaatctcgggaatctcaatgttagtattccttggactcataaggtgggaaattttactgggctttattcctctactgtccctatctttaatcctgaatggcaaacgccttcctttcctaaaatccatttacacgaggacattattaataggtgtcagcaatttgtaggccctctcactgtaaatgaaaagagaagattgaacttaattatgcctgctaggttttatcctaactccactaaatatttgcctctagacaaaggaattaagccttattatcctgaacatgtagttaatcattacttccagacccgacattatttacatactctttggaaggctgggattctatataagagggaaactacacgtagcgcctcattttgcgggtcaccatattcttgggaacaagagctacatcatgggaggttggttaccaaaacctcgcaaaggcatggggacgaatctgtctgtccccaaccctctgggattctttcccgatcatcagttggacccagcattcggagccaattcaaacaatccagactgggacttcaaccccacaaaggaccactggccacaagccaaccaggtaggagtgggagcattcggcccagggttcacccctccacacggaggtcttttggggtggagctctcaggctcaaggcacattgcatactgtgccagcagtgcctcctcctgcctccaccaatcggcagtcaggaaggcagcctactcccatctctccacctctaagagacagtcatcctcaggccatgcagtggaa</GBSeq_sequence>
+  </GBSeq>
