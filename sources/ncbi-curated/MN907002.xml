@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<GBSeq>
+
+    <GBSeq_locus>MN907002</GBSeq_locus>
+    <GBSeq_length>896</GBSeq_length>
+    <GBSeq_strandedness>double</GBSeq_strandedness>
+    <GBSeq_moltype>DNA</GBSeq_moltype>
+    <GBSeq_topology>linear</GBSeq_topology>
+    <GBSeq_division>VRL</GBSeq_division>
+    <GBSeq_update-date>12-OCT-2020</GBSeq_update-date>
+    <GBSeq_create-date>12-OCT-2020</GBSeq_create-date>
+    <GBSeq_definition>UNVERIFIED: Hepatitis B virus isolate MOZHBV20151498 sequence</GBSeq_definition>
+    <GBSeq_primary-accession>MN907002</GBSeq_primary-accession>
+    <GBSeq_accession-version>MN907002.1</GBSeq_accession-version>
+    <GBSeq_other-seqids>
+      <GBSeqid>gb|MN907002.1|</GBSeqid>
+      <GBSeqid>gi|1913933009</GBSeqid>
+    </GBSeq_other-seqids>
+    <GBSeq_keywords>
+      <GBKeyword>UNVERIFIED</GBKeyword>
+    </GBSeq_keywords>
+    <GBSeq_source>Hepatitis B virus</GBSeq_source>
+    <GBSeq_organism>Hepatitis B virus</GBSeq_organism>
+    <GBSeq_taxonomy>Viruses; Riboviria; Pararnavirae; Artverviricota; Revtraviricetes; Blubervirales; Hepadnaviridae; Orthohepadnavirus</GBSeq_taxonomy>
+    <GBSeq_references>
+      <GBReference>
+        <GBReference_reference>1</GBReference_reference>
+        <GBReference_position>1..896</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Mabunda,N.</GBAuthor>
+          <GBAuthor>Zicai,A.F.</GBAuthor>
+          <GBAuthor>Ismael,N.</GBAuthor>
+          <GBAuthor>Vubil,A.</GBAuthor>
+          <GBAuthor>Mello,F.</GBAuthor>
+          <GBAuthor>Blackard,J.T.</GBAuthor>
+          <GBAuthor>Lago,B.</GBAuthor>
+          <GBAuthor>Duarte,V.</GBAuthor>
+          <GBAuthor>Moraes,M.</GBAuthor>
+          <GBAuthor>Lewis,L.</GBAuthor>
+          <GBAuthor>Jani,I.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>Molecular and serological characterization of occult hepatitis B among blood donors in Maputo, Mozambique</GBReference_title>
+        <GBReference_journal>Mem Inst Oswaldo Cruz 115, e200006 (2020)</GBReference_journal>
+        <GBReference_xref>
+          <GBXref>
+            <GBXref_dbname>doi</GBXref_dbname>
+            <GBXref_id>10.1590/0074-02760200006</GBXref_id>
+          </GBXref>
+        </GBReference_xref>
+        <GBReference_pubmed>32997000</GBReference_pubmed>
+        <GBReference_remark>Publication Status: Online-Only</GBReference_remark>
+      </GBReference>
+      <GBReference>
+        <GBReference_reference>2</GBReference_reference>
+        <GBReference_position>1..896</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Mabunda,N.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>Direct Submission</GBReference_title>
+        <GBReference_journal>Submitted (06-JAN-2020) Research, Instituto Nacional de Saude, NR1 Portion 3934, Marracuene, Maputo Province 124, Mozambique</GBReference_journal>
+      </GBReference>
+    </GBSeq_references>
+    <GBSeq_comment>GenBank staff is unable to verify sequence and/or annotation provided by the submitter.; ; ##Assembly-Data-START## ; Sequencing Technology :: Sanger dideoxy sequencing ; ##Assembly-Data-END##</GBSeq_comment>
+    <GBSeq_feature-table>
+      <GBFeature>
+        <GBFeature_key>source</GBFeature_key>
+        <GBFeature_location>1..896</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>896</GBInterval_to>
+            <GBInterval_accession>MN907002.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>organism</GBQualifier_name>
+            <GBQualifier_value>Hepatitis B virus</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>mol_type</GBQualifier_name>
+            <GBQualifier_value>genomic DNA</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>isolate</GBQualifier_name>
+            <GBQualifier_value>MOZHBV20151498</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>db_xref</GBQualifier_name>
+            <GBQualifier_value>taxon:10407</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>country</GBQualifier_name>
+            <GBQualifier_value>Mozambique</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+    </GBSeq_feature-table>
+    <GBSeq_sequence>cggggtttttcttgttgacaaaaatcctcacaataccgcagagtctagactcgtggtggacttctctcaattttctaggggragctcccgtgtgtcttggccaaaattcgcagtccctaatctccaatcactcaccaacctcttgtcctccaatttgtcctggctatcgctggatgtgtctgcggcgttttatcatcttcctcttcatcctgctgctatgcctcatcttcttgttggttcttctggactatcaaggtatgttgcccgtttgtcctctaattccaggatcatcaaccaccagtacgggaccctgccgaacctgcacgactcttgctcaaggaacctctatgtttccctcatgttgctgttcaaaaccttcggacggaaattgcacttgtattcccatcccatcatcatgggctttcggaaaattcctatgggggtgggcctcagcccgtttctcctggctcaatttactagtgccatttgttcagtggttcgccgggctttcccccactgtctggctttcagttatatggatgatgtggtattgggggccaagtctgtacaacatcttgagtccctttatacctctgtaaccaattttcttttgtctttgggtatacatttaaatcccaacaaaacaaaaaggtggggctattccctaaatttcatgggttatgtaattggtagttgggggtcattaccacaagaacacatccgmttgaaaatcaaagactgttttaggaaactccctgttaaccggcctattgattggaaagtatgtcaaagaattgtgggtcttttgggctttgctgccccttttacacaatgtggatatcctgctttaatgcckctataygcgtgtattcaatctaagcaggctttcactttct</GBSeq_sequence>
+  </GBSeq>

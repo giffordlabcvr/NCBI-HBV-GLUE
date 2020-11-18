@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<GBSeq>
+
+    <GBSeq_locus>LC551970</GBSeq_locus>
+    <GBSeq_length>464</GBSeq_length>
+    <GBSeq_strandedness>double</GBSeq_strandedness>
+    <GBSeq_moltype>DNA</GBSeq_moltype>
+    <GBSeq_topology>linear</GBSeq_topology>
+    <GBSeq_division>VRL</GBSeq_division>
+    <GBSeq_update-date>28-JUL-2020</GBSeq_update-date>
+    <GBSeq_create-date>28-JUL-2020</GBSeq_create-date>
+    <GBSeq_definition>HBV genotype C HJ-02-004 P gene for polymerase, partial cds</GBSeq_definition>
+    <GBSeq_primary-accession>LC551970</GBSeq_primary-accession>
+    <GBSeq_accession-version>LC551970.1</GBSeq_accession-version>
+    <GBSeq_other-seqids>
+      <GBSeqid>dbj|LC551970.1|</GBSeqid>
+      <GBSeqid>gi|1881064286</GBSeqid>
+    </GBSeq_other-seqids>
+    <GBSeq_source>HBV genotype C</GBSeq_source>
+    <GBSeq_organism>HBV genotype C</GBSeq_organism>
+    <GBSeq_taxonomy>Viruses; Riboviria; Pararnavirae; Artverviricota; Revtraviricetes; Blubervirales; Hepadnaviridae; Orthohepadnavirus</GBSeq_taxonomy>
+    <GBSeq_references>
+      <GBReference>
+        <GBReference_reference>1</GBReference_reference>
+        <GBReference_position>1..464</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Ko,K.</GBAuthor>
+          <GBAuthor>Nagashima,S.</GBAuthor>
+          <GBAuthor>Yamamoto,C.</GBAuthor>
+          <GBAuthor>Takahashi,K.</GBAuthor>
+          <GBAuthor>Matsuo,J.</GBAuthor>
+          <GBAuthor>Ohisa,M.</GBAuthor>
+          <GBAuthor>Akita,T.</GBAuthor>
+          <GBAuthor>Matyakubov,J.</GBAuthor>
+          <GBAuthor>Mirzaev,U.</GBAuthor>
+          <GBAuthor>Katayama,K.</GBAuthor>
+          <GBAuthor>Masaki,T.</GBAuthor>
+          <GBAuthor>Tanaka,J.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>Eighteen-year follow-up cohort study on hepatitis B and C virus infections related long-term prognosis among hemodialysis patients in Hiroshima</GBReference_title>
+        <GBReference_journal>J Med Virol (2020) In press</GBReference_journal>
+        <GBReference_xref>
+          <GBXref>
+            <GBXref_dbname>doi</GBXref_dbname>
+            <GBXref_id>10.1002/jmv.26215</GBXref_id>
+          </GBXref>
+        </GBReference_xref>
+        <GBReference_pubmed>32579260</GBReference_pubmed>
+        <GBReference_remark>DOI:10.1002/jmv.26215; Publication Status: Available-Online prior to print</GBReference_remark>
+      </GBReference>
+      <GBReference>
+        <GBReference_reference>2</GBReference_reference>
+        <GBReference_position>1..464</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Tanaka,J.</GBAuthor>
+          <GBAuthor>Matsuo,J.</GBAuthor>
+          <GBAuthor>Katayama,K.</GBAuthor>
+          <GBAuthor>Ko,K.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>Direct Submission</GBReference_title>
+        <GBReference_journal>Submitted (28-MAY-2020) Contact:Junko Tanaka Graduate School of Biomedical and Health Sciences, Hiroshima University, Department of Epidemiology, Infectious Disease Control and Prevention; 1-2-3, Kasumi, Minami-ku, Hiroshima-shi, Hiroshima, Hiroshima 734-8551, Japan</GBReference_journal>
+      </GBReference>
+    </GBSeq_references>
+    <GBSeq_feature-table>
+      <GBFeature>
+        <GBFeature_key>source</GBFeature_key>
+        <GBFeature_location>1..464</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>464</GBInterval_to>
+            <GBInterval_accession>LC551970.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>organism</GBQualifier_name>
+            <GBQualifier_value>HBV genotype C</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>mol_type</GBQualifier_name>
+            <GBQualifier_value>genomic DNA</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>isolate</GBQualifier_name>
+            <GBQualifier_value>HJ-02-004</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>isolation_source</GBQualifier_name>
+            <GBQualifier_value>human serum</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>host</GBQualifier_name>
+            <GBQualifier_value>Homo sapiens</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>db_xref</GBQualifier_name>
+            <GBQualifier_value>taxon:489466</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>country</GBQualifier_name>
+            <GBQualifier_value>Japan:Hiroshima</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>collection_date</GBQualifier_name>
+            <GBQualifier_value>2002</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>note</GBQualifier_name>
+            <GBQualifier_value>genotype C2</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>gene</GBFeature_key>
+        <GBFeature_location>&lt;1..&gt;464</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>464</GBInterval_to>
+            <GBInterval_accession>LC551970.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_partial5 value="true"/>
+        <GBFeature_partial3 value="true"/>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>gene</GBQualifier_name>
+            <GBQualifier_value>P</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>CDS</GBFeature_key>
+        <GBFeature_location>&lt;1..&gt;464</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>464</GBInterval_to>
+            <GBInterval_accession>LC551970.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_partial5 value="true"/>
+        <GBFeature_partial3 value="true"/>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>gene</GBQualifier_name>
+            <GBQualifier_value>P</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>codon_start</GBQualifier_name>
+            <GBQualifier_value>1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>transl_table</GBQualifier_name>
+            <GBQualifier_value>1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>product</GBQualifier_name>
+            <GBQualifier_value>polymerase</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>protein_id</GBQualifier_name>
+            <GBQualifier_value>BCG21393.1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>translation</GBQualifier_name>
+            <GBQualifier_value>SSTSRNINYQQGTLQDLHDSCSRNLYVSLLLLYKTFGRKLHLYSHPIILGFRKIPMGVGLSPFLLAQFTSAICSVVRRAFPHCLAFSYMDDVVLGAKSVQHLESLFTSITNFLLSLGIHLNPNKTKRWGYSLNFMGYVIGSWGTLPQEHIVLKL</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+    </GBSeq_feature-table>
+    <GBSeq_sequence>tcctctacttccaggaacatcaactaccagcaagggaccttgcaagacctgcacgattcctgctcaaggaacctctatgtttccctcttgttgctgtacaaaaccttcggacggaaactgcacttgtattcccatcccatcatcctgggctttcgcaagattcctatgggagtgggcctcagtccgtttctcctggctcagtttactagtgccatttgttcagtggttcgcagggctttcccccactgtttggctttcagttatatggatgatgtggtattgggggccaagtctgtacaacatcttgagtccctttttacctctattaccaattttctgttgtctttgggtatacatttgaaccctaataaaaccaaacgttggggctactcccttaacttcatgggatatgtaattggaagttggggtactttaccacaggaacatattgtattaaaactcaa</GBSeq_sequence>
+  </GBSeq>

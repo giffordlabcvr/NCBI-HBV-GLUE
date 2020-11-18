@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<GBSeq>
+
+    <GBSeq_locus>LY748306</GBSeq_locus>
+    <GBSeq_length>726</GBSeq_length>
+    <GBSeq_strandedness>double</GBSeq_strandedness>
+    <GBSeq_moltype>DNA</GBSeq_moltype>
+    <GBSeq_topology>linear</GBSeq_topology>
+    <GBSeq_division>PAT</GBSeq_division>
+    <GBSeq_update-date>08-OCT-2020</GBSeq_update-date>
+    <GBSeq_create-date>08-OCT-2020</GBSeq_create-date>
+    <GBSeq_definition>KR 1020190132626-A/17: COMPOSITIONS AND METHODS FOR ENHANCED GENE EXPRESSION</GBSeq_definition>
+    <GBSeq_primary-accession>LY748306</GBSeq_primary-accession>
+    <GBSeq_accession-version>LY748306.1</GBSeq_accession-version>
+    <GBSeq_other-seqids>
+      <GBSeqid>dbj|LY748306.1|</GBSeqid>
+      <GBSeqid>pat|KR|1020190132626|17</GBSeqid>
+      <GBSeqid>gi|1914714917</GBSeqid>
+    </GBSeq_other-seqids>
+    <GBSeq_keywords>
+      <GBKeyword>KR 1020190132626-A/17</GBKeyword>
+    </GBSeq_keywords>
+    <GBSeq_source>Hepatitis B virus</GBSeq_source>
+    <GBSeq_organism>Hepatitis B virus</GBSeq_organism>
+    <GBSeq_taxonomy>Viruses; Riboviria; Pararnavirae; Artverviricota; Revtraviricetes; Blubervirales; Hepadnaviridae; Orthohepadnavirus</GBSeq_taxonomy>
+    <GBSeq_references>
+      <GBReference>
+        <GBReference_reference>1</GBReference_reference>
+        <GBReference_position>1..726</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Keravala,A.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>COMPOSITIONS AND METHODS FOR ENHANCED GENE EXPRESSION</GBReference_title>
+        <GBReference_journal>KR1020190132626-A 17 28-NOV-2019 ADVERUM BIOTECHNOLOGIES, INC</GBReference_journal>
+      </GBReference>
+    </GBSeq_references>
+    <GBSeq_comment>KN KR 1020197024645-A/17~AN KR 1020197024645~AD 2019-08-22~PN KR 1020190132626~PD 2019-11-28~AT COMPOSITIONS AND METHODS FOR ENHANCED GENE EXPRESSION~AI Keravala, Annahita~AA ADVERUM BIOTECHNOLOGIES, INC.~PR US 62/472,892=2017-03-17~OS Human hepatitis B virus~TY DNA~FH Key Location/Qualifiers.</GBSeq_comment>
+    <GBSeq_feature-table>
+      <GBFeature>
+        <GBFeature_key>source</GBFeature_key>
+        <GBFeature_location>1..726</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>726</GBInterval_to>
+            <GBInterval_accession>LY748306.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>organism</GBQualifier_name>
+            <GBQualifier_value>Hepatitis B virus</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>mol_type</GBQualifier_name>
+            <GBQualifier_value>unassigned DNA</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>db_xref</GBQualifier_name>
+            <GBQualifier_value>taxon:10407</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+    </GBSeq_feature-table>
+    <GBSeq_sequence>ataacaggcctattgattggaaagtttgtcaacgaattgtgggtcttttggggtttgctgccccttttacgcaatgtggatatcctgctttaatgcctttatatgcatgtatacaagcaaaacaggcttttactttctcgccaacttacaaggcctttctcagtaaacagtatatgaccctttaccccgttgctcggcaacggcctggtctgtgccaagtgtttgctgacgcaacccccactggttggggcttggccataggccatcagcgcatgcgtggaacctttgtgtctcctctgccgatccatactgcggaactcctagccgcttgttttgctcgcagcaggtctggagcaaacctcatcgggaccgacaattctgtcgtactctcccgcaagtatacatcgtttccatggctgctaggctgtgctgccaactggatcctgcgcgggacgtcctttgtttacgtcccgtcggcgctgaatcccgcggacgacccctcccggggccgcttggggctctaccgcccgcttctccgtctgccgtaccgtccgaccacggggcgcacctctctttacgcggactccccgtctgtgccttctcatctgccggaccgtgtgcacttcgcttcacctctgcacgtcgcatggaggccaccgtgaacgcccaccggaacctgcccaaggtcttgcataagaggactcttggactttcagcaatgtcatc</GBSeq_sequence>
+  </GBSeq>
