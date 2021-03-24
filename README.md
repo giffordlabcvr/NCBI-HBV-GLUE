@@ -8,7 +8,6 @@ The HBV-GLUE project family aims to establish an open, community-maintained plat
 
 A 
 [web user interface](http://hbv-glue.cvr.gla.ac.uk/) to HBV-GLUE is hosted by the MRC-University of Glasgow Centre for Virus Research.
-Please note that due to pressures associated with the COVID19 pandemic, this web resource - which is regularly updated - is being maintained by a skeleton crew and consequently may sometimes be unavailable. 
 
 - HBV-GLUE synchronises with GenBank **every 24h**.
 - New sequences are **automatically genotyped and aligned**.
