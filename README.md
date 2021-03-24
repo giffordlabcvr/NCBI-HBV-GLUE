@@ -2,7 +2,7 @@
 Extension to
 [HBV-GLUE](https://github.com/giffordlabcvr/HBV-GLUE) that incorporates sequences from NCBI GenBank.
 
-GLUE is an open, integrated software toolkit for management and analysis of molecular sequence data.
+[GLUE](http://glue-tools.cvr.gla.ac.uk/) is an open, integrated software toolkit for management and analysis of molecular sequence data.
 The HBV-GLUE project family aims to establish an open, community-maintained platform for comparative genomic analysis of HBV.
 
 A 
