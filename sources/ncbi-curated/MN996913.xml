@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<GBSeq>
+
+    <GBSeq_locus>MN996913</GBSeq_locus>
+    <GBSeq_length>456</GBSeq_length>
+    <GBSeq_strandedness>double</GBSeq_strandedness>
+    <GBSeq_moltype>DNA</GBSeq_moltype>
+    <GBSeq_topology>linear</GBSeq_topology>
+    <GBSeq_division>VRL</GBSeq_division>
+    <GBSeq_update-date>31-DEC-2020</GBSeq_update-date>
+    <GBSeq_create-date>31-DEC-2020</GBSeq_create-date>
+    <GBSeq_definition>Hepatitis B virus isolate HD-18-094 small envelope protein (S) gene, partial cds</GBSeq_definition>
+    <GBSeq_primary-accession>MN996913</GBSeq_primary-accession>
+    <GBSeq_accession-version>MN996913.1</GBSeq_accession-version>
+    <GBSeq_other-seqids>
+      <GBSeqid>gb|MN996913.1|</GBSeqid>
+      <GBSeqid>gi|1930473809</GBSeqid>
+    </GBSeq_other-seqids>
+    <GBSeq_source>Hepatitis B virus</GBSeq_source>
+    <GBSeq_organism>Hepatitis B virus</GBSeq_organism>
+    <GBSeq_taxonomy>Viruses; Riboviria; Pararnavirae; Artverviricota; Revtraviricetes; Blubervirales; Hepadnaviridae; Orthohepadnavirus</GBSeq_taxonomy>
+    <GBSeq_references>
+      <GBReference>
+        <GBReference_reference>1</GBReference_reference>
+        <GBReference_position>1..456</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Attiku,K.O.</GBAuthor>
+          <GBAuthor>Bonney,J.</GBAuthor>
+          <GBAuthor>Agbosu,E.</GBAuthor>
+          <GBAuthor>Bonney,E.</GBAuthor>
+          <GBAuthor>Puplampu,P.</GBAuthor>
+          <GBAuthor>Ganu,V.</GBAuthor>
+          <GBAuthor>Odoom,J.</GBAuthor>
+          <GBAuthor>Aboagye,J.</GBAuthor>
+          <GBAuthor>Mensah,J.</GBAuthor>
+          <GBAuthor>Agyemang,S.</GBAuthor>
+          <GBAuthor>Awuku-Larbi,Y.</GBAuthor>
+          <GBAuthor>Ajarquah,A.</GBAuthor>
+          <GBAuthor>Mawuli,G.</GBAuthor>
+          <GBAuthor>Quaye,O.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>Circulation of Hepatitis Delta Virus and Occult Hepatitis B Virus Infection amongst HIV/HBV Co-infected Patients in Korle-Bu, Ghana</GBReference_title>
+        <GBReference_journal>Unpublished</GBReference_journal>
+      </GBReference>
+      <GBReference>
+        <GBReference_reference>2</GBReference_reference>
+        <GBReference_position>1..456</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Attiku,K.O.</GBAuthor>
+          <GBAuthor>Bonney,J.</GBAuthor>
+          <GBAuthor>Agbosu,E.</GBAuthor>
+          <GBAuthor>Bonney,E.</GBAuthor>
+          <GBAuthor>Puplampu,P.</GBAuthor>
+          <GBAuthor>Ganu,V.</GBAuthor>
+          <GBAuthor>Odoom,J.</GBAuthor>
+          <GBAuthor>Aboagye,J.</GBAuthor>
+          <GBAuthor>Mensah,J.</GBAuthor>
+          <GBAuthor>Agyemang,S.</GBAuthor>
+          <GBAuthor>Awuku-Larbi,Y.</GBAuthor>
+          <GBAuthor>Ajarquah,A.</GBAuthor>
+          <GBAuthor>Mawuli,G.</GBAuthor>
+          <GBAuthor>Quaye,O.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>Direct Submission</GBReference_title>
+        <GBReference_journal>Submitted (27-JAN-2020) Virology, University of Ghana, Noguchi Memorial Institute for Medical Research, off George Benneh circle, Akilagkpa Sawyerr road, Accra, Greater Accra 233, Ghana</GBReference_journal>
+      </GBReference>
+    </GBSeq_references>
+    <GBSeq_comment>##Assembly-Data-START## ; Sequencing Technology :: Sanger dideoxy sequencing ; ##Assembly-Data-END##</GBSeq_comment>
+    <GBSeq_feature-table>
+      <GBFeature>
+        <GBFeature_key>source</GBFeature_key>
+        <GBFeature_location>1..456</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>456</GBInterval_to>
+            <GBInterval_accession>MN996913.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>organism</GBQualifier_name>
+            <GBQualifier_value>Hepatitis B virus</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>mol_type</GBQualifier_name>
+            <GBQualifier_value>genomic DNA</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>isolate</GBQualifier_name>
+            <GBQualifier_value>HD-18-094</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>host</GBQualifier_name>
+            <GBQualifier_value>Homo sapiens</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>db_xref</GBQualifier_name>
+            <GBQualifier_value>taxon:10407</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>country</GBQualifier_name>
+            <GBQualifier_value>Ghana: Korle-Bu</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>collection_date</GBQualifier_name>
+            <GBQualifier_value>12-Dec-2018</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>collected_by</GBQualifier_name>
+            <GBQualifier_value>Keren</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>note</GBQualifier_name>
+            <GBQualifier_value>genotype: E</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>gene</GBFeature_key>
+        <GBFeature_location>&lt;1..&gt;456</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>456</GBInterval_to>
+            <GBInterval_accession>MN996913.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_partial5 value="true"/>
+        <GBFeature_partial3 value="true"/>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>gene</GBQualifier_name>
+            <GBQualifier_value>S</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>CDS</GBFeature_key>
+        <GBFeature_location>&lt;1..&gt;456</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>456</GBInterval_to>
+            <GBInterval_accession>MN996913.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_partial5 value="true"/>
+        <GBFeature_partial3 value="true"/>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>gene</GBQualifier_name>
+            <GBQualifier_value>S</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>codon_start</GBQualifier_name>
+            <GBQualifier_value>2</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>transl_table</GBQualifier_name>
+            <GBQualifier_value>1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>product</GBQualifier_name>
+            <GBQualifier_value>small envelope protein</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>protein_id</GBQualifier_name>
+            <GBQualifier_value>QPB15585.1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>translation</GBQualifier_name>
+            <GBQualifier_value>LTRILTIPQNLDSWWTSLNFLGGAPVCLGQNSQSPTSNHSPTSCPPICPGYRWMCLRRFIIFLFILLLCLIFLLVLLDYQGMLPVCPLIPGSSTTSTGPCRTCTTLAQGTSMFPSCCCTKPSDGNCTCIPIPSSWALGKFLWEWASAAFSL</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+    </GBSeq_feature-table>
+    <GBSeq_sequence>gttgacaagaatcctcacaataccgcagaatctagactcgtggtggacttctctcaattttctagggggagctcccgtgtgtcttggccaaaattcgcagtccccaacctccaatcactcaccaacctcttgtcctccaatttgtcctggctatcgctggatgtgtctgcggcgttttatcatcttcctcttcatcctgctgctatgcctcatcttcttgttggttcttctggactatcaaggtatgttgcccgtttgtcctctaattccaggatcatcaaccaccagtacgggaccctgccgaacctgcacgactcttgctcaaggaacctctatgtttccctcatgttgctgtacaaaaccttcggacggaaattgcacttgtattcccatcccatcatcatgggctttaggaaaattcctatgggagtgggcctcagccgccttctccctata</GBSeq_sequence>
+  </GBSeq>

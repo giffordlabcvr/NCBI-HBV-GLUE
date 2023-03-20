@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<GBSeq>
+
+    <GBSeq_locus>OF108980</GBSeq_locus>
+    <GBSeq_length>3182</GBSeq_length>
+    <GBSeq_strandedness>double</GBSeq_strandedness>
+    <GBSeq_moltype>DNA</GBSeq_moltype>
+    <GBSeq_topology>linear</GBSeq_topology>
+    <GBSeq_division>PAT</GBSeq_division>
+    <GBSeq_update-date>04-AUG-2021</GBSeq_update-date>
+    <GBSeq_create-date>04-AUG-2021</GBSeq_create-date>
+    <GBSeq_definition>KR 1020200110822-A/1: MODULATION OF HEPATITIS B VIRUS (HBV) EXPRESSION</GBSeq_definition>
+    <GBSeq_primary-accession>OF108980</GBSeq_primary-accession>
+    <GBSeq_accession-version>OF108980.1</GBSeq_accession-version>
+    <GBSeq_other-seqids>
+      <GBSeqid>dbj|OF108980.1|</GBSeqid>
+      <GBSeqid>pat|KR|1020200110822|1</GBSeqid>
+      <GBSeqid>gi|2077155663</GBSeqid>
+    </GBSeq_other-seqids>
+    <GBSeq_keywords>
+      <GBKeyword>KR 1020200110822-A/1</GBKeyword>
+    </GBSeq_keywords>
+    <GBSeq_source>Hepatitis B virus</GBSeq_source>
+    <GBSeq_organism>Hepatitis B virus</GBSeq_organism>
+    <GBSeq_taxonomy>Viruses; Riboviria; Pararnavirae; Artverviricota; Revtraviricetes; Blubervirales; Hepadnaviridae; Orthohepadnavirus</GBSeq_taxonomy>
+    <GBSeq_references>
+      <GBReference>
+        <GBReference_reference>1</GBReference_reference>
+        <GBReference_position>1..3182</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Swayze,E.E.</GBAuthor>
+          <GBAuthor>Freier,S.M.</GBAuthor>
+          <GBAuthor>Mccaleb,M.L.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>MODULATION OF HEPATITIS B VIRUS (HBV) EXPRESSION</GBReference_title>
+        <GBReference_journal>KR1020200110822-A 1 25-SEP-2020 IONIS PHARMACEUTICALS, INC</GBReference_journal>
+      </GBReference>
+    </GBSeq_references>
+    <GBSeq_comment>KN KR 1020207026891-A/1~AN KR 1020207026891~AD 2020-09-17~PN KR 1020200110822~PD 2020-09-25~AT MODULATION OF HEPATITIS B VIRUS (HBV) EXPRESSION~AI Swayze, Eric E.|Freier, Susan M.|Mccaleb, Michael L.~AA IONIS PHARMACEUTICALS, INC.~PR US 61/478,040=2011-04-21|US 61/478,038=2011-04-21|US~PR 61/596,690=2012-02-08|US 61/596,692=2012-02-08~OS Hepatitis B virus~TY DNA~FH Key Location/Qualifiers.</GBSeq_comment>
+    <GBSeq_feature-table>
+      <GBFeature>
+        <GBFeature_key>source</GBFeature_key>
+        <GBFeature_location>1..3182</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>3182</GBInterval_to>
+            <GBInterval_accession>OF108980.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>organism</GBQualifier_name>
+            <GBQualifier_value>Hepatitis B virus</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>mol_type</GBQualifier_name>
+            <GBQualifier_value>unassigned DNA</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>db_xref</GBQualifier_name>
+            <GBQualifier_value>taxon:10407</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+    </GBSeq_feature-table>
+    <GBSeq_sequence>aattccacaacctttcaccaaactctgcaagatcccagagtgagaggcctgtatttccctgctggtggctccagttcaggagcagtaaaccctgttccgactactgcctctcccttatcgtcaatcttctcgaggattggggaccctgcgctgaacatggagaacatcacatcaggattcctaggaccccttctcgtgttacaggcggggtttttcttgttgacaagaatcctcacaataccgcagagtctagactcgtggtggacttctctcaattttctagggggaactaccgtgtgtcttggccaaaattcgcagtccccaacctccaatcactcaccaacctcctgtcctccaacttgtcctggttatcgctggatgtgtctgcggcgttttatcatcttcctcttcatcctgctgctatgcctcatcttcttgttggttcttctggactatcaaggtatgttgcccgtttgtcctctaattccaggatcctcaaccaccagcacgggaccatgccgaacctgcatgactactgctcaaggaacctctatgtatccctcctgttgctgtaccaaaccttcggacggaaattgcacctgtattcccatcccatcatcctgggctttcggaaaattcctatgggagtgggcctcagcccgtttctcctggctcagtttactagtgccatttgttcagtggttcgtagggctttcccccactgtttggctttcagttatatggatgatgtggtattgggggccaagtctgtacagcatcttgagtccctttttaccgctgttaccaattttcttttgtctttgggtatacatttaaaccctaacaaaacaaagagatggggttactctctgaattttatgggttatgtcattggaagttatgggtccttgccacaagaacacatcatacaaaaaatcaaagaatgttttagaaaacttcctattaacaggcctattgattggaaagtatgtcaacgaattgtgggtcttttgggttttgctgccccatttacacaatgtggttatcctgcgttaatgcccttgtatgcatgtattcaatctaagcaggctttcactttctcgccaacttacaaggcctttctgtgtaaacaatacctgaacctttaccccgttgcccggcaacggccaggtctgtgccaagtgtttgctgacgcaacccccactggctggggcttggtcatgggccatcagcgcgtgcgtggaaccttttcggctcctctgccgatccatactgcggaactcctagccgcttgttttgctcgcagcaggtctggagcaaacattatcgggactgataactctgttgtcctctcccgcaaatatacatcgtatccatggctgctaggctgtgctgccaactggatcctgcgcgggacgtcctttgtttacgtcccgtcggcgctgaatcctgcggacgacccttctcggggtcgcttgggactctctcgtccccttctccgtctgccgttccgaccgaccacggggcgcacctctctttacgcggactccccgtctgtgccttctcatctgccggaccgtgtgcacttcgcttcacctctgcacgtcgcatggagaccaccgtgaacgcccaccgaatgttgcccaaggtcttacataagaggactcttggactctctgcaatgtcaacgaccgaccttgaggcatacttcaaagactgtttgtttaaagactgggaggagttgggggaggagattagattaaaggtctttgtactaggaggctgtaggcataaattggtctgcgcaccagcaccatgcaactttttcacctctgcctaatcatctcttgttcatgtcctactgttcaagcctccaagctgtgccttgggtggctttggggcatggacatcgacccttataaagaatttggagctactgtggagttactctcgtttttgccttctgacttctttccttcagtacgagatcttctagataccgcctcagctctgtatcgggaagccttagagtctcctgagcattgttcacctcaccatactgcactcaggcaagcaattctttgctggggggaactaatgactctagctacctgggtgggtgttaatttggaagatccagcatctagagacctagtagtcagttatgtcaacactaatatgggcctaaagttcaggcaactcttgtggtttcacatttcttgtctcacttttggaagagaaaccgttatagagtatttggtgtctttcggagtgtggattcgcactcctccagcttatagaccaccaaatgcccctatcctatcaacacttccggaaactactgttgttagacgacgaggcaggtcccctagaagaagaactccctcgcctcgcagacgaaggtctcaatcgccgcgtcgcagaagatctcaatctcgggaacctcaatgttagtattccttggactcataaggtggggaactttactggtctttattcttctactgtacctgtctttaatcctcattggaaaacaccatcttttcctaatatacatttacaccaagacattatcaaaaaatgtgaacagtttgtaggcccacttacagttaatgagaaaagaagattgcaattgattatgcctgctaggttttatccaaaggttaccaaatatttaccattggataagggtattaaaccttattatccagaacatctagttaatcattacttccaaactagacactatttacacactctatggaaggcgggtatattatataagagagaaacaacacatagcgcctcattttgtgggtcaccatattcttgggaacaagatctacagcatggggcagaatctttccaccagcaatcctctgggattctttcccgaccaccagttggatccagccttcagagcaaacacagcaaatccagattgggacttcaatcccaacaaggacacctggccagacgccaacaaggtaggagctggagcattcgggctgggtttcaccccaccgcacggaggccttttggggtggagccctcaggctcagggcatactacaaactttgccagcaaatccgcctcctgcctccaccaatcgccagacaggaaggcagcctaccccgctgtctccacctttgagaaacactcatcctcaggccatgcagtgg</GBSeq_sequence>
+  </GBSeq>

@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<GBSeq>
+
+    <GBSeq_locus>OF405065</GBSeq_locus>
+    <GBSeq_length>3155</GBSeq_length>
+    <GBSeq_strandedness>double</GBSeq_strandedness>
+    <GBSeq_moltype>DNA</GBSeq_moltype>
+    <GBSeq_topology>linear</GBSeq_topology>
+    <GBSeq_division>PAT</GBSeq_division>
+    <GBSeq_update-date>19-JAN-2023</GBSeq_update-date>
+    <GBSeq_create-date>19-JAN-2023</GBSeq_create-date>
+    <GBSeq_definition>KR 1020220024192-A/1: MODIFIED GAPMER OLIGONUCLEOTIDES AND METHODS OF USE</GBSeq_definition>
+    <GBSeq_primary-accession>OF405065</GBSeq_primary-accession>
+    <GBSeq_accession-version>OF405065.1</GBSeq_accession-version>
+    <GBSeq_other-seqids>
+      <GBSeqid>dbj|OF405065.1|</GBSeqid>
+      <GBSeqid>pat|KR|1020220024192|1</GBSeqid>
+      <GBSeqid>gi|2430210045</GBSeqid>
+    </GBSeq_other-seqids>
+    <GBSeq_keywords>
+      <GBKeyword>KR 1020220024192-A/1</GBKeyword>
+    </GBSeq_keywords>
+    <GBSeq_source>Hepatitis B virus</GBSeq_source>
+    <GBSeq_organism>Hepatitis B virus</GBSeq_organism>
+    <GBSeq_taxonomy>Viruses; Riboviria; Pararnavirae; Artverviricota; Revtraviricetes; Blubervirales; Hepadnaviridae; Orthohepadnavirus</GBSeq_taxonomy>
+    <GBSeq_references>
+      <GBReference>
+        <GBReference_reference>1</GBReference_reference>
+        <GBReference_position>1..3155</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Beigelman,L.</GBAuthor>
+          <GBAuthor>Pandey,R.K.</GBAuthor>
+          <GBAuthor>Rajwanshi,V.K.</GBAuthor>
+          <GBAuthor>Smith,D.B.</GBAuthor>
+          <GBAuthor>Hong,J.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>MODIFIED GAPMER OLIGONUCLEOTIDES AND METHODS OF USE</GBReference_title>
+        <GBReference_journal>KR1020220024192-A 1 03-MAR-2022 ALIGOS THERAPEUTICS, INC</GBReference_journal>
+      </GBReference>
+    </GBSeq_references>
+    <GBSeq_comment>KN KR 1020217042828-A/1~AN KR 1020217042828~AD 2021-12-28~PN KR 1020220024192~PD 2022-03-03~AT MODIFIED GAPMER OLIGONUCLEOTIDES AND METHODS OF USE~AI Beigelman, Leonid|Pandey, Rajendra K.|Rajwanshi, Vivek~AI Kumar|Smith, David Bernard|Hong, Jin~AA ALIGOS THERAPEUTICS, INC.~PR US 62/943,532=2019-12-04|US 62/937,760=2019-11-19|US~PR 62/855,793=2019-05-31~OS Hepatitis B virus~TY DNA~FH Key Location/Qualifiers.</GBSeq_comment>
+    <GBSeq_feature-table>
+      <GBFeature>
+        <GBFeature_key>source</GBFeature_key>
+        <GBFeature_location>1..3155</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>3155</GBInterval_to>
+            <GBInterval_accession>OF405065.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>organism</GBQualifier_name>
+            <GBQualifier_value>Hepatitis B virus</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>mol_type</GBQualifier_name>
+            <GBQualifier_value>unassigned DNA</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>db_xref</GBQualifier_name>
+            <GBQualifier_value>taxon:10407</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+    </GBSeq_feature-table>
+    <GBSeq_sequence>ctccaccactttccaccaaactcttcaagatcccagagtcagggccctgtactttcctgctggtggctcaagttccggaacagtaaaccctgctccgactactgcctctcccatatcgtcaatcttctcgaggactggggaccctgtaccgaatatggagagcaccacatcaggattcctaggacccctgctcgtgttacaggcggggtttttcttgttgacaagaatcctcacaataccacagagtctagactcgtggtggacttctctcaattttctagggggagcacccacgtgtcctggccaaaatttgcagtccccaacctccaatcactcaccaacctcttgtcctccaatttgtcctggttatcgctggatgtgtctgcggcgttttatcatcttcctcttcatcctgctgctatgcctcatcttcttgttggttcttctggactaccaaggtatgttgcccgtttgtcctctacttccaggaacatcaactaccagcaccggaccatgcaaaacctgcacaactactgctcaagggacctctatgtttccctcatgttgctgtacaaaacctacggacggaaactgcacctgtattcccatcccatcatcttgggctttcgcaaaatacctatgggagtgggcctcagtccgtttctcttggctcagtttactagtgccatttgttcagtggttcgtagggctttcccccactgtctggctttcagttatatggatgatgtggttttgggggccaagtctgtacaacatcttgagtccctttataccgctgttaccaattttcttttatctttgggtatacatttaaaccctcacaaaacaaaaagatggggatattcccttaacttcatgggatatgtaattgggagttggggcactttgcctcaggaacatattgtacaaaaaatcaagcaatgttttaggaaacttcctgtaaacaggcctattgattggaaagtatgtcaacraattgtgggtcttttggggtttgccgcccctttcacgcaatgtggatatcctgctttaatgcctttatatgcatgtatacaagctaagcaggcttttactttctcgccaacttacaaggcctttctgtgtaaacaatatctgaacctttaccccgttgctcggcaacggtcaggtctttgccaagtgtttgctgacgcaacccccactggttggggcttggccataggccatcagcgcatgcgtggaacctttgtggctcctctgccgatccatactgcggaactcctagcagcttgttttgctcgcagccggtctggagcaaaacttatcggcaccgacaactctgttgtcctctctcggaaatacacctcctttccatggctgctaggatgtgctgccaactggatcctgcgcgggacgtcctttgtctacgtcccgtcggcgctgaatcccgcggacgacccatctcggggccgtttgggactctaccgtccccttctgcgtctgccgttccgcccgaccacggggcgcacctctctttacgcggtctccccgtctgtgccttctcatctgccggaccgtgtgcacttcgcttcacctctgcacgtcgcatggagaccaccgtgaacgcccacgggaacctgcccaaggtcttgcataagaggactcttggactttcagcaatgtcaacgaccgaccttgaggcatacttcaaagactgtgtgtttactgagtgggaggagttgggggaggaggttaggttaaaggtctttgtactaggaggctgtaggcataaattggtgtgttcaccagcaccatgcaactttttcacctctgcctaatcatctcatgttcatgtcctactgttcaagcctccaagctgtgccttgggtggctttggggcatggacattgacccgtataaagaatttggagcttctgtggagttactctcttttttgccttctgacttctttccttctattcgagatctcctcgacaccgcctctgctctgtatcgggaggccttagagtctccggaacattgttcacctcaccatacggcactcaggcaagcaattctgtgttggggtgagttaatgaatctagccacctgggtgggaagtaatttggaagatccagcatccagggaattagtagtcagctatgtcaacgttaatatgggcctaaaaatcagacaactattgtggtttcacatttcctgtcttacttttgggagagaaactgttcttgaatatttggtgtcttttggagtgtggattcgcactcctcctgcatatagaccacaaaatgcccctatcttatcaacacttccggaaactactgttgttagacgaagaggcaggtcccctagaagaagaactccctcgcctcgcagacgaaggtctcaatcgccgcgtcgcagaagatctcaatctcgggaatctcaatgttagtattccttggacacataaggtgggaaactttacggggctttattcttctacggtaccttgctttaatcctaaatggcaaactccttcttttcctgacattcatttgcaggaggacattgttgatagatgtaagcaatttgtggggccccttacagtaaatgaaaacaggagacttaaattaattatgcctgctaggttttatcccaatgttactaaatatttgcccttagataaagggatcaaaccgtattatccagagtatgtagttaatcattacttccagacgcgacattatttacacactctttggaaggcggggatcttatataaaagagagtccacacgtagcgcctcattttgcgggtcaccatattcttgggaacaagatctacagcatgggaggttggtcttccaaacctcgaaaaggcatggggacaaatctttctgtccccaatcccctgggattcttccccgatcatcagttggactggccggacgccaacaaggtgggagtgggagcattcgggccagggttcacccctcctcatgggggactgttggggtggagccctcaggctcagggcatattcacaacagtgccagcagctcctcctcctgcctccaccaatcggcagtcaggaaggcagcctactcccttctctccacctctaagagacactcatcctcaggccatgcagtggaa</GBSeq_sequence>
+  </GBSeq>

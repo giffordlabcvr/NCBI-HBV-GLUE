@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<GBSeq>
+
+    <GBSeq_locus>MZ065411</GBSeq_locus>
+    <GBSeq_length>1269</GBSeq_length>
+    <GBSeq_strandedness>double</GBSeq_strandedness>
+    <GBSeq_moltype>DNA</GBSeq_moltype>
+    <GBSeq_topology>linear</GBSeq_topology>
+    <GBSeq_division>VRL</GBSeq_division>
+    <GBSeq_update-date>11-JAN-2023</GBSeq_update-date>
+    <GBSeq_create-date>11-JAN-2023</GBSeq_create-date>
+    <GBSeq_definition>Hepatitis B virus isolate PWUD074PA small surface protein gene, complete cds</GBSeq_definition>
+    <GBSeq_primary-accession>MZ065411</GBSeq_primary-accession>
+    <GBSeq_accession-version>MZ065411.1</GBSeq_accession-version>
+    <GBSeq_other-seqids>
+      <GBSeqid>gb|MZ065411.1|</GBSeqid>
+      <GBSeqid>gi|2421766952</GBSeqid>
+    </GBSeq_other-seqids>
+    <GBSeq_source>Hepatitis B virus</GBSeq_source>
+    <GBSeq_organism>Hepatitis B virus</GBSeq_organism>
+    <GBSeq_taxonomy>Viruses; Riboviria; Pararnavirae; Artverviricota; Revtraviricetes; Blubervirales; Hepadnaviridae; Orthohepadnavirus</GBSeq_taxonomy>
+    <GBSeq_references>
+      <GBReference>
+        <GBReference_reference>1</GBReference_reference>
+        <GBReference_position>1..1269</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Silva,R.J.S.</GBAuthor>
+          <GBAuthor>Nascimento,R.S.</GBAuthor>
+          <GBAuthor>Oliveira-Neto,J.A.J.</GBAuthor>
+          <GBAuthor>Silva,F.Q.</GBAuthor>
+          <GBAuthor>Piauiense,J.N.F.</GBAuthor>
+          <GBAuthor>Gomes,C.M.</GBAuthor>
+          <GBAuthor>Pinheiro,L.M.L.</GBAuthor>
+          <GBAuthor>Resque,R.L.</GBAuthor>
+          <GBAuthor>Pinho,J.R.R.</GBAuthor>
+          <GBAuthor>Kupek,E.</GBAuthor>
+          <GBAuthor>Fischer,B.</GBAuthor>
+          <GBAuthor>Machado,L.F.A.</GBAuthor>
+          <GBAuthor>Martins,L.C.</GBAuthor>
+          <GBAuthor>Lemos,J.A.R.</GBAuthor>
+          <GBAuthor>Oliveira-Filho,A.B.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>Detection and Genetic Characterization of Hepatitis B and D Viruses: A Multi-Site Cross-Sectional Study of People Who Use Illicit Drugs in the Amazon Region</GBReference_title>
+        <GBReference_journal>Viruses 13 (7), 1380 (2021)</GBReference_journal>
+        <GBReference_xref>
+          <GBXref>
+            <GBXref_dbname>doi</GBXref_dbname>
+            <GBXref_id>10.3390/v13071380</GBXref_id>
+          </GBXref>
+        </GBReference_xref>
+        <GBReference_pubmed>34372586</GBReference_pubmed>
+        <GBReference_remark>Publication Status: Online-Only</GBReference_remark>
+      </GBReference>
+      <GBReference>
+        <GBReference_reference>2</GBReference_reference>
+        <GBReference_position>1..1269</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Silva,R.J.S.</GBAuthor>
+          <GBAuthor>Nascimento,R.S.</GBAuthor>
+          <GBAuthor>Neto,J.A.J.O.</GBAuthor>
+          <GBAuthor>Silva,F.Q.</GBAuthor>
+          <GBAuthor>Piauiense,J.N.F.</GBAuthor>
+          <GBAuthor>Gomes,C.M.</GBAuthor>
+          <GBAuthor>Pinheiro,L.M.L.</GBAuthor>
+          <GBAuthor>Resque,R.R.L.</GBAuthor>
+          <GBAuthor>Pinho,J.R.R.</GBAuthor>
+          <GBAuthor>Kupek,E.</GBAuthor>
+          <GBAuthor>Fischer,B.</GBAuthor>
+          <GBAuthor>Machado,L.F.A.</GBAuthor>
+          <GBAuthor>Lemos,J.A.R.</GBAuthor>
+          <GBAuthor>Martins,L.C.</GBAuthor>
+          <GBAuthor>Oliveira-Filho,A.B.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>Direct Submission</GBReference_title>
+        <GBReference_journal>Submitted (28-APR-2021) Grupo de Estudo e Pesquisa em Populacoes Vulneraveis, Universidade Federal do Para, Alameda Leandro Ribeiro, Braganca, Para 68600000, Brasil</GBReference_journal>
+      </GBReference>
+    </GBSeq_references>
+    <GBSeq_comment>##Assembly-Data-START## ; Sequencing Technology :: Sanger dideoxy sequencing ; ##Assembly-Data-END##</GBSeq_comment>
+    <GBSeq_feature-table>
+      <GBFeature>
+        <GBFeature_key>source</GBFeature_key>
+        <GBFeature_location>1..1269</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>1269</GBInterval_to>
+            <GBInterval_accession>MZ065411.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>organism</GBQualifier_name>
+            <GBQualifier_value>Hepatitis B virus</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>mol_type</GBQualifier_name>
+            <GBQualifier_value>genomic DNA</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>isolate</GBQualifier_name>
+            <GBQualifier_value>PWUD074PA</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>isolation_source</GBQualifier_name>
+            <GBQualifier_value>serum</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>host</GBQualifier_name>
+            <GBQualifier_value>Homo sapiens</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>db_xref</GBQualifier_name>
+            <GBQualifier_value>taxon:10407</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>country</GBQualifier_name>
+            <GBQualifier_value>Brazil</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>collection_date</GBQualifier_name>
+            <GBQualifier_value>2018</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>CDS</GBFeature_key>
+        <GBFeature_location>155..835</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>155</GBInterval_from>
+            <GBInterval_to>835</GBInterval_to>
+            <GBInterval_accession>MZ065411.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>note</GBQualifier_name>
+            <GBQualifier_value>HBsAg small; S</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>codon_start</GBQualifier_name>
+            <GBQualifier_value>1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>transl_table</GBQualifier_name>
+            <GBQualifier_value>1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>product</GBQualifier_name>
+            <GBQualifier_value>small surface protein</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>protein_id</GBQualifier_name>
+            <GBQualifier_value>WBK44054.1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>translation</GBQualifier_name>
+            <GBQualifier_value>MDNITSGLLGPLLVLQAVCFLLTKILTIPQSLDSWWTSLNFLGGTPGCPGQNSQSPTSNHLPTSCPPTCPGYRWMCLRRFIIFLFILLLCLIFLLVLLDYQGMLPVCPLLPGSTTTSTGPCKTCTTLAQGTSMFPSCCCSKPSDGNCTCIPIPSSWALGKYLWEWASARFSWLSLLVQFVQWCVGLSPTVWLLVIWMIWYWGPNLCSILSPFIPLLPIFCYLWVSI</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+    </GBSeq_feature-table>
+    <GBSeq_sequence>ctcaacccagttccaccaggctctgttagatccgagggtaagggctctgtattggcctgctggtggctccagttcagagacacagaaccctgctccgactattgcctctctcacatcatcaatcttcttgaagactgggggccctgctatgaacatggacaacatcacatcaggactcctaggacccctgctcgtgttacaggcggtgtgtttcttgttgacaaaaatcctcacaataccacagagtctagactcgtggtggacttctctcaattttctagggggaacaccagggtgtcctggccaaaattcgcagtccccaacctccaatcacttaccaacctcctgtcctccaacttgtcctggctatcgctggatgtgtctgcggcgttttatcatcttcctcttcatcctgctgctatgcctcatcttcttgttggttcttctggactatcaaggtatgttgcccgtttgtcctctacttccaggatccacgaccaccagcacgggaccatgcaaaacctgcacaactcttgctcaaggaacctctatgtttccctcctgctgctgttcaaaaccttcggacggaaactgcacttgtattcccatcccatcatcctgggctttaggaaaatacctatgggagtgggcctcagcccgtttctcctggctcagtttactagtgcaatttgttcagtggtgcgtagggctttcccccactgtttggcttttagttatatggatgatctggtattgggggccaaatctgtgcagcatcttgagtccctttataccgctgttaccaattttctgttatctgtgggtatccatttaaatacctctaaaacgaaaagatggggctatactctaaatttcatgggatatgttattggcagttggggatcattaccacaagatcacattgtacaaaaaatcaaagcctgttttcgtaaacttcctgtaaatcgccctattgattggaaagtttgtcaacgcattgtgggtcttttgggctttgccgccccatttacacaatgtggttatcctgctctcatgcctctgtatgcctgtataactgctaagcaggcctttgttttttcgccaacttacaaggcctttctatgtcaacaatacatgcacctttaccccgttgctcggcaacggccaggcctgtgccaagtgtttgctgacgcaacccccactggttggggcttggccattggccatcagcgcatgcgtggaacctttgtggctcctctgccgatccat</GBSeq_sequence>
+  </GBSeq>

@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<GBSeq>
+
+    <GBSeq_locus>OK127842</GBSeq_locus>
+    <GBSeq_length>652</GBSeq_length>
+    <GBSeq_strandedness>double</GBSeq_strandedness>
+    <GBSeq_moltype>DNA</GBSeq_moltype>
+    <GBSeq_topology>linear</GBSeq_topology>
+    <GBSeq_division>VRL</GBSeq_division>
+    <GBSeq_update-date>15-NOV-2021</GBSeq_update-date>
+    <GBSeq_create-date>15-NOV-2021</GBSeq_create-date>
+    <GBSeq_definition>Hepatitis B virus isolate SUR0685 polymerase (P) gene, partial cds</GBSeq_definition>
+    <GBSeq_primary-accession>OK127842</GBSeq_primary-accession>
+    <GBSeq_accession-version>OK127842.1</GBSeq_accession-version>
+    <GBSeq_other-seqids>
+      <GBSeqid>gb|OK127842.1|</GBSeqid>
+      <GBSeqid>gi|2131298020</GBSeqid>
+    </GBSeq_other-seqids>
+    <GBSeq_source>Hepatitis B virus</GBSeq_source>
+    <GBSeq_organism>Hepatitis B virus</GBSeq_organism>
+    <GBSeq_taxonomy>Viruses; Riboviria; Pararnavirae; Artverviricota; Revtraviricetes; Blubervirales; Hepadnaviridae; Orthohepadnavirus</GBSeq_taxonomy>
+    <GBSeq_references>
+      <GBReference>
+        <GBReference_reference>1</GBReference_reference>
+        <GBReference_position>1..652</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>MacDonald-Ottevanger,M.S.</GBAuthor>
+          <GBAuthor>Boyd,A.</GBAuthor>
+          <GBAuthor>Prins,M.</GBAuthor>
+          <GBAuthor>van der Helm,J.J.</GBAuthor>
+          <GBAuthor>Zijlmans,C.W.R.</GBAuthor>
+          <GBAuthor>Hindori-Mohangoo,A.D.</GBAuthor>
+          <GBAuthor>Harkisoen,S.</GBAuthor>
+          <GBAuthor>Hermelijn,S.M.</GBAuthor>
+          <GBAuthor>Brinkman,K.</GBAuthor>
+          <GBAuthor>Codrington,J.</GBAuthor>
+          <GBAuthor>Roosblad,J.</GBAuthor>
+          <GBAuthor>Kort,S.A.R.</GBAuthor>
+          <GBAuthor>Dams,E.T.M.</GBAuthor>
+          <GBAuthor>van de Laar,T.J.W.</GBAuthor>
+          <GBAuthor>Vreden,S.G.S.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>Differences in prevalence of hepatitis B virus infection and genotypes between ethnic populations in Suriname, South America</GBReference_title>
+        <GBReference_journal>Virology 564, 53-61 (2021)</GBReference_journal>
+        <GBReference_xref>
+          <GBXref>
+            <GBXref_dbname>doi</GBXref_dbname>
+            <GBXref_id>10.1016/j.virol.2021.09.005</GBXref_id>
+          </GBXref>
+        </GBReference_xref>
+        <GBReference_pubmed>34656809</GBReference_pubmed>
+      </GBReference>
+      <GBReference>
+        <GBReference_reference>2</GBReference_reference>
+        <GBReference_position>1..652</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>van de Laar,T.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>Direct Submission</GBReference_title>
+        <GBReference_journal>Submitted (13-SEP-2021) Donor Medicine Research, Sanquin Research, Plesmanlaan 125, Amsterdam, Noord-Holland 1066CX, Netherlands</GBReference_journal>
+      </GBReference>
+    </GBSeq_references>
+    <GBSeq_comment>##Assembly-Data-START## ; Sequencing Technology :: Sanger dideoxy sequencing ; ##Assembly-Data-END##</GBSeq_comment>
+    <GBSeq_feature-table>
+      <GBFeature>
+        <GBFeature_key>source</GBFeature_key>
+        <GBFeature_location>1..652</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>652</GBInterval_to>
+            <GBInterval_accession>OK127842.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>organism</GBQualifier_name>
+            <GBQualifier_value>Hepatitis B virus</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>mol_type</GBQualifier_name>
+            <GBQualifier_value>genomic DNA</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>isolate</GBQualifier_name>
+            <GBQualifier_value>SUR0685</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>host</GBQualifier_name>
+            <GBQualifier_value>Homo sapiens</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>db_xref</GBQualifier_name>
+            <GBQualifier_value>taxon:10407</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>country</GBQualifier_name>
+            <GBQualifier_value>Suriname</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>collection_date</GBQualifier_name>
+            <GBQualifier_value>2012</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>note</GBQualifier_name>
+            <GBQualifier_value>Javanese;
+genotype: B3</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>gene</GBFeature_key>
+        <GBFeature_location>&lt;1..&gt;652</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>652</GBInterval_to>
+            <GBInterval_accession>OK127842.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_partial5 value="true"/>
+        <GBFeature_partial3 value="true"/>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>gene</GBQualifier_name>
+            <GBQualifier_value>P</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>CDS</GBFeature_key>
+        <GBFeature_location>&lt;1..&gt;652</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>652</GBInterval_to>
+            <GBInterval_accession>OK127842.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_partial5 value="true"/>
+        <GBFeature_partial3 value="true"/>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>gene</GBQualifier_name>
+            <GBQualifier_value>P</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>codon_start</GBQualifier_name>
+            <GBQualifier_value>1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>transl_table</GBQualifier_name>
+            <GBQualifier_value>1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>product</GBQualifier_name>
+            <GBQualifier_value>polymerase</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>protein_id</GBQualifier_name>
+            <GBQualifier_value>UEN73531.1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>translation</GBQualifier_name>
+            <GBQualifier_value>VPNLQSLTNLLSSDLSWLSLDVSAAFYHLPLHPAAMPHLLVGSSGLSRYVARLSSNSRIINHQHRTMQNLHDSCSRNLYVSLMLLYKTYGRKLHLYSHPIILGFRKIPMGVGLSPFLLAQFTSAICSVVRRAFPHCLAFSYMDDVVLGAKSVQHRESJYAAVTNFLLSLGIHLNPQKTKRWGYSLNFMGYVIGSWGTLPQEHIVLKIKQCFRKLPVN</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+    </GBSeq_feature-table>
+    <GBSeq_sequence>gtcccaaatctccagtcactcaccaacttgttgtcctccgatttgtcctggttatcgctggatgtgtctgcggcgttttatcatcttcctctgcatcctgctgctatgcctcatcttcttgttggttcttctggactatcaaggtatgttgcccgtttgtcctctaattccaggatcatcaaccaccagcaccggaccatgcaaaacctgcacgactcctgctcaaggaacctctatgtttccctcatgttgctgtacaaaacctacggacggaaattgcacctgtattcccatcccatcatcttgggctttcgcaaaatacctatgggagtgggcctcagtccgtttctcttggctcagtttactagtgccatttgttcagtggttcgtagggctttcccccactgtctggctttcagttatatggatgatgtggttttgggggcmaagtctgtacaacaycgtgagtccmtttatgccgctgttaccaattttcttttgtctttgggtatacatttaaaccctcagaaaacaaaaagatggggctactcccttaacttcatggggtatgtaattggaagttggggcaccttaccccaagaacatattgtgttgaaaatcaaacaatgttttaggaaacttcctgtaaaca</GBSeq_sequence>
+  </GBSeq>

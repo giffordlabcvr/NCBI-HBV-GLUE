@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<GBSeq>
+
+    <GBSeq_locus>OP038923</GBSeq_locus>
+    <GBSeq_length>239</GBSeq_length>
+    <GBSeq_strandedness>double</GBSeq_strandedness>
+    <GBSeq_moltype>DNA</GBSeq_moltype>
+    <GBSeq_topology>linear</GBSeq_topology>
+    <GBSeq_division>VRL</GBSeq_division>
+    <GBSeq_update-date>26-DEC-2022</GBSeq_update-date>
+    <GBSeq_create-date>26-DEC-2022</GBSeq_create-date>
+    <GBSeq_definition>Hepatitis B virus isolate 12048_Vietnam surface antigen gene, partial cds</GBSeq_definition>
+    <GBSeq_primary-accession>OP038923</GBSeq_primary-accession>
+    <GBSeq_accession-version>OP038923.1</GBSeq_accession-version>
+    <GBSeq_other-seqids>
+      <GBSeqid>gb|OP038923.1|</GBSeqid>
+      <GBSeqid>gi|2416142665</GBSeqid>
+    </GBSeq_other-seqids>
+    <GBSeq_source>Hepatitis B virus</GBSeq_source>
+    <GBSeq_organism>Hepatitis B virus</GBSeq_organism>
+    <GBSeq_taxonomy>Viruses; Riboviria; Pararnavirae; Artverviricota; Revtraviricetes; Blubervirales; Hepadnaviridae; Orthohepadnavirus</GBSeq_taxonomy>
+    <GBSeq_references>
+      <GBReference>
+        <GBReference_reference>1</GBReference_reference>
+        <GBReference_position>1..239</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Tung,T.T.</GBAuthor>
+          <GBAuthor>Schmid,J.</GBAuthor>
+          <GBAuthor>Nghia,V.X.</GBAuthor>
+          <GBAuthor>Cao,L.C.</GBAuthor>
+          <GBAuthor>Linh,L.T.K.</GBAuthor>
+          <GBAuthor>Rungsung,I.</GBAuthor>
+          <GBAuthor>Sy,B.T.</GBAuthor>
+          <GBAuthor>My,T.N.</GBAuthor>
+          <GBAuthor>The,N.T.</GBAuthor>
+          <GBAuthor>Hoan,N.X.</GBAuthor>
+          <GBAuthor>Meyer,C.G.</GBAuthor>
+          <GBAuthor>Wedemeyer,H.</GBAuthor>
+          <GBAuthor>Kremsner,P.G.</GBAuthor>
+          <GBAuthor>Toan,N.L.</GBAuthor>
+          <GBAuthor>Song,L.H.</GBAuthor>
+          <GBAuthor>Bock,C.-T.</GBAuthor>
+          <GBAuthor>Velavan,T.P.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>Low Risk of Occult Hepatitis B Infection among Vietnamese Blood Donors</GBReference_title>
+        <GBReference_journal>Pathogens 11 (12), 1524 (2022)</GBReference_journal>
+        <GBReference_xref>
+          <GBXref>
+            <GBXref_dbname>doi</GBXref_dbname>
+            <GBXref_id>10.3390/pathogens11121524</GBXref_id>
+          </GBXref>
+        </GBReference_xref>
+      </GBReference>
+      <GBReference>
+        <GBReference_reference>2</GBReference_reference>
+        <GBReference_position>1..239</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Schmid,J.</GBAuthor>
+          <GBAuthor>Tran,T.T.</GBAuthor>
+          <GBAuthor>Velavan,T.P.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>Direct Submission</GBReference_title>
+        <GBReference_journal>Submitted (19-JUL-2022) Institute for Tropical Medicine, University of Tuebingen, Wilhelmnstrasse 27, Tuebingen, Baden Wurttembergurttembegh 72074, Germany</GBReference_journal>
+      </GBReference>
+    </GBSeq_references>
+    <GBSeq_comment>##Assembly-Data-START## ; Sequencing Technology :: Sanger dideoxy sequencing ; ##Assembly-Data-END##</GBSeq_comment>
+    <GBSeq_feature-table>
+      <GBFeature>
+        <GBFeature_key>source</GBFeature_key>
+        <GBFeature_location>1..239</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>239</GBInterval_to>
+            <GBInterval_accession>OP038923.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>organism</GBQualifier_name>
+            <GBQualifier_value>Hepatitis B virus</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>mol_type</GBQualifier_name>
+            <GBQualifier_value>genomic DNA</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>isolate</GBQualifier_name>
+            <GBQualifier_value>12048_Vietnam</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>isolation_source</GBQualifier_name>
+            <GBQualifier_value>blood</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>host</GBQualifier_name>
+            <GBQualifier_value>Homo sapiens</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>db_xref</GBQualifier_name>
+            <GBQualifier_value>taxon:10407</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>country</GBQualifier_name>
+            <GBQualifier_value>Viet Nam</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>collection_date</GBQualifier_name>
+            <GBQualifier_value>2021</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>note</GBQualifier_name>
+            <GBQualifier_value>genotype: B</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>CDS</GBFeature_key>
+        <GBFeature_location>&lt;1..&gt;239</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>239</GBInterval_to>
+            <GBInterval_accession>OP038923.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_partial5 value="true"/>
+        <GBFeature_partial3 value="true"/>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>codon_start</GBQualifier_name>
+            <GBQualifier_value>3</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>transl_table</GBQualifier_name>
+            <GBQualifier_value>1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>product</GBQualifier_name>
+            <GBQualifier_value>surface antigen</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>protein_id</GBQualifier_name>
+            <GBQualifier_value>WAW79641.1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>translation</GBQualifier_name>
+            <GBQualifier_value>STGPCRTCTTPAQGTSMFPSCCCTKPTDGNCTCIPIPSSWAFAKYLWEXASVRFSWLSLLVPFVQWFVGLSPTVWLSVI</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+    </GBSeq_feature-table>
+    <GBSeq_sequence>ccagcactggaccatgcagaacctgcacgactcctgctcaaggaacctctatgtttccctcatgttgctgtacaaaacctacggacggaaactgcacctgtattcccatcccatcatcttgggctttcgcaaaatacctatgggagtgngcctcagtccgtttctcttggctcagtttactagtgccatttgttcagtggttcgtagggctttcccccactgtctggctttcagttata</GBSeq_sequence>
+  </GBSeq>

@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<GBSeq>
+
+    <GBSeq_locus>OP933689</GBSeq_locus>
+    <GBSeq_length>3014</GBSeq_length>
+    <GBSeq_strandedness>double</GBSeq_strandedness>
+    <GBSeq_moltype>DNA</GBSeq_moltype>
+    <GBSeq_topology>circular</GBSeq_topology>
+    <GBSeq_division>ENV</GBSeq_division>
+    <GBSeq_update-date>20-DEC-2022</GBSeq_update-date>
+    <GBSeq_create-date>20-DEC-2022</GBSeq_create-date>
+    <GBSeq_definition>MAG: Fish-associated hepatitis B virus isolate fi101hepa1, complete genome</GBSeq_definition>
+    <GBSeq_primary-accession>OP933689</GBSeq_primary-accession>
+    <GBSeq_accession-version>OP933689.1</GBSeq_accession-version>
+    <GBSeq_other-seqids>
+      <GBSeqid>gb|OP933689.1|</GBSeqid>
+      <GBSeqid>gi|2413975782</GBSeqid>
+    </GBSeq_other-seqids>
+    <GBSeq_project>PRJNA905657</GBSeq_project>
+    <GBSeq_keywords>
+      <GBKeyword>ENV</GBKeyword>
+      <GBKeyword>Metagenome Assembled Genome</GBKeyword>
+      <GBKeyword>MAG</GBKeyword>
+    </GBSeq_keywords>
+    <GBSeq_source>Fish-associated hepatitis B virus (fish metagenome)</GBSeq_source>
+    <GBSeq_organism>Fish-associated hepatitis B virus</GBSeq_organism>
+    <GBSeq_taxonomy>Viruses; Riboviria; Pararnavirae; Artverviricota; Revtraviricetes; Blubervirales; Hepadnaviridae; Orthohepadnavirus</GBSeq_taxonomy>
+    <GBSeq_references>
+      <GBReference>
+        <GBReference_reference>1</GBReference_reference>
+        <GBReference_position>1..3014</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Xi,Y.</GBAuthor>
+          <GBAuthor>Zhang,W.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>Viral composition of fish in Lhasa River revealed by metagenomics</GBReference_title>
+        <GBReference_journal>Unpublished</GBReference_journal>
+      </GBReference>
+      <GBReference>
+        <GBReference_reference>2</GBReference_reference>
+        <GBReference_position>1..3014</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Xi,Y.</GBAuthor>
+          <GBAuthor>Zhang,W.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>Direct Submission</GBReference_title>
+        <GBReference_journal>Submitted (29-NOV-2022) School of Medicine, Jiangsu University, Xiangshan, Zhenjiang 212000, China</GBReference_journal>
+      </GBReference>
+    </GBSeq_references>
+    <GBSeq_feature-table>
+      <GBFeature>
+        <GBFeature_key>source</GBFeature_key>
+        <GBFeature_location>1..3014</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>3014</GBInterval_to>
+            <GBInterval_accession>OP933689.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>organism</GBQualifier_name>
+            <GBQualifier_value>Fish-associated hepatitis B virus</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>mol_type</GBQualifier_name>
+            <GBQualifier_value>genomic DNA</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>isolate</GBQualifier_name>
+            <GBQualifier_value>fi101hepa1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>isolation_source</GBQualifier_name>
+            <GBQualifier_value>fish intestinal contents</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>db_xref</GBQualifier_name>
+            <GBQualifier_value>taxon:3003970</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>environmental_sample</GBQualifier_name>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>country</GBQualifier_name>
+            <GBQualifier_value>China: Lhasa River, Tibet</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>collection_date</GBQualifier_name>
+            <GBQualifier_value>2020</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>metagenome_source</GBQualifier_name>
+            <GBQualifier_value>fish metagenome</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>note</GBQualifier_name>
+            <GBQualifier_value>metagenomic</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>CDS</GBFeature_key>
+        <GBFeature_location>join(2670..3014,1..558)</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>2670</GBInterval_from>
+            <GBInterval_to>3014</GBInterval_to>
+            <GBInterval_accession>OP933689.1</GBInterval_accession>
+          </GBInterval>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>558</GBInterval_to>
+            <GBInterval_accession>OP933689.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_operator>join</GBFeature_operator>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>codon_start</GBQualifier_name>
+            <GBQualifier_value>1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>transl_table</GBQualifier_name>
+            <GBQualifier_value>1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>product</GBQualifier_name>
+            <GBQualifier_value>preC/core protein</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>protein_id</GBQualifier_name>
+            <GBQualifier_value>WAQ80621.1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>translation</GBQualifier_name>
+            <GBQualifier_value>MNKVPTIPELYGDIELLPPDIFPSNLVIGEQVLVLLTGIDKLSQAKTEIQQQLWVLRRILQDYRNQKETFFQRTQGSIAYLRALINNGLIKVQRQGGGEDTFHIIEPYVNLGEVENAVNSWNFNNVQQIPPALFTFDAGYIAADADIIGSQLAEVSDAYICAEPSGPFSVTTQTAIDQLYARTGNASSPTELTFPTIIENVNRLLETYEQQFNVQEGPNRSLFYVFKRMWYLVMCSQFGKAATDCYIKKVVIWISTAPNYRPAVPGVEIKCATIKTTPRKNNKPPKKHRPRKRSPSPKKH</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>CDS</GBFeature_key>
+        <GBFeature_location>278..2590</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>278</GBInterval_from>
+            <GBInterval_to>2590</GBInterval_to>
+            <GBInterval_accession>OP933689.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>codon_start</GBQualifier_name>
+            <GBQualifier_value>1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>transl_table</GBQualifier_name>
+            <GBQualifier_value>1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>product</GBQualifier_name>
+            <GBQualifier_value>polymerase</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>protein_id</GBQualifier_name>
+            <GBQualifier_value>WAQ80622.1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>translation</GBQualifier_name>
+            <GBQualifier_value>MNSNSMFKKDQIVHSSMSSKECGTWSCAPSLEKPQQTVTSRKSSYGSQQHPIIAQLFQASRSNVQQLKQLLARTISPQRSIDQEKDHPLPRNIKHRAVGMEGIYSNAQTHLARNWIIPDHPPITISLEGLKKFCLPKHQRMIDKLFPSHFAVKGKIKYYPLSKSVKKLENQDLHLTKIREYLNVLFEAGVLYKRATRTTFSLHPGIVKQPWEQCLAVKHIPKRVTGKVFLVDKNQFDSSKARLVVNFSQFSRNKENRPFPKYISPSLEGLETIIPRTEYFISLDLSQGFYHIPMDVASSAKFLISDGIQIYAFRKAPMGVGISPWLLTMFTNILAESIRQKFSIFCLTYMDDFLLAHSSYTILESLCSFIIHQLSEIGIQINRDKSTPEPLKQCTYMGYKITYNSIHISDRYQRKLNSIVQFLQHGRNEYANGLGWHRWKRRYQTTHLDQPSIATFDTRTRARVEIEQQTQNTQDSNSESSATSDTPHETSGTTADSGSTIIAIDGTPYHYQSSETLHLDFKLAQRIFGCLSFVAPFTLNGYRTLDVFYAQNNNNKSIQLLPDERHALTSAFLTLGPIVRRTRPETYRTPAKIEAATDASDTHGAGSDHRGRVLFRISWRRLGIIHWPIWLKELFSLLYLRILFPGFKHVAVDSQAILFHNYRHVTNASVVTKLLAPLTLYYVRSENNPADLPTRSNVNMTTPIINAHCKLMQNRRTERQQKLLFKINYDLQASTTKQNKTLSWSNKATVVGINKFSPPFLYSYIRRVSA</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+    </GBSeq_feature-table>
+    <GBSeq_sequence>aacgcagtcaactcttggaacttcaacaacgttcaacagatccctccagcattgttcacattcgacgccggatacatcgcggctgatgccgacatcatcggatcacaactcgcagaagtctcggacgcatacatttgtgctgaaccatcaggaccattctcggtaacaacccaaacggctatcgaccaactatacgcacgaacaggaaacgcatcgagcccaacggagctcacatttccaacaatcatcgaaaacgtgaacagactcctcgaaacatatgaacagcaattcaatgttcaagaaggaccaaatcgttcactcttctatgtcttcaaaagaatgtggtacctggtcatgtgctcccagtttggaaaagccgcaacagactgttacatcaagaaagtcgtcatatggatctcaacagcacccaattatcgcccagctgttccaggcgtcgagatcaaatgtgcaacaattaaaacaactcctcgcaagaacaataagcccccaaagaagcatcgaccaagaaaaagatcaccctctcccaagaaacattaaacaccgagcagtaggaatggagggcatatactctaatgcccaaacgcacttagctagaaactggattatcccagatcacccccccatcactattagtttagaaggcctgaaaaaattttgcctacccaaacatcagagaatgattgacaaattgtttcccagccatttcgcggtgaaaggaaaaatcaaatattacccactttcgaagagcgtcaagaaattagaaaatcaggaccttcacctgacaaaaattagagaatacctcaatgttctctttgaagccggtgtcctgtataagcgagcaactaggacgaccttctctcttcatcccgggattgtcaaacaaccctgggaacagtgtttagccgtcaagcacattcccaagagagtaacgggaaaagtcttcttagtagacaagaaccagttcgattcctccaaagccagattagtggtaaacttttctcagttctcacggaacaaagaaaaccgcccttttccaaaatacatatcgccatccctcgaaggtctggagacaattattccccgaacagaatatttcatatcactggatctatcacaaggattctatcacatcccaatggacgtcgccagctccgccaaatttctaatctcggacgggatacaaatttacgcctttcgaaaagccccgatgggagtgggtatatctccttggcttctaaccatgttcacaaacatattggctgaatcaatacgacaaaagttctccatcttctgtctcacatatatggacgatttcctcctcgcacactcctcatacacaatactagagtcattgtgttccttcatcatccaccaactttcggaaatcggcatccaaataaacagagacaaatccacccccgagccgttaaaacagtgcacttatatgggatacaaaatcacatataatagtattcacatttcagatcgttaccaacgaaaacttaactcgatagttcaattccttcaacatggcagaaatgaatacgcaaacggactcggttggcacaggtggaaacgacgatatcaaacaactcatctcgaccaaccaagcattgcaactttcgatactcgaactcgtgcaagagttgaaatcgaacaacaaacacaaaacacacaggacagcaacagtgaatcatcagcgacaagcgacaccccacatgaaaccagtggaacgacagcggattcaggatcgacaatcatcgcgatcgacggcaccccataccactatcagagctccgaaaccttacacctcgacttcaaactcgcgcaacgcattttcggatgtctatccttcgtggcacccttcaccctcaacggctaccgaacactcgacgtcttctacgcacagaacaacaacaacaaatccattcaacttctccccgatgagcgacatgctcttacaagcgcctttctcaccttgggaccaatcgtacgacgaacacgtccagaaacatatcgcacgccagcgaaaattgaagccgccacagatgccagtgacactcacggagcagggtccgatcaccgaggacgagtgctcttccgaatcagctggcgacgactgggaataatccattggcccatatggctcaaagaactcttttcccttctctatcttcgcatcctcttccccggattcaagcacgtagcagtcgattcacaagctatcctttttcacaactatcgtcatgtcactaatgcatccgttgtcacgaagcttcttgcaccactcacattgtattatgtgcgcagtgaaaacaatccagccgacctgccaacgcgtagcaacgtaaacatgactacaccaatcatcaatgcacactgcaaattaatgcagaatcgtcgaacagaacggcaacaaaaactcctcttcaaaatcaattacgatcttcaggcctcgactaccaaacaaaacaaaacactatcgtggagcaacaaagcaacggttgttggcataaacaaattctctcccccttttttgtattcgtatataaggagagtgtctgcctgaataaaatcgtctttaactcctcttcgactctgagtacgctaacgctccacggcattgctgttcttgctcagaagaatagatgaataaagtaccaaccattccagaactatacggtgatatagaacttctacctccggatatatttccatcaaatctggtgatcggtgaacaggtcttggtgttacttacgggaattgacaaattgtctcaagcgaaaaccgaaatacaacaacaactctgggtcctgcgacgaatcctccaggattataggaatcagaaagaaacgttcttccaacgaacacaagggtcgatcgcctacctacgagccttgataaacaacggtttgattaaggtacaacgtcaaggtggtggagaagacacgttccatatcatagaaccgtacgtcaatctcggtgaagtagaa</GBSeq_sequence>
+    <GBSeq_xrefs>
+      <GBXref>
+        <GBXref_dbname>BioProject</GBXref_dbname>
+        <GBXref_id>PRJNA905657</GBXref_id>
+      </GBXref>
+      <GBXref>
+        <GBXref_dbname>BioSample</GBXref_dbname>
+        <GBXref_id>SAMN31880338</GBXref_id>
+      </GBXref>
+      <GBXref>
+        <GBXref_dbname>Sequence Read Archive</GBXref_dbname>
+        <GBXref_id>SRR22420308</GBXref_id>
+      </GBXref>
+    </GBSeq_xrefs>
+  </GBSeq>

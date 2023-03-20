@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<GBSeq>
+
+    <GBSeq_locus>MP720289</GBSeq_locus>
+    <GBSeq_length>678</GBSeq_length>
+    <GBSeq_strandedness>double</GBSeq_strandedness>
+    <GBSeq_moltype>DNA</GBSeq_moltype>
+    <GBSeq_topology>linear</GBSeq_topology>
+    <GBSeq_division>PAT</GBSeq_division>
+    <GBSeq_update-date>17-MAR-2021</GBSeq_update-date>
+    <GBSeq_create-date>17-MAR-2021</GBSeq_create-date>
+    <GBSeq_definition>Sequence 10 from Patent EP3685852</GBSeq_definition>
+    <GBSeq_primary-accession>MP720289</GBSeq_primary-accession>
+    <GBSeq_accession-version>MP720289.1</GBSeq_accession-version>
+    <GBSeq_other-seqids>
+      <GBSeqid>emb|MP720289.1|</GBSeqid>
+      <GBSeqid>pat|EP|3685852|10</GBSeqid>
+      <GBSeqid>gi|2007557235</GBSeqid>
+    </GBSeq_other-seqids>
+    <GBSeq_source>Hepatitis B virus</GBSeq_source>
+    <GBSeq_organism>Hepatitis B virus</GBSeq_organism>
+    <GBSeq_taxonomy>Viruses; Riboviria; Pararnavirae; Artverviricota; Revtraviricetes; Blubervirales; Hepadnaviridae; Orthohepadnavirus</GBSeq_taxonomy>
+    <GBSeq_references>
+      <GBReference>
+        <GBReference_reference>1</GBReference_reference>
+        <GBReference_position>1..678</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>KHANNA,N.</GBAuthor>
+          <GBAuthor>RAMASAMY,V.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>VACCINE</GBReference_title>
+        <GBReference_journal>EP3685852-A1 10 29-JUL-2020 INT CENTRE FOR GENETIC ENGINEERING AND BIOTECHNOLOGY [IN]</GBReference_journal>
+      </GBReference>
+    </GBSeq_references>
+    <GBSeq_feature-table>
+      <GBFeature>
+        <GBFeature_key>source</GBFeature_key>
+        <GBFeature_location>1..678</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>678</GBInterval_to>
+            <GBInterval_accession>MP720289.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>organism</GBQualifier_name>
+            <GBQualifier_value>Hepatitis B virus</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>mol_type</GBQualifier_name>
+            <GBQualifier_value>unassigned DNA</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>db_xref</GBQualifier_name>
+            <GBQualifier_value>taxon:10407</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>misc_feature</GBFeature_key>
+        <GBFeature_location>1..678</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>678</GBInterval_to>
+            <GBInterval_accession>MP720289.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>note</GBQualifier_name>
+            <GBQualifier_value>Sequence in description</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+    </GBSeq_feature-table>
+    <GBSeq_sequence>atggaaaacatcacttccggtttcttgggtcctttgttggtcttgcaggctggattcttcttgttgactagaatcttgactatcccacagtctttggactcttggtggacttccttgaacttcttgggtggttccccagtttgtttgggtcaaaactcccaatctccaacttctaaccactccccaacttcatgtccaccaatctgtccaggttacagatggatgtgtttgagaagattcatcattttcttgttcatcttgttgttgtgtttgatcttcttgttggttttgttggactaccagggtatgttgccagtttgtccattgattccaggttccactactacttccactggtccatgtaagacttgtactactccagctcagggtaactctatgttcccatcctgttgttgtactaagccaactgacggtaactgtacttgtatcccaattccttcctcttgggctttcgctaagtacttgtgggaatgggcttctgttagattctcctggttgtccttgttggttccattcgttcagtggttcgttggtttgtctcctactgtttggttgtccgctatctggatgatgtggtactggggtccaagcttgtactctatcgtttccccattcatccctttgttgccaatcttcttctgtttgtgggtttacatc</GBSeq_sequence>
+  </GBSeq>

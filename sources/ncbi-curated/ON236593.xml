@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<GBSeq>
+
+    <GBSeq_locus>ON236593</GBSeq_locus>
+    <GBSeq_length>841</GBSeq_length>
+    <GBSeq_strandedness>double</GBSeq_strandedness>
+    <GBSeq_moltype>DNA</GBSeq_moltype>
+    <GBSeq_topology>linear</GBSeq_topology>
+    <GBSeq_division>VRL</GBSeq_division>
+    <GBSeq_update-date>15-NOV-2022</GBSeq_update-date>
+    <GBSeq_create-date>15-NOV-2022</GBSeq_create-date>
+    <GBSeq_definition>Hepatitis B virus isolate JU-009 nonfunctional reverse transcriptase gene, partial sequence</GBSeq_definition>
+    <GBSeq_primary-accession>ON236593</GBSeq_primary-accession>
+    <GBSeq_accession-version>ON236593.1</GBSeq_accession-version>
+    <GBSeq_other-seqids>
+      <GBSeqid>gb|ON236593.1|</GBSeqid>
+      <GBSeqid>gi|2327845675</GBSeqid>
+    </GBSeq_other-seqids>
+    <GBSeq_source>Hepatitis B virus</GBSeq_source>
+    <GBSeq_organism>Hepatitis B virus</GBSeq_organism>
+    <GBSeq_taxonomy>Viruses; Riboviria; Pararnavirae; Artverviricota; Revtraviricetes; Blubervirales; Hepadnaviridae; Orthohepadnavirus</GBSeq_taxonomy>
+    <GBSeq_references>
+      <GBReference>
+        <GBReference_reference>1</GBReference_reference>
+        <GBReference_position>1..841</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Anejo-Okopi,J.</GBAuthor>
+          <GBAuthor>Okeke,E.</GBAuthor>
+          <GBAuthor>Davwar,P.M.</GBAuthor>
+          <GBAuthor>Onwuamah,C.</GBAuthor>
+          <GBAuthor>Onywera,H.</GBAuthor>
+          <GBAuthor>Omaiye,P.</GBAuthor>
+          <GBAuthor>Duguru,M.</GBAuthor>
+          <GBAuthor>Okojokwu,O.J.</GBAuthor>
+          <GBAuthor>Ujah,O.I.</GBAuthor>
+          <GBAuthor>Jonathan,B.</GBAuthor>
+          <GBAuthor>George,C.A.</GBAuthor>
+          <GBAuthor>Crown,R.S.</GBAuthor>
+          <GBAuthor>Yakubu,F.B.</GBAuthor>
+          <GBAuthor>Sokei,J.O.</GBAuthor>
+          <GBAuthor>Okoli,L.C.</GBAuthor>
+          <GBAuthor>Audu,O.</GBAuthor>
+          <GBAuthor>Inzaule,S.C.</GBAuthor>
+          <GBAuthor>Abah,I.O.</GBAuthor>
+          <GBAuthor>Agaba,P.</GBAuthor>
+          <GBAuthor>Agbaji,O.O.</GBAuthor>
+          <GBAuthor>Sagay,A.S.</GBAuthor>
+          <GBAuthor>Hawkins,C.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>Molecular detection of hepatitis B virus genotype E with immune escape mutations in chronic hepatitis B patients on long-term antiviral therapy in Jos, Nigeria</GBReference_title>
+        <GBReference_journal>Afr J Lab Med 11 (1), 1677 (2022)</GBReference_journal>
+        <GBReference_xref>
+          <GBXref>
+            <GBXref_dbname>doi</GBXref_dbname>
+            <GBXref_id>10.4102/ajlm.v11i1.1677</GBXref_id>
+          </GBXref>
+        </GBReference_xref>
+        <GBReference_pubmed>36337771</GBReference_pubmed>
+        <GBReference_remark>Publication Status: Online-Only</GBReference_remark>
+      </GBReference>
+      <GBReference>
+        <GBReference_reference>2</GBReference_reference>
+        <GBReference_position>1..841</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Anejo-Okopi,J.</GBAuthor>
+          <GBAuthor>Okeke,E.</GBAuthor>
+          <GBAuthor>Davwar,P.M.</GBAuthor>
+          <GBAuthor>Onwuamah,C.</GBAuthor>
+          <GBAuthor>Onywera,H.</GBAuthor>
+          <GBAuthor>Patience,O.</GBAuthor>
+          <GBAuthor>Duguru,M.</GBAuthor>
+          <GBAuthor>Okojokwu,O.J.</GBAuthor>
+          <GBAuthor>Ujah,O.I.</GBAuthor>
+          <GBAuthor>Sokei,J.O.</GBAuthor>
+          <GBAuthor>Okoli,L.C.</GBAuthor>
+          <GBAuthor>Audu,R.</GBAuthor>
+          <GBAuthor>Audu,O.</GBAuthor>
+          <GBAuthor>Inzaule,S.C.</GBAuthor>
+          <GBAuthor>Abah,I.O.</GBAuthor>
+          <GBAuthor>Agaba,P.</GBAuthor>
+          <GBAuthor>Agbaji,O.O.</GBAuthor>
+          <GBAuthor>Sagay,A.S.</GBAuthor>
+          <GBAuthor>Hawkins,C.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>Direct Submission</GBReference_title>
+        <GBReference_journal>Submitted (11-APR-2022) Microbiology, University of Jos, Bauchi Rd, Jos, Plateau 930105, Nigeria</GBReference_journal>
+      </GBReference>
+    </GBSeq_references>
+    <GBSeq_feature-table>
+      <GBFeature>
+        <GBFeature_key>source</GBFeature_key>
+        <GBFeature_location>1..841</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>841</GBInterval_to>
+            <GBInterval_accession>ON236593.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>organism</GBQualifier_name>
+            <GBQualifier_value>Hepatitis B virus</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>mol_type</GBQualifier_name>
+            <GBQualifier_value>genomic DNA</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>isolate</GBQualifier_name>
+            <GBQualifier_value>JU-009</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>host</GBQualifier_name>
+            <GBQualifier_value>Homo sapiens</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>db_xref</GBQualifier_name>
+            <GBQualifier_value>taxon:10407</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>country</GBQualifier_name>
+            <GBQualifier_value>Nigeria</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>collection_date</GBQualifier_name>
+            <GBQualifier_value>2018</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>note</GBQualifier_name>
+            <GBQualifier_value>genotype: E</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>misc_feature</GBFeature_key>
+        <GBFeature_location>&lt;1..&gt;841</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>841</GBInterval_to>
+            <GBInterval_accession>ON236593.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_partial5 value="true"/>
+        <GBFeature_partial3 value="true"/>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>note</GBQualifier_name>
+            <GBQualifier_value>nonfunctional reverse transcriptase due to mutation</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+    </GBSeq_feature-table>
+    <GBSeq_sequence>aattcgcagtccccaacctccaatcactcaccaacctcttgtcctccaatttgtcctggctatcgctggatgtgtctgcggcgttttatcatcttcctcttcatcctgctgctatgcctcatcttcttgttggttcttctggactatcaaggtatgttkcccgtttgtcctctaattccaggatcatcaaccaccagtacgggaccctgccgaacctgcacgactcttgctcaaggaacctctatgtttccctcatgttgctgttcaaaaccttcggacggaaattgcacttgtattcccatcccatcatcatgggctttcggaaaattcctatgggagtgggcctcagcccgtttctcctggctcagtttactagtgccatttgttcagtggttcgccgggctttcccccactgtctggctttcagttatatggatgatgtggtattgggggccaagtctgtacaacatcttgagtccctttatacctctgttaccaattttcttttgtctttgggtatacatttaaattccaacaaaacaaaaagatggggatattccctaaatttcatgggttatgtaattggaagttgggggtcattrccacaggaacacatcagaatgaaaatcaaagactgttttagaaaactccctgttaatcggcctattgattggaaagtatgtcaaagaattgtgggtctgttgggctttgctgccccttttacacaatgtggatatcctgctttaatgcctctgtatgcgtgtattcaatctaagcaggctttcactttctcgccaacttacaaggcctttctgtgtaaacagtacctgaaccttacccc</GBSeq_sequence>
+  </GBSeq>

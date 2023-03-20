@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<GBSeq>
+
+    <GBSeq_locus>LY825606</GBSeq_locus>
+    <GBSeq_length>3200</GBSeq_length>
+    <GBSeq_strandedness>double</GBSeq_strandedness>
+    <GBSeq_moltype>DNA</GBSeq_moltype>
+    <GBSeq_topology>linear</GBSeq_topology>
+    <GBSeq_division>PAT</GBSeq_division>
+    <GBSeq_update-date>18-NOV-2020</GBSeq_update-date>
+    <GBSeq_create-date>18-NOV-2020</GBSeq_create-date>
+    <GBSeq_definition>KR 1020200015895-A/21: METHODS FOR THE TREATMENT OF SUBJECTS HAVING A HEPATITIS B VIRUS (HBV) INFECTION</GBSeq_definition>
+    <GBSeq_primary-accession>LY825606</GBSeq_primary-accession>
+    <GBSeq_accession-version>LY825606.1</GBSeq_accession-version>
+    <GBSeq_other-seqids>
+      <GBSeqid>dbj|LY825606.1|</GBSeqid>
+      <GBSeqid>pat|KR|1020200015895|21</GBSeqid>
+      <GBSeqid>gi|1933423551</GBSeqid>
+    </GBSeq_other-seqids>
+    <GBSeq_keywords>
+      <GBKeyword>KR 1020200015895-A/21</GBKeyword>
+    </GBSeq_keywords>
+    <GBSeq_source>Hepatitis B virus</GBSeq_source>
+    <GBSeq_organism>Hepatitis B virus</GBSeq_organism>
+    <GBSeq_taxonomy>Viruses; Riboviria; Pararnavirae; Artverviricota; Revtraviricetes; Blubervirales; Hepadnaviridae; Orthohepadnavirus</GBSeq_taxonomy>
+    <GBSeq_references>
+      <GBReference>
+        <GBReference_reference>1</GBReference_reference>
+        <GBReference_position>1..3200</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Sepp-Lorenzino,L.</GBAuthor>
+          <GBAuthor>Protzer,U.</GBAuthor>
+          <GBAuthor>Michler,T.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>METHODS FOR THE TREATMENT OF SUBJECTS HAVING A HEPATITIS B VIRUS (HBV) INFECTION</GBReference_title>
+        <GBReference_journal>KR1020200015895-A 21 13-FEB-2020 Alnylam Pharmaceuticals, Inc.|TECHNISCHE UNIVERSITAT MUNCHEN</GBReference_journal>
+      </GBReference>
+    </GBSeq_references>
+    <GBSeq_comment>KN KR 1020197033885-A/21~AN KR 1020197033885~AD 2019-11-15~PN KR 1020200015895~PD 2020-02-13~AT METHODS FOR THE TREATMENT OF SUBJECTS HAVING A HEPATITIS B~AT VIRUS (HBV) INFECTION~AI Sepp-Lorenzino, Laura|Protzer, Ulrike|Michler, Thomas~AA Alnylam Pharmaceuticals, Inc.|TECHNISCHE UNIVERSITAT MUNCHEN~PR US 62/655,862=2018-04-11|US 62/646,978=2018-03-23|US~PR 62/553,358=2017-09-01|US 62/486,618=2017-04-18~OS Hepatitis B virus~TY DNA~FH Key Location/Qualifiers.</GBSeq_comment>
+    <GBSeq_feature-table>
+      <GBFeature>
+        <GBFeature_key>source</GBFeature_key>
+        <GBFeature_location>1..3200</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>3200</GBInterval_to>
+            <GBInterval_accession>LY825606.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>organism</GBQualifier_name>
+            <GBQualifier_value>Hepatitis B virus</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>mol_type</GBQualifier_name>
+            <GBQualifier_value>unassigned DNA</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>db_xref</GBQualifier_name>
+            <GBQualifier_value>taxon:10407</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+    </GBSeq_feature-table>
+    <GBSeq_sequence>ttccactgcatggcctgaggatgactgtctcttagaggtggagagatgggagtaggctgccttcctgactgccgattggtggaggcaggaggaggaattgttgacactgtggtcaatatgccctgagcctgagggctccaccccaaaataccgccgtgtggaggggtgagccctggcccgaatgctcccactcctacctggttggctgctggccagtggtccttgatggggttgaagtcccaatctggatttgttgagttggctccgaatgcagggtccaactgatgatcgggaaggaatcccagagggttgggaacagaaagattcgtccccatgcctttgcgaatgctgtagctcttgttcccaagaatatggtgacccgcaaaatgatgcgctacgtgtggtttccctcttatatagaataccagccttccaaagagtatgtaaataatgtctggtttggaagtaatgattaactacctgatctggataataaggtttaattcctttgtctaagggcaaatatttagtgtgggtaggatagaatctagcaggcataattaatttcaatcttctcttttcatttacagtgagagggcccacaaattgttgacacctattaataatgtcctcttgtaaatgaatcttaggaaaggaaggagtttgccattcaggattaaagataggtactgtagaggaataaagccccgtaaagtttccgaccttatgagtccaaggaatactaacattgagattcccgagattgagatcttctgcgacgcggcgattgagatctgcgtctgcgaggcgagggagttcttcttctaggggacctgcctcggtcccgtcgtctaacaacagtagtttccggaagtgttgataagataggggcatttggtggtctataggctggaggagtgcgaatccacactccgaaagagaccaaatattcaagtacagtctctcttccaaaagtaaggcaagatatatgaaaccacaatagttgcctgatctttaaacccatgttagtattaacataattgactactagatctctggatgctggatcttgcaaattattacccacccaggtagctagagtcatcaattccccccagcagagaatggcttgcctgagtgcagtatggtgaggtgagcaatgctcaggagactctaaggcttctcgatacagagctgaggcggtgtctaggagatctcgtacggaaggaaagaagtcagaaggcaaaaacgagagtaactccacagtagctccaaattctttataagggtcaatgtccatgccccaaagccacccaaggcacagcttggaggcttgaacagtgggacatgtacaagagatgattaggcagaggtgaaaaagttgcatggtgctggtgcgcagaccaatttatgcctacagcctcctaatacaaagatcattaacctaatctcctcccccaactcctcccagtccttaaacacacagtctttgaagtaggcctcaaggtcggtcgttgacattgctgggagtccaagagtcctcttatgtaagaccttgggcaggatctgatgggcgttcacggtggtcgccatgcaacgtgcagaggtgaagcgaagtgcacacggaccggcagatgagaaggcacagacggggagaccgcgtaaagagaggtgcgccccgtggtcggctggaacggcagacggagaaggggacgagagagtcccaagcggccccgagaggggtcgtccgcgggattcagcgccgacgggacgtaaacaaaggacgtcccgcgaaggatccagttggcagtacagcctagcagccatggaaatgatgtatatttccgcgagaggacgacagaattgtcagttccgatgagctttgctccagaccggctgcgagcaaaacaagcggctaggagttccgcagtatggatcggcagaggagccacaaaggttccacgcatgcgctgatggcctatggctaagccccagccagtgggggttgcgtcagcaaacacttggcacagaccaggccgttgccgagcaacggggtaaaggttcatgtactgtttacttagaaaggccttgtaagttggcgagaaagtgaaagcctgtttagcttgtatacatgcatacaaaggcattaaggcaggatatccacattgtgtaaatggagcagcaaagcccaaaagacccacaattctttgacatactttccaatcaataggcctgttaacaggaagttttctaaaacagtgtttgatcttttgtacaatatgatcctgtggcaaagttccccaacttccaattatgtagcccatgaagtttagggaataaccccatctttttgttttgttagggtttaaatgtatacccagagacaaaagaaaattggtaacagcggtataaagggactcacgatgctgtacagacttggcccccaataccacatcatccatatagctgaaagccaaacagtgggggaaagccctacgaaccactgaacaaatggcactagtaaactgagccaagagaaacggactgaggcccactcccataggtattttgcgaaagcccaggacgatgggatgggaatacaggtgcaatttccatccgtaggttttgtacagcaacatgagggaaacttagagttgccttgagcaggagtcgtgcaggttttgcatggtcccgtactggttgttgttgatcctggaattagaggacaaacgggcaacataccttgataatccagaagaaccaataagaagatgaggcatagcagcaggatgaagaggaatatgataaaacgccgcagacacatccagcgataaccaggacaaattggaggacaggaggttggtgagtgattggaggttggggactgcgaattttggccaagacacacgggtgatccccctagaaaattgagagaagtccaccacgagtctagactctgcggtattgtgaggattcttgtcaacaagaaaaaccccgcctgtaacacgagcaggggtcctaggaatcctgatgtgatgttctccatgatcgtcacagggtccccagtcctcgcggagattgacgagatgtgagaggcaatattcggagcagggtttactgttcctgaactggagccaccagcaggaagatacagacccctgactctgggatcctgcagagcttggtgcaaggcagtggaa</GBSeq_sequence>
+  </GBSeq>

@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<GBSeq>
+
+    <GBSeq_locus>OG160165</GBSeq_locus>
+    <GBSeq_length>201</GBSeq_length>
+    <GBSeq_strandedness>single</GBSeq_strandedness>
+    <GBSeq_moltype>RNA</GBSeq_moltype>
+    <GBSeq_topology>linear</GBSeq_topology>
+    <GBSeq_division>PAT</GBSeq_division>
+    <GBSeq_update-date>26-FEB-2021</GBSeq_update-date>
+    <GBSeq_create-date>26-FEB-2021</GBSeq_create-date>
+    <GBSeq_definition>WO 2020196737-A/1: Pharmaceutical composition which inhibits production of Hepatitis B virus protein and screening method</GBSeq_definition>
+    <GBSeq_primary-accession>OG160165</GBSeq_primary-accession>
+    <GBSeq_accession-version>OG160165.1</GBSeq_accession-version>
+    <GBSeq_other-seqids>
+      <GBSeqid>dbj|OG160165.1|</GBSeqid>
+      <GBSeqid>pat|WO|2020196737|1</GBSeqid>
+      <GBSeqid>gi|1995281883</GBSeqid>
+    </GBSeq_other-seqids>
+    <GBSeq_keywords>
+      <GBKeyword>WO 2020196737-A/1</GBKeyword>
+    </GBSeq_keywords>
+    <GBSeq_source>Hepatitis B virus</GBSeq_source>
+    <GBSeq_organism>Hepatitis B virus</GBSeq_organism>
+    <GBSeq_taxonomy>Viruses; Riboviria; Pararnavirae; Artverviricota; Revtraviricetes; Blubervirales; Hepadnaviridae; Orthohepadnavirus</GBSeq_taxonomy>
+    <GBSeq_references>
+      <GBReference>
+        <GBReference_reference>1</GBReference_reference>
+        <GBReference_position>1..201</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Kawano,T.</GBAuthor>
+          <GBAuthor>Shimane,K.</GBAuthor>
+          <GBAuthor>Haba,R.</GBAuthor>
+          <GBAuthor>Tanaka,Y.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>Pharmaceutical composition which inhibits production of Hepatitis B virus protein and screening method</GBReference_title>
+        <GBReference_journal>WO2020196737-A 1 01-OCT-2020 FUJIFILM Corporation</GBReference_journal>
+      </GBReference>
+    </GBSeq_references>
+    <GBSeq_comment>OS Hepatitis B virus~PN WO 2020196737-A/1~PD 01-OCT-2020~PF 26-MAR-2020 WO 2020JP013624~PR 26-MAR-2019 JP 2019-058788~PA FUJIFILM Corporation~PI takaki kawano,kazuki shimane,ryota haba,yasuhito tanaka~PT 'Pharmaceutical composition which inhibits production of~PT Hepatitis B virus~PT protein and screening method'~PS N1~CC~FH Key Location/Qualifiers.</GBSeq_comment>
+    <GBSeq_feature-table>
+      <GBFeature>
+        <GBFeature_key>source</GBFeature_key>
+        <GBFeature_location>1..201</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>201</GBInterval_to>
+            <GBInterval_accession>OG160165.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>organism</GBQualifier_name>
+            <GBQualifier_value>Hepatitis B virus</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>mol_type</GBQualifier_name>
+            <GBQualifier_value>unassigned RNA</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>db_xref</GBQualifier_name>
+            <GBQualifier_value>taxon:10407</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+    </GBSeq_feature-table>
+    <GBSeq_sequence>ttatatgcatgtatacaatctaagcaggctttcactttctcgccaacttacaaggcctttctgtgtaaacaatatctgaacctttaccccgttgcccggcaacggtcaggtctctgccaagtgtttgctgacgcaacccccactggatggggcttggctatcggccatcgccgcatgcgtggaacctttgtggctccgctg</GBSeq_sequence>
+  </GBSeq>
